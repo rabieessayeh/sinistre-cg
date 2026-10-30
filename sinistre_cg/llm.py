@@ -17,7 +17,7 @@ En mode verbeux, la taille de chaque requête est estimée avant l'appel :
 caractères / CHARS_PER_TOKEN + max_completion_tokens (ce que comptent les limites par minute).
 
 Usage :
-    python llm.py        # envoie « Réponds OK » et affiche réponse, modèle, tokens
+    python -m sinistre_cg llm    # envoie « Réponds OK » et affiche réponse, modèle, tokens
 """
 
 import hashlib

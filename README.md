@@ -14,17 +14,9 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Fichier `.env` (API compatible OpenAI) :
-
-```
-LLM_BASE_URL=...
-LLM_API_KEY=...
-LLM_MODEL=...
-# Optionnel : autre fournisseur ou modèle pour le verdict
-LLM_VERDICT_BASE_URL=...
-LLM_VERDICT_API_KEY=...
-LLM_VERDICT_MODEL=...
-```
+Configuration du LLM (API compatible OpenAI) : copier `.env.example` en `.env` et renseigner
+au moins `LLM_BASE_URL`, `LLM_API_KEY` et `LLM_MODEL`. Les variables `LLM_ANALYSE_*` et
+`LLM_VERDICT_*` permettent un autre fournisseur ou modèle par étape.
 
 Les réponses du LLM sont mises en cache dans `.cache/llm/` ; `LLM_NO_CACHE=1` désactive le cache.
 
@@ -36,21 +28,24 @@ streamlit run app.py
 
 ## Commandes
 
+Point d'entrée unique : `python -m sinistre_cg <commande>` (`-h` pour les options).
+
 ```bash
-# Préparation du contrat (PDF -> données)
-python -m sinistre_cg.extraction data/raw/<cg>.pdf data/processed/cg_lines.json
-python -m sinistre_cg.segmentation data/processed/cg_lines.json data/processed/articles
-python -m sinistre_cg.enrich data/processed/articles data/processed
-python build_map.py                       # carte du contrat (LLM)
+# Préparation du contrat (PDF -> data/processed/)
+python -m sinistre_cg parse data/raw/<cg>.pdf      # extraction, segmentation, enrichissement
+python -m sinistre_cg map                          # carte du contrat (LLM)
 
 # Utilisation
-python llm.py                             # test de connexion au LLM
-python retrieval.py "description" [--llm]
-python verdict.py "description du sinistre" [--options art33 clL03] [--json]
+python -m sinistre_cg llm                          # test de connexion au LLM
+python -m sinistre_cg retrieve "description" [--llm]
+python -m sinistre_cg verdict "description du sinistre" [--options art33 clL03] [--json]
 
-# Évaluation
-python eval/run_eval.py [--llm]           # rappel de la recherche
-python eval/run_eval.py --mode full [--only id1,id2] [--pause 60]
-python eval/run_eval.py --reverify        # revérifie les citations, sans LLM
+# Évaluation (python eval/run_eval.py accepte les mêmes options)
+python -m sinistre_cg eval [--llm]                 # rappel de la recherche
+python -m sinistre_cg eval --mode full [--only id1,id2] [--pause 60]
+python -m sinistre_cg eval --reverify              # revérifie les citations, sans LLM
 pytest
 ```
+
+Les étapes de préparation restent disponibles séparément :
+`python -m sinistre_cg.extraction`, `.segmentation`, `.enrich`.

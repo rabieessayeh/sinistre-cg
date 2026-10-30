@@ -3,7 +3,7 @@
 La carte est sauvegardée après chaque section ; une relance reprend là où elle s'est arrêtée.
 
 Usage :
-    python build_map.py [--verbose]
+    python -m sinistre_cg map [--verbose]
 """
 
 import argparse

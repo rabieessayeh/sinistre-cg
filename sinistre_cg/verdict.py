@@ -6,7 +6,7 @@ vérification des extraits cités dans le texte du contrat (citations.py) : un v
 sans aucune étape étayée devient « incertain ».
 
 Usage :
-    python verdict.py "description du sinistre" [--options art33 clL03] [--json]
+    python -m sinistre_cg verdict "description du sinistre" [--options art33 clL03] [--json]
 """
 
 import argparse

@@ -6,7 +6,7 @@ Si un LLM est configuré, une analyse préalable de la déclaration ajoute des s
 et des requêtes dans le vocabulaire du contrat.
 
 Usage :
-    python retrieval.py "description du sinistre" [--llm] [--map-size N]
+    python -m sinistre_cg retrieve "description du sinistre" [--llm] [--map-size N]
 """
 
 import argparse
