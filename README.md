@@ -7,7 +7,7 @@ déclaration de sinistre par un verdict justifié : chaque affirmation est appuy
 citation du contrat, vérifiée mot pour mot. Quand le contrat ne permet pas de trancher, il le
 dit : « ça dépend de telle option » ou « je ne sais pas, voici ce qu'il faut demander ».
 
-🔗 **Démo en ligne : [TODO : URL Streamlit]**
+🔗 **Démo en ligne : https://sinistre-cg.streamlit.app**
 
 ![Capture de l'interface](docs/capture.png) <!-- TODO : ajouter une capture du cas du vélo -->
 
