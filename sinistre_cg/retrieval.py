@@ -223,8 +223,9 @@ class Retriever:
         self.bm25 = BM25Okapi(corpus)
         # Termes du lexique, sous forme de suites de racines (parenthèses ignorées).
         self._term_tokens = {
-            term: tokenize(re.sub(r"\([^)]*\)", " ", term)) for term in self.definitions
+            term: tuple(tokenize(re.sub(r"\([^)]*\)", " ", term))) for term in self.definitions
         }
+        self._term_lengths = {len(seq) for seq in self._term_tokens.values() if seq}
         generic = {_quote_key(t) for t in GENERIC_TERMS}
         self._generic = {t for t in self.definitions if _quote_key(t) in generic}
         self.contract_map = load_contract_map(self.sections)
@@ -259,12 +260,9 @@ class Retriever:
         return [k for k in dict.fromkeys(found) if k not in keys]
 
     def _terms_in(self, tokens: list[str]) -> list[str]:
-        present = []
-        for term, seq in self._term_tokens.items():
-            n = len(seq)
-            if n and any(tokens[i:i + n] == seq for i in range(len(tokens) - n + 1)):
-                present.append(term)
-        return present
+        """Termes du lexique présents dans `tokens`, dans l'ordre du lexique."""
+        grams = {tuple(tokens[i:i + n]) for n in self._term_lengths for i in range(len(tokens) - n + 1)}
+        return [term for term, seq in self._term_tokens.items() if seq in grams]
 
     def definitions_for(self, claim: str, principal: list[str], renvois: list[str],
                         limit: int = MAX_DEFINITIONS) -> list[str]:
