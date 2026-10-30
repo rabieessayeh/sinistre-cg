@@ -141,7 +141,7 @@ def unknown_options(options: list[str] | None, retriever: Retriever) -> list[str
 
 # --- Message utilisateur ------------------------------------------------------
 
-def _pages(pages: list[int]) -> str:
+def format_pages(pages: list[int]) -> str:
     return ", ".join(map(str, pages))
 
 
@@ -156,7 +156,7 @@ def passage_nature(passage: dict, retriever: Retriever) -> str:
 
 def format_passages(passages: list[dict]) -> str:
     return "\n\n".join(
-        f"[{p['id']}] {p['libelle']} (p. {_pages(p['pages'])})\nNature : {p['nature']}\n{p['texte']}"
+        f"[{p['id']}] {p['libelle']} (p. {format_pages(p['pages'])})\nNature : {p['nature']}\n{p['texte']}"
         for p in passages
     )
 
@@ -271,7 +271,7 @@ def print_result(result: dict) -> None:
         flag = "  [non étayée]" if step.get("non_etayee") else ""
         print(_wrap(f"{n}. {step['etape']}{flag}", "  "))
         for c in step["citations"]:
-            where = (f"{c['libelle']} (p. {_pages(c['pages'])})" if c["section"]
+            where = (f"{c['libelle']} (p. {format_pages(c['pages'])})" if c["section"]
                      else f"passage inconnu {c['passage'] or '?'}")
             mark = STATUS_MARKS.get(c.get("statut"), "?")
             score = f" {c['score']:g}" if "approchee" in (c.get("statut"), c.get("correspondance")) else ""

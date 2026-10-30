@@ -15,7 +15,7 @@ import streamlit as st
 from sinistre_cg.citations import VALID, default_index
 from sinistre_cg.llm import LLM, LLMError, endpoint_config
 from sinistre_cg.retrieval import CLAUSES_ARTICLE, DATA_DIR, FACT_FIELDS, Retriever
-from sinistre_cg.verdict import OPTION_CHAPTERS, STATUS_MARKS, decide
+from sinistre_cg.verdict import OPTION_CHAPTERS, STATUS_MARKS, decide, format_pages
 
 ROOT = Path(__file__).resolve().parent
 CASES_PATH = ROOT / "eval" / "cases.json"
@@ -162,10 +162,6 @@ def run_analysis(claim: str, options: list[str] | None) -> None:
 
 # --- Affichage -------------------------------------------------------------------
 
-def _pages(pages: list[int]) -> str:
-    return ", ".join(map(str, pages))
-
-
 def show_badge(result: dict) -> None:
     label, color = VERDICT_STYLES[result["verdict"]]
     st.markdown(
@@ -183,7 +179,7 @@ def show_badge(result: dict) -> None:
 def show_citation(citation: dict, key: str) -> None:
     status = citation.get("statut", "introuvable")
     mark = STATUS_MARKS.get(status, "✗")
-    where = (f"{citation['libelle']} · p. {_pages([citation['page']] if citation.get('page') else citation['pages'])}"
+    where = (f"{citation['libelle']} · p. {format_pages([citation['page']] if citation.get('page') else citation['pages'])}"
              if citation.get("section") else f"passage {citation.get('passage') or '?'} inconnu")
     details = [STATUS_LABELS.get(status, status)]
     if citation.get("score") and "approchee" in (status, citation.get("correspondance")):
@@ -233,7 +229,7 @@ def show_details(result: dict) -> None:
             st.write("—")
         st.markdown("**Sections retrouvées**")
         st.markdown("\n".join(
-            f"- `{p['id']}` {p['libelle']} (p. {_pages(p['pages'])}) — {p['role']}" for p in result["passages"]
+            f"- `{p['id']}` {p['libelle']} (p. {format_pages(p['pages'])}) — {p['role']}" for p in result["passages"]
         ))
         checked = result["citations_verifiees"]
         st.markdown(f"**Citations vérifiées** : {checked['valides']}/{checked['total']}  "

@@ -213,25 +213,6 @@ class LLM:
                 raise LLMError("réponse JSON invalide après relance") from exc
 
 
-_default = None
-
-
-def default_llm(verbose: bool = False) -> LLM:
-    global _default
-    if _default is None:
-        _default = LLM(verbose=verbose)
-    _default.verbose = verbose or _default.verbose
-    return _default
-
-
-def chat(system: str, user: str, kind: str = "analyse") -> str:
-    return default_llm().chat(system, user, kind)
-
-
-def chat_json(system: str, user: str, kind: str = "analyse") -> dict:
-    return default_llm().chat_json(system, user, kind)
-
-
 def main() -> None:
     try:
         llm = LLM(verbose=True)

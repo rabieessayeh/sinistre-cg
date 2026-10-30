@@ -151,6 +151,12 @@ def print_citation_stats(results: list[dict]) -> None:
     print(f"Verdicts rétrogradés : {sum(res['verdict_retrograde'] for res in verified)}/{len(verified)}")
 
 
+def usage_text(u: dict, cached: bool = False) -> str:
+    """« total (entrée + sortie, appels[, en cache]) » pour les compteurs de LLM.usage."""
+    calls = f"{u['calls']} appels" + (f", {u['cached_calls']} en cache" if cached else "")
+    return f"{u['total_tokens']} ({u['prompt_tokens']} entrée + {u['completion_tokens']} sortie, {calls})"
+
+
 def print_verdict_summary(results: list[dict], usage: dict) -> None:
     correct = sum(r["correct"] for r in results)
     print(f"\nVerdicts corrects : {correct}/{len(results)}")
@@ -160,8 +166,7 @@ def print_verdict_summary(results: list[dict], usage: dict) -> None:
     print(f"Verdicts du LLM corrects (avant vérification des citations) : {llm_correct}/{len(results)}\n")
     print_matrix(results)
     print_citation_stats(results)
-    print(f"\nTokens consommés : {usage['total_tokens']} ({usage['prompt_tokens']} entrée + "
-          f"{usage['completion_tokens']} sortie, {usage['calls']} appels, {usage['cached_calls']} en cache) ; "
+    print(f"\nTokens consommés : {usage_text(usage, cached=True)} ; "
           f"échecs LLM : {sum(bool(r['erreur_llm']) for r in results)}")
 
 
@@ -302,9 +307,7 @@ def main() -> None:
     print(f"Contexte moyen : {mean_context / 1000:.1f}k car., soit {mean_context / total_chars:.1%} "
           f"du contrat ({total_chars / 1000:.0f}k car.)")
     if llm:
-        u = llm.usage
-        print(f"Tokens consommés : {u['total_tokens']} ({u['prompt_tokens']} entrée + "
-              f"{u['completion_tokens']} sortie, {u['calls']} appels) ; échecs LLM : {summary['echecs_llm']}")
+        print(f"Tokens consommés : {usage_text(llm.usage)} ; échecs LLM : {summary['echecs_llm']}")
 
     out = RESULTS[bool(llm)]
     out.write_text(json.dumps({"resume": summary, "cas": results}, ensure_ascii=False, indent=1), encoding="utf-8")

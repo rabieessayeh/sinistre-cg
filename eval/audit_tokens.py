@@ -4,9 +4,9 @@ Tokens estimés = caractères / 3.5 (français). Groq compte aussi max_completio
 dans la taille d'une requête : une requête est signalée si son prompt dépasse
 WARN_TOKENS ou si prompt + max_completion_tokens dépasse la limite par requête.
 
-L'étape verdict n'existe pas encore dans le code : sa requête est estimée comme
-déclaration + passages renvoyés par BM25 seul (sans prompt système). Avec l'analyse
-par LLM, le LLM ajoute jusqu'à LLM_MAX_SECTIONS sections : c'est une borne basse.
+La requête de verdict est estimée comme déclaration + passages renvoyés par BM25 seul
+(sans prompt système, faits ni lignes « Nature ») : c'est une borne basse, car l'analyse
+par LLM ajoute jusqu'à LLM_MAX_SECTIONS sections.
 
 Usage :
     python eval/audit_tokens.py [--n 3] [--map-size N] [--cases eval/cases.json]
@@ -20,10 +20,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from sinistre_cg.llm import completion_settings  # noqa: E402
+from sinistre_cg.llm import CHARS_PER_TOKEN, completion_settings  # noqa: E402
 from sinistre_cg.retrieval import ANALYSIS_SYSTEM, MAP_SIZE, Retriever  # noqa: E402
 
-CHARS_PER_TOKEN = 3.5
 WARN_TOKENS = 7000
 REQUEST_LIMIT = 8000
 
