@@ -19,7 +19,7 @@ from sinistre_cg.verdict import OPTION_CHAPTERS, STATUS_MARKS, decide
 
 ROOT = Path(__file__).resolve().parent
 CASES_PATH = ROOT / "eval" / "cases.json"
-GITHUB_URL = "https://github.com/<utilisateur>/sinistre-cg"
+GITHUB_URL = "https://github.com/rabieessayeh/sinistre-cg"
 # Exemples proposés : identifiants de eval/cases.json.
 EXAMPLES = {
     "Vélo volé dans le local commun": "velo_local_commun",

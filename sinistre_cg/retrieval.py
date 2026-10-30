@@ -15,6 +15,7 @@ import re
 import sys
 import unicodedata
 from dataclasses import dataclass, field
+from functools import lru_cache
 from pathlib import Path
 
 import snowballstemmer
@@ -103,11 +104,19 @@ def _quote_key(text: str) -> str:
     return text.replace("’", "'").lower()
 
 
+@lru_cache(maxsize=None)
+def _token(word: str) -> str | None:
+    """Racine sans accents de `word` (en minuscules), None pour un mot vide ou un nombre.
+    Mémoïsée : le contrat répète quelques milliers de mots des dizaines de milliers de fois."""
+    if _strip_accents(word) in FRENCH_STOPWORDS or word.isdigit():
+        return None
+    return _strip_accents(_stemmer.stemWord(word))
+
+
 def tokenize(text: str) -> list[str]:
     """Minuscules, mots vides retirés, racinisation, accents retirés."""
-    words = re.findall(r"\w+", text.lower())
-    words = [w for w in words if _strip_accents(w) not in FRENCH_STOPWORDS and not w.isdigit()]
-    return [_strip_accents(s) for s in _stemmer.stemWords(words)]
+    tokens = (_token(w) for w in re.findall(r"\w+", text.lower()))
+    return [t for t in tokens if t is not None]
 
 
 # --- Sections -----------------------------------------------------------------
