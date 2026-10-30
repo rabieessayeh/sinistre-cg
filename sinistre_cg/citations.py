@@ -28,7 +28,7 @@ from pathlib import Path
 
 from rapidfuzz import fuzz
 
-from sinistre_cg.retrieval import CLAUSES_ARTICLE, DATA_DIR, article_key, load_definitions, load_sections
+from sinistre_cg.retrieval import CLAUSES_ARTICLE, DATA_DIR, article_key, load_contract
 
 FUZZY_THRESHOLD = 92
 MIN_PIECE_WORDS = 4
@@ -160,8 +160,7 @@ class ContractIndex:
     """Texte et lignes (avec coordonnées) des sections et des définitions du contrat."""
 
     def __init__(self, data_dir: Path = DATA_DIR):
-        self.sections = load_sections(data_dir)
-        self.definitions = load_definitions(data_dir)
+        self.sections, self.definitions = load_contract(data_dir)
         self._article_lines = {}
         for path in (data_dir / "articles_enrichis").glob("*.json"):
             a = json.loads(path.read_text(encoding="utf-8"))

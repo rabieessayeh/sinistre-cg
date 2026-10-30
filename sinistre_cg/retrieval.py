@@ -183,6 +183,13 @@ def load_definitions(data_dir: Path = DATA_DIR) -> dict[str, dict]:
     return json.loads((data_dir / "definitions.json").read_text(encoding="utf-8"))
 
 
+@lru_cache(maxsize=None)
+def load_contract(data_dir: Path = DATA_DIR) -> tuple[dict[str, Section], dict[str, dict]]:
+    """Sections et définitions, chargées une fois par processus et partagées par la recherche
+    et la vérification des citations : en lecture seule."""
+    return load_sections(data_dir), load_definitions(data_dir)
+
+
 def load_contract_map(sections: dict[str, Section], path: Path = MAP_PATH) -> dict[str, str]:
     """Résumé d'une ligne par section : carte du LLM si elle existe, sinon titre et début
     de la première sous-partie « garantie » (ou de la première sous-partie)."""
@@ -208,8 +215,7 @@ def _as_text(value) -> str:
 
 class Retriever:
     def __init__(self, data_dir: Path = DATA_DIR):
-        self.sections = load_sections(data_dir)
-        self.definitions = load_definitions(data_dir)
+        self.sections, self.definitions = load_contract(data_dir)
         self._doc_sections = []
         self._doc_counts = []  # la sous-partie compte-t-elle dans le score de sa section ?
         corpus = []
