@@ -357,7 +357,7 @@ def add_references(item: dict, known_articles: set[str], known_clauses: set[str]
                    index: TermIndex, self_article: str | None, self_clause: str | None = None) -> dict:
     """Ajoute renvois_articles, renvois_clauses et termes_definis à `item` (et à ses
     sous-parties), à partir de son titre et de son texte."""
-    def annotate(target: dict, text: str):
+    def annotate(target: dict, text: str) -> None:
         target["renvois_articles"] = find_article_refs(text, known_articles, self_article)
         target["renvois_clauses"] = find_clause_refs(text, known_clauses, self_clause)
         target["termes_definis"] = find_defined_terms(text, index)

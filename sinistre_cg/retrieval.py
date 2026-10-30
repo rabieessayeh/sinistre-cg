@@ -17,6 +17,7 @@ import unicodedata
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
+from typing import Protocol
 
 import snowballstemmer
 from rank_bm25 import BM25Okapi
@@ -117,6 +118,13 @@ def tokenize(text: str) -> list[str]:
     """Minuscules, mots vides retirés, racinisation, accents retirés."""
     tokens = (_token(w) for w in re.findall(r"\w+", text.lower()))
     return [t for t in tokens if t is not None]
+
+
+class ChatModel(Protocol):
+    """Ce que la recherche et le verdict attendent du LLM : sinistre_cg.llm.LLM, ou une
+    enveloppe qui transmet ses appels (interface)."""
+
+    def chat_json(self, system: str, user: str, kind: str = "analyse") -> dict: ...
 
 
 # --- Sections -----------------------------------------------------------------
@@ -310,7 +318,7 @@ class Retriever:
     def analysis_message(self, claim: str, map_size: int = MAP_SIZE) -> str:
         return f"CARTE DU CONTRAT\n{self.map_text(claim, map_size)}\n\nDÉCLARATION\n{claim}"
 
-    def analyze(self, claim: str, llm, map_size: int = MAP_SIZE) -> dict:
+    def analyze(self, claim: str, llm: ChatModel, map_size: int = MAP_SIZE) -> dict:
         """Faits, sections et requêtes proposés par le LLM (clés inconnues ignorées)."""
         raw = llm.chat_json(ANALYSIS_SYSTEM, self.analysis_message(claim, map_size), kind="analyse")
         facts = raw.get("faits") if isinstance(raw.get("faits"), dict) else {}
@@ -325,7 +333,8 @@ class Retriever:
         }
 
     # 4. Sortie
-    def retrieve(self, claim: str, max_chars: int = MAX_CHARS, llm=None, map_size: int = MAP_SIZE) -> dict:
+    def retrieve(self, claim: str, max_chars: int = MAX_CHARS, llm: ChatModel | None = None,
+                 map_size: int = MAP_SIZE) -> dict:
         """Passages pour `claim`. Avec `llm`, l'analyse préalable ajoute des sections
         principales et des requêtes ; en cas d'échec, on continue avec BM25 seul."""
         analysis, llm_error = None, None
@@ -348,7 +357,7 @@ class Retriever:
         always = [k for k in dict.fromkeys(always_keys) if k in self.sections and k not in principal]
         candidates = [k for k in self.references(principal) if k not in always]
 
-        def size(keys):
+        def size(keys: list[str]) -> int:
             return sum(len(self.sections[k].text) for k in keys)
 
         # Les sections principales et l'article des exclusions communes ne sont jamais

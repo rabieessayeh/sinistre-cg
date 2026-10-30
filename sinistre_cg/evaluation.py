@@ -29,7 +29,7 @@ import time
 from collections import Counter
 from pathlib import Path
 
-from sinistre_cg.retrieval import DATA_DIR, Retriever, article_key, clause_key
+from sinistre_cg.retrieval import DATA_DIR, ChatModel, Retriever, article_key, clause_key
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -45,7 +45,7 @@ def contract_size(data_dir: Path = DATA_DIR) -> int:
     )
 
 
-def evaluate_case(retriever: Retriever, case: dict, llm=None) -> dict:
+def evaluate_case(retriever: Retriever, case: dict, llm: ChatModel | None = None) -> dict:
     expected = [article_key(a) for a in case["articles"]] + [clause_key(c) for c in case["clauses"]]
     result = retriever.retrieve(case["claim"], llm=llm)
     passages, analysis = result["passages"], result["analyse"]
@@ -79,7 +79,7 @@ def accepted_verdicts(case: dict) -> list[str]:
     return case["verdict"] if isinstance(case["verdict"], list) else [case["verdict"]]
 
 
-def evaluate_verdict(retriever: Retriever, case: dict, llm) -> dict:
+def evaluate_verdict(retriever: Retriever, case: dict, llm: ChatModel) -> dict:
     from sinistre_cg.llm import LLMError
     from sinistre_cg.verdict import decide
 

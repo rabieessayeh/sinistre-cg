@@ -124,7 +124,7 @@ def match_extract(extract: str, text: str) -> dict:
     if not norm_extract:
         return {"statut": "introuvable"}
 
-    def raw(spans):
+    def raw(spans: list[tuple[int, int]]) -> list[tuple[int, int]]:
         return [(index[s], index[e - 1] + 1) for s, e in spans]
 
     pos = norm_text.find(norm_extract)

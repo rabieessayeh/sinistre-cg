@@ -64,7 +64,7 @@ def reading_order(page_lines: list[dict]) -> list[dict]:
     colonne de gauche puis colonne de droite."""
     ordered, band = [], []
 
-    def flush():
+    def flush() -> None:
         band.sort(key=lambda l: (l["column"], l["y0"], l["x0"]))
         ordered.extend(band)
         band.clear()

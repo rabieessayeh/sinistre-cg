@@ -18,7 +18,7 @@ import textwrap
 from sinistre_cg.citations import default_index, verify_result
 from sinistre_cg.llm import LLM, LLMError, endpoint_config
 from sinistre_cg.retrieval import (
-    CLAUSES_ARTICLE, FACT_FIELDS, MAX_CHARS, Retriever, article_key, clause_key,
+    CLAUSES_ARTICLE, FACT_FIELDS, MAX_CHARS, ChatModel, Retriever, article_key, clause_key,
 )
 
 VERDICTS = ("couvert", "non_couvert", "depend", "incertain")
@@ -225,7 +225,7 @@ def normalize(raw: dict, passages: list[dict]) -> dict:
 
 # --- Chaîne complète ----------------------------------------------------------
 
-def decide(claim: str, llm: LLM, retriever: Retriever | None = None, options: list[str] | None = None,
+def decide(claim: str, llm: ChatModel, retriever: Retriever | None = None, options: list[str] | None = None,
            max_chars: int = MAX_CHARS) -> dict:
     """Analyse, recherche, verdict puis vérification des citations.
     Lève LLMError si l'appel du verdict échoue."""

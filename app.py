@@ -7,6 +7,7 @@ Usage :
 
 import html
 import json
+from collections.abc import Callable
 from pathlib import Path
 
 import pymupdf
@@ -97,7 +98,7 @@ def render_page(pdf: str, page: int, boxes: tuple[tuple[float, float, float, flo
 class ProgressLLM:
     """Transmet les appels au LLM et signale le début et la fin de chaque étape."""
 
-    def __init__(self, llm: LLM, on_step):
+    def __init__(self, llm: LLM, on_step: Callable[[str], None]):
         self.llm, self.on_step = llm, on_step
 
     def chat_json(self, system: str, user: str, kind: str = "analyse") -> dict:
