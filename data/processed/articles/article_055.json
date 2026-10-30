@@ -1,0 +1,873 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_55",
+ "numero": "55",
+ "titre": "PAIEMENT DE L’INDEMNITÉ",
+ "chapitre": {
+  "numero": 11,
+  "titre": "MISE EN ŒUVRE DES GARANTIES"
+ },
+ "page_debut": 47,
+ "page_fin": 48,
+ "pages": [
+  47,
+  48
+ ],
+ "texte": "Le paiement des indemnités est effectué dans les TRENTE jours, soit de l’accord amiable, soit de la décision\njudiciaire exécutoire. Ce délai ne court que du jour où vous avez justifié de vos qualités de recevoir l’indemnité et,\nen cas d’opposition ou d’application des dispositions de l’article L 121-13 du Code, du jour de la mainlevée ou de\nl’autorisation de payer.\nToutefois :\n\u0004 En cas de catastrophes naturelles selon l’article L 125-2 du Code, l’indemnité doit vous être versée dans un délai\nde trois mois à compter de la date de remise à la Société de l’état estimatif des biens endommagés ou de la date de\npublication de l’arrêté interministériel constatant l’événement lorsque celle-ci est postérieure. A défaut, et sauf cas\nfortuit ou de force majeure, l’indemnité due par la Société porte, à compter de l’expiration de ce délai, intérêt au\ntaux de l’intérêt légal.\n\u0004 En cas de catastrophes technologiques selon l’article L 128-2 du Code, l’indemnité doit vous être versée dans un\ndélai de trois mois à compter de la date de remise de l’état estimatif des biens endommagés ou des pertes subies ou\nde la date de publication, lorsque celle-ci est postérieure, de la décision administrative prévue à l’article L 128-1.\n\u0004 En cas de vol : vous ne pouvez exiger le règlement de l’indemnité qu’après un délai de trente jours à compter de\nla remise des documents justificatifs de l’existence et de la valeur des biens volés.\nSi les objets volés sont retrouvés :\n- avant le paiement de l’indemnité, vous devez reprendre ces objets et nous remboursons les détériorations\néventuellement subies et les frais exposés pour les récupérer ;\n- après le paiement de l’indemnité, vous avez la faculté de reprendre ces objets moyennant remboursement de\nl’indemnité sous déduction, le cas échéant, des frais visés à l’alinéa précédent.\nSi vous apprenez qu’une personne détient le bien assuré volé, vous devez nous en aviser dans les huit jours par lettre\nrecommandée.\n\u0004 En cas d’usufruit le montant du dommage à notre charge ne sera payé que sur quittance collective de l’usufruitier\net du nu-propriétaire qui s’entendront entre eux pour la part que chacun aura à prendre dans l’indemnité.\nA défaut d’accord, nous serons valablement libérés envers l’un et l’autre par le simple dépôt, à leurs frais, du\nmontant de l’indemnité à la Caisse des Dépôts et Consignations.\nRemise en état des bâtiments : Conformément à l’article L 121-17 du Code, les indemnités versées doivent être\nutilisées pour la remise en état effective des locaux assurés ou pour la remise en état de son terrain d’assiette, d’une\nmanière compatible avec l’environnement du bâtiment, sauf dans le cas visé à l’article L 121-16 du Code,\nc’est-à-dire lorsque l’immeuble bâti était situé dans un espace soumis à un plan de prévention des risques naturels\nprévisibles.\nUn arrêté du maire prescrit les mesures de remise en état susmentionnées, dans un délai de deux mois suivant la\nnotification du sinistre au maire par l’Assuré.\nNous ne pourrons être tenus des conséquences de tout manquement de votre part à cette obligation.",
+ "lignes": [
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 455.25,
+   "x1": 566.36,
+   "y1": 465.47,
+   "text": "Le paiement des indemnités est effectué dans les TRENTE jours, soit de l’accord amiable, soit de la décision",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Le paiement des indemnités",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 197.78
+    },
+    {
+     "text": "est effectué dans les TRENTE jours, soit de l’accord amiable, soit de la décision",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 202.49
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 467.25,
+   "x1": 566.36,
+   "y1": 477.47,
+   "text": "judiciaire exécutoire. Ce délai ne court que du jour où vous avez justifié de vos qualités de recevoir l’indemnité et,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "judiciaire exécutoire. Ce délai ne court que du jour où vous avez justifié de vos qualités de recevoir l’indemnité et,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 479.25,
+   "x1": 566.36,
+   "y1": 489.47,
+   "text": "en cas d’opposition ou d’application des dispositions de l’article L 121-13 du Code, du jour de la mainlevée ou de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "en cas d’opposition ou d’application des dispositions de l’article L 121-13 du Code, du jour de la mainlevée ou de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 491.25,
+   "x1": 168.58,
+   "y1": 501.47,
+   "text": "l’autorisation de payer.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’autorisation de payer.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 506.25,
+   "x1": 114.9,
+   "y1": 516.47,
+   "text": "Toutefois :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Toutefois :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 523.9,
+   "x1": 566.36,
+   "y1": 534.12,
+   "text": "\u0004 En cas de catastrophes naturelles selon l’article L 125-2 du Code, l’indemnité doit vous être versée dans un délai",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " En cas de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    },
+    {
+     "text": "catastrophes naturelles",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 121.63
+    },
+    {
+     "text": " selon l’article L 125-2 du Code, l’indemnité doit vous être versée dans un délai",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 222.07
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 535.9,
+   "x1": 566.35,
+   "y1": 546.12,
+   "text": "de trois mois à compter de la date de remise à la Société de l’état estimatif des biens endommagés ou de la date de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de trois mois à compter de la date de remise à la Société de l’état estimatif des biens endommagés ou de la date de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 547.9,
+   "x1": 566.36,
+   "y1": 558.12,
+   "text": "publication de l’arrêté interministériel constatant l’événement lorsque celle-ci est postérieure. A défaut, et sauf cas",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "publication de l’arrêté interministériel constatant l’événement lorsque celle-ci est postérieure. A défaut, et sauf cas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 559.9,
+   "x1": 566.35,
+   "y1": 570.12,
+   "text": "fortuit ou de force majeure, l’indemnité due par la Société porte, à compter de l’expiration de ce délai, intérêt au",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "fortuit ou de force majeure, l’indemnité due par la Société porte, à compter de l’expiration de ce délai, intérêt au",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 571.9,
+   "x1": 164.23,
+   "y1": 582.12,
+   "text": "taux de l’intérêt légal.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "taux de l’intérêt légal.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 589.57,
+   "x1": 566.35,
+   "y1": 599.79,
+   "text": "\u0004 En cas de catastrophes technologiques selon l’article L 128-2 du Code, l’indemnité doit vous être versée dans un",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " En cas de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    },
+    {
+     "text": "catastrophes technologiques",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 121.78
+    },
+    {
+     "text": " selon l’article L 128-2 du Code, l’indemnité doit vous être versée dans un",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 245.61
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 601.57,
+   "x1": 566.36,
+   "y1": 611.79,
+   "text": "délai de trois mois à compter de la date de remise de l’état estimatif des biens endommagés ou des pertes subies ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "délai de trois mois à compter de la date de remise de l’état estimatif des biens endommagés ou des pertes subies ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 613.57,
+   "x1": 557.3,
+   "y1": 623.79,
+   "text": "de la date de publication, lorsque celle-ci est postérieure, de la décision administrative prévue à l’article L 128-1.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de la date de publication, lorsque celle-ci est postérieure, de la décision administrative prévue à l’article L 128-1.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 631.24,
+   "x1": 566.36,
+   "y1": 641.46,
+   "text": "\u0004 En cas de vol : vous ne pouvez exiger le règlement de l’indemnité qu’après un délai de trente jours à compter de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    },
+    {
+     "text": "En cas de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.88
+    },
+    {
+     "text": "vol",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 121.93
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 135.09
+    },
+    {
+     "text": ": vous ne pouvez exiger le règlement de l’indemnité qu’après un délai de trente jours à compter de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 138.1
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 643.24,
+   "x1": 421.14,
+   "y1": 653.46,
+   "text": "la remise des documents justificatifs de l’existence et de la valeur des biens volés.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la remise des documents justificatifs de l’existence et de la valeur des biens volés.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 656.66,
+   "x1": 214.64,
+   "y1": 666.88,
+   "text": "Si les objets volés sont retrouvés :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si les objets volés sont retrouvés :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 671.49,
+   "x1": 566.35,
+   "y1": 681.71,
+   "text": "- avant le paiement de l’indemnité, vous devez reprendre ces objets et nous remboursons les détériorations",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- avant le paiement de l’indemnité, vous devez reprendre ces objets et nous remboursons les détériorations",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 683.49,
+   "x1": 349.33,
+   "y1": 693.71,
+   "text": "éventuellement subies et les frais exposés pour les récupérer ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "éventuellement subies et les frais exposés pour les récupérer ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 698.32,
+   "x1": 566.36,
+   "y1": 708.54,
+   "text": "- après le paiement de l’indemnité, vous avez la faculté de reprendre ces objets moyennant remboursement de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- après le paiement de l’indemnité, vous avez la faculté de reprendre ces objets moyennant remboursement de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 710.32,
+   "x1": 422.66,
+   "y1": 720.54,
+   "text": "l’indemnité sous déduction, le cas échéant, des frais visés à l’alinéa précédent.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’indemnité sous déduction, le cas échéant, des frais visés à l’alinéa précédent.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 723.74,
+   "x1": 566.36,
+   "y1": 733.96,
+   "text": "Si vous apprenez qu’une personne détient le bien assuré volé, vous devez nous en aviser dans les huit jours par lettre",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si vous apprenez qu’une personne détient le bien assuré volé, vous devez nous en aviser dans les huit jours par lettre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 735.74,
+   "x1": 135.32,
+   "y1": 745.96,
+   "text": "recommandée.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "recommandée.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 753.42,
+   "x1": 566.36,
+   "y1": 763.64,
+   "text": "\u0004 En cas d’usufruit le montant du dommage à notre charge ne sera payé que sur quittance collective de l’usufruitier",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " En cas d’",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    },
+    {
+     "text": "usufruit",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 116.2
+    },
+    {
+     "text": " le montant du dommage à notre charge ne sera payé que sur quittance collective de l’usufruitier",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 149.92
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 765.42,
+   "x1": 524.08,
+   "y1": 775.64,
+   "text": "et du nu-propriétaire qui s’entendront entre eux pour la part que chacun aura à prendre dans l’indemnité.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et du nu-propriétaire qui s’entendront entre eux pour la part que chacun aura à prendre dans l’indemnité.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 778.84,
+   "x1": 566.36,
+   "y1": 789.06,
+   "text": "A défaut d’accord, nous serons valablement libérés envers l’un et l’autre par le simple dépôt, à leurs frais, du",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "A défaut d’accord, nous serons valablement libérés envers l’un et l’autre par le simple dépôt, à leurs frais, du",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 790.84,
+   "x1": 347.1,
+   "y1": 801.06,
+   "text": "montant de l’indemnité à la Caisse des Dépôts et Consignations.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "montant de l’indemnité à la Caisse des Dépôts et Consignations.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 73.19,
+   "x1": 566.93,
+   "y1": 83.41,
+   "text": "Remise en état des bâtiments : Conformément à l’article L 121-17 du Code, les indemnités versées doivent être",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Remise en état des bâtiments",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.08
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 201.18
+    },
+    {
+     "text": ": Conformément à l’article L 121-17 du Code, les indemnités versées doivent être",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 205.07
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 85.19,
+   "x1": 566.92,
+   "y1": 95.41,
+   "text": "utilisées pour la remise en état effective des locaux assurés ou pour la remise en état de son terrain d’assiette, d’une",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "utilisées pour la remise en état effective des locaux assurés ou pour la remise en état de son terrain d’assiette, d’une",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 97.19,
+   "x1": 566.94,
+   "y1": 107.41,
+   "text": "manière compatible avec l’environnement du bâtiment, sauf dans le cas visé à l’article L 121-16 du Code,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "manière compatible avec l’environnement du bâtiment, sauf dans le cas visé à l’article L 121-16 du Code,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 109.19,
+   "x1": 566.94,
+   "y1": 119.41,
+   "text": "c’est-à-dire lorsque l’immeuble bâti était situé dans un espace soumis à un plan de prévention des risques naturels",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "c’est-à-dire lorsque l’immeuble bâti était situé dans un espace soumis à un plan de prévention des risques naturels",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 121.19,
+   "x1": 118.43,
+   "y1": 131.41,
+   "text": "prévisibles.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "prévisibles.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 134.61,
+   "x1": 566.93,
+   "y1": 144.83,
+   "text": "Un arrêté du maire prescrit les mesures de remise en état susmentionnées, dans un délai de deux mois suivant la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Un arrêté du maire prescrit les mesures de remise en état susmentionnées, dans un délai de deux mois suivant ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    },
+    {
+     "text": "la",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 559.15
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 146.61,
+   "x1": 266.4,
+   "y1": 156.83,
+   "text": "notification du sinistre au maire par l’Assuré.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "notification du sinistre au maire par l’Assuré",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.08
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 263.62
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 161.44,
+   "x1": 509.63,
+   "y1": 171.66,
+   "text": "Nous ne pourrons être tenus des conséquences de tout manquement de votre part à cette obligation.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne pourrons être tenus des conséquences de tout manquement de votre part à cette obligation.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.08
+    }
+   ]
+  }
+ ]
+}

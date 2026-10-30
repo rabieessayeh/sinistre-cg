@@ -1,0 +1,702 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_10",
+ "numero": "10",
+ "titre": "CATASTROPHES NATURELLES",
+ "chapitre": {
+  "numero": 2,
+  "titre": "LES ÉVÉNEMENTS ASSURABLES"
+ },
+ "page_debut": 11,
+ "page_fin": 11,
+ "pages": [
+  11
+ ],
+ "texte": "(art. L 125-1 à L 125-6 et A 125-1 du Code)\nNous garantissons les dommages matériels directs non assurables causés aux biens assurés et ayant eu pour cause\ndéterminante, lorsque les mesures habituelles à prendre pour prévenir ces dommages n’ont pu empêcher leur\nsurvenance ou n’ont pu être prises, l’intensité anormale d’un agent naturel ou un affaissement de terrain dû à une\ncavité souterraine, naturelle ou d’origine humaine, ou à une marnière.\nCette garantie s’exerce dans les limites et conditions prévues au contrat lors de la première manifestation du risque.\nElle est mise en jeu après publication au Journal Officiel de la République Française d'un arrêté interministériel et\ns’exerce sous déduction d’une franchise, fixée par arrêté, dont le taux et le montant minimal au jour de la\nsouscription sont indiqués aux Conditions particulières.\nNéanmoins, lorsque les conditions légales d’adoption d’un tel arrêté seront manifestement réunies, une avance\nimputable sur l’indemnité définitive pourra être accordée dans la limite du coût des mesures d’urgence indispensables\net du montant fixé aux conditions particulières et sous déduction de la franchise stipulée au titre des catastrophes\nnaturelles. Cette avance n’est pas applicable aux sinistres «mouvement de terrain dus à la déshydratation et réhydratation des\nsols» (sinistre catastrophes naturelles sécheresse).\nLe montant de la franchise sera communiqué aux Sociétaires à chaque modification par tout moyen, y compris\n“Lettre aux Sociétaires” ou moyens d’information électroniques admis.\nOutre les exclusions énoncées à l’article 41, nous ne garantissons pas :\n• les dommages résultant de l’exploitation passée ou en cours d’une mine,\n• le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques\nnaturels prévisibles (art. L 562-1 et suivants du Code de l’Environnement) à l’exception du contenu des bâtiments\nexistant antérieurement à la publication de ce plan,\n• le contenu des biens construits en violation des règles administratives en vigueur au moment de leur\nconstruction et tendant à prévenir les dommages causés par une catastrophe naturelle.\nRappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne\nsont pas assurables (voir art. 1).\nDes dispositions spéciales en cas de sinistre sont prévues à l'article 55.",
+ "lignes": [
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 222.45,
+   "y0": 271.87,
+   "x1": 390.71,
+   "y1": 281.07,
+   "text": "(art. L 125-1 à L 125-6 et A 125-1 du Code)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(art. L 125-1 à L 125-6 et A 125-1 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 222.45
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 284.95,
+   "x1": 565.8,
+   "y1": 295.17,
+   "text": "Nous garantissons les dommages matériels directs non assurables causés aux biens assurés et ayant eu pour cause",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 151.56
+    },
+    {
+     "text": "les dommages matériels directs non assurables causés aux biens assurés et ayant eu pour cause",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 154.58
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 295.95,
+   "x1": 565.8,
+   "y1": 306.17,
+   "text": "déterminante, lorsque les mesures habituelles à prendre pour prévenir ces dommages n’ont pu empêcher leur",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "déterminante, lorsque les mesures habituelles à prendre pour prévenir ces dommages n’ont pu empêcher leur",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 306.95,
+   "x1": 565.8,
+   "y1": 317.17,
+   "text": "survenance ou n’ont pu être prises, l’intensité anormale d’un agent naturel ou un affaissement de terrain dû à une",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "survenance ou n’ont pu être prises, l’intensité anormale d’un agent naturel ou un affaissement de terrain dû à une",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 317.95,
+   "x1": 374.6,
+   "y1": 328.17,
+   "text": "cavité souterraine, naturelle ou d’origine humaine, ou à une marnière.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cavité souterraine, naturelle ou d’origine humaine, ou à une marnière.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 330.37,
+   "x1": 565.8,
+   "y1": 340.59,
+   "text": "Cette garantie s’exerce dans les limites et conditions prévues au contrat lors de la première manifestation du risque.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Cette garantie s’exerce dans les limites et conditions prévues au contrat lors de la première manifestation du risque.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 342.79,
+   "x1": 565.8,
+   "y1": 353.01,
+   "text": "Elle est mise en jeu après publication au Journal Officiel de la République Française d'un arrêté interministériel et",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Elle est mise en jeu après publication au Journal Officiel de la République Française d'un arrêté interministériel et",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 353.79,
+   "x1": 565.8,
+   "y1": 364.01,
+   "text": "s’exerce sous déduction d’une franchise, fixée par arrêté, dont le taux et le montant minimal au jour de la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "s’exerce sous déduction d’une franchise, fixée par arrêté, dont le taux et le montant minimal au jour de la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 364.79,
+   "x1": 311.15,
+   "y1": 375.01,
+   "text": "souscription sont indiqués aux Conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "souscription sont indiqués aux Conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 377.21,
+   "x1": 565.8,
+   "y1": 387.43,
+   "text": "Néanmoins, lorsque les conditions légales d’adoption d’un tel arrêté seront manifestement réunies, une avance",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Néanmoins, lorsque les conditions légales d’adoption d’un tel arrêté seront manifestement réunies, une ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": "avance",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 535.66
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 388.21,
+   "x1": 565.77,
+   "y1": 398.43,
+   "text": "imputable sur l’indemnité définitive pourra être accordée dans la limite du coût des mesures d’urgence indispensables",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "imputable sur l’indemnité définitive",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    },
+    {
+     "text": " pourra être accordée dans la limite du coût des mesures d’urgence indispensables",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 223.7
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 399.21,
+   "x1": 565.79,
+   "y1": 409.43,
+   "text": "et du montant fixé aux conditions particulières et sous déduction de la franchise stipulée au titre des catastrophes",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et du montant fixé aux conditions particulières et sous déduction de la franchise stipulée au titre des catastrophes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 410.21,
+   "x1": 565.81,
+   "y1": 420.43,
+   "text": "naturelles. Cette avance n’est pas applicable aux sinistres «mouvement de terrain dus à la déshydratation et réhydratation des",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "naturelles.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": " Cette avance n’est pas applicable aux sinistres «mouvement de terrain dus à la déshydratation et réhydratation des",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 117.15
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 421.95,
+   "x1": 267.15,
+   "y1": 431.15,
+   "text": "sols» (sinistre catastrophes naturelles sécheresse).",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "sols» (sinistre catastrophes naturelles sécheresse).",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 433.62,
+   "x1": 565.8,
+   "y1": 443.84,
+   "text": "Le montant de la franchise sera communiqué aux Sociétaires à chaque modification par tout moyen, y compris",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Le montant de la ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": "franchise",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 151.81
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 191.22
+    },
+    {
+     "text": "sera communiqué aux Sociétaires à chaque modification par tout moyen, y compris",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 195.02
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 444.62,
+   "x1": 375.26,
+   "y1": 454.84,
+   "text": "“Lettre aux Sociétaires” ou moyens d’information électroniques admis.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "“Lettre aux Sociétaires” ou moyens d’information électroniques admis.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 459.62,
+   "x1": 380.05,
+   "y1": 469.84,
+   "text": "Outre les exclusions énoncées à l’article 41, nous ne garantissons pas :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Outre les exclusions énoncées à l’article 41, nous ne garantissons pas :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 472.04,
+   "x1": 397.08,
+   "y1": 482.26,
+   "text": "• les dommages résultant de l’exploitation passée ou en cours d’une mine,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": " les dommages résultant de l’exploitation passée ou en cours d’une mine,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.75
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 484.46,
+   "x1": 565.8,
+   "y1": 494.68,
+   "text": "• le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": "le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.8
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 495.45,
+   "x1": 565.79,
+   "y1": 505.68,
+   "text": "naturels prévisibles (art. L 562-1 et suivants du Code de l’Environnement) à l’exception du contenu des bâtiments",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "naturels prévisibles ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    },
+    {
+     "text": "(art. L 562-1 et suivants du Code de l’Environnement)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 162.52
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 384.3
+    },
+    {
+     "text": "à l’exception du contenu des bâtiments",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 388.7
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 506.45,
+   "x1": 293.89,
+   "y1": 516.67,
+   "text": "existant antérieurement à la publication de ce plan,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "existant antérieurement à la publication de ce plan,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 518.87,
+   "x1": 565.81,
+   "y1": 529.09,
+   "text": "• le contenu des biens construits en violation des règles administratives en vigueur au moment de leur",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.75
+    },
+    {
+     "text": "le contenu des biens construits en violation des règles administratives en vigueur au moment de leur",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 84.34
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 529.87,
+   "x1": 451.21,
+   "y1": 540.09,
+   "text": "construction et tendant à prévenir les dommages causés par une catastrophe naturelle.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "construction et tendant à prévenir les dommages causés par une catastrophe naturelle.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.17,
+   "y0": 542.29,
+   "x1": 567.26,
+   "y1": 552.51,
+   "text": "Rappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Rappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.17
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.17,
+   "y0": 553.29,
+   "x1": 212.06,
+   "y1": 563.51,
+   "text": "sont pas assurables (voir art. 1).",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "sont pas assurables (voir art. 1).",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.17
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.17,
+   "y0": 570.12,
+   "x1": 378.18,
+   "y1": 580.34,
+   "text": "Des dispositions spéciales en cas de sinistre sont prévues à l'article 55.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Des dispositions spéciales en cas de sinistre sont prévues à l'article 55.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.17
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "(art. L 125-1 à L 125-6 et A 125-1 du Code)",
+   "pages": [
+    11
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les dommages matériels directs non assurables causés aux biens assurés et ayant eu pour cause\ndéterminante, lorsque les mesures habituelles à prendre pour prévenir ces dommages n’ont pu empêcher leur\nsurvenance ou n’ont pu être prises, l’intensité anormale d’un agent naturel ou un affaissement de terrain dû à une\ncavité souterraine, naturelle ou d’origine humaine, ou à une marnière.\nCette garantie s’exerce dans les limites et conditions prévues au contrat lors de la première manifestation du risque.\nElle est mise en jeu après publication au Journal Officiel de la République Française d'un arrêté interministériel et\ns’exerce sous déduction d’une franchise, fixée par arrêté, dont le taux et le montant minimal au jour de la\nsouscription sont indiqués aux Conditions particulières.\nNéanmoins, lorsque les conditions légales d’adoption d’un tel arrêté seront manifestement réunies, une avance\nimputable sur l’indemnité définitive pourra être accordée dans la limite du coût des mesures d’urgence indispensables\net du montant fixé aux conditions particulières et sous déduction de la franchise stipulée au titre des catastrophes\nnaturelles. Cette avance n’est pas applicable aux sinistres «mouvement de terrain dus à la déshydratation et réhydratation des\nsols» (sinistre catastrophes naturelles sécheresse).\nLe montant de la franchise sera communiqué aux Sociétaires à chaque modification par tout moyen, y compris\n“Lettre aux Sociétaires” ou moyens d’information électroniques admis.\nOutre les exclusions énoncées à l’article 41, nous ne garantissons pas :\n• les dommages résultant de l’exploitation passée ou en cours d’une mine,\n• le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques\nnaturels prévisibles (art. L 562-1 et suivants du Code de l’Environnement) à l’exception du contenu des bâtiments\nexistant antérieurement à la publication de ce plan,\n• le contenu des biens construits en violation des règles administratives en vigueur au moment de leur\nconstruction et tendant à prévenir les dommages causés par une catastrophe naturelle.\nRappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne\nsont pas assurables (voir art. 1).\nDes dispositions spéciales en cas de sinistre sont prévues à l'article 55.",
+   "pages": [
+    11
+   ],
+   "renvois_articles": [
+    "41",
+    "1",
+    "55"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "41",
+  "1",
+  "55"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

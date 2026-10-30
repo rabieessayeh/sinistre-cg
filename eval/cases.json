@@ -1,0 +1,241 @@
+[
+ {
+  "id": "velo_local_commun",
+  "claim": "Mon vélo a été volé dans le local à vélos de la résidence. La porte de ce local ne ferme pas à clé, tous les habitants de l'immeuble y rangent leurs affaires.",
+  "verdict": ["non_couvert", "depend"],
+  "articles": ["7"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "7", "texte": "des objets fixés ou déposés dans des locaux non clos ou non couverts, dans des locaux à usage collectif, dans les cours et jardins"}
+  ],
+  "note": "Le vol d'objets déposés dans un local à usage collectif fait partie des exclusions de la garantie vol (art. 7)."
+ },
+ {
+  "id": "bougie_table_jardin",
+  "claim": "Pendant nos deux semaines de vacances, une bougie que nous avions laissée sur la table du jardin a fondu au soleil, la cire a coulé et a taché définitivement le plateau en bois.",
+  "verdict": "non_couvert",
+  "articles": ["2", "4", "34"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "2", "texte": "les biens mobiliers y compris les animaux se trouvant en plein air, sauf souscription du Pack Jardin Plein Air (art.34)"},
+   {"source": "article", "ref": "4", "texte": "les dommages dus à l’action subite de la chaleur ou au contact direct et immédiat du feu ou d’une substance incandescente, sans émission de flammes"},
+   {"source": "article", "ref": "34", "texte": "endommagés par les seuls événements suivants tels que définis au Chapitre 2"}
+  ],
+  "note": "Le mobilier en plein air n'est assuré qu'avec le Pack Jardin, qui ne couvre qu'une liste fermée d'événements où la chaleur sans flamme ne figure pas, et l'article 4 exclut ce type de dommage."
+ },
+ {
+  "id": "degat_eaux_lave_linge",
+  "claim": "Le tuyau d'arrivée d'eau de mon lave-linge s'est rompu pendant la nuit. L'eau a coulé sur le parquet de la cuisine et a abîmé le canapé du salon.",
+  "verdict": "couvert",
+  "articles": ["8"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "8", "texte": "fuites, ruptures ou débordements accidentels"},
+   {"source": "article", "ref": "8", "texte": "d’appareils à effet d’eau*, d’aquariums et d’autres récipients"},
+   {"source": "definition", "ref": "Appareils à effet d’eau", "texte": "lave-linge"}
+  ],
+  "note": "La rupture accidentelle sur un lave-linge, qui est un appareil à effet d'eau selon le lexique, est garantie au titre des dégâts des eaux (art. 8)."
+ },
+ {
+  "id": "tempete_tuiles",
+  "claim": "Pendant la grosse tempête de mardi, une partie des tuiles de notre toit s'est envolée et la pluie a mouillé le plafond et la moquette de la chambre. Plusieurs maisons de la rue ont aussi eu leur toit abîmé.",
+  "verdict": "couvert",
+  "articles": ["9"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "9", "texte": "du vent dû aux tempêtes, ouragans, cyclones"},
+   {"source": "article", "ref": "9", "texte": "Sont également garantis les dommages de mouille causés par la pluie, la neige ou la grêle pénétrant à l’intérieur des bâtiments assurés"}
+  ],
+  "note": "Le vent de tempête qui endommage plusieurs bâtiments du secteur est garanti, ainsi que la pluie entrée par la toiture détruite (art. 9 A et C)."
+ },
+ {
+  "id": "cambriolage_effraction",
+  "claim": "En rentrant du travail, j'ai trouvé la porte d'entrée fracturée, la serrure arrachée. La télévision et l'ordinateur portable ont disparu.",
+  "verdict": "couvert",
+  "articles": ["7"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "7", "texte": "effraction des bâtiments contenant les biens assurés"},
+   {"source": "article", "ref": "7", "texte": "causées par un cambrioleur pour pénétrer à l’intérieur de ceux-ci"}
+  ],
+  "note": "Le vol avec effraction des bâtiments et la porte détériorée par le cambrioleur sont garantis (art. 7 A et B)."
+ },
+ {
+  "id": "cambriolage_sans_effraction",
+  "claim": "J'avais laissé la porte-fenêtre du salon grande ouverte pour aérer et je suis parti deux heures faire des courses. À mon retour, mon ordinateur portable n'était plus là. Il n'y a aucune trace sur les portes ni sur les fenêtres.",
+  "verdict": "non_couvert",
+  "articles": ["7"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "7", "texte": "Lors de toute absence, vous devez fermer les fenêtres et autres ouvertures"},
+   {"source": "article", "ref": "7", "texte": "facilités par le non respect des moyens de prévention énoncés ci-avant"},
+   {"source": "definition", "ref": "Effraction", "texte": "A défaut de traces, il est convenu qu'il n’y a pas effraction."}
+  ],
+  "note": "Sans effraction ni autre circonstance prévue, et alors que la mesure de prévention de fermer les ouvertures n'a pas été respectée, le vol est exclu (art. 7)."
+ },
+ {
+  "id": "bris_vitre_ballon",
+  "claim": "Mon fils a tiré dans un ballon dans le salon et a cassé la vitre de la porte-fenêtre.",
+  "verdict": "couvert",
+  "articles": ["6"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "6", "texte": "des portes, fenêtres, fenêtres de toit, puits de lumière, ciels vitrés, qui constituent les éléments de fermetures des"}
+  ],
+  "note": "Le bris accidentel des vitres des portes et fenêtres est garanti (art. 6), l'indemnisation se faisant sur facture de remplacement."
+ },
+ {
+  "id": "foudre_surtension_tv",
+  "claim": "Pendant l'orage de dimanche, la foudre est tombée tout près de la maison. Depuis, notre télévision achetée il y a trois ans ne s'allume plus et la box internet est hors service.",
+  "verdict": "couvert",
+  "articles": ["5"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "5", "texte": "la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,"},
+   {"source": "article", "ref": "5", "texte": "tout appareil électrique jusqu’à 10 ans révolus*"}
+  ],
+  "note": "Les dommages électriques causés par la foudre ou une surtension aux appareils de moins de 10 ans sont garantis (art. 5 B)."
+ },
+ {
+  "id": "congelateur_orage",
+  "claim": "Après l'orage, l'électricité a été coupée pendant toute une journée. Le congélateur a dégelé et j'ai dû jeter toute la viande et les surgelés.",
+  "verdict": "depend",
+  "articles": ["5", "33"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "5", "texte": "le contenu des appareils (par exemple denrées des congélateurs) sauf souscription du Pack Tranquillité (art. 33)"},
+   {"source": "article", "ref": "33", "texte": "la détérioration du contenu de vos congélateurs réservé à votre consommation familiale"}
+  ],
+  "note": "Le contenu du congélateur n'est garanti que si le Pack Tranquillité figure au contrat (art. 5 et 33 A-4)."
+ },
+ {
+  "id": "inondation_catnat",
+  "claim": "La rivière a débordé et il y a eu 50 cm d'eau au rez-de-chaussée. La mairie nous a dit que l'arrêté de catastrophe naturelle pour notre commune est paru au Journal officiel.",
+  "verdict": "couvert",
+  "articles": ["10"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "10", "texte": "Elle est mise en jeu après publication au Journal Officiel de la République Française d'un arrêté interministériel"},
+   {"source": "article", "ref": "10", "texte": "l’intensité anormale d’un agent naturel"}
+  ],
+  "note": "L'inondation est garantie au titre des catastrophes naturelles une fois l'arrêté publié, déduction faite de la franchise légale (art. 10)."
+ },
+ {
+  "id": "inondation_sans_arrete",
+  "claim": "Après plusieurs jours de pluie, le ruisseau derrière la maison est sorti de son lit et a inondé le garage et la buanderie. La commune n'a pas été reconnue en catastrophe naturelle.",
+  "verdict": "non_couvert",
+  "articles": ["8", "41"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "8", "texte": "les dommages occasionnés par les inondations, raz de marée, marées, débordements de sources, cours d’eau ou"},
+   {"source": "article", "ref": "41", "texte": "occasionnés par les inondations, raz-de-marée, marées, débordements de sources, cours d’eau, étendues d’eau"}
+  ],
+  "note": "Le débordement d'un cours d'eau est exclu, sauf application de la garantie catastrophes naturelles, qui n'a pas lieu sans arrêté (art. 8 et 41)."
+ },
+ {
+  "id": "rc_enfant_voiture_voisin",
+  "claim": "Mon fils de 10 ans est tombé à vélo contre la voiture du voisin garée dans la rue et a rayé toute la portière.",
+  "verdict": "couvert",
+  "articles": ["13"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "13", "texte": "vos enfants mineurs lorsque votre responsabilité est engagée en qualité de parent"},
+   {"source": "article", "ref": "13", "texte": "cycles -y compris les vélos à assistance électrique- ou autres moyens de transport sans moteur"}
+  ],
+  "note": "Les dommages causés à un tiers par un enfant mineur dont l'assuré est civilement responsable relèvent de la responsabilité civile vie privée (art. 13)."
+ },
+ {
+  "id": "rc_chien_morsure",
+  "claim": "Notre labrador a mordu le facteur à la main quand il a déposé un colis devant le portail. Le facteur a dû être soigné et a été arrêté une semaine.",
+  "verdict": "couvert",
+  "articles": ["13"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "13", "texte": "du fait des animaux domestiques* dont vous avez la propriété, la garde à titre gratuit ou l’usage."},
+   {"source": "definition", "ref": "Animal domestique", "texte": "chiens autres que ceux visés à l’article L 211-12 et suiv. du Code rural"}
+  ],
+  "note": "Un chien qui n'est pas classé dangereux est un animal domestique au sens du lexique, et sa morsure sur un tiers est garantie (art. 13)."
+ },
+ {
+  "id": "rc_chien_dangereux",
+  "claim": "Notre rottweiler, déclaré en 2e catégorie, a mordu un passant au mollet pendant la promenade.",
+  "verdict": "depend",
+  "articles": ["13"],
+  "clauses": ["DOG"],
+  "citations": [
+   {"source": "article", "ref": "13", "texte": "par les chiens dangereux (selon art. L 211-12 et suivants du Code rural et de la pêche maritime), -sauf souscription de"},
+   {"source": "clause", "ref": "DOG", "texte": "Par dérogation à l’exclusion prévue à l’article 13, nous"}
+  ],
+  "note": "Les dommages causés par un chien de 2e catégorie sont exclus, sauf si la clause DOG est souscrite et que ses conditions sont remplies (permis de détention notamment)."
+ },
+ {
+  "id": "vol_etranger_hotel",
+  "claim": "Pendant dix jours de vacances en Italie, la porte de notre chambre d'hôtel a été forcée en notre absence. On nous a volé des vêtements et un appareil photo.",
+  "verdict": "couvert",
+  "articles": ["26", "40", "7"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "26", "texte": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2."},
+   {"source": "article", "ref": "40", "texte": "Dans le monde entier pour des séjours n’excédant pas 90 jours consécutifs"},
+   {"source": "article", "ref": "7", "texte": "effraction des bâtiments contenant les biens assurés"}
+  ],
+  "note": "Le mobilier emporté en séjour de moins de 90 jours est garanti dans le monde entier, ici contre un vol avec effraction (art. 26, 40 et 7), sous réserve que les objets ne soient ni de valeur ni précieux."
+ },
+ {
+  "id": "vol_etranger_plage",
+  "claim": "En vacances en Espagne, j'ai laissé mon sac sur ma serviette pour aller me baigner. À mon retour, le sac avec mes vêtements et mes lunettes de soleil avait disparu.",
+  "verdict": "non_couvert",
+  "articles": ["26", "7"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "26", "texte": "Nous garantissons également en tous lieux le vol par agression de vos biens et effets personnels"},
+   {"source": "article", "ref": "26", "texte": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2."}
+  ],
+  "note": "Hors du domicile, le vol n'est garanti qu'avec agression ou dans les circonstances de l'article 7 (effraction d'un bâtiment, etc.), ce qui n'est pas le cas d'un vol à la plage."
+ },
+ {
+  "id": "vol_agression_rue",
+  "claim": "Dans la rue, deux hommes m'ont bousculé et menacé, puis m'ont arraché mon sac avec mon téléphone et les clés de la maison.",
+  "verdict": "couvert",
+  "articles": ["26"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "26", "texte": "Nous garantissons également en tous lieux le vol par agression de vos biens et effets personnels"},
+   {"source": "article", "ref": "26", "texte": "bagages à main y compris les clés de vos bâtiments"},
+   {"source": "definition", "ref": "Agression", "texte": "violence ou menace dûment établie sur une personne"}
+  ],
+  "note": "Le vol par agression du sac, du téléphone et des clés du logement est garanti en tous lieux (art. 26 B)."
+ },
+ {
+  "id": "termites_charpente",
+  "claim": "En faisant des travaux dans les combles, on a découvert que des termites ont rongé plusieurs poutres de la charpente. Il faut les remplacer et traiter toute la maison.",
+  "verdict": "non_couvert",
+  "articles": ["41"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "41", "texte": "par les termites, capricornes et autres insectes xylophages, ainsi que les traitements préventifs et"}
+  ],
+  "note": "Les dommages causés par les termites et leur traitement font partie des exclusions communes à tous les risques (art. 41)."
+ },
+ {
+  "id": "humidite_mur",
+  "claim": "Une grosse tache d'humidité est apparue sur le mur de la chambre et la peinture se décolle. Je ne sais pas d'où vient l'eau.",
+  "verdict": "depend",
+  "articles": ["8"],
+  "clauses": [],
+  "citations": [
+   {"source": "article", "ref": "8", "texte": "les dommages dus à l’humidité ou à la condensation lorsqu’ils ne sont pas la conséquence directe d’un sinistre garanti"},
+   {"source": "article", "ref": "8", "texte": "les frais de recherche des fuites ayant provoqué un dommage garanti"}
+  ],
+  "note": "Couvert si l'humidité vient d'une fuite ou d'une infiltration accidentelle garantie, exclu s'il s'agit de condensation ou d'humidité sans sinistre garanti (art. 8)."
+ },
+ {
+  "id": "sinistre_imprecis",
+  "claim": "Il s'est passé quelque chose dans la cuisine hier soir et beaucoup de choses sont abîmées. Est-ce que je vais être remboursé ?",
+  "verdict": ["incertain", "depend"],
+  "articles": [],
+  "clauses": [],
+  "citations": [],
+  "note": "Rien ne permet de rattacher les dommages à un événement garanti ou exclu : il faut connaître la cause avant de répondre."
+ }
+]

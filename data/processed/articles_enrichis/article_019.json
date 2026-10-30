@@ -1,0 +1,394 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_19",
+ "numero": "19",
+ "titre": "INSOLVABILITÉ DES TIERS",
+ "chapitre": {
+  "numero": 4,
+  "titre": "LES GARANTIES COMPLÉMENTAIRES"
+ },
+ "page_debut": 16,
+ "page_fin": 16,
+ "pages": [
+  16
+ ],
+ "texte": "Cette garantie est uniquement accordée sur les formules Résidence principale CONFORT et CONFORT PLUS,\nRésidence secondaire SÉRÉNITÉ PLUS et Propriétaire non occupant.\nEn cas d’impossibilité pour vous de recouvrer tout ou partie des indemnités qui vous ont été attribuées judiciairement\nà la suite d’une action engagée au titre de la garantie Recours suite à accident -art.44-, pour un événement non\ngaranti par le présent contrat, nous nous substituons à son auteur responsable à condition que :\n• la personne responsable soit un tiers identifié et que son insolvabilité soit dûment établie par un procès verbal\nde carence, dressé par huissier, constatant l’absence ou l’insuffisance de biens saisissables lui appartenant,\n• les dommages n’entrent pas dans le champ d’intervention du Fonds de garantie -FGAO (Fonds de Garantie des\nAssurances Obligatoires de dommages) ou FGTI (Fonds de Garantie des victimes des actes de Terrorisme et d’autres\nInfractions) ou de toute institution analogue.",
+ "lignes": [
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 70.32,
+   "y0": 144.27,
+   "x1": 567.0,
+   "y1": 154.49,
+   "text": "Cette garantie est uniquement accordée sur les formules Résidence principale CONFORT et CONFORT PLUS,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Cette garantie est uniquement accordée sur les formules Résidence principale CONFORT",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.32
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 472.68
+    },
+    {
+     "text": "et CONFORT PLUS,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 476.77
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 70.32,
+   "y0": 155.77,
+   "x1": 367.22,
+   "y1": 165.99,
+   "text": "Résidence secondaire SÉRÉNITÉ PLUS et Propriétaire non occupant.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Résidence secondaire SÉRÉNITÉ PLUS et Propriétaire non occupant.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.32
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 180.68,
+   "x1": 565.78,
+   "y1": 190.9,
+   "text": "En cas d’impossibilité pour vous de recouvrer tout ou partie des indemnités qui vous ont été attribuées judiciairement",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "En cas d’impossibilité pour vous de recouvrer tout ou partie des indemnités qui vous ont été attribuées judiciairement",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 192.18,
+   "x1": 565.75,
+   "y1": 202.4,
+   "text": "à la suite d’une action engagée au titre de la garantie Recours suite à accident -art.44-, pour un événement non",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "à la suite d’une action engagée au titre de la garantie Recours suite à accident ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "-art.44-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 423.39
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 451.89
+    },
+    {
+     "text": "pour un événement non",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 458.4
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 203.68,
+   "x1": 485.34,
+   "y1": 213.9,
+   "text": "garanti par le présent contrat, nous nous substituons à son auteur responsable à condition que :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "garanti par le présent contrat,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.86
+    },
+    {
+     "text": " nous nous substituons à son auteur responsable ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 201.85
+    },
+    {
+     "text": "à condition que",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 411.41
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 479.78
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 218.96,
+   "x1": 565.76,
+   "y1": 229.65,
+   "text": "• la personne responsable soit un tiers identifié et que son insolvabilité soit dûment établie par un procès verbal",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.86
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.42
+    },
+    {
+     "text": "la personne responsable soit un tiers identifié et que son insolvabilité soit dûment établie par un procès verbal",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.52
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 230.93,
+   "x1": 535.14,
+   "y1": 241.15,
+   "text": "de carence, dressé par huissier, constatant l’absence ou l’insuffisance de biens saisissables lui appartenant,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "de carence, dressé par huissier, constatant l’absence ou l’insuffisance de biens saisissables lui appartenant,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.86
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 246.21,
+   "x1": 565.75,
+   "y1": 256.9,
+   "text": "• les dommages n’entrent pas dans le champ d’intervention du Fonds de garantie -FGAO (Fonds de Garantie des",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.86
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.42
+    },
+    {
+     "text": "les dommages n’entrent pas dans le champ d’intervention du Fonds de garantie ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.16
+    },
+    {
+     "text": "-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 439.39
+    },
+    {
+     "text": "FGAO",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 442.39
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 469.8
+    },
+    {
+     "text": "(Fonds de Garantie des",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 473.17
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 258.18,
+   "x1": 565.75,
+   "y1": 268.41,
+   "text": "Assurances Obligatoires de dommages) ou FGTI (Fonds de Garantie des victimes des actes de Terrorisme et d’autres",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Assurances Obligatoires de dommages)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 232.23
+    },
+    {
+     "text": "ou FGTI",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 237.49
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 275.54
+    },
+    {
+     "text": "(Fonds de Garantie des victimes des actes de Terrorisme et d’autres",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 280.81
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 269.68,
+   "x1": 262.0,
+   "y1": 279.91,
+   "text": "Infractions) ou de toute institution analogue.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Infractions)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " ou de toute institution analogue.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 116.94
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "Cette garantie est uniquement accordée sur les formules Résidence principale CONFORT et CONFORT PLUS,\nRésidence secondaire SÉRÉNITÉ PLUS et Propriétaire non occupant.\nEn cas d’impossibilité pour vous de recouvrer tout ou partie des indemnités qui vous ont été attribuées judiciairement\nà la suite d’une action engagée au titre de la garantie Recours suite à accident -art.44-, pour un événement non\ngaranti par le présent contrat, nous nous substituons à son auteur responsable à condition que :\n• la personne responsable soit un tiers identifié et que son insolvabilité soit dûment établie par un procès verbal\nde carence, dressé par huissier, constatant l’absence ou l’insuffisance de biens saisissables lui appartenant,\n• les dommages n’entrent pas dans le champ d’intervention du Fonds de garantie -FGAO (Fonds de Garantie des\nAssurances Obligatoires de dommages) ou FGTI (Fonds de Garantie des victimes des actes de Terrorisme et d’autres\nInfractions) ou de toute institution analogue.",
+   "pages": [
+    16
+   ],
+   "renvois_articles": [
+    "44"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "44"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

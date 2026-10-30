@@ -1,0 +1,1164 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_5",
+ "numero": "5",
+ "titre": "DOMMAGES D’ORDRE ÉLECTRIQUE",
+ "chapitre": {
+  "numero": 2,
+  "titre": "LES ÉVÉNEMENTS ASSURABLES"
+ },
+ "page_debut": 7,
+ "page_fin": 8,
+ "pages": [
+  7,
+  8
+ ],
+ "texte": "Nous garantissons les dommages matériels causés aux biens visés aux § A et B ci-après, par :\n- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,\nsous-tension),\n- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des biens ci-dessous visés ; toutefois si le\nsinistre se communique à d’autres biens assurés voisins, l’ensemble des dommages sera pris en charge au titre de\nl’article 4 -Incendie, explosion et assimilés-.\nA : INSTALLATIONS ÉLECTRIQUES IMMOBILIÈRES, c’est-à-dire :\n- les canalisations électriques, le câblage téléphonique, les tableaux de commandes électriques,\n- les transformateurs, les ascenseurs,\n- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs, les\nchaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur, …), les chauffe-eau, les pompes\nfixes de relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces matériels sont situés à\nl’intérieur des bâtiments assurés.\nLorsque ces matériels sont à l’extérieur des bâtiments, ils peuvent être garantis en souscrivant les Pack Tranquillité (art. 33),\nPack Jardin Plein Air (art. 34).\nDes dispositions spéciales en cas de sinistre sont prévues à l’article 51.\nB : APPAREILS ÉLECTRIQUES ET/OU ÉLECTRONIQUES, c’est-à-dire les appareils électroménagers, audio\nvisuels*, téléphoniques et plus généralement tout appareil électrique jusqu’à 10 ans révolus*.\nNous garantissons également, au titre du § A, les détériorations immobilières nécessaires à la réparation des canalisations\nélectriques et câblages téléphoniques encastrés ou enterrés endommagés par un sinistre garanti ci-dessus.\nS’il s’agit de biens loués en même temps que les bâtiments que vous occupez, la garantie est étendue à la\nresponsabilité que vous pouvez encourir vis-à-vis du propriétaire en raison de ces mêmes dommages.\nNous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n• les fusibles -y compris les parafoudres-, lampes et tubes de toute nature,\n• les appareils électriques et/ou électroniques situés à l’extérieur des bâtiments assurés, sauf souscription du Pack\nTranquillité (art. 33) (pour les aérothermes notamment) et/ou de l’option “Clôtures, portails et murs de soutènement” (art.\n30) et/ou du Pack Jardin Plein air (art. 34),\n• le contenu des appareils (par exemple denrées des congélateurs) sauf souscription du Pack Tranquillité (art. 33),\n• la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des\nsupports informatiques.\nDes dispositions spéciales en cas de sinistre sont prévues à l'article 52B.",
+ "lignes": [
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 428.07,
+   "x1": 471.45,
+   "y1": 438.29,
+   "text": "Nous garantissons les dommages matériels causés aux biens visés aux § A et B ci-après, par :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    },
+    {
+     "text": " les dommages matériels causés aux biens visés aux § ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 150.81
+    },
+    {
+     "text": "A",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 383.65
+    },
+    {
+     "text": " et ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 390.32
+    },
+    {
+     "text": "B",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 403.66
+    },
+    {
+     "text": " ci-après, par :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 409.77
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 80.69,
+   "y0": 440.49,
+   "x1": 565.43,
+   "y1": 450.71,
+   "text": "- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 80.69
+    },
+    {
+     "text": "(surtension,",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 520.91
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 80.7,
+   "y0": 451.48,
+   "x1": 134.0,
+   "y1": 461.7,
+   "text": "sous-tension),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "sous-tension)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 80.7
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 131.22
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 80.69,
+   "y0": 463.9,
+   "x1": 565.42,
+   "y1": 474.12,
+   "text": "- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des biens ci-dessous visés ; toutefois si le",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des biens ci-dessous visés ; toutefois si le",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 80.69
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 80.69,
+   "y0": 474.9,
+   "x1": 565.43,
+   "y1": 485.12,
+   "text": "sinistre se communique à d’autres biens assurés voisins, l’ensemble des dommages sera pris en charge au titre de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "sinistre se communique à d’autres biens assurés voisins, l’ensemble des dommages sera pris en charge au titre de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 80.69
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 80.69,
+   "y0": 485.9,
+   "x1": 255.37,
+   "y1": 496.12,
+   "text": "l’article 4 -Incendie, explosion et assimilés-.",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’article 4 ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 80.69
+    },
+    {
+     "text": "-Incendie, explosion et assimilés-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 124.05
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 252.59
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 502.57,
+   "x1": 370.66,
+   "y1": 512.79,
+   "text": "A : INSTALLATIONS ÉLECTRIQUES IMMOBILIÈRES, c’est-à-dire :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "A : INSTALLATIONS ÉLECTRIQUES IMMOBILIÈRES,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.36
+    },
+    {
+     "text": " c’est-à-dire :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 314.54
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.54,
+   "y0": 514.99,
+   "x1": 515.14,
+   "y1": 525.21,
+   "text": "- les canalisations électriques, le câblage téléphonique, les tableaux de commandes électriques,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les canalisations électriques, le câblage téléphonique, les tableaux de commandes électriques, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 100.54
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.54,
+   "y0": 527.41,
+   "x1": 256.01,
+   "y1": 537.63,
+   "text": "- les transformateurs, les ascenseurs,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les transformateurs, les ascenseurs,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 100.54
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.54,
+   "y0": 539.83,
+   "x1": 565.43,
+   "y1": 550.05,
+   "text": "- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs, les",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs, les",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 100.54
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.54,
+   "y0": 550.82,
+   "x1": 565.43,
+   "y1": 561.05,
+   "text": "chaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur, …), les chauffe-eau, les pompes",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "chaudières-, les systèmes fixes de filtration de l’eau ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 100.54
+    },
+    {
+     "text": "(adoucisseur, osmoseur, …)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 330.0
+    },
+    {
+     "text": ", les chauffe-eau, les pompes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 437.38
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.53,
+   "y0": 561.82,
+   "x1": 565.42,
+   "y1": 572.04,
+   "text": "fixes de relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces matériels sont situés à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "fixes de relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces matériels sont situés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 100.53
+    },
+    {
+     "text": "à",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 560.42
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.53,
+   "y0": 572.82,
+   "x1": 243.35,
+   "y1": 583.04,
+   "text": "l’intérieur des bâtiments assurés.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "l’intérieur des bâtiments assurés.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 100.53
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.54,
+   "y0": 585.99,
+   "x1": 565.43,
+   "y1": 595.19,
+   "text": "Lorsque ces matériels sont à l’extérieur des bâtiments, ils peuvent être garantis en souscrivant les Pack Tranquillité (art. 33),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Lorsque ces matériels sont à l’extérieur des bâtiments, ils peuvent être garantis en souscrivant les ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 100.54
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 470.48
+    },
+    {
+     "text": " (art. 33)",
+     "font": "Optima",
+     "size": 8.0,
+     "bold": false,
+     "x0": 534.39
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 562.93
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 100.54,
+   "y0": 596.99,
+   "x1": 211.92,
+   "y1": 606.19,
+   "text": "Pack Jardin Plein Air (art. 34).",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Pack Jardin Plein Air",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 100.54
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 8.0,
+     "bold": false,
+     "x0": 180.25
+    },
+    {
+     "text": "(art. 34)",
+     "font": "Optima",
+     "size": 8.0,
+     "bold": false,
+     "x0": 182.74
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 209.42
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 71.67,
+   "y0": 608.66,
+   "x1": 377.68,
+   "y1": 618.88,
+   "text": "Des dispositions spéciales en cas de sinistre sont prévues à l’article 51.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Des dispositions spéciales en cas de sinistre sont prévues à l’article 51.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.67
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.37,
+   "y0": 625.33,
+   "x1": 565.43,
+   "y1": 635.55,
+   "text": "B : APPAREILS ÉLECTRIQUES ET/OU ÉLECTRONIQUES, c’est-à-dire les appareils électroménagers, audio",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "B : APPAREILS ÉLECTRIQUES ET/OU ÉLECTRONIQUES,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.37
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 343.45
+    },
+    {
+     "text": "c’est-à-dire les appareils électroménagers, audio",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 348.61
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.37,
+   "y0": 636.33,
+   "x1": 487.35,
+   "y1": 646.55,
+   "text": "visuels*, téléphoniques et plus généralement tout appareil électrique jusqu’à 10 ans révolus*.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "visuels",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.37
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 115.27
+    },
+    {
+     "text": ", téléphoniques et plus généralement tout appareil électrique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 119.71
+    },
+    {
+     "text": "jusqu’à 10 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 383.59
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 480.13
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 484.57
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 651.58,
+   "x1": 565.45,
+   "y1": 661.8,
+   "text": "Nous garantissons également, au titre du § A, les détériorations immobilières nécessaires à la réparation des canalisations",
+   "font": "Optima",
+   "size": 9.8,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 72.19
+    },
+    {
+     "text": " également, au titre du § ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 147.08
+    },
+    {
+     "text": "A",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 247.38
+    },
+    {
+     "text": ", les détériorations immobilières nécessaires à la réparation des canalisations",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 253.77
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.2,
+   "y0": 662.58,
+   "x1": 507.42,
+   "y1": 672.8,
+   "text": "électriques et câblages téléphoniques encastrés ou enterrés endommagés par un sinistre garanti ci-dessus.",
+   "font": "Optima",
+   "size": 9.8,
+   "bold": false,
+   "spans": [
+    {
+     "text": "électriques et câblages téléphoniques encastrés ou enterrés endommagés par un sinistre garanti ci-dessus.",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 72.2
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 71.67,
+   "y0": 676.41,
+   "x1": 566.9,
+   "y1": 686.63,
+   "text": "S’il s’agit de biens loués en même temps que les bâtiments que vous occupez, la garantie est étendue à la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "S’il s’agit de biens loués en même temps que les bâtiments que vous occupez, la garantie est étendue à la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.67
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 71.67,
+   "y0": 687.41,
+   "x1": 510.04,
+   "y1": 697.63,
+   "text": "responsabilité que vous pouvez encourir vis-à-vis du propriétaire en raison de ces mêmes dommages.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "responsabilité que vous pouvez encourir vis-à-vis du propriétaire en raison de ces mêmes dommages.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.67
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 704.92,
+   "x1": 379.0,
+   "y1": 715.14,
+   "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 716.83,
+   "x1": 386.17,
+   "y1": 727.06,
+   "text": "• les fusibles -y compris les parafoudres-, lampes et tubes de toute nature,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " les fusibles ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.25
+    },
+    {
+     "text": "-y compris les parafoudres-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 130.87
+    },
+    {
+     "text": ", lampes et tubes de toute nature, ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 237.36
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 728.75,
+   "x1": 565.42,
+   "y1": 738.97,
+   "text": "• les appareils électriques et/ou électroniques situés à l’extérieur des bâtiments assurés, sauf souscription du Pack",
+   "font": "Optima-Bold",
+   "size": 9.8,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 78.01
+    },
+    {
+     "text": "les appareils électriques et/ou électroniques situés à l’extérieur des bâtiments assurés,",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 81.62
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 453.21
+    },
+    {
+     "text": "sauf souscription du ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 457.12
+    },
+    {
+     "text": "Pack",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 546.23
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.18,
+   "y0": 739.25,
+   "x1": 565.42,
+   "y1": 749.47,
+   "text": "Tranquillité (art. 33) (pour les aérothermes notamment) et/ou de l’option “Clôtures, portails et murs de soutènement” (art.",
+   "font": "Optima",
+   "size": 8.82,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Tranquillité",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 72.18
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 119.74
+    },
+    {
+     "text": "(art. 33)",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 122.78
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 151.92
+    },
+    {
+     "text": "(pour les aérothermes notamment)",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 154.96
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 283.18
+    },
+    {
+     "text": "et/ou de l’option ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 286.22
+    },
+    {
+     "text": "“Clôtures, ",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 358.3
+    },
+    {
+     "text": "portails et murs de soutènement",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 403.92
+    },
+    {
+     "text": "”",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 543.18
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 547.98
+    },
+    {
+     "text": "(art.",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 551.02
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 749.75,
+   "x1": 241.78,
+   "y1": 759.97,
+   "text": "30) et/ou du Pack Jardin Plein air (art. 34),",
+   "font": "Optima",
+   "size": 9.8,
+   "bold": false,
+   "spans": [
+    {
+     "text": "30)",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " et/ou du ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 84.2
+    },
+    {
+     "text": "Pack Jardin Plein air",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 123.69
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 207.63
+    },
+    {
+     "text": "(art. 34)",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 210.3
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 239.11
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 761.67,
+   "x1": 543.29,
+   "y1": 771.89,
+   "text": "• le contenu des appareils (par exemple denrées des congélateurs) sauf souscription du Pack Tranquillité (art. 33),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " le contenu des appareils ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.25
+    },
+    {
+     "text": "(par exemple denrées des congélateurs)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 189.29
+    },
+    {
+     "text": " sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 344.61
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 436.33
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 507.72
+    },
+    {
+     "text": "(art. 33)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 510.49
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 540.51
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.2,
+   "y0": 773.59,
+   "x1": 565.44,
+   "y1": 783.81,
+   "text": "• la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.2
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.26
+    },
+    {
+     "text": "la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.9
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.2,
+   "y0": 784.09,
+   "x1": 175.39,
+   "y1": 794.31,
+   "text": "supports informatiques.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "supports informatiques.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.2
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 71.67,
+   "y0": 802.59,
+   "x1": 383.55,
+   "y1": 812.81,
+   "text": "Des dispositions spéciales en cas de sinistre sont prévues à l'article 52B.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Des dispositions spéciales en cas de sinistre sont prévues à l'article 52B.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.67
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les dommages matériels causés aux biens visés aux § A et B ci-après, par :\n- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,\nsous-tension),\n- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des biens ci-dessous visés ; toutefois si le\nsinistre se communique à d’autres biens assurés voisins, l’ensemble des dommages sera pris en charge au titre de\nl’article 4 -Incendie, explosion et assimilés-.\nA : INSTALLATIONS ÉLECTRIQUES IMMOBILIÈRES, c’est-à-dire :\n- les canalisations électriques, le câblage téléphonique, les tableaux de commandes électriques,\n- les transformateurs, les ascenseurs,\n- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs, les\nchaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur, …), les chauffe-eau, les pompes\nfixes de relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces matériels sont situés à\nl’intérieur des bâtiments assurés.\nLorsque ces matériels sont à l’extérieur des bâtiments, ils peuvent être garantis en souscrivant les Pack Tranquillité (art. 33),\nPack Jardin Plein Air (art. 34).\nDes dispositions spéciales en cas de sinistre sont prévues à l’article 51.\nB : APPAREILS ÉLECTRIQUES ET/OU ÉLECTRONIQUES, c’est-à-dire les appareils électroménagers, audio\nvisuels*, téléphoniques et plus généralement tout appareil électrique jusqu’à 10 ans révolus*.\nNous garantissons également, au titre du § A, les détériorations immobilières nécessaires à la réparation des canalisations\nélectriques et câblages téléphoniques encastrés ou enterrés endommagés par un sinistre garanti ci-dessus.\nS’il s’agit de biens loués en même temps que les bâtiments que vous occupez, la garantie est étendue à la\nresponsabilité que vous pouvez encourir vis-à-vis du propriétaire en raison de ces mêmes dommages.",
+   "pages": [
+    7
+   ],
+   "renvois_articles": [
+    "4",
+    "33",
+    "34",
+    "51"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "visuels",
+     "terme": null
+    },
+    {
+     "forme": "révolus",
+     "terme": "Année révolue"
+    }
+   ]
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n• les fusibles -y compris les parafoudres-, lampes et tubes de toute nature,\n• les appareils électriques et/ou électroniques situés à l’extérieur des bâtiments assurés, sauf souscription du Pack\nTranquillité (art. 33) (pour les aérothermes notamment) et/ou de l’option “Clôtures, portails et murs de soutènement” (art.\n30) et/ou du Pack Jardin Plein air (art. 34),\n• le contenu des appareils (par exemple denrées des congélateurs) sauf souscription du Pack Tranquillité (art. 33),\n• la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des\nsupports informatiques.\nDes dispositions spéciales en cas de sinistre sont prévues à l'article 52B.",
+   "pages": [
+    7
+   ],
+   "renvois_articles": [
+    "41",
+    "33",
+    "30",
+    "34"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "4",
+  "33",
+  "34",
+  "51",
+  "41",
+  "30"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": [
+  {
+   "forme": "visuels",
+   "terme": null
+  },
+  {
+   "forme": "révolus",
+   "terme": "Année révolue"
+  }
+ ]
+}

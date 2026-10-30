@@ -1,0 +1,131 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_28",
+ "numero": "28",
+ "titre": "GARANTIE SIMULTANÉE EN CAS DE DÉMÉNAGEMENT",
+ "chapitre": {
+  "numero": 5,
+  "titre": "LES GARANTIES HORS DOMICILE"
+ },
+ "page_debut": 19,
+ "page_fin": 20,
+ "pages": [
+  19,
+  20
+ ],
+ "texte": "En cas de déménagement, les garanties prévues par le présent contrat sont accordées dans les mêmes conditions et\nles mêmes limites, à la fois à votre ancienne et à votre nouvelle adresse dès lors qu’elle est située en France\ncontinentale, et ce, pendant une période de 30 jours consécutifs à compter du début du contrat de location ou de\nla mise à la disposition en cas d’acquisition immobilière.",
+ "lignes": [
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 193.66,
+   "x1": 565.47,
+   "y1": 203.88,
+   "text": "En cas de déménagement, les garanties prévues par le présent contrat sont accordées dans les mêmes conditions et",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "En cas de déménagement, les garanties prévues par le présent contrat sont accordées dans les mêmes conditions et",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.04
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 205.16,
+   "x1": 565.48,
+   "y1": 215.38,
+   "text": "les mêmes limites, à la fois à votre ancienne et à votre nouvelle adresse dès lors qu’elle est située en France",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "les mêmes limites, à la fois à votre ancienne et à votre nouvelle adresse dès lors qu’elle est située ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.04
+    },
+    {
+     "text": "en France",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 521.62
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 216.66,
+   "x1": 565.48,
+   "y1": 226.88,
+   "text": "continentale, et ce, pendant une période de 30 jours consécutifs à compter du début du contrat de location ou de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "continentale",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.04
+    },
+    {
+     "text": ", et ce, pendant une période de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 126.5
+    },
+    {
+     "text": "30 jours",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 265.01
+    },
+    {
+     "text": " consécutifs à compter du début du contrat de location ou de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 300.77
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 228.16,
+   "x1": 316.58,
+   "y1": 238.38,
+   "text": "la mise à la disposition en cas d’acquisition immobilière.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la mise à la disposition en cas d’acquisition immobilière.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.04
+    }
+   ]
+  }
+ ]
+}

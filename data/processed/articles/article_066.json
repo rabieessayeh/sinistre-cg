@@ -1,0 +1,452 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_66",
+ "numero": "66",
+ "titre": "MAXIMUM DE COTISATION",
+ "chapitre": {
+  "numero": 14,
+  "titre": "COTISATIONS - INDEXATION"
+ },
+ "page_debut": 54,
+ "page_fin": 54,
+ "pages": [
+  54
+ ],
+ "texte": "La Société est à cotisations variables.\nLE MAXIMUM DE COTISATION défini par l’article R 322-71 du Code sert de base au calcul des cotisations\nappelées et doit être le même pour tous les Sociétaires appartenant à une même catégorie de risques. Il est indiqué\naux conditions particulières. Ce maximum de cotisation (article 16 des Statuts) comprend deux parties :\n1°) - la COTISATION NORMALE nécessaire pour faire face aux charges probables résultant des sinistres et frais de\ngestion, dont le montant est indiqué aux conditions particulières et qui ne peut être inférieure à trente trois pour\ncent ni supérieure à soixante six pour cent du MAXIMUM DE COTISATION défini ci-dessus,\n2°) - une cotisation pour appels supplémentaires de fractions du MAXIMUM DE COTISATION défini ci-dessus\nconformément aux dispositions de l’alinéa 4 dudit article R 322-71, dans les limites de la différence entre la\ncotisation normale et le maximum de cotisation défini ci-dessus. Lesdites fractions du maximum de cotisation,\nlorsque la cotisation normale apparaît insuffisante, sont fixées par le Conseil d'Administration par catégorie de\nrisques.\nVous ne pouvez en aucun cas être tenu au-delà du maximum de cotisation affecté de la fluctuation de l’indice défini\nà l’article 68 ci-après.\nVous devez en outre les FRAIS ACCESSOIRES dont le montant est fixé par le Conseil d’Administration et indiqué aux\nconditions particulières et les IMPÔTS et TAXES établis sur les contrats d’assurance et dont la récupération n’est pas\ninterdite, dans la mesure où ils ne sont pas inclus dans la cotisation.\nSi vous êtes nouveau sociétaire, vous devez acquitter un droit d’adhésion conformément à l’article 15 des Statuts.",
+ "lignes": [
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 128.54,
+   "x1": 229.02,
+   "y1": 138.76,
+   "text": "La Société est à cotisations variables.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "La Société est à cotisations variables.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 142.37,
+   "x1": 566.34,
+   "y1": 152.59,
+   "text": "LE MAXIMUM DE COTISATION défini par l’article R 322-71 du Code sert de base au calcul des cotisations",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "LE MAXIMUM DE COTISATION",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 217.85
+    },
+    {
+     "text": "défini par l’article R 322-71 du Code sert de base au calcul des cotisations",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 222.5
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 153.37,
+   "x1": 566.36,
+   "y1": 163.59,
+   "text": "appelées et doit être le même pour tous les Sociétaires appartenant à une même catégorie de risques. Il est indiqué",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "appelées et doit être le même pour tous les Sociétaires appartenant à une même catégorie de risques. Il est indiqué",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 164.37,
+   "x1": 505.53,
+   "y1": 174.59,
+   "text": "aux conditions particulières. Ce maximum de cotisation (article 16 des Statuts) comprend deux parties :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "aux conditions particulières. Ce maximum de cotisation ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(article 16 des Statuts)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 313.74
+    },
+    {
+     "text": " comprend deux parties :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 398.27
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 178.2,
+   "x1": 566.35,
+   "y1": 188.42,
+   "text": "1°) - la COTISATION NORMALE nécessaire pour faire face aux charges probables résultant des sinistres et frais de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "1°) - la COTISATION NORMALE nécessaire pour faire face aux charges probables résultant des sinistres et frais de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 189.2,
+   "x1": 566.35,
+   "y1": 199.42,
+   "text": "gestion, dont le montant est indiqué aux conditions particulières et qui ne peut être inférieure à trente trois pour",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "gestion, dont le montant est indiqué aux conditions particulières et qui ne peut être inférieure à ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "trente trois pour",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 493.6
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 200.2,
+   "x1": 469.89,
+   "y1": 210.42,
+   "text": "cent ni supérieure à soixante six pour cent du MAXIMUM DE COTISATION défini ci-dessus,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cent",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": " ni supérieure à ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 89.75
+    },
+    {
+     "text": "soixante six pour cent",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 159.22
+    },
+    {
+     "text": " du MAXIMUM DE COTISATION défini ci-dessus,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 254.81
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 214.03,
+   "x1": 566.36,
+   "y1": 224.25,
+   "text": "2°) - une cotisation pour appels supplémentaires de fractions du MAXIMUM DE COTISATION défini ci-dessus",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "2°) - une cotisation pour appels supplémentaires de fractions du MAXIMUM DE COTISATION défini ci-dessus",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 225.03,
+   "x1": 566.35,
+   "y1": 235.25,
+   "text": "conformément aux dispositions de l’alinéa 4 dudit article R 322-71, dans les limites de la différence entre la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "conformément aux dispositions de l’alinéa 4 dudit article R 322-71, dans les limites de la différence entre la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 236.03,
+   "x1": 566.36,
+   "y1": 246.25,
+   "text": "cotisation normale et le maximum de cotisation défini ci-dessus. Lesdites fractions du maximum de cotisation,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cotisation normale et le maximum de cotisation défini ci-dessus. Lesdites fractions du maximum de cotisation,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 247.03,
+   "x1": 566.36,
+   "y1": 257.25,
+   "text": "lorsque la cotisation normale apparaît insuffisante, sont fixées par le Conseil d'Administration par catégorie de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "lorsque la cotisation normale apparaît insuffisante, sont fixées par le Conseil d'Administration par catégorie de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 258.03,
+   "x1": 103.65,
+   "y1": 268.25,
+   "text": "risques.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "risques.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 271.86,
+   "x1": 566.36,
+   "y1": 282.08,
+   "text": "Vous ne pouvez en aucun cas être tenu au-delà du maximum de cotisation affecté de la fluctuation de l’indice défini",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Vous ne pouvez en aucun cas être tenu au-delà du maximum de cotisation affecté de la fluctuation de l’indice défini",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 282.86,
+   "x1": 164.22,
+   "y1": 293.08,
+   "text": "à l’article 68 ci-après.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "à l’article 68 ci-après.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 296.69,
+   "x1": 566.37,
+   "y1": 306.91,
+   "text": "Vous devez en outre les FRAIS ACCESSOIRES dont le montant est fixé par le Conseil d’Administration et indiqué aux",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Vous devez en outre les FRAIS ACCESSOIRES dont le montant est fixé par le Conseil d’Administration et indiqué aux",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 307.69,
+   "x1": 566.36,
+   "y1": 317.91,
+   "text": "conditions particulières et les IMPÔTS et TAXES établis sur les contrats d’assurance et dont la récupération n’est pas",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "conditions particulières et les IMPÔTS et TAXES établis sur les contrats d’assurance et dont la récupération n’est pas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 318.69,
+   "x1": 362.67,
+   "y1": 328.91,
+   "text": "interdite, dans la mesure où ils ne sont pas inclus dans la cotisation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "interdite, dans la mesure où ils ne sont pas inclus dans la cotisation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 332.52,
+   "x1": 558.24,
+   "y1": 342.74,
+   "text": "Si vous êtes nouveau sociétaire, vous devez acquitter un droit d’adhésion conformément à l’article 15 des Statuts.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si vous êtes nouveau sociétaire, vous devez acquitter un droit d’adhésion conformément à l’article 15 des Statuts.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  }
+ ]
+}

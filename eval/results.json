@@ -1,0 +1,3920 @@
+{
+ "resume": {
+  "llm": false,
+  "rappel_moyen": 0.7982,
+  "cas_complets": 14,
+  "cas_evalues": 19,
+  "cas_sans_section_attendue": 1,
+  "contexte_moyen_car": 44453,
+  "contrat_car": 308831,
+  "contexte_moyen_pct_contrat": 0.1439,
+  "echecs_llm": 0,
+  "tokens": null
+ },
+ "cas": [
+  {
+   "id": "velo_local_commun",
+   "verdict": [
+    "non_couvert",
+    "depend"
+   ],
+   "attendues": [
+    "article 7"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 43581,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 17.128
+    },
+    {
+     "id": "P2",
+     "section": "clause D90",
+     "role": "principal",
+     "libelle": "Clause D90 (art. 70) — Détériorations accidentelles et vol des instruments de musique en tous lieux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 14.711
+    },
+    {
+     "id": "P3",
+     "section": "clause L03",
+     "role": "principal",
+     "libelle": "Clause L03 (art. 70) — Détériorations accidentelles et vol de votre matériel de sport en tous lieux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.847
+    },
+    {
+     "id": "P4",
+     "section": "clause 9A",
+     "role": "principal",
+     "libelle": "Clause 9A (art. 70) — Bris de glaces et vol dans bâtiment en construction",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.145
+    },
+    {
+     "id": "P5",
+     "section": "clause TRO",
+     "role": "principal",
+     "libelle": "Clause TRO (art. 70) — Local troglodyte ou troglodytique",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.062
+    },
+    {
+     "id": "P6",
+     "section": "clause 15",
+     "role": "principal",
+     "libelle": "Clause 15 (art. 70) — Moyens de protection mécanique",
+     "origine": [
+      "bm25"
+     ],
+     "score": 8.214
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "P10",
+     "section": "article 34",
+     "role": "renvoi",
+     "libelle": "Article 34 — PACK JARDIN PLEIN AIR"
+    },
+    {
+     "id": "P11",
+     "section": "article 55",
+     "role": "renvoi",
+     "libelle": "Article 55 — PAIEMENT DE L’INDEMNITÉ"
+    },
+    {
+     "id": "P12",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "P13",
+     "section": "clause 14",
+     "role": "renvoi",
+     "libelle": "Clause 14 (art. 70) — Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an"
+    },
+    {
+     "id": "P14",
+     "section": "article 52",
+     "role": "renvoi",
+     "libelle": "Article 52 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AU MOBILIER"
+    },
+    {
+     "id": "P15",
+     "section": "article 6",
+     "role": "renvoi",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS"
+    },
+    {
+     "id": "P16",
+     "section": "article 3",
+     "role": "renvoi",
+     "libelle": "Article 3 — LES AMÉNAGEMENTS DES BÂTIMENTS"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Valeur vénale"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets de valeur"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Tentative de Vol"
+    }
+   ]
+  },
+  {
+   "id": "bougie_table_jardin",
+   "verdict": "non_couvert",
+   "attendues": [
+    "article 2",
+    "article 4",
+    "article 34"
+   ],
+   "manquantes": [
+    "article 4"
+   ],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 0.6666666666666666,
+   "contexte_car": 44831,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 2",
+     "role": "principal",
+     "libelle": "Article 2 — LE MOBILIER",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.939
+    },
+    {
+     "id": "P2",
+     "section": "clause HLL",
+     "role": "principal",
+     "libelle": "Clause HLL (art. 70) — Mobile home*",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.895
+    },
+    {
+     "id": "P3",
+     "section": "article 34",
+     "role": "principal",
+     "libelle": "Article 34 — PACK JARDIN PLEIN AIR",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.437
+    },
+    {
+     "id": "P4",
+     "section": "article 1",
+     "role": "principal",
+     "libelle": "Article 1 — LES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.969
+    },
+    {
+     "id": "P5",
+     "section": "clause 29B",
+     "role": "principal",
+     "libelle": "Clause 29B (art. 70) — Table d’hôtes",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.636
+    },
+    {
+     "id": "P6",
+     "section": "article 13",
+     "role": "principal",
+     "libelle": "Article 13 — RESPONSABILITÉ CIVILE VIE PRIVÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.648
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Animal domestique"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets d’art"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Valeur de remplacement"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vétusté"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Irréparable (bien)"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Facture d’achat d’origine"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Panneau solaire"
+    }
+   ]
+  },
+  {
+   "id": "degat_eaux_lave_linge",
+   "verdict": "couvert",
+   "attendues": [
+    "article 8"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44442,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 41",
+     "role": "principal",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.825
+    },
+    {
+     "id": "P2",
+     "section": "article 31",
+     "role": "principal",
+     "libelle": "Article 31 — REMPLACEMENT À NEUF",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.656
+    },
+    {
+     "id": "P3",
+     "section": "clause 33",
+     "role": "principal",
+     "libelle": "Clause 33 (art. 70) — Retenue d’eau",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.538
+    },
+    {
+     "id": "P4",
+     "section": "article 8",
+     "role": "principal",
+     "libelle": "Article 8 — DÉGATS DES EAUX - GEL",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.065
+    },
+    {
+     "id": "P5",
+     "section": "article 3",
+     "role": "principal",
+     "libelle": "Article 3 — LES AMÉNAGEMENTS DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.349
+    },
+    {
+     "id": "P6",
+     "section": "article 33",
+     "role": "principal",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.993
+    },
+    {
+     "id": "P7",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P8",
+     "section": "article 10",
+     "role": "renvoi",
+     "libelle": "Article 10 — CATASTROPHES NATURELLES"
+    },
+    {
+     "id": "P9",
+     "section": "article 4",
+     "role": "renvoi",
+     "libelle": "Article 4 — INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS"
+    },
+    {
+     "id": "P10",
+     "section": "article 11",
+     "role": "renvoi",
+     "libelle": "Article 11 — CATASTROPHES TECHNOLOGIQUES"
+    },
+    {
+     "id": "P11",
+     "section": "article 6",
+     "role": "renvoi",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS"
+    },
+    {
+     "id": "P12",
+     "section": "article 36",
+     "role": "renvoi",
+     "libelle": "Article 36 — PACK ÉNERGIES RENOUVELABLES"
+    },
+    {
+     "id": "P13",
+     "section": "article 17",
+     "role": "renvoi",
+     "libelle": "Article 17 — RESPONSABILITÉ CIVILE PROPRIÉTAIRE D’IMMEUBLE"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Accessoires vestimentaires"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Rebut (biens au rebut)"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets d’art"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Facture d’achat d’origine"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Téléphonie (appareils de)"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Appareils à effet d’eau"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Embellissements"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Audiovisuels (appareils) – Multimédia"
+    }
+   ]
+  },
+  {
+   "id": "tempete_tuiles",
+   "verdict": "couvert",
+   "attendues": [
+    "article 9"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44861,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 9",
+     "role": "principal",
+     "libelle": "Article 9 — ÉVÉNEMENTS CLIMATIQUES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 11.931
+    },
+    {
+     "id": "P2",
+     "section": "article 6",
+     "role": "principal",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 8.655
+    },
+    {
+     "id": "P3",
+     "section": "clause 29A",
+     "role": "principal",
+     "libelle": "Clause 29A (art. 70) — Chambres d’hôtes",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.614
+    },
+    {
+     "id": "P4",
+     "section": "article 47",
+     "role": "principal",
+     "libelle": "Article 47 — INDEMNISATION ET SUBROGATION au titre des articles 44 et 45",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.483
+    },
+    {
+     "id": "P5",
+     "section": "article 58",
+     "role": "principal",
+     "libelle": "Article 58 — RENONCIATION À RECOURS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.717
+    },
+    {
+     "id": "P6",
+     "section": "article 13",
+     "role": "principal",
+     "libelle": "Article 13 — RESPONSABILITÉ CIVILE VIE PRIVÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.99
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "clause 9",
+     "role": "renvoi",
+     "libelle": "Clause 9 (art. 70) — Bâtiment en cours de construction"
+    },
+    {
+     "id": "P10",
+     "section": "clause 25",
+     "role": "renvoi",
+     "libelle": "Clause 25 (art. 70) — Surcoût architectural"
+    },
+    {
+     "id": "P11",
+     "section": "article 33",
+     "role": "renvoi",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ"
+    },
+    {
+     "id": "P12",
+     "section": "clause D43",
+     "role": "renvoi",
+     "libelle": "Clause D43 (art. 70) — Détériorations accidentelles et vol des appareils audiovisuels* en tous lieux"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Employé de maison"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Règles de l’Art"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Stage d’études"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Animal domestique"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vétusté"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage corporel"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Subrogation"
+    }
+   ]
+  },
+  {
+   "id": "cambriolage_effraction",
+   "verdict": "couvert",
+   "attendues": [
+    "article 7"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44941,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 8.578
+    },
+    {
+     "id": "P2",
+     "section": "clause L03",
+     "role": "principal",
+     "libelle": "Clause L03 (art. 70) — Détériorations accidentelles et vol de votre matériel de sport en tous lieux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.888
+    },
+    {
+     "id": "P3",
+     "section": "article 42B",
+     "role": "principal",
+     "libelle": "Article 42B — ASSISTANCE DANS VOTRE LOGEMENT ASSURÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.005
+    },
+    {
+     "id": "P4",
+     "section": "article 17",
+     "role": "principal",
+     "libelle": "Article 17 — RESPONSABILITÉ CIVILE PROPRIÉTAIRE D’IMMEUBLE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.775
+    },
+    {
+     "id": "P5",
+     "section": "article 6",
+     "role": "principal",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.713
+    },
+    {
+     "id": "P6",
+     "section": "clause HLL",
+     "role": "principal",
+     "libelle": "Clause HLL (art. 70) — Mobile home*",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.541
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "P10",
+     "section": "article 55",
+     "role": "renvoi",
+     "libelle": "Article 55 — PAIEMENT DE L’INDEMNITÉ"
+    },
+    {
+     "id": "P11",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vétusté"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    }
+   ]
+  },
+  {
+   "id": "cambriolage_sans_effraction",
+   "verdict": "non_couvert",
+   "attendues": [
+    "article 7"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44584,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 19.702
+    },
+    {
+     "id": "P2",
+     "section": "article 6",
+     "role": "principal",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 17.749
+    },
+    {
+     "id": "P3",
+     "section": "clause 15",
+     "role": "principal",
+     "libelle": "Clause 15 (art. 70) — Moyens de protection mécanique",
+     "origine": [
+      "bm25"
+     ],
+     "score": 17.397
+    },
+    {
+     "id": "P4",
+     "section": "article 33",
+     "role": "principal",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.914
+    },
+    {
+     "id": "P5",
+     "section": "article 54",
+     "role": "principal",
+     "libelle": "Article 54 — MISE EN ŒUVRE DE LA GARANTIE ASSURANCE SCOLAIRE (ACCIDENTS CORPORELS À L’ÉCOLE)",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.017
+    },
+    {
+     "id": "P6",
+     "section": "clause L03",
+     "role": "principal",
+     "libelle": "Clause L03 (art. 70) — Détériorations accidentelles et vol de votre matériel de sport en tous lieux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.831
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "P10",
+     "section": "article 34",
+     "role": "renvoi",
+     "libelle": "Article 34 — PACK JARDIN PLEIN AIR"
+    },
+    {
+     "id": "P11",
+     "section": "article 55",
+     "role": "renvoi",
+     "libelle": "Article 55 — PAIEMENT DE L’INDEMNITÉ"
+    },
+    {
+     "id": "P12",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "P13",
+     "section": "clause 14",
+     "role": "renvoi",
+     "libelle": "Clause 14 (art. 70) — Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an"
+    },
+    {
+     "id": "P14",
+     "section": "article 31",
+     "role": "renvoi",
+     "libelle": "Article 31 — REMPLACEMENT À NEUF"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Tentative de Vol"
+    }
+   ]
+  },
+  {
+   "id": "bris_vitre_ballon",
+   "verdict": "couvert",
+   "attendues": [
+    "article 6"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44648,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 6",
+     "role": "principal",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 15.915
+    },
+    {
+     "id": "P2",
+     "section": "clause 15",
+     "role": "principal",
+     "libelle": "Clause 15 (art. 70) — Moyens de protection mécanique",
+     "origine": [
+      "bm25"
+     ],
+     "score": 12.786
+    },
+    {
+     "id": "P3",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 8.363
+    },
+    {
+     "id": "P4",
+     "section": "article 33",
+     "role": "principal",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.082
+    },
+    {
+     "id": "P5",
+     "section": "clause HLL",
+     "role": "principal",
+     "libelle": "Clause HLL (art. 70) — Mobile home*",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.894
+    },
+    {
+     "id": "P6",
+     "section": "article 37",
+     "role": "principal",
+     "libelle": "Article 37 — PACK LOCATION MEUBLÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.702
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 31",
+     "role": "renvoi",
+     "libelle": "Article 31 — REMPLACEMENT À NEUF"
+    },
+    {
+     "id": "P10",
+     "section": "clause D43",
+     "role": "renvoi",
+     "libelle": "Clause D43 (art. 70) — Détériorations accidentelles et vol des appareils audiovisuels* en tous lieux"
+    },
+    {
+     "id": "P11",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "P12",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "P13",
+     "section": "clause 14",
+     "role": "renvoi",
+     "libelle": "Clause 14 (art. 70) — Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an"
+    },
+    {
+     "id": "P14",
+     "section": "article 24",
+     "role": "renvoi",
+     "libelle": "Article 24 — PERTE DE LOYERS"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vétusté"
+    }
+   ]
+  },
+  {
+   "id": "foudre_surtension_tv",
+   "verdict": "couvert",
+   "attendues": [
+    "article 5"
+   ],
+   "manquantes": [
+    "article 5"
+   ],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 0.0,
+   "contexte_car": 43584,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 43",
+     "role": "principal",
+     "libelle": "Article 43 — INFORMATION JURIDIQUE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.525
+    },
+    {
+     "id": "P2",
+     "section": "article 30",
+     "role": "principal",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.827
+    },
+    {
+     "id": "P3",
+     "section": "article 33",
+     "role": "principal",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.503
+    },
+    {
+     "id": "P4",
+     "section": "clause TOT",
+     "role": "principal",
+     "libelle": "Clause TOT (art. 70) — Dommages aux monuments funéraires",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.065
+    },
+    {
+     "id": "P5",
+     "section": "article 36",
+     "role": "principal",
+     "libelle": "Article 36 — PACK ÉNERGIES RENOUVELABLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.887
+    },
+    {
+     "id": "P6",
+     "section": "article 34",
+     "role": "principal",
+     "libelle": "Article 34 — PACK JARDIN PLEIN AIR",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.43
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 51",
+     "role": "renvoi",
+     "libelle": "Article 51 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS"
+    },
+    {
+     "id": "P10",
+     "section": "article 31",
+     "role": "renvoi",
+     "libelle": "Article 31 — REMPLACEMENT À NEUF"
+    },
+    {
+     "id": "P11",
+     "section": "article 8",
+     "role": "renvoi",
+     "libelle": "Article 8 — DÉGATS DES EAUX - GEL"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Panneau solaire"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Animal domestique"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Tentative de Vol"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Téléphonie (appareils de)"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Qualité"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "France continentale"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage corporel"
+    }
+   ]
+  },
+  {
+   "id": "congelateur_orage",
+   "verdict": "depend",
+   "attendues": [
+    "article 5",
+    "article 33"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44054,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 5",
+     "role": "principal",
+     "libelle": "Article 5 — DOMMAGES D’ORDRE ÉLECTRIQUE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.025
+    },
+    {
+     "id": "P2",
+     "section": "article 4",
+     "role": "principal",
+     "libelle": "Article 4 — INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.503
+    },
+    {
+     "id": "P3",
+     "section": "article 8",
+     "role": "principal",
+     "libelle": "Article 8 — DÉGATS DES EAUX - GEL",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.845
+    },
+    {
+     "id": "P4",
+     "section": "article 33",
+     "role": "principal",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.522
+    },
+    {
+     "id": "P5",
+     "section": "article 32",
+     "role": "principal",
+     "libelle": "Article 32 — PACK JEUNE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.427
+    },
+    {
+     "id": "P6",
+     "section": "article 36",
+     "role": "principal",
+     "libelle": "Article 36 — PACK ÉNERGIES RENOUVELABLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.403
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 34",
+     "role": "renvoi",
+     "libelle": "Article 34 — PACK JARDIN PLEIN AIR"
+    },
+    {
+     "id": "P10",
+     "section": "article 51",
+     "role": "renvoi",
+     "libelle": "Article 51 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS"
+    },
+    {
+     "id": "P11",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Panneau solaire"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Appareils à effet d’eau"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Audiovisuels (appareils) – Multimédia"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Tentative de Vol"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    }
+   ]
+  },
+  {
+   "id": "inondation_catnat",
+   "verdict": "couvert",
+   "attendues": [
+    "article 10"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44294,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 10",
+     "role": "principal",
+     "libelle": "Article 10 — CATASTROPHES NATURELLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 15.894
+    },
+    {
+     "id": "P2",
+     "section": "clause 33",
+     "role": "principal",
+     "libelle": "Clause 33 (art. 70) — Retenue d’eau",
+     "origine": [
+      "bm25"
+     ],
+     "score": 14.557
+    },
+    {
+     "id": "P3",
+     "section": "article 8",
+     "role": "principal",
+     "libelle": "Article 8 — DÉGATS DES EAUX - GEL",
+     "origine": [
+      "bm25"
+     ],
+     "score": 14.243
+    },
+    {
+     "id": "P4",
+     "section": "article 41",
+     "role": "principal",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 11.595
+    },
+    {
+     "id": "P5",
+     "section": "article 55",
+     "role": "principal",
+     "libelle": "Article 55 — PAIEMENT DE L’INDEMNITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 11.344
+    },
+    {
+     "id": "P6",
+     "section": "article 49",
+     "role": "principal",
+     "libelle": "Article 49 — DÉCLARATION DU SINISTRE - SANCTIONS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.955
+    },
+    {
+     "id": "P7",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P8",
+     "section": "article 1",
+     "role": "renvoi",
+     "libelle": "Article 1 — LES BÂTIMENTS"
+    },
+    {
+     "id": "P9",
+     "section": "article 51",
+     "role": "renvoi",
+     "libelle": "Article 51 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS"
+    },
+    {
+     "id": "P10",
+     "section": "article 33",
+     "role": "renvoi",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ"
+    },
+    {
+     "id": "P11",
+     "section": "article 4",
+     "role": "renvoi",
+     "libelle": "Article 4 — INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS"
+    },
+    {
+     "id": "P12",
+     "section": "article 11",
+     "role": "renvoi",
+     "libelle": "Article 11 — CATASTROPHES TECHNOLOGIQUES"
+    },
+    {
+     "id": "P13",
+     "section": "article 6",
+     "role": "renvoi",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Appareils à effet d’eau"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Déchéance"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Atteintes à l’environnement"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage corporel"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Atteintes à l’environnement accidentelles"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Canalisation enterrée"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage immatériel"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Qualité"
+    }
+   ]
+  },
+  {
+   "id": "inondation_sans_arrete",
+   "verdict": "non_couvert",
+   "attendues": [
+    "article 8",
+    "article 41"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44882,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 41",
+     "role": "principal",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.229
+    },
+    {
+     "id": "P2",
+     "section": "article 8",
+     "role": "principal",
+     "libelle": "Article 8 — DÉGATS DES EAUX - GEL",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.145
+    },
+    {
+     "id": "P3",
+     "section": "article 30",
+     "role": "principal",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.993
+    },
+    {
+     "id": "P4",
+     "section": "clause 33",
+     "role": "principal",
+     "libelle": "Clause 33 (art. 70) — Retenue d’eau",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.655
+    },
+    {
+     "id": "P5",
+     "section": "article 36",
+     "role": "principal",
+     "libelle": "Article 36 — PACK ÉNERGIES RENOUVELABLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.595
+    },
+    {
+     "id": "P6",
+     "section": "article 9",
+     "role": "principal",
+     "libelle": "Article 9 — ÉVÉNEMENTS CLIMATIQUES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.056
+    },
+    {
+     "id": "P7",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P8",
+     "section": "article 10",
+     "role": "renvoi",
+     "libelle": "Article 10 — CATASTROPHES NATURELLES"
+    },
+    {
+     "id": "P9",
+     "section": "article 4",
+     "role": "renvoi",
+     "libelle": "Article 4 — INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS"
+    },
+    {
+     "id": "P10",
+     "section": "article 11",
+     "role": "renvoi",
+     "libelle": "Article 11 — CATASTROPHES TECHNOLOGIQUES"
+    },
+    {
+     "id": "P11",
+     "section": "article 13",
+     "role": "renvoi",
+     "libelle": "Article 13 — RESPONSABILITÉ CIVILE VIE PRIVÉE"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Appareils à effet d’eau"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Panneau solaire"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Règles de l’Art"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Atteintes à l’environnement"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Tentative de Vol"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    }
+   ]
+  },
+  {
+   "id": "rc_enfant_voiture_voisin",
+   "verdict": "couvert",
+   "attendues": [
+    "article 13"
+   ],
+   "manquantes": [
+    "article 13"
+   ],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 0.0,
+   "contexte_car": 44644,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 32",
+     "role": "principal",
+     "libelle": "Article 32 — PACK JEUNE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.861
+    },
+    {
+     "id": "P2",
+     "section": "article 16",
+     "role": "principal",
+     "libelle": "Article 16 — RECOURS DES VOISINS ET DES TIERS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.607
+    },
+    {
+     "id": "P3",
+     "section": "article 30",
+     "role": "principal",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.665
+    },
+    {
+     "id": "P4",
+     "section": "clause 22C",
+     "role": "principal",
+     "libelle": "Clause 22C (art. 70) — Location de pièce(s) à un tiers dans votre résidence",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.636
+    },
+    {
+     "id": "P5",
+     "section": "article 33",
+     "role": "principal",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.171
+    },
+    {
+     "id": "P6",
+     "section": "article 36",
+     "role": "principal",
+     "libelle": "Article 36 — PACK ÉNERGIES RENOUVELABLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.075
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 4",
+     "role": "renvoi",
+     "libelle": "Article 4 — INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS"
+    },
+    {
+     "id": "P10",
+     "section": "article 52",
+     "role": "renvoi",
+     "libelle": "Article 52 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AU MOBILIER"
+    },
+    {
+     "id": "P11",
+     "section": "clause D43",
+     "role": "renvoi",
+     "libelle": "Clause D43 (art. 70) — Détériorations accidentelles et vol des appareils audiovisuels* en tous lieux"
+    },
+    {
+     "id": "P12",
+     "section": "article 51",
+     "role": "renvoi",
+     "libelle": "Article 51 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS"
+    },
+    {
+     "id": "P13",
+     "section": "article 31",
+     "role": "renvoi",
+     "libelle": "Article 31 — REMPLACEMENT À NEUF"
+    },
+    {
+     "id": "P14",
+     "section": "article 15",
+     "role": "renvoi",
+     "libelle": "Article 15 — RECOURS DES LOCATAIRES"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Audiovisuels (appareils) – Multimédia"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Panneau solaire"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Tentative de Vol"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage corporel"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Qualité"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Pièce principale"
+    }
+   ]
+  },
+  {
+   "id": "rc_chien_morsure",
+   "verdict": "couvert",
+   "attendues": [
+    "article 13"
+   ],
+   "manquantes": [
+    "article 13"
+   ],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 0.0,
+   "contexte_car": 44711,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 30",
+     "role": "principal",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.396
+    },
+    {
+     "id": "P2",
+     "section": "article 26",
+     "role": "principal",
+     "libelle": "Article 26 — GARANTIE SUR LE MOBILIER HORS DOMICILE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.748
+    },
+    {
+     "id": "P3",
+     "section": "article 6",
+     "role": "principal",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.722
+    },
+    {
+     "id": "P4",
+     "section": "clause 16",
+     "role": "principal",
+     "libelle": "Clause 16 (art. 70) — Système d’alarme agréé par la Société",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.173
+    },
+    {
+     "id": "P5",
+     "section": "clause HLL",
+     "role": "principal",
+     "libelle": "Clause HLL (art. 70) — Mobile home*",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.009
+    },
+    {
+     "id": "P6",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.989
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 51",
+     "role": "renvoi",
+     "libelle": "Article 51 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS"
+    },
+    {
+     "id": "P10",
+     "section": "article 31",
+     "role": "renvoi",
+     "libelle": "Article 31 — REMPLACEMENT À NEUF"
+    },
+    {
+     "id": "P11",
+     "section": "article 2",
+     "role": "renvoi",
+     "libelle": "Article 2 — LE MOBILIER"
+    },
+    {
+     "id": "P12",
+     "section": "clause M",
+     "role": "renvoi",
+     "libelle": "Clause M (art. 70) — Mobilier entreposé"
+    },
+    {
+     "id": "P13",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "P14",
+     "section": "clause 14",
+     "role": "renvoi",
+     "libelle": "Clause 14 (art. 70) — Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vétusté"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Facture d’achat d’origine"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    }
+   ]
+  },
+  {
+   "id": "rc_chien_dangereux",
+   "verdict": "depend",
+   "attendues": [
+    "article 13",
+    "clause DOG"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44603,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "clause 25",
+     "role": "principal",
+     "libelle": "Clause 25 (art. 70) — Surcoût architectural",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.203
+    },
+    {
+     "id": "P2",
+     "section": "clause DOG",
+     "role": "principal",
+     "libelle": "Clause DOG (art. 70) — Chiens dangereux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.243
+    },
+    {
+     "id": "P3",
+     "section": "article 2",
+     "role": "principal",
+     "libelle": "Article 2 — LE MOBILIER",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.198
+    },
+    {
+     "id": "P4",
+     "section": "article 10",
+     "role": "principal",
+     "libelle": "Article 10 — CATASTROPHES NATURELLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.08
+    },
+    {
+     "id": "P5",
+     "section": "article 49",
+     "role": "principal",
+     "libelle": "Article 49 — DÉCLARATION DU SINISTRE - SANCTIONS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 2.896
+    },
+    {
+     "id": "P6",
+     "section": "article 48",
+     "role": "principal",
+     "libelle": "Article 48 — DISPOSITIONS COMMUNES AUX ARTICLES 44 À 47",
+     "origine": [
+      "bm25"
+     ],
+     "score": 2.648
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 13",
+     "role": "renvoi",
+     "libelle": "Article 13 — RESPONSABILITÉ CIVILE VIE PRIVÉE"
+    },
+    {
+     "id": "P10",
+     "section": "clause DEP",
+     "role": "renvoi",
+     "libelle": "Clause DEP (art. 70) — Particulier dépositaire de caravanes, bateaux et autres matériels"
+    },
+    {
+     "id": "P11",
+     "section": "clause 22B",
+     "role": "renvoi",
+     "libelle": "Clause 22B (art. 70) — Usage professionnel"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Animal domestique"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Déchéance"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Valeur de reconstruction"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Meuble meublant"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets d’art"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Audiovisuels (appareils) – Multimédia"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage corporel"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Particularité architecturale"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Surcoût architectural"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets de valeur"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Téléphonie (appareils de)"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    }
+   ]
+  },
+  {
+   "id": "vol_etranger_hotel",
+   "verdict": "couvert",
+   "attendues": [
+    "article 26",
+    "article 40",
+    "article 7"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 41840,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 26",
+     "role": "principal",
+     "libelle": "Article 26 — GARANTIE SUR LE MOBILIER HORS DOMICILE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 14.977
+    },
+    {
+     "id": "P2",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.833
+    },
+    {
+     "id": "P3",
+     "section": "article 42D",
+     "role": "principal",
+     "libelle": "Article 42D — EXCLUSIONS PROPRES A L’ASSISTANCE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.665
+    },
+    {
+     "id": "P4",
+     "section": "article 55",
+     "role": "principal",
+     "libelle": "Article 55 — PAIEMENT DE L’INDEMNITÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 8.384
+    },
+    {
+     "id": "P5",
+     "section": "clause 29A",
+     "role": "principal",
+     "libelle": "Clause 29A (art. 70) — Chambres d’hôtes",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.614
+    },
+    {
+     "id": "P6",
+     "section": "clause 15",
+     "role": "principal",
+     "libelle": "Clause 15 (art. 70) — Moyens de protection mécanique",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.516
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 2",
+     "role": "renvoi",
+     "libelle": "Article 2 — LE MOBILIER"
+    },
+    {
+     "id": "P10",
+     "section": "clause M",
+     "role": "renvoi",
+     "libelle": "Clause M (art. 70) — Mobilier entreposé"
+    },
+    {
+     "id": "P11",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "P12",
+     "section": "article 34",
+     "role": "renvoi",
+     "libelle": "Article 34 — PACK JARDIN PLEIN AIR"
+    },
+    {
+     "id": "P13",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "P14",
+     "section": "clause 14",
+     "role": "renvoi",
+     "libelle": "Clause 14 (art. 70) — Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an"
+    },
+    {
+     "id": "P15",
+     "section": "article 58",
+     "role": "renvoi",
+     "libelle": "Article 58 — RENONCIATION À RECOURS"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets de valeur"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Accessoires vestimentaires"
+    }
+   ]
+  },
+  {
+   "id": "vol_etranger_plage",
+   "verdict": "non_couvert",
+   "attendues": [
+    "article 26",
+    "article 7"
+   ],
+   "manquantes": [
+    "article 7"
+   ],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 0.5,
+   "contexte_car": 44703,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 42A",
+     "role": "principal",
+     "libelle": "Article 42A — ASSISTANCE AUX ASSURÉS EN DÉPLACEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 9.275
+    },
+    {
+     "id": "P2",
+     "section": "article 26",
+     "role": "principal",
+     "libelle": "Article 26 — GARANTIE SUR LE MOBILIER HORS DOMICILE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.515
+    },
+    {
+     "id": "P3",
+     "section": "article 37",
+     "role": "principal",
+     "libelle": "Article 37 — PACK LOCATION MEUBLÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.227
+    },
+    {
+     "id": "P4",
+     "section": "clause D90",
+     "role": "principal",
+     "libelle": "Clause D90 (art. 70) — Détériorations accidentelles et vol des instruments de musique en tous lieux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.147
+    },
+    {
+     "id": "P5",
+     "section": "clause 16",
+     "role": "principal",
+     "libelle": "Clause 16 (art. 70) — Système d’alarme agréé par la Société",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.08
+    },
+    {
+     "id": "P6",
+     "section": "article 42B",
+     "role": "principal",
+     "libelle": "Article 42B — ASSISTANCE DANS VOTRE LOGEMENT ASSURÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.007
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 2",
+     "role": "renvoi",
+     "libelle": "Article 2 — LE MOBILIER"
+    },
+    {
+     "id": "P10",
+     "section": "clause M",
+     "role": "renvoi",
+     "libelle": "Clause M (art. 70) — Mobilier entreposé"
+    },
+    {
+     "id": "P11",
+     "section": "article 15",
+     "role": "renvoi",
+     "libelle": "Article 15 — RECOURS DES LOCATAIRES"
+    },
+    {
+     "id": "P12",
+     "section": "clause 16A",
+     "role": "renvoi",
+     "libelle": "Clause 16A (art. 70) — Télésurveillance agréée par la Société"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Téléphonie (appareils de)"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets de valeur"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Qualité"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Accessoires vestimentaires"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Subrogation"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    }
+   ]
+  },
+  {
+   "id": "vol_agression_rue",
+   "verdict": "couvert",
+   "attendues": [
+    "article 26"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44677,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 7",
+     "role": "principal",
+     "libelle": "Article 7 — VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.495
+    },
+    {
+     "id": "P2",
+     "section": "clause D43",
+     "role": "principal",
+     "libelle": "Clause D43 (art. 70) — Détériorations accidentelles et vol des appareils audiovisuels* en tous lieux",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.927
+    },
+    {
+     "id": "P3",
+     "section": "article 47",
+     "role": "principal",
+     "libelle": "Article 47 — INDEMNISATION ET SUBROGATION au titre des articles 44 et 45",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.537
+    },
+    {
+     "id": "P4",
+     "section": "article 26",
+     "role": "principal",
+     "libelle": "Article 26 — GARANTIE SUR LE MOBILIER HORS DOMICILE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.396
+    },
+    {
+     "id": "P5",
+     "section": "article 42A",
+     "role": "principal",
+     "libelle": "Article 42A — ASSISTANCE AUX ASSURÉS EN DÉPLACEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.739
+    },
+    {
+     "id": "P6",
+     "section": "article 42C",
+     "role": "principal",
+     "libelle": "Article 42C — ASSISTANCE PSYCHOLOGIQUE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 4.627
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 30",
+     "role": "renvoi",
+     "libelle": "Article 30 — DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT"
+    },
+    {
+     "id": "P10",
+     "section": "clause 14A",
+     "role": "renvoi",
+     "libelle": "Clause 14A (art. 70) — Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an"
+    },
+    {
+     "id": "P11",
+     "section": "clause 14",
+     "role": "renvoi",
+     "libelle": "Clause 14 (art. 70) — Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an"
+    },
+    {
+     "id": "P12",
+     "section": "clause M",
+     "role": "renvoi",
+     "libelle": "Clause M (art. 70) — Mobilier entreposé"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Téléphonie (appareils de)"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Agression"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Fonds, titres et valeurs"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vandalisme"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Véranda"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Désaffecté (bâtiment)"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Audiovisuels (appareils) – Multimédia"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Effraction"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Objets de valeur"
+    }
+   ]
+  },
+  {
+   "id": "termites_charpente",
+   "verdict": "non_couvert",
+   "attendues": [
+    "article 41"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 45910,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 9",
+     "role": "principal",
+     "libelle": "Article 9 — ÉVÉNEMENTS CLIMATIQUES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.717
+    },
+    {
+     "id": "P2",
+     "section": "article 13",
+     "role": "principal",
+     "libelle": "Article 13 — RESPONSABILITÉ CIVILE VIE PRIVÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 8.808
+    },
+    {
+     "id": "P3",
+     "section": "article 45",
+     "role": "principal",
+     "libelle": "Article 45 — PROTECTION JURIDIQUE VIE PRIVÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.683
+    },
+    {
+     "id": "P4",
+     "section": "article 42A",
+     "role": "principal",
+     "libelle": "Article 42A — ASSISTANCE AUX ASSURÉS EN DÉPLACEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.755
+    },
+    {
+     "id": "P5",
+     "section": "article 42B",
+     "role": "principal",
+     "libelle": "Article 42B — ASSISTANCE DANS VOTRE LOGEMENT ASSURÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.716
+    },
+    {
+     "id": "P6",
+     "section": "article 6",
+     "role": "principal",
+     "libelle": "Article 6 — BRIS DE VITRES ET ASSIMILÉS",
+     "origine": [
+      "bm25"
+     ],
+     "score": 6.628
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    }
+   ]
+  },
+  {
+   "id": "humidite_mur",
+   "verdict": "depend",
+   "attendues": [
+    "article 8"
+   ],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": 1.0,
+   "contexte_car": 44303,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "article 8",
+     "role": "principal",
+     "libelle": "Article 8 — DÉGATS DES EAUX - GEL",
+     "origine": [
+      "bm25"
+     ],
+     "score": 10.292
+    },
+    {
+     "id": "P2",
+     "section": "clause 29A",
+     "role": "principal",
+     "libelle": "Clause 29A (art. 70) — Chambres d’hôtes",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.614
+    },
+    {
+     "id": "P3",
+     "section": "article 35",
+     "role": "principal",
+     "libelle": "Article 35 — PACK PISCINE DÉTENTE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 7.166
+    },
+    {
+     "id": "P4",
+     "section": "clause 22C",
+     "role": "principal",
+     "libelle": "Clause 22C (art. 70) — Location de pièce(s) à un tiers dans votre résidence",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.045
+    },
+    {
+     "id": "P5",
+     "section": "clause HLL",
+     "role": "principal",
+     "libelle": "Clause HLL (art. 70) — Mobile home*",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.033
+    },
+    {
+     "id": "P6",
+     "section": "clause 11",
+     "role": "principal",
+     "libelle": "Clause 11 (art. 70) — Usufruitier agissant sans le nu-propriétaire",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.02
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "P9",
+     "section": "article 51",
+     "role": "renvoi",
+     "libelle": "Article 51 — ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS"
+    },
+    {
+     "id": "P10",
+     "section": "article 10",
+     "role": "renvoi",
+     "libelle": "Article 10 — CATASTROPHES NATURELLES"
+    },
+    {
+     "id": "P11",
+     "section": "article 33",
+     "role": "renvoi",
+     "libelle": "Article 33 — PACK TRANQUILLITÉ"
+    },
+    {
+     "id": "P12",
+     "section": "article 58",
+     "role": "renvoi",
+     "libelle": "Article 58 — RENONCIATION À RECOURS"
+    },
+    {
+     "id": "P13",
+     "section": "article 15",
+     "role": "renvoi",
+     "libelle": "Article 15 — RECOURS DES LOCATAIRES"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dépendance"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Réparable (bien)"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Appareils à effet d’eau"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vitre"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vétusté"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Annexe"
+    },
+    {
+     "id": "D9",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Inoccupation"
+    },
+    {
+     "id": "D10",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Mobile home"
+    },
+    {
+     "id": "D11",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Valeur de remplacement"
+    },
+    {
+     "id": "D12",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Irréparable (bien)"
+    },
+    {
+     "id": "D13",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Facture d’achat d’origine"
+    },
+    {
+     "id": "D14",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    },
+    {
+     "id": "D15",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage corporel"
+    }
+   ]
+  },
+  {
+   "id": "sinistre_imprecis",
+   "verdict": [
+    "incertain",
+    "depend"
+   ],
+   "attendues": [],
+   "manquantes": [],
+   "manquantes_proposees_par_llm": [],
+   "rappel": null,
+   "contexte_car": 44963,
+   "analyse": null,
+   "erreur_llm": null,
+   "passages": [
+    {
+     "id": "P1",
+     "section": "clause 25",
+     "role": "principal",
+     "libelle": "Clause 25 (art. 70) — Surcoût architectural",
+     "origine": [
+      "bm25"
+     ],
+     "score": 5.203
+    },
+    {
+     "id": "P2",
+     "section": "article 42A",
+     "role": "principal",
+     "libelle": "Article 42A — ASSISTANCE AUX ASSURÉS EN DÉPLACEMENT",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.249
+    },
+    {
+     "id": "P3",
+     "section": "article 10",
+     "role": "principal",
+     "libelle": "Article 10 — CATASTROPHES NATURELLES",
+     "origine": [
+      "bm25"
+     ],
+     "score": 3.08
+    },
+    {
+     "id": "P4",
+     "section": "article 13",
+     "role": "principal",
+     "libelle": "Article 13 — RESPONSABILITÉ CIVILE VIE PRIVÉE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 2.968
+    },
+    {
+     "id": "P5",
+     "section": "article 42B",
+     "role": "principal",
+     "libelle": "Article 42B — ASSISTANCE DANS VOTRE LOGEMENT ASSURÉ",
+     "origine": [
+      "bm25"
+     ],
+     "score": 2.872
+    },
+    {
+     "id": "P6",
+     "section": "article 27",
+     "role": "principal",
+     "libelle": "Article 27 — FRAIS DE SECOURS / SAUVETAGE",
+     "origine": [
+      "bm25"
+     ],
+     "score": 2.76
+    },
+    {
+     "id": "P7",
+     "section": "article 41",
+     "role": "renvoi",
+     "libelle": "Article 41 — EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+    },
+    {
+     "id": "P8",
+     "section": "article 40",
+     "role": "renvoi",
+     "libelle": "Article 40 — ÉTENDUE TERRITORIALE DES GARANTIES"
+    },
+    {
+     "id": "D1",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Conjoint"
+    },
+    {
+     "id": "D2",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Valeur de reconstruction"
+    },
+    {
+     "id": "D3",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Stage d’études"
+    },
+    {
+     "id": "D4",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Employé de maison"
+    },
+    {
+     "id": "D5",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Feux d’artifice d’amateurs"
+    },
+    {
+     "id": "D6",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Vol"
+    },
+    {
+     "id": "D7",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Téléphonie (appareils de)"
+    },
+    {
+     "id": "D8",
+     "section": "lexique",
+     "role": "définition",
+     "libelle": "Dommage matériel"
+    }
+   ]
+  }
+ ]
+}

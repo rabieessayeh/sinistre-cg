@@ -1,0 +1,1108 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_30",
+ "numero": "30",
+ "titre": "DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT",
+ "chapitre": {
+  "numero": 6,
+  "titre": "LES GARANTIES EN OPTION"
+ },
+ "page_debut": 21,
+ "page_fin": 21,
+ "pages": [
+  21
+ ],
+ "texte": "Lorsque vous avez souscrit cette option, nous garantissons :\nles biens suivants :\n- les éléments de clôture du terrain où sont situés les bâtiments assurés : murs de clôture, grillages, clôtures en\nbois, métal, plastiques ou matériaux similaires, haies vives plantées depuis plus de 2 ans, portails et leurs\naccessoires (système de motorisation, interphone) ainsi que les équipements intégrés aux clôtures (alarme,\nvidéosurveillance) ;\n- les murs de soutènement des bâtiments assurés ou du terrain sur lesquels ces derniers sont construits ;\npour les seuls événements suivants tels que définis au Chapitre 2 :\n- chute de la foudre y compris les dommages causés par la chute d’un arbre abattu par la foudre,\n- incendie, explosion,\n- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,\n- choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les membres\nde la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes civilement\nresponsable,\n- dommages d’ordre électrique (court-circuit, surtension) sur les moteurs et appareils électriques ou électroniques\njusqu’à leurs 10 ans révolus*,\n- action directe du vent dû aux tempêtes, ouragans, cyclones (art. L122-7 du Code) ou choc d’un corps renversé ou\nprojeté par le vent, choc des grêlons, avalanche,\n- catastrophe naturelle,\n- attentat, acte de terrorisme,\n- vol, tentative de vol, vandalisme, détériorations en résultant sur les portails, leurs accessoires ou les équipements\nintégrés aux clôtures ainsi que les éléments de clôture assurée.\nNous ne garantissons pas, outre les exclusions prévues à l’article 41 :\n• les dommages causés par l’explosion de dynamite ou explosifs analogues, que vous détenez (hormis les feux\nd’artifice d’amateurs*),\n• les dommages causés par les mers et océans, par les inondations sauf mise en œuvre de la garantie Catastrophe\nNaturelle,\n• les dommages résultant d’un défaut de réparations indispensables vous incombant sur des clôtures ou des murs\nde soutènement comportant des fissures menaçant leur solidité, ou partiellement effondrés, si vous n’y avez pas\nremédié dans un délai de 30 jours après en avoir eu connaissance.\nModalités d’indemnisation :\nLes dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.\nL’option Remplacement à neuf (art. 31) si elle est souscrite, ne s’applique pas à l’option Clôtures, portails et murs\nde soutènement.\nL’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières au titre de cette\noption.",
+ "lignes": [
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 94.72,
+   "x1": 330.13,
+   "y1": 104.94,
+   "text": "Lorsque vous avez souscrit cette option, nous garantissons :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Lorsque vous avez souscrit cette option",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 242.61
+    },
+    {
+     "text": "nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 248.17
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 324.57
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 108.55,
+   "x1": 151.1,
+   "y1": 118.77,
+   "text": "les biens suivants :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "les biens suivants :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 120.97,
+   "x1": 566.2,
+   "y1": 131.19,
+   "text": "- les éléments de clôture du terrain où sont situés les bâtiments assurés : murs de clôture, grillages, clôtures en",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les éléments de clôture du terrain où sont situés les bâtiments assurés : murs de clôture, grillages, clôtures en",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 131.97,
+   "x1": 566.2,
+   "y1": 142.19,
+   "text": "bois, métal, plastiques ou matériaux similaires, haies vives plantées depuis plus de 2 ans, portails et leurs",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "bois, métal, plastiques ou matériaux similaires, haies vives plantées depuis plus de 2 ans, portails et leurs",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 142.97,
+   "x1": 566.21,
+   "y1": 153.19,
+   "text": "accessoires (système de motorisation, interphone) ainsi que les équipements intégrés aux clôtures (alarme,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "accessoires ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": "(système de motorisation, interphone)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 140.5
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 297.78
+    },
+    {
+     "text": "ainsi que les équipements intégrés aux clôtures ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 303.46
+    },
+    {
+     "text": "(alarme,",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 533.81
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.03,
+   "y0": 153.97,
+   "x1": 161.01,
+   "y1": 164.19,
+   "text": "vidéosurveillance) ;",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "vidéosurveillance)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 85.03
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 155.45
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 166.39,
+   "x1": 527.86,
+   "y1": 176.61,
+   "text": "- les murs de soutènement des bâtiments assurés ou du terrain sur lesquels ces derniers sont construits ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les murs de soutènement des bâtiments assurés ou du terrain sur lesquels ces derniers sont construits ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 180.22,
+   "x1": 355.63,
+   "y1": 190.44,
+   "text": "pour les seuls événements suivants tels que définis au Chapitre 2 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "pour les seuls événements suivants",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " tels que définis au Chapitre 2 :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 221.67
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 192.64,
+   "x1": 500.39,
+   "y1": 202.86,
+   "text": "- chute de la foudre y compris les dommages causés par la chute d’un arbre abattu par la foudre,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- chute de la foudre y compris les dommages causés par la chute d’un arbre abattu par la foudre,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 205.06,
+   "x1": 178.43,
+   "y1": 215.28,
+   "text": "- incendie, explosion,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- incendie, explosion,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 217.48,
+   "x1": 486.55,
+   "y1": 227.7,
+   "text": "- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 229.9,
+   "x1": 566.21,
+   "y1": 240.12,
+   "text": "- choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les membres",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- choc d’un véhicule terrestre dont le conducteur n’est ni vous",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 349.12
+    },
+    {
+     "text": ", ni votre conjoint",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 353.56
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 429.22
+    },
+    {
+     "text": ", ni le cas échéant les membres",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 433.66
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 240.9,
+   "x1": 566.22,
+   "y1": 251.12,
+   "text": "de la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes civilement",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes civilement",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 251.9,
+   "x1": 138.96,
+   "y1": 262.12,
+   "text": "responsable,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "responsable,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 264.31,
+   "x1": 566.21,
+   "y1": 274.54,
+   "text": "- dommages d’ordre électrique (court-circuit, surtension) sur les moteurs et appareils électriques ou électroniques",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- dommages d’ordre électrique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    },
+    {
+     "text": "(court-circuit, surtension)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 221.86
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 319.2
+    },
+    {
+     "text": "sur les moteurs et appareils électriques ou électroniques",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 322.42
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 275.31,
+   "x1": 212.7,
+   "y1": 285.53,
+   "text": "jusqu’à leurs 10 ans révolus*,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "jusqu’à leurs 10 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.04
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 205.48
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 209.92
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 287.72,
+   "x1": 566.21,
+   "y1": 297.95,
+   "text": "- action directe du vent dû aux tempêtes, ouragans, cyclones (art. L122-7 du Code) ou choc d’un corps renversé ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- action directe du vent dû aux tempêtes, ouragans, cyclones ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": "(art. L122-7 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 346.45
+    },
+    {
+     "text": " ou choc d’un corps renversé ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 428.93
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.03,
+   "y0": 298.72,
+   "x1": 292.42,
+   "y1": 308.94,
+   "text": "projeté par le vent, choc des grêlons, avalanche,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "projeté par le vent, choc des grêlons, avalanche,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.03
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.03,
+   "y0": 311.14,
+   "x1": 183.95,
+   "y1": 321.36,
+   "text": "- catastrophe naturelle,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- catastrophe naturelle,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.03
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.03,
+   "y0": 323.56,
+   "x1": 208.39,
+   "y1": 333.78,
+   "text": "- attentat, acte de terrorisme,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- attentat, acte de terrorisme,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.03
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.03,
+   "y0": 335.98,
+   "x1": 566.25,
+   "y1": 346.2,
+   "text": "- vol, tentative de vol, vandalisme, détériorations en résultant sur les portails, leurs accessoires ou les équipements",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- vol, tentative de vol, vandalisme, détériorations en résultant sur les portails, leurs accessoires ou les équipements",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.03
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 85.03,
+   "y0": 346.98,
+   "x1": 354.01,
+   "y1": 357.2,
+   "text": "intégrés aux clôtures ainsi que les éléments de clôture assurée.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "intégrés aux clôtures ainsi que les éléments de clôture assurée.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.03
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 367.82,
+   "x1": 371.0,
+   "y1": 378.04,
+   "text": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 381.65,
+   "x1": 566.21,
+   "y1": 391.87,
+   "text": "• les dommages causés par l’explosion de dynamite ou explosifs analogues, que vous détenez (hormis les feux",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    },
+    {
+     "text": "les dommages causés par l’explosion de dynamite ou explosifs analogues, que vous détenez ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.28
+    },
+    {
+     "text": "(hormis les feux",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 502.34
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 392.64,
+   "x1": 159.61,
+   "y1": 402.86,
+   "text": "d’artifice d’amateurs*),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’artifice d’amateurs",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 149.89
+    },
+    {
+     "text": ")",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 154.33
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 156.83
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 406.47,
+   "x1": 566.21,
+   "y1": 416.69,
+   "text": "• les dommages causés par les mers et océans, par les inondations sauf mise en œuvre de la garantie Catastrophe",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.93
+    },
+    {
+     "text": "les dommages causés par les mers et océans, par les inondations",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.96
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 362.58
+    },
+    {
+     "text": "sauf mise en œuvre de la garantie Catastrophe",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 365.61
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 417.47,
+   "x1": 113.66,
+   "y1": 427.69,
+   "text": "Naturelle,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Naturelle,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 431.3,
+   "x1": 566.2,
+   "y1": 441.52,
+   "text": "• les dommages résultant d’un défaut de réparations indispensables vous incombant sur des clôtures ou des murs",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " les dommages résultant d’un défaut de réparations indispensables vous incombant sur des clôtures ou des murs",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.93
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 442.3,
+   "x1": 566.22,
+   "y1": 452.52,
+   "text": "de soutènement comportant des fissures menaçant leur solidité, ou partiellement effondrés, si vous n’y avez pas",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "de soutènement comportant des fissures menaçant leur solidité, ou partiellement effondrés,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 475.74
+    },
+    {
+     "text": "si vous n’y avez pas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 479.06
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 453.3,
+   "x1": 357.17,
+   "y1": 463.52,
+   "text": "remédié dans un délai de 30 jours après en avoir eu connaissance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "remédié dans un délai de 30 jours après en avoir eu connaissance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 478.13,
+   "x1": 192.03,
+   "y1": 488.35,
+   "text": "Modalités d’indemnisation :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Modalités d’indemnisation :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 491.96,
+   "x1": 494.36,
+   "y1": 502.18,
+   "text": "Les dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51. ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 505.79,
+   "x1": 566.2,
+   "y1": 516.04,
+   "text": "L’option Remplacement à neuf (art. 31) si elle est souscrite, ne s’applique pas à l’option Clôtures, portails et murs",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’option Remplacement à neuf ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": "(art. 31)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 207.57
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 239.82
+    },
+    {
+     "text": "si elle est souscrite, ne s’applique pas à l’option ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 242.88
+    },
+    {
+     "text": "Clôtures, portails et murs",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 454.9
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 516.82,
+   "x1": 143.11,
+   "y1": 527.04,
+   "text": "de soutènement.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "de soutènement",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": ".",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 140.33
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 530.65,
+   "x1": 566.21,
+   "y1": 540.87,
+   "text": "L’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières au titre de cette",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières au titre de cette",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 541.65,
+   "x1": 102.0,
+   "y1": 551.87,
+   "text": "option.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "option.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "garantie",
+   "texte": "Lorsque vous avez souscrit cette option, nous garantissons :\nles biens suivants :\n- les éléments de clôture du terrain où sont situés les bâtiments assurés : murs de clôture, grillages, clôtures en\nbois, métal, plastiques ou matériaux similaires, haies vives plantées depuis plus de 2 ans, portails et leurs\naccessoires (système de motorisation, interphone) ainsi que les équipements intégrés aux clôtures (alarme,\nvidéosurveillance) ;\n- les murs de soutènement des bâtiments assurés ou du terrain sur lesquels ces derniers sont construits ;\npour les seuls événements suivants tels que définis au Chapitre 2 :\n- chute de la foudre y compris les dommages causés par la chute d’un arbre abattu par la foudre,\n- incendie, explosion,\n- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,\n- choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les membres\nde la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes civilement\nresponsable,\n- dommages d’ordre électrique (court-circuit, surtension) sur les moteurs et appareils électriques ou électroniques\njusqu’à leurs 10 ans révolus*,\n- action directe du vent dû aux tempêtes, ouragans, cyclones (art. L122-7 du Code) ou choc d’un corps renversé ou\nprojeté par le vent, choc des grêlons, avalanche,\n- catastrophe naturelle,\n- attentat, acte de terrorisme,\n- vol, tentative de vol, vandalisme, détériorations en résultant sur les portails, leurs accessoires ou les équipements\nintégrés aux clôtures ainsi que les éléments de clôture assurée.",
+   "pages": [
+    21
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "vous",
+     "terme": "Vous"
+    },
+    {
+     "forme": "conjoint",
+     "terme": "Conjoint"
+    },
+    {
+     "forme": "révolus",
+     "terme": "Année révolue"
+    }
+   ]
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :\n• les dommages causés par l’explosion de dynamite ou explosifs analogues, que vous détenez (hormis les feux\nd’artifice d’amateurs*),\n• les dommages causés par les mers et océans, par les inondations sauf mise en œuvre de la garantie Catastrophe\nNaturelle,\n• les dommages résultant d’un défaut de réparations indispensables vous incombant sur des clôtures ou des murs\nde soutènement comportant des fissures menaçant leur solidité, ou partiellement effondrés, si vous n’y avez pas\nremédié dans un délai de 30 jours après en avoir eu connaissance.\nModalités d’indemnisation :\nLes dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.\nL’option Remplacement à neuf (art. 31) si elle est souscrite, ne s’applique pas à l’option Clôtures, portails et murs\nde soutènement.\nL’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières au titre de cette\noption.",
+   "pages": [
+    21
+   ],
+   "renvois_articles": [
+    "41",
+    "51",
+    "31"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "feux d’artifice d’amateurs",
+     "terme": "Feux d’artifice d’amateurs"
+    }
+   ]
+  }
+ ],
+ "renvois_articles": [
+  "41",
+  "51",
+  "31"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": [
+  {
+   "forme": "vous",
+   "terme": "Vous"
+  },
+  {
+   "forme": "conjoint",
+   "terme": "Conjoint"
+  },
+  {
+   "forme": "révolus",
+   "terme": "Année révolue"
+  },
+  {
+   "forme": "feux d’artifice d’amateurs",
+   "terme": "Feux d’artifice d’amateurs"
+  }
+ ]
+}

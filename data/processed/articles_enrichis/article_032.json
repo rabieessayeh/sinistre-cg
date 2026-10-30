@@ -1,0 +1,693 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_32",
+ "numero": "32",
+ "titre": "PACK JEUNE",
+ "chapitre": {
+  "numero": 6,
+  "titre": "LES GARANTIES EN OPTION"
+ },
+ "page_debut": 22,
+ "page_fin": 22,
+ "pages": [
+  22
+ ],
+ "texte": "Lorsque vous avez souscrit cette option, nous garantissons :\nles biens suivants :\n- les appareils électroménagers jusqu’à 10 ans révolus*,\n- les appareils audiovisuels* jusqu’à 5 ans révolus*,\nendommagés par les événements suivants :\n- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,\nsous-tension), sur les biens énoncés ci-avant,\n- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des parties électriques ou électroniques\nd’un des biens énoncés ci-avant ; toutefois si le sinistre se communique à d’autres biens assurés voisins,\nl’ensemble des dommages sera pris en charge au titre de l’article 4 -Incendie, explosion et assimilés-.\nNous ne garantissons pas, outre les exclusions prévues à l’article 41 :\n• les dommages survenant hors des bâtiments assurés, -sauf souscription de la clause D43 (art. 70)-\n• les dommages dus à la chute directe de la foudre sur les biens assurés -ces dommages peuvent être couverts au titre de l’article 4-,\n• les dommages causés :\n- aux fusibles -y compris aux parafoudres-, lampes et tubes de toute nature,\n- au contenu des appareils et matériels,\n• la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des\nsupports informatiques.\nModalités d’indemnisation :\nLes dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 52.\nL’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières pour ce Pack Jeune.",
+ "lignes": [
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 379.7,
+   "x1": 330.49,
+   "y1": 389.92,
+   "text": "Lorsque vous avez souscrit cette option, nous garantissons :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Lorsque vous avez souscrit cette option,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    },
+    {
+     "text": " nous garantissons :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 245.75
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 393.53,
+   "x1": 151.46,
+   "y1": 403.75,
+   "text": "les biens suivants :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "les biens suivants :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 405.95,
+   "x1": 324.74,
+   "y1": 416.17,
+   "text": "- les appareils électroménagers jusqu’à 10 ans révolus*,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les appareils électroménagers ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.4
+    },
+    {
+     "text": "jusqu’à 10 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 220.98
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 317.52
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 321.96
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 418.37,
+   "x1": 306.3,
+   "y1": 428.59,
+   "text": "- les appareils audiovisuels* jusqu’à 5 ans révolus*,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les appareils audiovisuels",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.4
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 200.88
+    },
+    {
+     "text": " jusqu’à 5 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 205.32
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 299.08
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 303.52
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 432.2,
+   "x1": 257.58,
+   "y1": 442.42,
+   "text": "endommagés par les événements suivants :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "endommagés par les événements suivants :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 444.62,
+   "x1": 566.59,
+   "y1": 454.84,
+   "text": "- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.4
+    },
+    {
+     "text": "(surtension,",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 522.07
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.41,
+   "y0": 455.62,
+   "x1": 272.11,
+   "y1": 465.84,
+   "text": "sous-tension), sur les biens énoncés ci-avant,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "sous-tension)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 85.41
+    },
+    {
+     "text": ", sur les biens énoncés ci-avant,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 135.93
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 468.04,
+   "x1": 566.59,
+   "y1": 478.26,
+   "text": "- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des parties électriques ou électroniques",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des parties électriques ou électroniques",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.4
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 479.04,
+   "x1": 566.59,
+   "y1": 489.26,
+   "text": "d’un des biens énoncés ci-avant ; toutefois si le sinistre se communique à d’autres biens assurés voisins,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’un des biens énoncés ci-avant ; toutefois si le sinistre se communique à d’autres biens assurés voisins,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.4
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 490.04,
+   "x1": 505.4,
+   "y1": 500.26,
+   "text": "l’ensemble des dommages sera pris en charge au titre de l’article 4 -Incendie, explosion et assimilés-.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’ensemble des dommages sera pris en charge au titre de l’article 4 ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.4
+    },
+    {
+     "text": "-Incendie, explosion et assimilés-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 374.07
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 502.62
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 504.87,
+   "x1": 371.37,
+   "y1": 515.09,
+   "text": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 518.7,
+   "x1": 483.8,
+   "y1": 528.93,
+   "text": "• les dommages survenant hors des bâtiments assurés, -sauf souscription de la clause D43 (art. 70)-",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " les dommages survenant hors des bâtiments assurés",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.29
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 304.77
+    },
+    {
+     "text": "-sauf souscription de la clause ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 310.33
+    },
+    {
+     "text": "D43",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 429.38
+    },
+    {
+     "text": " (art. 70)-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 448.28
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 532.54,
+   "x1": 566.59,
+   "y1": 542.76,
+   "text": "• les dommages dus à la chute directe de la foudre sur les biens assurés -ces dommages peuvent être couverts au titre de l’article 4-,",
+   "font": "Optima-Bold",
+   "size": 9.8,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " les dommages dus à la chute directe de la foudre sur les biens assurés",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 77.29
+    },
+    {
+     "text": " -ces dommages peuvent être couverts au titre de l’article 4-",
+     "font": "Optima",
+     "size": 8.82,
+     "bold": false,
+     "x0": 354.72
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 563.92
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 546.38,
+   "x1": 177.87,
+   "y1": 556.6,
+   "text": "• les dommages causés :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " les dommages causés :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.29
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 558.79,
+   "x1": 401.26,
+   "y1": 569.02,
+   "text": "- aux fusibles -y compris aux parafoudres-, lampes et tubes de toute nature,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- aux fusibles ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.4
+    },
+    {
+     "text": "-y compris aux parafoudres-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 145.25
+    },
+    {
+     "text": ", lampes et tubes de toute nature,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 255.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 571.21,
+   "x1": 256.44,
+   "y1": 581.43,
+   "text": "- au contenu des appareils et matériels,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- au contenu des appareils et matériels,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.4
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 585.04,
+   "x1": 566.6,
+   "y1": 595.26,
+   "text": "• la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.29
+    },
+    {
+     "text": "la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.08
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 596.04,
+   "x1": 174.42,
+   "y1": 606.26,
+   "text": "supports informatiques.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "supports informatiques.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 616.88,
+   "x1": 192.39,
+   "y1": 627.1,
+   "text": "Modalités d’indemnisation :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Modalités d’indemnisation :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 629.3,
+   "x1": 491.94,
+   "y1": 639.52,
+   "text": "Les dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 52.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 52.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 641.72,
+   "x1": 556.68,
+   "y1": 651.94,
+   "text": "L’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières pour ce Pack Jeune.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières pour ce Pack Jeune.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "garantie",
+   "texte": "Lorsque vous avez souscrit cette option, nous garantissons :\nles biens suivants :\n- les appareils électroménagers jusqu’à 10 ans révolus*,\n- les appareils audiovisuels* jusqu’à 5 ans révolus*,\nendommagés par les événements suivants :\n- la chute de la foudre, l’action directe ou indirecte de l’électricité canalisée ou atmosphérique (surtension,\nsous-tension), sur les biens énoncés ci-avant,\n- l’incendie, l’explosion ou l’implosion, prenant naissance à l’intérieur des parties électriques ou électroniques\nd’un des biens énoncés ci-avant ; toutefois si le sinistre se communique à d’autres biens assurés voisins,\nl’ensemble des dommages sera pris en charge au titre de l’article 4 -Incendie, explosion et assimilés-.",
+   "pages": [
+    22
+   ],
+   "renvois_articles": [
+    "4"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "révolus",
+     "terme": "Année révolue"
+    },
+    {
+     "forme": "audiovisuels",
+     "terme": "Audiovisuels (appareils) – Multimédia"
+    }
+   ]
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :\n• les dommages survenant hors des bâtiments assurés, -sauf souscription de la clause D43 (art. 70)-\n• les dommages dus à la chute directe de la foudre sur les biens assurés -ces dommages peuvent être couverts au titre de l’article 4-,\n• les dommages causés :\n- aux fusibles -y compris aux parafoudres-, lampes et tubes de toute nature,\n- au contenu des appareils et matériels,\n• la reconstitution des fichiers informatiques endommagés : logiciel, progiciel et informations stockées sur des\nsupports informatiques.\nModalités d’indemnisation :\nLes dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 52.\nL’indemnité due ne peut excéder le plafond de garantie retenu aux Conditions particulières pour ce Pack Jeune.",
+   "pages": [
+    22
+   ],
+   "renvois_articles": [
+    "41",
+    "70",
+    "4",
+    "52"
+   ],
+   "renvois_clauses": [
+    "D43"
+   ],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "4",
+  "41",
+  "70",
+  "52"
+ ],
+ "renvois_clauses": [
+  "D43"
+ ],
+ "termes_definis": [
+  {
+   "forme": "révolus",
+   "terme": "Année révolue"
+  },
+  {
+   "forme": "audiovisuels",
+   "terme": "Audiovisuels (appareils) – Multimédia"
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_20",
+ "numero": "20",
+ "titre": "MESURES DE SAUVETAGE",
+ "chapitre": {
+  "numero": 4,
+  "titre": "LES GARANTIES COMPLÉMENTAIRES"
+ },
+ "page_debut": 16,
+ "page_fin": 16,
+ "pages": [
+  16
+ ],
+ "texte": "Sont inclus dans l’estimation des biens assurés (selon chapitre 11) :\n- les frais de recharge des extincteurs utilisés pour lutter contre l’incendie des biens assurés, sans application de\nla franchise Dommages,\n- les frais exposés avec notre accord pour la protection du sauvetage (bâchage, frais de clôture provisoire notamment),\n- les dommages matériels causés aux biens assurés par l’intervention des secours à l’occasion d’un évènement\nvisé au chapitre 2.\nNous garantissons également les dommages matériels causés aux biens assurés par les secours intervenant pour\nassister une personne en danger.",
+ "lignes": [
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 314.51,
+   "x1": 351.06,
+   "y1": 324.74,
+   "text": "Sont inclus dans l’estimation des biens assurés (selon chapitre 11) :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Sont inclus dans l’estimation des biens assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "(selon chapitre 11)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 273.63
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 345.5
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 328.35,
+   "x1": 565.76,
+   "y1": 338.57,
+   "text": "- les frais de recharge des extincteurs utilisés pour lutter contre l’incendie des biens assurés, sans application de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les frais de recharge des extincteurs utilisés pour lutter contre l’incendie des biens assurés, sans application de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 339.35,
+   "x1": 189.65,
+   "y1": 349.57,
+   "text": "la franchise Dommages,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la franchise Dommages,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 353.18,
+   "x1": 565.75,
+   "y1": 363.41,
+   "text": "- les frais exposés avec notre accord pour la protection du sauvetage (bâchage, frais de clôture provisoire notamment),",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les frais exposés avec notre accord pour la protection du sauvetage ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    },
+    {
+     "text": "(bâchage, frais de clôture provisoire notamment)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 377.53
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 562.97
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 367.02,
+   "x1": 565.75,
+   "y1": 377.24,
+   "text": "- les dommages matériels causés aux biens assurés par l’intervention des secours à l’occasion d’un évènement",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les dommages matériels causés aux biens assurés par l’intervention des secours à l’occasion d’un évènement",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 378.02,
+   "x1": 164.78,
+   "y1": 388.24,
+   "text": "visé au chapitre 2.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "visé au chapitre 2.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 392.35,
+   "x1": 565.77,
+   "y1": 402.57,
+   "text": "Nous garantissons également les dommages matériels causés aux biens assurés par les secours intervenant pour",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons également",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 200.22
+    },
+    {
+     "text": "les dommages matériels causés aux biens assurés par les secours intervenant pour",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 203.97
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 403.85,
+   "x1": 211.18,
+   "y1": 414.07,
+   "text": "assister une personne en danger.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "assister une personne en danger.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "Sont inclus dans l’estimation des biens assurés (selon chapitre 11) :\n- les frais de recharge des extincteurs utilisés pour lutter contre l’incendie des biens assurés, sans application de\nla franchise Dommages,\n- les frais exposés avec notre accord pour la protection du sauvetage (bâchage, frais de clôture provisoire notamment),\n- les dommages matériels causés aux biens assurés par l’intervention des secours à l’occasion d’un évènement\nvisé au chapitre 2.",
+   "pages": [
+    16
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons également les dommages matériels causés aux biens assurés par les secours intervenant pour\nassister une personne en danger.",
+   "pages": [
+    16
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

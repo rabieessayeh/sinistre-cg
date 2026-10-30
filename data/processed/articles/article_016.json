@@ -1,0 +1,95 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_16",
+ "numero": "16",
+ "titre": "RECOURS DES VOISINS ET DES TIERS",
+ "chapitre": {
+  "numero": 3,
+  "titre": "LES RESPONSABILITÉS ASSURABLES"
+ },
+ "page_debut": 15,
+ "page_fin": 15,
+ "pages": [
+  15
+ ],
+ "texte": "Nous garantissons les conséquences pécuniaires de la responsabilité civile que vous pouvez encourir, en vertu des\narticles 1382 à 1384 du Code Civil, pour tous dommages matériels et immatériels causés aux biens de vos voisins ou\ndes tiers et résultant d’un événement visé au chapitre 2, survenu dans les biens assurés.",
+ "lignes": [
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 94.53,
+   "x1": 565.94,
+   "y1": 104.75,
+   "text": "Nous garantissons les conséquences pécuniaires de la responsabilité civile que vous pouvez encourir, en vertu des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 58.57
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 138.18
+    },
+    {
+     "text": "les conséquences pécuniaires de la responsabilité civile que vous pouvez encourir, en vertu des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 141.96
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 105.53,
+   "x1": 565.93,
+   "y1": 115.75,
+   "text": "articles 1382 à 1384 du Code Civil, pour tous dommages matériels et immatériels causés aux biens de vos voisins ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "articles 1382 à 1384 du Code Civil, pour tous dommages matériels et immatériels causés aux biens de vos voisins ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 58.57
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 116.53,
+   "x1": 432.86,
+   "y1": 126.75,
+   "text": "des tiers et résultant d’un événement visé au chapitre 2, survenu dans les biens assurés.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "des tiers et résultant d’un événement visé au chapitre 2, survenu dans les biens assurés.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 58.57
+    }
+   ]
+  }
+ ]
+}

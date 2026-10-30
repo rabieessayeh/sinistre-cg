@@ -1,0 +1,729 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_26",
+ "numero": "26",
+ "titre": "GARANTIE SUR LE MOBILIER HORS DOMICILE",
+ "chapitre": {
+  "numero": 5,
+  "titre": "LES GARANTIES HORS DOMICILE"
+ },
+ "page_debut": 18,
+ "page_fin": 19,
+ "pages": [
+  18,
+  19
+ ],
+ "texte": "(lorsque le mobilier est garanti)\nA - Nous garantissons, hors du lieu d’assurance indiqué aux Conditions particulières, les dommages subis par les\nbiens mobiliers visés à l’article 2-1-A et D,\n- que vous emportez :\n* dans un logement dont vous êtes temporairement locataire ou occupant non propriétaire, pour un séjour\nd’une durée maximale de 90 jours consécutifs ou pour un stage ou une formation d’une durée maximale de\n6 mois (par exemple : chez des parents ou amis, dans un hôtel, gîte, pension, mobile home, caravane, tente de camping,\nbateau de plaisance),\n* en voyage ou transport par route, fer, air ou eau,\n- ou que vous laissez en dépôt chez un tiers (par exemple : en exposition, en garde meubles…). Lorsque la clause M\nest souscrite, elle complète si besoin la présente garantie.\nNotre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.\nB - Nous garantissons également en tous lieux le vol par agression de vos biens et effets personnels : vêtements et\naccessoires vestimentaires, bagages à main y compris les clés de vos bâtiments et de vos véhicules assurés en vol\nauprès de nous, matériel vidéo, photo, son, téléphonie, ordinateur.\nNous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n• le vol des objets de valeur, des biens précieux, définis à l’article 2 B et C ci-avant,\n• le vol des fonds, titres et valeurs, des documents administratifs (passeport, carte d’identité, permis de conduire,\ncertificat d’immatriculation de véhicule),\n• le vol des clés non visées ci-avant.\nLes garanties hors domicile",
+ "lignes": [
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 298.64,
+   "y0": 541.84,
+   "x1": 418.57,
+   "y1": 551.04,
+   "text": "(lorsque le mobilier est garanti)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(lorsque le mobilier est garanti)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 298.64
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 560.59,
+   "x1": 565.33,
+   "y1": 570.81,
+   "text": "A - Nous garantissons, hors du lieu d’assurance indiqué aux Conditions particulières, les dommages subis par les",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "A - Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.04
+    },
+    {
+     "text": ", hors du lieu d’assurance indiqué aux Conditions particulières, les dommages subis par les",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 179.09
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 571.59,
+   "x1": 271.77,
+   "y1": 581.81,
+   "text": "biens mobiliers visés à l’article 2-1-A et D,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "biens mobiliers",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.04
+    },
+    {
+     "text": " visés à l’article 2-1-A et D, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 152.18
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 585.42,
+   "x1": 179.78,
+   "y1": 595.64,
+   "text": "- que vous emportez :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- que vous emportez :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 100.21,
+   "y0": 599.25,
+   "x1": 565.33,
+   "y1": 609.47,
+   "text": "* dans un logement dont vous êtes temporairement locataire ou occupant non propriétaire, pour un séjour",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 100.21
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 104.65
+    },
+    {
+     "text": "dans un logement dont vous êtes ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 107.84
+    },
+    {
+     "text": "temporairement",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 254.06
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 324.2
+    },
+    {
+     "text": "locataire ou occupant non propriétaire, pour un ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 327.38
+    },
+    {
+     "text": "séjour",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 538.65
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 100.22,
+   "y0": 610.25,
+   "x1": 565.33,
+   "y1": 620.47,
+   "text": "d’une durée maximale de 90 jours consécutifs ou pour un stage ou une formation d’une durée maximale de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’une durée maximale de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 100.22
+    },
+    {
+     "text": "90 jours",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 212.79
+    },
+    {
+     "text": " consécutifs ou pour un ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 248.31
+    },
+    {
+     "text": "stage",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 351.97
+    },
+    {
+     "text": " ou une ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 374.19
+    },
+    {
+     "text": "formation",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 409.6
+    },
+    {
+     "text": " d’une durée maximale de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 452.76
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 100.22,
+   "y0": 621.25,
+   "x1": 565.33,
+   "y1": 631.47,
+   "text": "6 mois (par exemple : chez des parents ou amis, dans un hôtel, gîte, pension, mobile home, caravane, tente de camping,",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "6 mois",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 100.22
+    },
+    {
+     "text": " (par exemple : chez des parents ou amis, dans un hôtel, gîte, pension, mobile home, caravane, tente de camping,",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 128.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 100.22,
+   "y0": 632.26,
+   "x1": 182.53,
+   "y1": 642.48,
+   "text": "bateau de plaisance),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "bateau de plaisance)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 100.22
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 179.75
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 100.22,
+   "y0": 646.09,
+   "x1": 317.11,
+   "y1": 656.31,
+   "text": "* en voyage ou transport par route, fer, air ou eau,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 100.22
+    },
+    {
+     "text": " en ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 104.66
+    },
+    {
+     "text": "voyage",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 120.78
+    },
+    {
+     "text": " ou transport par route, fer, air ou eau, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 150.68
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.05,
+   "y0": 659.92,
+   "x1": 565.32,
+   "y1": 670.15,
+   "text": "- ou que vous laissez en dépôt chez un tiers (par exemple : en exposition, en garde meubles…). Lorsque la clause M",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ou que vous laissez ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.05
+    },
+    {
+     "text": "en dépôt chez un tiers",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 178.68
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 275.81
+    },
+    {
+     "text": "(par exemple : en exposition, en garde meubles…)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 278.58
+    },
+    {
+     "text": ". Lorsque la clause M",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 473.63
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 670.93,
+   "x1": 332.12,
+   "y1": 681.15,
+   "text": "est souscrite, elle complète si besoin la présente garantie.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "est souscrite, elle complète si besoin la présente garantie.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 70.37,
+   "y0": 687.89,
+   "x1": 546.29,
+   "y1": 698.11,
+   "text": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.37
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 710.27,
+   "x1": 565.33,
+   "y1": 720.5,
+   "text": "B - Nous garantissons également en tous lieux le vol par agression de vos biens et effets personnels : vêtements et",
+   "font": "Optima-Bold",
+   "size": 9.9,
+   "bold": true,
+   "spans": [
+    {
+     "text": "B - ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.04
+    },
+    {
+     "text": "Nous garantissons également en tous lieux",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 100.98
+    },
+    {
+     "text": " le ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 281.89
+    },
+    {
+     "text": "vol par agression",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 294.9
+    },
+    {
+     "text": " de vos biens et effets personnels : vêtements et",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 366.99
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 721.27,
+   "x1": 565.33,
+   "y1": 731.49,
+   "text": "accessoires vestimentaires, bagages à main y compris les clés de vos bâtiments et de vos véhicules assurés en vol",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "accessoires vestimentaires, bagages à main y compris les clés de vos bâtiments et de vos véhicules assurés en vol",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 732.27,
+   "x1": 366.93,
+   "y1": 742.49,
+   "text": "auprès de nous, matériel vidéo, photo, son, téléphonie, ordinateur.",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "auprès de nous, matériel vidéo, photo, son, téléphonie, ordinateur.",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 750.36,
+   "x1": 378.68,
+   "y1": 760.58,
+   "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 764.19,
+   "x1": 435.19,
+   "y1": 774.41,
+   "text": "• le vol des objets de valeur, des biens précieux, définis à l’article 2 B et C ci-avant,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " le vol des objets de valeur, des biens précieux, définis à l’article 2 B et C ci-avant,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.93
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 776.61,
+   "x1": 565.33,
+   "y1": 786.83,
+   "text": "• le vol des fonds, titres et valeurs, des documents administratifs (passeport, carte d’identité, permis de conduire,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.93
+    },
+    {
+     "text": "le vol des fonds, titres et valeurs, des documents administratifs ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 82.04
+    },
+    {
+     "text": "(passeport, carte d’identité, permis de conduire,",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 370.37
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 787.61,
+   "x1": 233.51,
+   "y1": 797.83,
+   "text": "certificat d’immatriculation de véhicule),",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "certificat d’immatriculation de véhicule)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 71.86
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 230.73
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 800.03,
+   "x1": 229.04,
+   "y1": 810.25,
+   "text": "• le vol des clés non visées ci-avant.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.86
+    },
+    {
+     "text": " le vol des clés non visées ci-avant.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.92
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 425.06,
+   "y0": 35.0,
+   "x1": 567.34,
+   "y1": 47.27,
+   "text": "Les garanties hors domicile",
+   "font": "Optima",
+   "size": 12.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les garanties hors domicile",
+     "font": "Optima",
+     "size": 12.0,
+     "bold": false,
+     "x0": 425.06
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "(lorsque le mobilier est garanti)\nA - Nous garantissons, hors du lieu d’assurance indiqué aux Conditions particulières, les dommages subis par les\nbiens mobiliers visés à l’article 2-1-A et D,\n- que vous emportez :\n* dans un logement dont vous êtes temporairement locataire ou occupant non propriétaire, pour un séjour\nd’une durée maximale de 90 jours consécutifs ou pour un stage ou une formation d’une durée maximale de\n6 mois (par exemple : chez des parents ou amis, dans un hôtel, gîte, pension, mobile home, caravane, tente de camping,\nbateau de plaisance),\n* en voyage ou transport par route, fer, air ou eau,\n- ou que vous laissez en dépôt chez un tiers (par exemple : en exposition, en garde meubles…). Lorsque la clause M\nest souscrite, elle complète si besoin la présente garantie.\nNotre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.\nB - Nous garantissons également en tous lieux le vol par agression de vos biens et effets personnels : vêtements et\naccessoires vestimentaires, bagages à main y compris les clés de vos bâtiments et de vos véhicules assurés en vol\nauprès de nous, matériel vidéo, photo, son, téléphonie, ordinateur.",
+   "pages": [
+    18
+   ],
+   "renvois_articles": [
+    "2"
+   ],
+   "renvois_clauses": [
+    "M"
+   ],
+   "termes_definis": []
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n• le vol des objets de valeur, des biens précieux, définis à l’article 2 B et C ci-avant,\n• le vol des fonds, titres et valeurs, des documents administratifs (passeport, carte d’identité, permis de conduire,\ncertificat d’immatriculation de véhicule),\n• le vol des clés non visées ci-avant.\nLes garanties hors domicile",
+   "pages": [
+    18,
+    19
+   ],
+   "renvois_articles": [
+    "41",
+    "2"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "2",
+  "41"
+ ],
+ "renvois_clauses": [
+  "M"
+ ],
+ "termes_definis": []
+}

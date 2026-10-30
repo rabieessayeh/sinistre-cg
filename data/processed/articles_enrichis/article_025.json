@@ -1,0 +1,697 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_25",
+ "numero": "25",
+ "titre": "RISQUES LOCATIFS OCCASIONNELS",
+ "chapitre": {
+  "numero": 5,
+  "titre": "LES GARANTIES HORS DOMICILE"
+ },
+ "page_debut": 18,
+ "page_fin": 18,
+ "pages": [
+  18
+ ],
+ "texte": "A - FÊTES FAMILIALES OU PRIVÉES\nNous garantissons les conséquences pécuniaires de votre responsabilité civile vis-à-vis :\n- du propriétaire des locaux loués ou occupés à titre gratuit avec l’accord du propriétaire, en raison des\ndommages matériels causés auxdits locaux et à leur contenu, ou subis par ses autres locataires qu’il est tenu\nd’indemniser ;\n- des voisins et des tiers pour les dommages matériels et immatériels qu’ils subissent.\nNotre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.\nNous ne garantissons pas, outre les exclusions énoncées à l’article 41, les locations ou occupations :\n• pour une durée supérieure à quatre jours consécutifs,\n• de locaux pour des manifestations autres que familiales ou privées,\n• de tentes et chapiteaux d’une surface excédant 100 m²,\n• de tout ou parties de châteaux ou bâtiments classés ou inscrits “Monuments historiques”,\n• d’embarcations, de structures flottantes.\nB - VILLÉGIATURE - SÉJOUR\nNous garantissons les conséquences pécuniaires de la responsabilité civile encourue par vous-même ou toute\npersonne dont vous êtes civilement responsable, en votre qualité de locataire ou d’occupant autorisé à titre\ntemporaire au cours d’un séjour de 90 jours consécutifs maximum, dans un logement loué, une pension, un gîte,\nune chambre d’hôte, un mobile home, une caravane, un hébergement en cabane perchée ou sur pilotis, à\nl’exclusion de tout ou partie de châteaux ou bâtiments classés ou inscrits «Monuments historiques», d’embarcations\net structures flottantes.\n• vis-à-vis du propriétaire des “locaux ou biens” loués ou occupés pour :\n- les dommages matériels causés auxdits “locaux ou biens” et à leur contenu,\n- les loyers dont il est privé et/ou la perte d’usage des “locaux ou biens” lorsqu’il en est lui-même occupant,\n- les dommages matériels subis par ses autres locataires qu’il est tenu d’indemniser ;\n• vis-à-vis des voisins et des tiers, pour les dommages matériels et immatériels qu’ils subissent.\nNotre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+ "lignes": [
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 128.22,
+   "x1": 241.8,
+   "y1": 138.44,
+   "text": "A - FÊTES FAMILIALES OU PRIVÉES",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "A - FÊTES FAMILIALES OU PRIVÉES",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 142.05,
+   "x1": 449.68,
+   "y1": 152.27,
+   "text": "Nous garantissons les conséquences pécuniaires de votre responsabilité civile vis-à-vis :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " les conséquences pécuniaires de votre responsabilité civile vis-à-vis :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 150.49
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 155.88,
+   "x1": 565.33,
+   "y1": 166.1,
+   "text": "- du propriétaire des locaux loués ou occupés à titre gratuit avec l’accord du propriétaire, en raison des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- du propriétaire des locaux loués ou occupés à titre gratuit avec l’accord du propriétaire, en raison des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 166.88,
+   "x1": 565.33,
+   "y1": 177.1,
+   "text": "dommages matériels causés auxdits locaux et à leur contenu, ou subis par ses autres locataires qu’il est tenu",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "dommages matériels causés auxdits locaux et à leur contenu, ou subis par ses autres locataires qu’il est tenu",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 177.88,
+   "x1": 147.73,
+   "y1": 188.1,
+   "text": "d’indemniser ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’indemniser ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 191.71,
+   "x1": 449.31,
+   "y1": 201.93,
+   "text": "- des voisins et des tiers pour les dommages matériels et immatériels qu’ils subissent.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- des voisins et des tiers pour les dommages matériels et immatériels qu’ils subissent.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 70.37,
+   "y0": 210.62,
+   "x1": 546.29,
+   "y1": 220.84,
+   "text": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.37
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 238.05,
+   "x1": 507.63,
+   "y1": 248.27,
+   "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41, les locations ou occupations :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41, les locations ou occupations :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 254.72,
+   "x1": 314.28,
+   "y1": 264.94,
+   "text": "• pour une durée supérieure à quatre jours consécutifs,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "pour une durée supérieure à quatre jours consécutifs,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.71
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 268.55,
+   "x1": 372.43,
+   "y1": 278.77,
+   "text": "• de locaux pour des manifestations autres que familiales ou privées,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "de locaux pour des manifestations autres que familiales ou privées,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.71
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 282.38,
+   "x1": 322.02,
+   "y1": 292.6,
+   "text": "• de tentes et chapiteaux d’une surface excédant 100 m²,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "de tentes et chapiteaux d’une surface excédant 100 m²,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.71
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 296.21,
+   "x1": 470.17,
+   "y1": 306.43,
+   "text": "• de tout ou parties de châteaux ou bâtiments classés ou inscrits “Monuments historiques”,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "de tout ou parties de châteaux ou bâtiments classés ou inscrits “Monuments historiques”,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.71
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 310.04,
+   "x1": 256.26,
+   "y1": 320.26,
+   "text": "• d’embarcations, de structures flottantes.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "d’embarcations, de structures flottantes.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.71
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 340.38,
+   "x1": 211.24,
+   "y1": 350.6,
+   "text": "B - VILLÉGIATURE - SÉJOUR",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "B - VILLÉGIATURE - SÉJOUR",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 354.21,
+   "x1": 565.33,
+   "y1": 364.43,
+   "text": "Nous garantissons les conséquences pécuniaires de la responsabilité civile encourue par vous-même ou toute",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 152.16
+    },
+    {
+     "text": "les conséquences pécuniaires de la responsabilité civile encourue par vous-même ou toute",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 156.61
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 365.21,
+   "x1": 565.33,
+   "y1": 375.43,
+   "text": "personne dont vous êtes civilement responsable, en votre qualité de locataire ou d’occupant autorisé à titre",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "personne dont vous êtes civilement responsable, en votre qualité de locataire ou d’occupant autorisé à titre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 376.21,
+   "x1": 565.32,
+   "y1": 386.43,
+   "text": "temporaire au cours d’un séjour de 90 jours consécutifs maximum, dans un logement loué, une pension, un gîte,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "temporaire au cours d’un ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "séjour de 90 jours consécutifs maximum",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 184.39
+    },
+    {
+     "text": ", dans un logement loué, une pension, un gîte,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 362.24
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 387.21,
+   "x1": 565.33,
+   "y1": 397.43,
+   "text": "une chambre d’hôte, un mobile home, une caravane, un hébergement en cabane perchée ou sur pilotis, à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "une chambre d’hôte, un mobile home, une caravane, un hébergement en cabane perchée ou sur pilotis,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 555.13
+    },
+    {
+     "text": "à",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 560.33
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 398.21,
+   "x1": 565.38,
+   "y1": 408.43,
+   "text": "l’exclusion de tout ou partie de châteaux ou bâtiments classés ou inscrits «Monuments historiques», d’embarcations",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "l’exclusion de tout ou partie de châteaux ou bâtiments classés ou inscrits «Monuments historiques», d’embarcations",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 409.21,
+   "x1": 172.69,
+   "y1": 419.43,
+   "text": "et structures flottantes.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "et structures flottantes.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 424.46,
+   "x1": 385.83,
+   "y1": 434.68,
+   "text": "• vis-à-vis du propriétaire des “locaux ou biens” loués ou occupés pour :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "• vis-à-vis du propriétaire des “locaux ou biens” loués ou occupés pour :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 438.29,
+   "x1": 417.81,
+   "y1": 448.51,
+   "text": "- les dommages matériels causés auxdits “locaux ou biens” et à leur contenu,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les dommages matériels causés auxdits “locaux ou biens” et à leur contenu,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 452.12,
+   "x1": 548.52,
+   "y1": 462.34,
+   "text": "- les loyers dont il est privé et/ou la perte d’usage des “locaux ou biens” lorsqu’il en est lui-même occupant,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les loyers dont il est privé et/ou la perte d’usage des “locaux ou biens” lorsqu’il en est lui-même occupant,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 465.95,
+   "x1": 446.71,
+   "y1": 476.17,
+   "text": "- les dommages matériels subis par ses autres locataires qu’il est tenu d’indemniser ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les dommages matériels subis par ses autres locataires qu’il est tenu d’indemniser ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 481.2,
+   "x1": 478.43,
+   "y1": 491.42,
+   "text": "• vis-à-vis des voisins et des tiers, pour les dommages matériels et immatériels qu’ils subissent.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "• vis-à-vis des voisins et des tiers, pour les dommages matériels et immatériels qu’ils subissent.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 70.37,
+   "y0": 501.07,
+   "x1": 546.29,
+   "y1": 511.29,
+   "text": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Notre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.37
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "A - FÊTES FAMILIALES OU PRIVÉES",
+   "pages": [
+    18
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les conséquences pécuniaires de votre responsabilité civile vis-à-vis :\n- du propriétaire des locaux loués ou occupés à titre gratuit avec l’accord du propriétaire, en raison des\ndommages matériels causés auxdits locaux et à leur contenu, ou subis par ses autres locataires qu’il est tenu\nd’indemniser ;\n- des voisins et des tiers pour les dommages matériels et immatériels qu’ils subissent.\nNotre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+   "pages": [
+    18
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41, les locations ou occupations :\n• pour une durée supérieure à quatre jours consécutifs,\n• de locaux pour des manifestations autres que familiales ou privées,\n• de tentes et chapiteaux d’une surface excédant 100 m²,\n• de tout ou parties de châteaux ou bâtiments classés ou inscrits “Monuments historiques”,\n• d’embarcations, de structures flottantes.\nB - VILLÉGIATURE - SÉJOUR",
+   "pages": [
+    18
+   ],
+   "renvois_articles": [
+    "41"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les conséquences pécuniaires de la responsabilité civile encourue par vous-même ou toute\npersonne dont vous êtes civilement responsable, en votre qualité de locataire ou d’occupant autorisé à titre\ntemporaire au cours d’un séjour de 90 jours consécutifs maximum, dans un logement loué, une pension, un gîte,\nune chambre d’hôte, un mobile home, une caravane, un hébergement en cabane perchée ou sur pilotis, à\nl’exclusion de tout ou partie de châteaux ou bâtiments classés ou inscrits «Monuments historiques», d’embarcations\net structures flottantes.\n• vis-à-vis du propriétaire des “locaux ou biens” loués ou occupés pour :\n- les dommages matériels causés auxdits “locaux ou biens” et à leur contenu,\n- les loyers dont il est privé et/ou la perte d’usage des “locaux ou biens” lorsqu’il en est lui-même occupant,\n- les dommages matériels subis par ses autres locataires qu’il est tenu d’indemniser ;\n• vis-à-vis des voisins et des tiers, pour les dommages matériels et immatériels qu’ils subissent.\nNotre garantie s’exerce uniquement lorsque les dommages résultent d’un sinistre garanti au titre du Chapitre 2.",
+   "pages": [
+    18
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "41"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

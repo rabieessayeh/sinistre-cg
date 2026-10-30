@@ -1,0 +1,676 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_38",
+ "numero": "38",
+ "titre": "PACK LOCATION SAISONNIÈRE",
+ "chapitre": {
+  "numero": 6,
+  "titre": "LES GARANTIES EN OPTION"
+ },
+ "page_debut": 28,
+ "page_fin": 28,
+ "pages": [
+  28
+ ],
+ "texte": "Vous êtes propriétaire de votre résidence secondaire ou principale assurée et vous la donnez en location saisonnière à des tiers.\nLorsque vous avez souscrit le Pack “location saisonnière”, nous garantissons :\n- Votre responsabilité civile de bailleur à l’égard de vos locataires (ou occupants autorisés) temporaires selon art. 15,\n- Votre perte financière après un sinistre garanti -sauf après une catastrophe naturelle ou une catastrophe technologique-\nqui entraine l’interruption totale de cette activité de location.\nNous prenons en charge la perte de revenus qui en résulte sur la période nécessaire à la remise en état des\nbâtiments déterminée à dire d’expert dans la limite de :\n- 3 mois à compter du sinistre, s’il s’agit de votre résidence principale ;\n- 6 mois à compter du sinistre, s’il s’agit de votre résidence secondaire.\nVotre perte de revenus est déterminée sur la base du revenu moyen mensuel de votre activité perçu pour la\nmême période au cours des deux dernières années précédant le sinistre et justifié par les contrats de location\nconclus durant cette même période, et sans excéder le plafond fixé aux Conditions particulières.\nSi vous commencez votre activité de location saisonnière, nous estimerons votre perte de revenus sur la\nbase des réservations fermes ayant donné lieu à un contrat de location ou à versement d’acompte, sans\nexcéder le plafond fixé aux Conditions particulières.\nCette indemnisation se substitue à l’indemnisation au titre de la “Perte d’usage” (art. 23) pour la période considérée.\nNous renonçons au recours que, comme subrogés dans vos droits de propriétaire, nous pourrions exercer contre vos\nlocataires (ou occupants autorisés) temporaires dont la responsabilité se trouverait engagée dans la réalisation de\ndommages matériels, de frais ou de pertes garantis. Toutefois si votre locataire (ou occupant autorisé) temporaire est\nassuré, nous pourrons, malgré cette renonciation, exercer notre recours dans la limite de cette assurance.\nL’échange de maison ou d’appartement pour les vacances est assimilé à une location saisonnière ; toutefois la\ngarantie de la perte financière n’est pas acquise en cas d’échange.",
+ "lignes": [
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 218.1,
+   "x1": 566.66,
+   "y1": 228.32,
+   "text": "Vous êtes propriétaire de votre résidence secondaire ou principale assurée et vous la donnez en location saisonnière à des tiers.",
+   "font": "Optima",
+   "size": 9.75,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Vous êtes ",
+     "font": "Optima",
+     "size": 9.75,
+     "bold": false,
+     "x0": 70.48
+    },
+    {
+     "text": "propriétaire de votre résidence secondaire ou principale",
+     "font": "Optima-Bold",
+     "size": 9.75,
+     "bold": true,
+     "x0": 109.29
+    },
+    {
+     "text": " assurée et vous la donnez en location saisonnière à des tiers.",
+     "font": "Optima",
+     "size": 9.75,
+     "bold": false,
+     "x0": 330.63
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 231.94,
+   "x1": 407.41,
+   "y1": 242.16,
+   "text": "Lorsque vous avez souscrit le Pack “location saisonnière”, nous garantissons :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Lorsque vous avez souscrit le Pack",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.48
+    },
+    {
+     "text": " “location saisonnière”",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 219.98
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 319.89
+    },
+    {
+     "text": "nous garantissons :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 325.45
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 245.2,
+   "x1": 566.67,
+   "y1": 255.42,
+   "text": "- Votre responsabilité civile de bailleur à l’égard de vos locataires (ou occupants autorisés) temporaires selon art. 15,",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Votre ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 95.99
+    },
+    {
+     "text": "responsabilité civile de bailleur",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 125.66
+    },
+    {
+     "text": " à l’égard de vos locataires ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 256.18
+    },
+    {
+     "text": "(ou occupants autorisés)",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 368.88
+    },
+    {
+     "text": " temporaires selon art. 15,",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 458.8
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 258.47,
+   "x1": 566.66,
+   "y1": 268.69,
+   "text": "- Votre perte financière après un sinistre garanti -sauf après une catastrophe naturelle ou une catastrophe technologique-",
+   "font": "Optima-Bold",
+   "size": 8.91,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- Votre ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 95.99
+    },
+    {
+     "text": "perte financière",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 125.03
+    },
+    {
+     "text": " après un sinistre garanti ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 191.72
+    },
+    {
+     "text": "-sauf après une catastrophe naturelle ou une catastrophe technologique-",
+     "font": "Optima-Bold",
+     "size": 8.91,
+     "bold": true,
+     "x0": 293.58
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 269.47,
+   "x1": 352.25,
+   "y1": 279.69,
+   "text": "qui entraine l’interruption totale de cette activité de location.",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "qui entraine l’interruption totale de cette activité de location.",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 95.99
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 115.83,
+   "y0": 283.31,
+   "x1": 566.66,
+   "y1": 293.53,
+   "text": "Nous prenons en charge la perte de revenus qui en résulte sur la période nécessaire à la remise en état des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous prenons en charge la perte de revenus qui en résulte sur la période nécessaire à la remise en état des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 115.83
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 115.83,
+   "y0": 294.31,
+   "x1": 353.13,
+   "y1": 304.53,
+   "text": "bâtiments déterminée à dire d’expert dans la limite de :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "bâtiments déterminée à dire d’expert dans la limite de :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 115.83
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 115.83,
+   "y0": 307.58,
+   "x1": 419.65,
+   "y1": 317.8,
+   "text": "- 3 mois à compter du sinistre, s’il s’agit de votre résidence principale ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 115.83
+    },
+    {
+     "text": "3 mois",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 121.94
+    },
+    {
+     "text": " à compter du sinistre, s’il s’agit de votre résidence principale ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 150.84
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 115.83,
+   "y0": 320.85,
+   "x1": 420.2,
+   "y1": 331.07,
+   "text": "- 6 mois à compter du sinistre, s’il s’agit de votre résidence secondaire.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 115.83
+    },
+    {
+     "text": "6 mois",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 121.94
+    },
+    {
+     "text": " à compter du sinistre, s’il s’agit de votre résidence secondaire.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 150.84
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 333.27,
+   "x1": 566.66,
+   "y1": 343.49,
+   "text": "Votre perte de revenus est déterminée sur la base du revenu moyen mensuel de votre activité perçu pour la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Votre perte de revenus est déterminée sur la base du revenu moyen mensuel de votre activité perçu pour la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.19
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 344.27,
+   "x1": 566.66,
+   "y1": 354.49,
+   "text": "même période au cours des deux dernières années précédant le sinistre et justifié par les contrats de location",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "même période au cours des deux dernières années précédant le sinistre et justifié par les contrats de location",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.19
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 355.27,
+   "x1": 520.12,
+   "y1": 365.49,
+   "text": "conclus durant cette même période, et sans excéder le plafond fixé aux Conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "conclus durant cette même période, et sans excéder le plafond fixé aux Conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.19
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 367.69,
+   "x1": 566.66,
+   "y1": 377.91,
+   "text": "Si vous commencez votre activité de location saisonnière, nous estimerons votre perte de revenus sur la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si vous commencez votre activité de location saisonnière, nous estimerons votre perte de revenus sur la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.19
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 378.69,
+   "x1": 566.67,
+   "y1": 388.91,
+   "text": "base des réservations fermes ayant donné lieu à un contrat de location ou à versement d’acompte, sans",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "base des réservations fermes ayant donné lieu à un contrat de location ou à versement d’acompte, sans",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.19
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 389.69,
+   "x1": 330.73,
+   "y1": 399.91,
+   "text": "excéder le plafond fixé aux Conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "excéder le plafond fixé aux Conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.19
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.19,
+   "y0": 403.51,
+   "x1": 566.65,
+   "y1": 413.73,
+   "text": "Cette indemnisation se substitue à l’indemnisation au titre de la “Perte d’usage” (art. 23) pour la période considérée.",
+   "font": "Optima-Bold",
+   "size": 9.8,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Cette indemnisation se substitue à l’indemnisation au titre de la “Perte d’usage” ",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 106.19
+    },
+    {
+     "text": "(art. 23)",
+     "font": "Optima-Bold",
+     "size": 8.82,
+     "bold": true,
+     "x0": 425.32
+    },
+    {
+     "text": " pour la période considérée.",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 454.52
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 415.93,
+   "x1": 566.66,
+   "y1": 426.15,
+   "text": "Nous renonçons au recours que, comme subrogés dans vos droits de propriétaire, nous pourrions exercer contre vos",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous renonçons au recours que, comme subrogés dans vos droits de propriétaire, nous pourrions exercer contre vos",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.48
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 426.93,
+   "x1": 566.66,
+   "y1": 437.15,
+   "text": "locataires (ou occupants autorisés) temporaires dont la responsabilité se trouverait engagée dans la réalisation de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "locataires ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.48
+    },
+    {
+     "text": "(ou occupants autorisés)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 116.03
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 212.56
+    },
+    {
+     "text": "temporaires dont la responsabilité se trouverait engagée dans la réalisation de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 217.0
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 437.93,
+   "x1": 566.66,
+   "y1": 448.15,
+   "text": "dommages matériels, de frais ou de pertes garantis. Toutefois si votre locataire (ou occupant autorisé) temporaire est",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "dommages matériels, de frais ou de pertes garantis. Toutefois si votre locataire ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.48
+    },
+    {
+     "text": "(ou occupant",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 414.54
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 466.16
+    },
+    {
+     "text": "autorisé",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 469.18
+    },
+    {
+     "text": ")",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 499.08
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 501.58
+    },
+    {
+     "text": "temporaire est",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 505.01
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.47,
+   "y0": 448.93,
+   "x1": 521.48,
+   "y1": 459.15,
+   "text": "assuré, nous pourrons, malgré cette renonciation, exercer notre recours dans la limite de cette assurance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "assuré, nous pourrons, malgré cette renonciation, exercer notre recours dans la limite de cette assurance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.47
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.47,
+   "y0": 462.2,
+   "x1": 566.66,
+   "y1": 472.42,
+   "text": "L’échange de maison ou d’appartement pour les vacances est assimilé à une location saisonnière ; toutefois la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "L’échange de maison ou d’appartement pour les vacances est assimilé à une location saisonnière ; ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.47
+    },
+    {
+     "text": "toutefois la",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 516.45
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.47,
+   "y0": 473.2,
+   "x1": 357.62,
+   "y1": 483.42,
+   "text": "garantie de la perte financière n’est pas acquise en cas d’échange.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "garantie de la perte financière n’est pas acquise en cas d’échange.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.47
+    }
+   ]
+  }
+ ]
+}

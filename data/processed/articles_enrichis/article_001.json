@@ -1,0 +1,1295 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_1",
+ "numero": "1",
+ "titre": "LES BÂTIMENTS",
+ "chapitre": {
+  "numero": 1,
+  "titre": "LES BIENS ASSURABLES"
+ },
+ "page_debut": 4,
+ "page_fin": 4,
+ "pages": [
+  4
+ ],
+ "texte": "• Les bâtiments déclarés aux conditions particulières ainsi que leurs aménagements (tels que définis à l'article 3) :\n- l’habitation et ses annexes* situées au lieu du risque déclaré au contrat,\n- ses dépendances* à usage non professionnel situées, soit sur le terrain de l’habitation, soit dans un rayon de 15 km\nà condition que la surface au sol de la dépendance n’excède pas 50 m².\nSi la surface au sol de la dépendance située dans un rayon de 15 km excède 50 m², il conviendra de la garantir\npar un contrat spécifique Dépendance.\nUn contrat spécifique Dépendance sera également à souscrire si la dépendance est située à plus de 15 km du\nlogement assuré.\n• Si vous êtes copropriétaire dans un immeuble collectif, l’assurance s’applique à vos parties immobilières\nprivatives et à leurs aménagements (selon art. 3), et à votre quote-part dans les parties communes de l'immeuble,\nexclusivement en cas d'absence ou d'insuffisance de garanties souscrites par la copropriété, ces dernières\nconstituant la franchise absolue du présent contrat.\nSi vous êtes locataire et assimilé, est garantie votre responsabilité vis-à-vis du propriétaire telle que définie à l'article 14.\nNous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n\u0002 les terrains,\n\u0002 les arbres, plantations et pelouses sauf souscription du Pack Jardin Plein air (voir article 34),\n\u0002 les bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques naturels\nprévisibles (art. L 562-1 et suivants du Code de l’Environnement) ou par un plan de prévention des risques technologiques\n(art. L 515-15 du Code de l’Environnement), à l’exception des bâtiments existant antérieurement à la publication de ce plan,\n\u0002 les bâtiments construits en violation des règles administratives en vigueur au moment de leur construction et\ntendant à prévenir les dommages causés par une catastrophe naturelle ou technologique,\n\u0002 les locaux troglodytiques -sauf souscription de la clause TRO-,\n\u0002 les abris de jardin et garages en bois, métal ou matière plastique, non ancrés dans des fondations, soubassements\nou dés de maçonnerie, ainsi que ceux non fixés sur une dalle béton, sauf souscription du Pack Jardin Plein air (voir\narticle 34),\n\u0002 les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement sauf\nsouscription de l’option “Clôtures, portails et murs de soutènement” ou du Pack Jardin Plein air (voir articles 30 et 34),\n\u0002 les piscines, courts de tennis et autres aires de loisirs sauf souscription du Pack Piscine Détente (voir article 35),\n\u0002 les serres, châssis ainsi que tout aménagement et équipement immobilier du terrain non attenant aux bâtiments\nassurés sauf souscription du Pack Jardin Plein air (voir article 34),\n\u0002 les éléments des installations d’énergie renouvelable, situés à l’extérieur des bâtiments assurés, sauf souscription\ndu Pack Tranquillité pour les aérothermes -“pompes à chaleur”- (voir article 33) ou du Pack Énergies renouvelables (voir\narticle 36).",
+ "lignes": [
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 166.74,
+   "x1": 552.03,
+   "y1": 177.43,
+   "text": "• Les bâtiments déclarés aux conditions particulières ainsi que leurs aménagements (tels que définis à l'article 3) :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " Les bâtiments déclarés aux conditions particulières",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.43
+    },
+    {
+     "text": " ainsi que leurs aménagements ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 302.38
+    },
+    {
+     "text": "(tels que définis à l'article 3)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 437.41
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 546.47
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 179.63,
+   "x1": 399.38,
+   "y1": 189.85,
+   "text": "- l’habitation et ses annexes* situées au lieu du risque déclaré au contrat,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- l’habitation et ses annexes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 204.98
+    },
+    {
+     "text": " situées au lieu du risque déclaré au contrat,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 209.42
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 86.04,
+   "y0": 192.05,
+   "x1": 565.74,
+   "y1": 202.27,
+   "text": "- ses dépendances* à usage non professionnel situées, soit sur le terrain de l’habitation, soit dans un rayon de 15 km",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ses dépendances",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.04
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 162.18
+    },
+    {
+     "text": " à usage non professionnel situées, soit sur le terrain de l’habitation, soit dans un rayon de 15 km",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 166.62
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 86.03,
+   "y0": 203.05,
+   "x1": 395.61,
+   "y1": 213.27,
+   "text": "à condition que la surface au sol de la dépendance n’excède pas 50 m².",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "à condition que la surface au sol de la dépendance n’excède pas 50 m².",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.03
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 215.46,
+   "x1": 567.23,
+   "y1": 225.68,
+   "text": "Si la surface au sol de la dépendance située dans un rayon de 15 km excède 50 m², il conviendra de la garantir",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si la surface au sol de la dépendance située dans un rayon de 15 km excède 50 m², il conviendra de la garantir",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 226.46,
+   "x1": 255.23,
+   "y1": 236.68,
+   "text": "par un contrat spécifique Dépendance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "par un contrat spécifique Dépendance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 85.51,
+   "y0": 238.88,
+   "x1": 567.21,
+   "y1": 249.1,
+   "text": "Un contrat spécifique Dépendance sera également à souscrire si la dépendance est située à plus de 15 km du",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Un contrat spécifique Dépendance sera également à souscrire si la dépendance est située à plus de 15 km du",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.51
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 249.88,
+   "x1": 159.74,
+   "y1": 260.1,
+   "text": "logement assuré.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "logement assuré.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 263.24,
+   "x1": 565.76,
+   "y1": 273.93,
+   "text": "• Si vous êtes copropriétaire dans un immeuble collectif, l’assurance s’applique à vos parties immobilières",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.43
+    },
+    {
+     "text": "Si vous êtes copropriétaire",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 82.67
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 205.73
+    },
+    {
+     "text": "dans un immeuble collectif, l’assurance s’applique à vos parties immobilières",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 210.98
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 274.71,
+   "x1": 565.76,
+   "y1": 284.93,
+   "text": "privatives et à leurs aménagements (selon art. 3), et à votre quote-part dans les parties communes de l'immeuble,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "privatives et à leurs aménagements ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "(selon art. 3)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 228.41
+    },
+    {
+     "text": ", et à votre quote-part dans les parties communes de l'immeuble,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 278.04
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 285.71,
+   "x1": 565.77,
+   "y1": 295.93,
+   "text": "exclusivement en cas d'absence ou d'insuffisance de garanties souscrites par la copropriété, ces dernières",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "exclusivement en cas d'absence ou d'insuffisance de garanties souscrites par la copropriété",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": ", ces dernières",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 498.61
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 296.71,
+   "x1": 290.44,
+   "y1": 306.93,
+   "text": "constituant la franchise absolue du présent contrat.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "constituant la franchise absolue du présent contrat.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.34,
+   "y0": 310.55,
+   "x1": 567.16,
+   "y1": 320.77,
+   "text": "Si vous êtes locataire et assimilé, est garantie votre responsabilité vis-à-vis du propriétaire telle que définie à l'article 14.",
+   "font": "Optima",
+   "size": 9.8,
+   "bold": false,
+   "spans": [
+    {
+     "text": "S",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.34
+    },
+    {
+     "text": "i vous êtes ",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 76.36
+    },
+    {
+     "text": "locataire et assimilé,",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 121.76
+    },
+    {
+     "text": " est garantie votre responsabilité vis-à-vis du propriétaire telle que définie à l'article 14.",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 207.31
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 330.55,
+   "x1": 378.68,
+   "y1": 340.77,
+   "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 346.75,
+   "x1": 131.58,
+   "y1": 357.44,
+   "text": "\u0002 les terrains,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les terrains,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 360.58,
+   "x1": 471.48,
+   "y1": 371.27,
+   "text": "\u0002 les arbres, plantations et pelouses sauf souscription du Pack Jardin Plein air (voir article 34),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les arbres, plantations et pelouses",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    },
+    {
+     "text": " sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 227.91
+    },
+    {
+     "text": "Pack Jardin Plein air",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 319.63
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 407.07
+    },
+    {
+     "text": "(voir article 34)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 409.84
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 468.7
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 374.41,
+   "x1": 565.75,
+   "y1": 385.1,
+   "text": "\u0002 les bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques naturels",
+   "font": "Optima-Bold",
+   "size": 9.8,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 78.53
+    },
+    {
+     "text": "les bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques naturels",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 83.53
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 385.88,
+   "x1": 565.75,
+   "y1": 396.1,
+   "text": "prévisibles (art. L 562-1 et suivants du Code de l’Environnement) ou par un plan de prévention des risques technologiques",
+   "font": "Optima-Bold",
+   "size": 9.8,
+   "bold": true,
+   "spans": [
+    {
+     "text": "prévisibles ",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 71.86
+    },
+    {
+     "text": "(art. L 562-1 et suivants du Code de l’Environnement)",
+     "font": "Optima-Bold",
+     "size": 8.82,
+     "bold": true,
+     "x0": 119.16
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 323.34
+    },
+    {
+     "text": "ou par un plan de prévention des risques technologiques",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 326.35
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 396.88,
+   "x1": 565.75,
+   "y1": 407.1,
+   "text": "(art. L 515-15 du Code de l’Environnement), à l’exception des bâtiments existant antérieurement à la publication de ce plan,",
+   "font": "Optima",
+   "size": 9.8,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(art. L 515-15 du Code de l’Environnement)",
+     "font": "Optima-Bold",
+     "size": 8.82,
+     "bold": true,
+     "x0": 71.86
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 9.8,
+     "bold": true,
+     "x0": 235.29
+    },
+    {
+     "text": " à l’exception des bâtiments existant antérieurement à la publication de ce plan,",
+     "font": "Optima",
+     "size": 9.8,
+     "bold": false,
+     "x0": 237.96
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 410.25,
+   "x1": 565.77,
+   "y1": 420.94,
+   "text": "\u0002 les bâtiments construits en violation des règles administratives en vigueur au moment de leur construction et",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    },
+    {
+     "text": "les bâtiments construits en violation des règles administratives en vigueur au moment de leur construction et",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.93
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 421.72,
+   "x1": 460.29,
+   "y1": 431.94,
+   "text": "tendant à prévenir les dommages causés par une catastrophe naturelle ou technologique,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "tendant à prévenir les dommages causés par une catastrophe naturelle ou technologique,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 435.08,
+   "x1": 334.82,
+   "y1": 445.77,
+   "text": "\u0002 les locaux troglodytiques -sauf souscription de la clause TRO-,",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les locaux troglodytiques ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    },
+    {
+     "text": "-sauf souscription de la clause TRO-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 192.65
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 332.04
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 448.91,
+   "x1": 565.76,
+   "y1": 459.6,
+   "text": "\u0002 les abris de jardin et garages en bois, métal ou matière plastique, non ancrés dans des fondations, soubassements",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les abris de jardin et garages en bois, métal ou matière plastique, non ancrés dans des fondations, soubassements",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 460.38,
+   "x1": 565.76,
+   "y1": 470.6,
+   "text": "ou dés de maçonnerie, ainsi que ceux non fixés sur une dalle béton, sauf souscription du Pack Jardin Plein air (voir",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "ou dés de maçonnerie, ainsi que ceux non fixés sur une dalle béton,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 367.23
+    },
+    {
+     "text": "sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 370.33
+    },
+    {
+     "text": "Pack Jardin Plein air",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 458.7
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 545.68
+    },
+    {
+     "text": "(voir",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 548.77
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 471.39,
+   "x1": 112.67,
+   "y1": 481.61,
+   "text": "article 34),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "article 34)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.86
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 109.89
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 484.75,
+   "x1": 565.77,
+   "y1": 495.44,
+   "text": "\u0002 les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement sauf",
+   "font": "Optima-Bold",
+   "size": 9.9,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.86
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 78.52
+    },
+    {
+     "text": "les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 83.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 543.54
+    },
+    {
+     "text": "sauf",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 548.88
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 496.22,
+   "x1": 565.76,
+   "y1": 506.44,
+   "text": "souscription de l’option “Clôtures, portails et murs de soutènement” ou du Pack Jardin Plein air (voir articles 30 et 34),",
+   "font": "Optima-Bold",
+   "size": 9.9,
+   "bold": true,
+   "spans": [
+    {
+     "text": "souscription de l’option ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "“Clôtures, portails et murs de soutènement”",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 174.11
+    },
+    {
+     "text": " ou du ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 362.65
+    },
+    {
+     "text": "Pack Jardin Plein air",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 392.42
+    },
+    {
+     "text": " (voir articles 30 et 34)",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 477.93
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 563.04
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 509.59,
+   "x1": 557.85,
+   "y1": 520.28,
+   "text": "\u0002 les piscines, courts de tennis et autres aires de loisirs sauf souscription du Pack Piscine Détente (voir article 35),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les piscines, courts de tennis et autres aires de loisirs ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    },
+    {
+     "text": "sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 313.38
+    },
+    {
+     "text": "Pack Piscine Détente",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 402.32
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 493.44
+    },
+    {
+     "text": "(voir article 35)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 496.21
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 555.07
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 523.42,
+   "x1": 565.76,
+   "y1": 534.11,
+   "text": "\u0002 les serres, châssis ainsi que tout aménagement et équipement immobilier du terrain non attenant aux bâtiments",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les serres, châssis ainsi que tout aménagement et équipement immobilier du terrain non attenant aux bâtiments",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 534.89,
+   "x1": 346.56,
+   "y1": 545.11,
+   "text": "assurés sauf souscription du Pack Jardin Plein air (voir article 34),",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "assurés",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": " sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 102.99
+    },
+    {
+     "text": "Pack Jardin Plein air",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 194.71
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 282.15
+    },
+    {
+     "text": "(voir article 34)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 284.92
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 343.78
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 548.25,
+   "x1": 565.76,
+   "y1": 558.94,
+   "text": "\u0002 les éléments des installations d’énergie renouvelable, situés à l’extérieur des bâtiments assurés, sauf souscription",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0002",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les éléments des installations d’énergie renouvelable, situés à l’extérieur des bâtiments assurés,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.53
+    },
+    {
+     "text": " sauf souscription",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 491.24
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 559.72,
+   "x1": 565.76,
+   "y1": 569.95,
+   "text": "du Pack Tranquillité pour les aérothermes -“pompes à chaleur”- (voir article 33) ou du Pack Énergies renouvelables (voir",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.52
+    },
+    {
+     "text": " pour les aérothermes ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 156.66
+    },
+    {
+     "text": "-“pompes à chaleur”- (voir article 33)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 251.25
+    },
+    {
+     "text": " ou du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 394.59
+    },
+    {
+     "text": "Pack Énergies renouvelables",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 424.43
+    },
+    {
+     "text": " (voir",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 545.89
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "column": 0,
+   "x0": 71.86,
+   "y0": 570.73,
+   "x1": 113.66,
+   "y1": 580.95,
+   "text": "article 36).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "article 36)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.86
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 110.88
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "• Les bâtiments déclarés aux conditions particulières ainsi que leurs aménagements (tels que définis à l'article 3) :\n- l’habitation et ses annexes* situées au lieu du risque déclaré au contrat,\n- ses dépendances* à usage non professionnel situées, soit sur le terrain de l’habitation, soit dans un rayon de 15 km\nà condition que la surface au sol de la dépendance n’excède pas 50 m².\nSi la surface au sol de la dépendance située dans un rayon de 15 km excède 50 m², il conviendra de la garantir\npar un contrat spécifique Dépendance.\nUn contrat spécifique Dépendance sera également à souscrire si la dépendance est située à plus de 15 km du\nlogement assuré.\n• Si vous êtes copropriétaire dans un immeuble collectif, l’assurance s’applique à vos parties immobilières\nprivatives et à leurs aménagements (selon art. 3), et à votre quote-part dans les parties communes de l'immeuble,\nexclusivement en cas d'absence ou d'insuffisance de garanties souscrites par la copropriété, ces dernières\nconstituant la franchise absolue du présent contrat.\nSi vous êtes locataire et assimilé, est garantie votre responsabilité vis-à-vis du propriétaire telle que définie à l'article 14.",
+   "pages": [
+    4
+   ],
+   "renvois_articles": [
+    "3",
+    "14"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "annexes",
+     "terme": "Annexe"
+    },
+    {
+     "forme": "dépendances",
+     "terme": "Dépendance"
+    }
+   ]
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n\u0002 les terrains,\n\u0002 les arbres, plantations et pelouses sauf souscription du Pack Jardin Plein air (voir article 34),\n\u0002 les bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques naturels\nprévisibles (art. L 562-1 et suivants du Code de l’Environnement) ou par un plan de prévention des risques technologiques\n(art. L 515-15 du Code de l’Environnement), à l’exception des bâtiments existant antérieurement à la publication de ce plan,\n\u0002 les bâtiments construits en violation des règles administratives en vigueur au moment de leur construction et\ntendant à prévenir les dommages causés par une catastrophe naturelle ou technologique,\n\u0002 les locaux troglodytiques -sauf souscription de la clause TRO-,\n\u0002 les abris de jardin et garages en bois, métal ou matière plastique, non ancrés dans des fondations, soubassements\nou dés de maçonnerie, ainsi que ceux non fixés sur une dalle béton, sauf souscription du Pack Jardin Plein air (voir\narticle 34),\n\u0002 les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement sauf\nsouscription de l’option “Clôtures, portails et murs de soutènement” ou du Pack Jardin Plein air (voir articles 30 et 34),\n\u0002 les piscines, courts de tennis et autres aires de loisirs sauf souscription du Pack Piscine Détente (voir article 35),\n\u0002 les serres, châssis ainsi que tout aménagement et équipement immobilier du terrain non attenant aux bâtiments\nassurés sauf souscription du Pack Jardin Plein air (voir article 34),\n\u0002 les éléments des installations d’énergie renouvelable, situés à l’extérieur des bâtiments assurés, sauf souscription\ndu Pack Tranquillité pour les aérothermes -“pompes à chaleur”- (voir article 33) ou du Pack Énergies renouvelables (voir\narticle 36).",
+   "pages": [
+    4
+   ],
+   "renvois_articles": [
+    "41",
+    "34",
+    "30",
+    "35",
+    "33",
+    "36"
+   ],
+   "renvois_clauses": [
+    "TRO"
+   ],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "3",
+  "14",
+  "41",
+  "34",
+  "30",
+  "35",
+  "33",
+  "36"
+ ],
+ "renvois_clauses": [
+  "TRO"
+ ],
+ "termes_definis": [
+  {
+   "forme": "annexes",
+   "terme": "Annexe"
+  },
+  {
+   "forme": "dépendances",
+   "terme": "Dépendance"
+  }
+ ]
+}

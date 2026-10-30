@@ -1,0 +1,271 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_24",
+ "numero": "24",
+ "titre": "PERTE DE LOYERS",
+ "chapitre": {
+  "numero": 4,
+  "titre": "LES GARANTIES COMPLÉMENTAIRES"
+ },
+ "page_debut": 17,
+ "page_fin": 18,
+ "pages": [
+  17,
+  18
+ ],
+ "texte": "(lorsque vous êtes propriétaire non occupant)\nLorsqu’à la suite d’un sinistre* garanti -sauf catastrophes naturelles art. 10 et catastrophes technologiques art. 11-, votre\nlocataire doit quitter son habitation, nous prenons en charge le montant des loyers que vous ne pouvez légalement\npercevoir.\nLe montant de l’indemnité est déterminé en fonction du temps nécessaire, à dire d’expert, à la remise en état de\nl’habitation, dans la limite prévue aux Conditions particulières.\nEn cas de location meublée temporaire, l’article 24 ne s’applique pas, se reporter au Pack Location (art. 37 ou 38) s’il\nest souscrit.\nLes garanties hors domicile",
+ "lignes": [
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 170.81,
+   "y0": 578.21,
+   "x1": 345.73,
+   "y1": 587.41,
+   "text": "(lorsque vous êtes propriétaire non occupant)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(lorsque vous êtes propriétaire non occupant)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 170.81
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 594.63,
+   "x1": 565.48,
+   "y1": 604.85,
+   "text": "Lorsqu’à la suite d’un sinistre* garanti -sauf catastrophes naturelles art. 10 et catastrophes technologiques art. 11-, votre",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Lorsqu’à la suite d’un sinistre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 199.08
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 203.52
+    },
+    {
+     "text": "garanti ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 206.72
+    },
+    {
+     "text": "-sauf catastrophes naturelles art. 10 et catastrophes technologiques art. 11-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 239.25
+    },
+    {
+     "text": ", votre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 538.01
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 606.13,
+   "x1": 565.49,
+   "y1": 616.35,
+   "text": "locataire doit quitter son habitation, nous prenons en charge le montant des loyers que vous ne pouvez légalement",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "locataire doit quitter son habitation, nous prenons en charge le montant des loyers que vous ne pouvez légalement",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 617.63,
+   "x1": 114.65,
+   "y1": 627.85,
+   "text": "percevoir.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "percevoir.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 631.96,
+   "x1": 565.48,
+   "y1": 642.18,
+   "text": "Le montant de l’indemnité est déterminé en fonction du temps nécessaire, à dire d’expert, à la remise en état de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Le montant de l’indemnité est déterminé en fonction du temps nécessaire, à dire d’expert, à la remise en état de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 643.46,
+   "x1": 343.03,
+   "y1": 653.68,
+   "text": "l’habitation, dans la limite prévue aux Conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’habitation, dans la limite prévue aux Conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 70.15,
+   "y0": 668.29,
+   "x1": 565.97,
+   "y1": 678.51,
+   "text": "En cas de location meublée temporaire, l’article 24 ne s’applique pas, se reporter au Pack Location (art. 37 ou 38) s’il",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "En cas de location meublée temporaire, l’article 24 ne s’applique pas,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.15
+    },
+    {
+     "text": " se reporter au ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 370.62
+    },
+    {
+     "text": "Pack Location",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 434.05
+    },
+    {
+     "text": " (art. 37 ou 38)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 494.35
+    },
+    {
+     "text": " s’il",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 551.21
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 70.14,
+   "y0": 679.79,
+   "x1": 120.16,
+   "y1": 690.01,
+   "text": "est souscrit.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "est souscrit.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.14
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "column": 0,
+   "x0": 38.41,
+   "y0": 35.0,
+   "x1": 180.69,
+   "y1": 47.27,
+   "text": "Les garanties hors domicile",
+   "font": "Optima",
+   "size": 12.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les garanties hors domicile",
+     "font": "Optima",
+     "size": 12.0,
+     "bold": false,
+     "x0": 38.41
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_67",
+ "numero": "67",
+ "titre": "PAIEMENT DE LA COTISATION",
+ "chapitre": {
+  "numero": 14,
+  "titre": "COTISATIONS - INDEXATION"
+ },
+ "page_debut": 54,
+ "page_fin": 54,
+ "pages": [
+  54
+ ],
+ "texte": "Sous déduction des ristournes ou réductions de cotisations éventuelles déterminées par le Conseil d’Administration\npour chaque catégorie de risques, conformément aux dispositions de l’article 16 des Statuts, la cotisation annuelle\n(ou, dans le cas de fractionnement de celle-ci, les fractions de cotisation), les frais accessoires et les impôts et taxes sont\npayables aux dates d’échéance indiquées aux conditions particulières.\nLe lieu de paiement est notre siège ou le domicile de notre représentant que nous avons éventuellement désigné à\ncet effet.\nÀ DÉFAUT DE PAIEMENT d’une cotisation (ou d’une fraction de cotisation) dans les DIX jours de son échéance (art. L 113-3\ndu Code), nous pouvons, indépendamment de notre droit de poursuivre l’exécution du contrat en justice, par lettre\nrecommandée valant mise en demeure, adressée à votre dernier domicile connu, suspendre la garantie TRENTE\njours après l’envoi de cette lettre.\nSi la cotisation reste impayée, nous avons le droit de résilier le contrat DIX jours après l’expiration du délai de\nTRENTE jours visé ci-dessus, selon notification qui vous a été faite dans la lettre recommandée de mise en demeure.\nLa suspension de la garantie pour non paiement de la cotisation ne vous dispense pas de l’obligation de payer les\ncotisations à leurs échéances.\nL’encaissement par nos soins de la portion de cotisation correspondant à la période d’assurance écoulée jusqu’au\njour de la résiliation et de la pénalité due en cas de non-paiement, ne peut avoir pour effet de remettre en vigueur\nle contrat résilié.",
+ "lignes": [
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 377.54,
+   "x1": 566.36,
+   "y1": 387.76,
+   "text": "Sous déduction des ristournes ou réductions de cotisations éventuelles déterminées par le Conseil d’Administration",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Sous déduction des ristournes ou réductions de cotisations éventuelles déterminées par le Conseil d’Administration",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 388.54,
+   "x1": 566.36,
+   "y1": 398.76,
+   "text": "pour chaque catégorie de risques, conformément aux dispositions de l’article 16 des Statuts, la cotisation annuelle",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "pour chaque catégorie de risques, conformément aux dispositions de l’article 16 des Statuts, la cotisation annuelle",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 399.56,
+   "x1": 566.35,
+   "y1": 409.78,
+   "text": "(ou, dans le cas de fractionnement de celle-ci, les fractions de cotisation), les frais accessoires et les impôts et taxes sont",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(ou, dans le cas de ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "fractionnement",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 148.11
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 208.18
+    },
+    {
+     "text": "de celle-ci, les fractions de cotisation)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 211.23
+    },
+    {
+     "text": ", les frais accessoires et les impôts et taxes sont",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 359.88
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 410.56,
+   "x1": 372.49,
+   "y1": 420.78,
+   "text": "payables aux dates d’échéance indiquées aux conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "payables aux dates d’échéance indiquées aux conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 424.39,
+   "x1": 566.36,
+   "y1": 434.61,
+   "text": "Le lieu de paiement est notre siège ou le domicile de notre représentant que nous avons éventuellement désigné à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Le lieu de paiement est notre siège ou le domicile de notre représentant que nous avons éventuellement désigné à",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 435.39,
+   "x1": 107.54,
+   "y1": 445.61,
+   "text": "cet effet.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cet effet.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 452.06,
+   "x1": 566.35,
+   "y1": 462.29,
+   "text": "À DÉFAUT DE PAIEMENT d’une cotisation (ou d’une fraction de cotisation) dans les DIX jours de son échéance (art. L 113-3",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "À DÉFAUT DE PAIEMENT",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": " d’une cotisation ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 179.46
+    },
+    {
+     "text": "(ou d’une fraction de cotisation)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 250.65
+    },
+    {
+     "text": " dans les DIX jours de son échéance ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 369.25
+    },
+    {
+     "text": "(art. L 113-3",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 520.73
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 463.07,
+   "x1": 566.36,
+   "y1": 473.29,
+   "text": "du Code), nous pouvons, indépendamment de notre droit de poursuivre l’exécution du contrat en justice, par lettre",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": ", nous pouvons, indépendamment de notre droit de poursuivre l’exécution du contrat en justice, par lettre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 105.7
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 474.07,
+   "x1": 566.36,
+   "y1": 484.29,
+   "text": "recommandée valant mise en demeure, adressée à votre dernier domicile connu, suspendre la garantie TRENTE",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "recommandée valant mise en demeure, adressée à votre dernier domicile connu, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "suspendre la garantie",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 433.07
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 527.53
+    },
+    {
+     "text": "TRENTE",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 531.35
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 485.07,
+   "x1": 213.4,
+   "y1": 495.29,
+   "text": "jours après l’envoi de cette lettre.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "jours après l’envoi de cette lettre.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 498.9,
+   "x1": 566.36,
+   "y1": 509.12,
+   "text": "Si la cotisation reste impayée, nous avons le droit de résilier le contrat DIX jours après l’expiration du délai de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si la cotisation reste impayée, nous avons le droit de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "résilier le contrat",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 309.84
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 386.82
+    },
+    {
+     "text": "DIX jours après l’expiration du délai de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 390.73
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 509.9,
+   "x1": 566.36,
+   "y1": 520.12,
+   "text": "TRENTE jours visé ci-dessus, selon notification qui vous a été faite dans la lettre recommandée de mise en demeure.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "TRENTE jours visé ci-dessus, selon notification qui vous a été faite dans la lettre recommandée de mise en demeure.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 523.73,
+   "x1": 566.35,
+   "y1": 533.95,
+   "text": "La suspension de la garantie pour non paiement de la cotisation ne vous dispense pas de l’obligation de payer les",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "La suspension de la garantie pour non paiement de la cotisation ne vous dispense pas de l’obligation de payer les",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 534.73,
+   "x1": 197.96,
+   "y1": 544.95,
+   "text": "cotisations à leurs échéances.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cotisations à leurs échéances.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 548.56,
+   "x1": 566.36,
+   "y1": 558.78,
+   "text": "L’encaissement par nos soins de la portion de cotisation correspondant à la période d’assurance écoulée jusqu’au",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’encaissement par nos soins de la portion de cotisation correspondant à la période d’assurance écoulée jusqu’au",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 559.56,
+   "x1": 566.37,
+   "y1": 569.79,
+   "text": "jour de la résiliation et de la pénalité due en cas de non-paiement, ne peut avoir pour effet de remettre en vigueur",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "jour de la résiliation et de la pénalité due en cas de non-paiement, ne peut avoir pour effet de remettre en vigueur",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 570.57,
+   "x1": 144.48,
+   "y1": 580.79,
+   "text": "le contrat résilié.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "le contrat résilié.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  }
+ ]
+}

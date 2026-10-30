@@ -1,0 +1,914 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_40",
+ "numero": "40",
+ "titre": "ÉTENDUE TERRITORIALE DES GARANTIES",
+ "chapitre": {
+  "numero": 7,
+  "titre": "LIEU D’ASSURANCE - EXCLUSIONS COMMUNES A TOUS LES RISQUES"
+ },
+ "page_debut": 29,
+ "page_fin": 29,
+ "pages": [
+  29
+ ],
+ "texte": "1- Pour les garanties que vous avez retenues, l’étendue territoriale est la suivante :\n\u0004 Dans le monde entier :\n- Responsabilité civile Vie Privée et Défense civile des intérêts de l’Assuré (art. 13 et 18) ;\n\u0004 Dans le monde entier pour des séjours n’excédant pas 90 jours consécutifs :\n- Risques locatifs occasionnels pour une villégiature, un séjour (art. 25B) ;\n- Mobilier hors domicile (art. 26) ;\n- Extension de garanties prévues par les clauses D43, D90 et L03 si elles ont été souscrites ;\n\u0004 Dans les pays de l’Union Européenne, en Andorre, Islande, Liechtenstein, Monaco, Norvège, Saint Marin,\nSuisse, cité du Vatican :\n- Frais de secours et de sauvetage (art. 27) ;\n- Accidents corporels de vos enfants élèves (art. 29) ;\n- Biens hors domicile (art. 26) pendant les stages de formation lorsque leur durée n’excède pas 6 mois\nconsécutifs ;\n\u0004 Sur le territoire national :\n- Attentats et actes de terrorisme (art. 12) ;\n\u0004 Au lieu d’assurance situé en France continentale :\n- les autres garanties -sauf Assistance et Protection de vos droits-.\nToutefois les garanties suivantes :\n- Événements climatiques (art. 9) ;\n- Catastrophes naturelles (art. 10) ;\n- Catastrophes technologiques (art. 11) ;\nne s’appliquent qu’en France métropolitaine, dans les départements d’outre mer, à Saint Barthélémy, Saint Martin,\nSaint Pierre et Miquelon, Wallis et Futuna.\n2- Les garanties Assistance et Protection des droits de l’Assuré interviennent dans les conditions prévues aux\nChapitres 8 et 9 (respectivement aux articles 42 et 48).",
+ "lignes": [
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 155.88,
+   "x1": 421.63,
+   "y1": 166.1,
+   "text": "1- Pour les garanties que vous avez retenues, l’étendue territoriale est la suivante :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "1-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " Pour les garanties que vous avez retenues, l’étendue territoriale est la suivante :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 79.76
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 170.71,
+   "x1": 191.3,
+   "y1": 180.93,
+   "text": "\u0004 Dans le monde entier :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": " Dans le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 89.04
+    },
+    {
+     "text": "monde entier",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 127.39
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 185.74
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 184.54,
+   "x1": 471.69,
+   "y1": 194.77,
+   "text": "- Responsabilité civile Vie Privée et Défense civile des intérêts de l’Assuré (art. 13 et 18) ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Responsabilité civile Vie Privée et Défense civile des intérêts de l’Assuré ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 13 et 18)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 414.1
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 466.13
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 201.22,
+   "x1": 421.22,
+   "y1": 211.44,
+   "text": "\u0004 Dans le monde entier pour des séjours n’excédant pas 90 jours consécutifs :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": " Dans le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 89.04
+    },
+    {
+     "text": "monde entier",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 127.39
+    },
+    {
+     "text": " pour des séjours n’excédant pas ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 185.74
+    },
+    {
+     "text": "90 jours consécutifs",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 328.58
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 415.66
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 215.05,
+   "x1": 408.68,
+   "y1": 225.27,
+   "text": "- Risques locatifs occasionnels pour une villégiature, un séjour (art. 25B) ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Risques locatifs occasionnels pour une villégiature, un séjour ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 25B)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 367.61
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 403.12
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 228.88,
+   "x1": 242.42,
+   "y1": 239.11,
+   "text": "- Mobilier hors domicile (art. 26) ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Mobilier hors domicile ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 26)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 205.94
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 236.67
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 242.72,
+   "x1": 488.64,
+   "y1": 252.94,
+   "text": "- Extension de garanties prévues par les clauses D43, D90 et L03 si elles ont été souscrites ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Extension de garanties prévues par les clauses D43, D90 et L03 si elles ont été souscrites ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 259.39,
+   "x1": 566.66,
+   "y1": 269.61,
+   "text": "\u0004 Dans les pays de l’Union Européenne, en Andorre, Islande, Liechtenstein, Monaco, Norvège, Saint Marin,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 89.04
+    },
+    {
+     "text": "Dans les pays de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 93.26
+    },
+    {
+     "text": "l’Union Européenne",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 173.73
+    },
+    {
+     "text": ", en Andorre, Islande, Liechtenstein, Monaco, Norvège, Saint Marin,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 262.26
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 270.39,
+   "x1": 185.84,
+   "y1": 280.61,
+   "text": "Suisse, cité du Vatican :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Suisse, cité du Vatican :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 284.22,
+   "x1": 277.49,
+   "y1": 294.45,
+   "text": "- Frais de secours et de sauvetage (art. 27) ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Frais de secours et de sauvetage ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 27)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 241.91
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 271.93
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 298.06,
+   "x1": 318.57,
+   "y1": 308.28,
+   "text": "- Accidents corporels de vos enfants élèves (art. 29) ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Accidents corporels de vos enfants élèves ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 29)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 282.99
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 313.01
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 311.89,
+   "x1": 566.67,
+   "y1": 322.12,
+   "text": "- Biens hors domicile (art. 26) pendant les stages de formation lorsque leur durée n’excède pas 6 mois",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Biens hors domicile ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 26)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 198.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 230.82
+    },
+    {
+     "text": "pendant les stages de formation lorsque leur durée n’excède pas ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 235.74
+    },
+    {
+     "text": "6 mois",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 535.62
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 322.9,
+   "x1": 149.74,
+   "y1": 333.12,
+   "text": "consécutifs ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "consécutifs ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 339.56,
+   "x1": 202.29,
+   "y1": 349.78,
+   "text": "\u0004 Sur le territoire national :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": " Sur le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 89.04
+    },
+    {
+     "text": "territoire national",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 119.05
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 196.73
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 353.39,
+   "x1": 272.17,
+   "y1": 363.62,
+   "text": "- Attentats et actes de terrorisme (art. 12) ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Attentats et actes de terrorisme ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "(art. 12)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 236.6
+    },
+    {
+     "text": " ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 266.61
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 370.07,
+   "x1": 305.02,
+   "y1": 380.29,
+   "text": "\u0004 Au lieu d’assurance situé en France continentale :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": " Au ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 89.04
+    },
+    {
+     "text": "lieu d’assurance",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 106.28
+    },
+    {
+     "text": " situé en France continentale :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 176.01
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 96.38,
+   "y0": 383.9,
+   "x1": 358.95,
+   "y1": 394.12,
+   "text": "- les autres garanties -sauf Assistance et Protection de vos droits-.",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- les autres garanties ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 96.38
+    },
+    {
+     "text": "-sauf Assistance et Protection de vos droits-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 186.28
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 356.17
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 408.73,
+   "x1": 214.62,
+   "y1": 418.95,
+   "text": "Toutefois les garanties suivantes :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Toutefois les garanties suivantes :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 422.15,
+   "x1": 216.78,
+   "y1": 432.38,
+   "text": "- Événements climatiques (art. 9) ;",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- Événements climatiques ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": "(art. 9)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 184.22
+    },
+    {
+     "text": " ;",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 211.22
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 434.57,
+   "x1": 219.27,
+   "y1": 444.8,
+   "text": "- Catastrophes naturelles (art. 10) ;",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- Catastrophes naturelles ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": "(art. 10)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 181.7
+    },
+    {
+     "text": " ;",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 213.71
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 446.99,
+   "x1": 242.62,
+   "y1": 457.21,
+   "text": "- Catastrophes technologiques (art. 11) ;",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- Catastrophes technologiques ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": "(art. 11)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 205.05
+    },
+    {
+     "text": " ;",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 237.06
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 460.82,
+   "x1": 566.67,
+   "y1": 471.04,
+   "text": "ne s’appliquent qu’en France métropolitaine, dans les départements d’outre mer, à Saint Barthélémy, Saint Martin,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "ne s’appliquent qu’en France métropolitaine, dans les départements d’outre mer, à Saint Barthélémy, Saint Martin,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 471.82,
+   "x1": 255.27,
+   "y1": 482.04,
+   "text": "Saint Pierre et Miquelon, Wallis et Futuna.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Saint Pierre et Miquelon, Wallis et Futuna.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 499.83,
+   "x1": 566.65,
+   "y1": 510.05,
+   "text": "2- Les garanties Assistance et Protection des droits de l’Assuré interviennent dans les conditions prévues aux",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "2-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.76
+    },
+    {
+     "text": "Les garanties ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 84.19
+    },
+    {
+     "text": "Assistance",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 145.55
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 190.56
+    },
+    {
+     "text": "et ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 194.99
+    },
+    {
+     "text": "Protection des droits de l’Assuré",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 207.75
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 355.17
+    },
+    {
+     "text": "interviennent dans les conditions prévues aux",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 359.6
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 510.83,
+   "x1": 293.92,
+   "y1": 521.05,
+   "text": "Chapitres 8 et 9 (respectivement aux articles 42 et 48).",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Chapitres 8 et 9 ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": "(respectivement aux articles 42 et 48)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 142.99
+    },
+    {
+     "text": ".",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 291.14
+    }
+   ]
+  }
+ ]
+}

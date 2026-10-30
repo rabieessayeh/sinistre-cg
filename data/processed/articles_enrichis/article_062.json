@@ -1,0 +1,310 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_62",
+ "numero": "62",
+ "titre": "DURÉE DU CONTRAT - SUSPENSION",
+ "chapitre": {
+  "numero": 13,
+  "titre": "FORMATION - DURÉE - RÉSILIATION - PRESCRIPTION - PROTECTION DE LA CLIENTÈLE"
+ },
+ "page_debut": 50,
+ "page_fin": 50,
+ "pages": [
+  50
+ ],
+ "texte": "DURÉE DU CONTRAT\nElle est rappelée de façon apparente aux conditions particulières au-dessus de votre signature.\nCe contrat peut être souscrit :\n- pour la durée de la Société avec faculté de résiliation annuelle,\n- pour une durée déterminée. Le contrat cesse alors ses effets, de plein droit et sans autre avis, au jour et à l’heure\nindiqués aux conditions particulières (ou le jour à minuit si l’heure n’est pas précisée).\nSUSPENSION DU CONTRAT\n• En cas de réquisition, les effets du contrat sont suspendus dans les conditions prévues par les articles L 160-6\net L 160-7 du Code.\n• En cas de non paiement de la cotisation, voir art. 67 ci-après.",
+ "lignes": [
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 683.56,
+   "x1": 169.19,
+   "y1": 693.78,
+   "text": "DURÉE DU CONTRAT",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "DURÉE DU CONTRAT",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 696.98,
+   "x1": 474.01,
+   "y1": 707.2,
+   "text": "Elle est rappelée de façon apparente aux conditions particulières au-dessus de votre signature.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Elle est rappelée de façon apparente aux conditions particulières au-dessus de votre signature.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 710.4,
+   "x1": 196.31,
+   "y1": 720.62,
+   "text": "Ce contrat peut être souscrit :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Ce contrat peut être souscrit :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 722.82,
+   "x1": 347.18,
+   "y1": 733.04,
+   "text": "- pour la durée de la Société avec faculté de résiliation annuelle,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- pour la durée de la Société avec faculté de résiliation annuelle,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 735.24,
+   "x1": 566.47,
+   "y1": 745.46,
+   "text": "- pour une durée déterminée. Le contrat cesse alors ses effets, de plein droit et sans autre avis, au jour et à l’heure",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- pour une durée déterminée. Le contrat cesse alors ses effets, de plein droit et sans autre avis, au jour et à l’heure",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 746.23,
+   "x1": 419.82,
+   "y1": 756.46,
+   "text": "indiqués aux conditions particulières (ou le jour à minuit si l’heure n’est pas précisée).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "indiqués aux conditions particulières ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "(ou le jour à minuit si l’heure n’est pas précisée)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 231.46
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 417.04
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 765.06,
+   "x1": 198.08,
+   "y1": 775.28,
+   "text": "SUSPENSION DU CONTRAT",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "SUSPENSION DU CONTRAT",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 778.42,
+   "x1": 566.46,
+   "y1": 789.11,
+   "text": "• En cas de réquisition, les effets du contrat sont suspendus dans les conditions prévues par les articles L 160-6",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 75.83
+    },
+    {
+     "text": "En cas de réquisition,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 175.21
+    },
+    {
+     "text": "les effets du contrat sont suspendus dans les conditions prévues par les articles L 160-6",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 178.51
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 789.89,
+   "x1": 156.69,
+   "y1": 800.11,
+   "text": "et L 160-7 du Code.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et L 160-7 du Code.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 803.25,
+   "x1": 351.58,
+   "y1": 813.94,
+   "text": "• En cas de non paiement de la cotisation, voir art. 67 ci-après.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": " En cas de non paiement de la cotisation,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 75.83
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 259.3
+    },
+    {
+     "text": "voir art. 67 ci-après.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 262.34
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "DURÉE DU CONTRAT\nElle est rappelée de façon apparente aux conditions particulières au-dessus de votre signature.\nCe contrat peut être souscrit :\n- pour la durée de la Société avec faculté de résiliation annuelle,\n- pour une durée déterminée. Le contrat cesse alors ses effets, de plein droit et sans autre avis, au jour et à l’heure\nindiqués aux conditions particulières (ou le jour à minuit si l’heure n’est pas précisée).\nSUSPENSION DU CONTRAT\n• En cas de réquisition, les effets du contrat sont suspendus dans les conditions prévues par les articles L 160-6\net L 160-7 du Code.\n• En cas de non paiement de la cotisation, voir art. 67 ci-après.",
+   "pages": [
+    50
+   ],
+   "renvois_articles": [
+    "67"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "67"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

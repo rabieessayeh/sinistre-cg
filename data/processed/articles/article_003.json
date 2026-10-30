@@ -1,0 +1,586 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_3",
+ "numero": "3",
+ "titre": "LES AMÉNAGEMENTS DES BÂTIMENTS",
+ "chapitre": {
+  "numero": 1,
+  "titre": "LES BIENS ASSURABLES"
+ },
+ "page_debut": 6,
+ "page_fin": 7,
+ "pages": [
+  6,
+  7
+ ],
+ "texte": "\u0003 Les équipements immobiliers des bâtiments assurés :\n- les biens immobiliers par destination, c’est-à-dire tout ce qui est incorporé ou fixé au bâtiment et qui ne peut\nen être détaché sans le détériorer,\n- les transformateurs, les ascenseurs,\n- les antennes radio ou télé, les paraboles, les stores extérieurs,\n- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs et les\nchaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur …), les chauffe-eau, les pompes fixes\nde relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces appareils sont situés à\nl’intérieur des bâtiments assurés,\n\u0003 Les embellissements* desdits bâtiments.\nNous ne garantissons pas, outre les exclusions énoncées à l’article 41, les éléments extérieurs des systèmes\nd’aérothermie :\n- pompes à chaleur servant soit exclusivement au chauffage/climatisation du logement, soit à la fois au\nchauffage/climatisation du logement et à celui de la piscine sauf souscription du Pack Tranquillité (art. 33),\n- pompes à chaleur servant exclusivement au chauffage de la piscine sauf souscription du Pack Piscine\nDétente (art. 35),\nLes aménagements sont estimés, en cas de sinistre, selon les modalités d’indemnisation prévues à l’article 51\n(Bâtiments).\nLorsque les aménagements n’appartiennent pas à l’Assuré locataire, nous garantissons sa responsabilité vis-à-vis de\nson bailleur, telle que prévue à l’article 14.",
+ "lignes": [
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 94.23,
+   "x1": 319.56,
+   "y1": 104.92,
+   "text": "\u0003 Les équipements immobiliers des bâtiments assurés :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": " Les équipements immobiliers des bâtiments assurés :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 90.6
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 107.12,
+   "x1": 566.28,
+   "y1": 117.34,
+   "text": "- les biens immobiliers par destination, c’est-à-dire tout ce qui est incorporé ou fixé au bâtiment et qui ne peut",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les biens immobiliers par destination, c’est-à-dire tout ce qui est incorporé ou fixé au bâtiment et qui ne peut",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 118.12,
+   "x1": 243.33,
+   "y1": 128.34,
+   "text": "en être détaché sans le détériorer,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "en être détaché sans le détériorer,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 130.54,
+   "x1": 254.68,
+   "y1": 140.76,
+   "text": "- les transformateurs, les ascenseurs,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les transformateurs, les ascenseurs,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 142.96,
+   "x1": 368.51,
+   "y1": 153.18,
+   "text": "- les antennes radio ou télé, les paraboles, les stores extérieurs,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les antennes radio ou télé, les paraboles, les stores extérieurs,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 155.38,
+   "x1": 566.28,
+   "y1": 165.6,
+   "text": "- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs et les",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les installations fixes d’alarme, de climatisation, de ventilation, de chauffage ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    },
+    {
+     "text": "-y compris les convecteurs et les",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 439.28
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 166.37,
+   "x1": 566.28,
+   "y1": 176.59,
+   "text": "chaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur …), les chauffe-eau, les pompes fixes",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "chaudières-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 99.21
+    },
+    {
+     "text": ", les systèmes fixes de filtration de l’eau ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 144.06
+    },
+    {
+     "text": "(adoucisseur, osmoseur …)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 316.03
+    },
+    {
+     "text": ", les chauffe-eau, les pompes fixes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 419.86
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 177.37,
+   "x1": 566.29,
+   "y1": 187.59,
+   "text": "de relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces appareils sont situés à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de relevage nécessaires à l’alimentation ou à l’évacuation des eaux, lorsque ces appareils sont situés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    },
+    {
+     "text": "à",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 561.29
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 188.37,
+   "x1": 242.04,
+   "y1": 198.59,
+   "text": "l’intérieur des bâtiments assurés,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "l’intérieur des bâtiments assurés,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 85.05,
+   "y0": 203.15,
+   "x1": 264.55,
+   "y1": 213.84,
+   "text": "\u0003 Les embellissements* desdits bâtiments.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.05
+    },
+    {
+     "text": " Les embellissements",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 90.61
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 180.63
+    },
+    {
+     "text": " desdits bâtiments.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 185.07
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 70.88,
+   "y0": 225.96,
+   "x1": 566.3,
+   "y1": 236.18,
+   "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41, les éléments extérieurs des systèmes",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41, les éléments extérieurs des systèmes",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.88
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 70.88,
+   "y0": 236.96,
+   "x1": 140.72,
+   "y1": 247.18,
+   "text": "d’aérothermie :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "d’aérothermie : ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.88
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.23,
+   "y0": 250.23,
+   "x1": 566.31,
+   "y1": 260.45,
+   "text": "- pompes à chaleur servant soit exclusivement au chauffage/climatisation du logement, soit à la fois au",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- pompes à chaleur servant soit exclusivement au chauffage/climatisation du logement, soit à la fois au",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 99.23
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.23,
+   "y0": 261.23,
+   "x1": 557.48,
+   "y1": 271.45,
+   "text": "chauffage/climatisation du logement et à celui de la piscine sauf souscription du Pack Tranquillité (art. 33),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "chauffage/climatisation du logement et à celui de la piscine",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 99.23
+    },
+    {
+     "text": " sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 358.82
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 450.54
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 521.93
+    },
+    {
+     "text": "(art. 33)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 524.68
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 554.7
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 274.5,
+   "x1": 566.28,
+   "y1": 284.72,
+   "text": "- pompes à chaleur servant exclusivement au chauffage de la piscine sauf souscription du Pack Piscine",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- pompes à chaleur servant exclusivement au chauffage de la piscine",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 99.21
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 413.06
+    },
+    {
+     "text": "sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 417.47
+    },
+    {
+     "text": "Pack Piscine",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 511.3
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 285.5,
+   "x1": 169.79,
+   "y1": 295.72,
+   "text": "Détente (art. 35),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Détente",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 99.21
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 134.21
+    },
+    {
+     "text": "(art. 35)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 136.99
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 167.01
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 306.42,
+   "x1": 566.28,
+   "y1": 316.64,
+   "text": "Les aménagements sont estimés, en cas de sinistre, selon les modalités d’indemnisation prévues à l’article 51",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les aménagements sont estimés, en cas de sinistre, selon les modalités d’indemnisation prévues à l’article 51",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 317.42,
+   "x1": 116.66,
+   "y1": 327.64,
+   "text": "(Bâtiments).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(Bâtiments)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 113.88
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 70.34,
+   "y0": 329.84,
+   "x1": 567.74,
+   "y1": 340.06,
+   "text": "Lorsque les aménagements n’appartiennent pas à l’Assuré locataire, nous garantissons sa responsabilité vis-à-vis de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Lorsque les aménagements n’appartiennent pas à l’Assuré locataire, nous garantissons sa responsabilité vis-à-vis de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.34
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "column": 0,
+   "x0": 70.34,
+   "y0": 340.84,
+   "x1": 256.67,
+   "y1": 351.06,
+   "text": "son bailleur, telle que prévue à l’article 14.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "son bailleur, telle que prévue à l’article 14.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.34
+    }
+   ]
+  }
+ ]
+}

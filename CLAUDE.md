@@ -1,0 +1,1 @@
+Système qui dit si un sinistre est couvert par des conditions générales d’assurance habitation, en citant les articles et en sachant dire “ça dépend” ou “je ne sais pas”.Python, code modulaire, pas de règle spécifique à un sinistre.

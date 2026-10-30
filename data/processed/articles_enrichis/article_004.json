@@ -1,0 +1,785 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_4",
+ "numero": "4",
+ "titre": "INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS",
+ "chapitre": {
+  "numero": 2,
+  "titre": "LES ÉVÉNEMENTS ASSURABLES"
+ },
+ "page_debut": 7,
+ "page_fin": 7,
+ "pages": [
+  7
+ ],
+ "texte": "Nous garantissons les dommages matériels causés aux biens assurés par :\n• l’incendie, tel que défini à l’article L 122-1 du Code, c’est-à-dire la combustion avec flammes en dehors d’un\nfoyer normal,\n• l’explosion et l’implosion, c’est-à-dire l’action subite et violente de la pression ou de la dépression de gaz ou\nde vapeur,\n• la chute directe de la foudre,\n• les fumées sans incendie dues à un événement accidentel,\n• le choc ou la chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,\n• le choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les\nmembres de la société civile immobilière propriétaire des bâtiments assurés, ni les personnes dont vous êtes\ncivilement responsable.\nNous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n• les dommages, autres que ceux d’incendie, explosion ou implosion, provenant d'un vice propre ou d’un défaut\nde fabrication des objets assurés, de leur fermentation ou de leur oxydation,\n• les dommages aux installations, appareils électriques et électroniques -et à leur contenu- d'origine interne ou\nrésultant de la chute de la foudre (ces dommages peuvent être couverts au titre de l’article 5),\n• les dommages dus à l’action subite de la chaleur ou au contact direct et immédiat du feu ou d’une substance\nincandescente, sans émission de flammes (sauf souscription, pour certains de ces dommages, du Pack Tranquillité article 33),\n• les objets jetés ou tombés dans un foyer ainsi que les produits en cours de cuisson,\n• les dommages, autres que ceux d’incendie, causés par des explosifs que vous détenez volontairement (autres que\nles feux d'artifice d’amateurs*).",
+ "lignes": [
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 117.2,
+   "x1": 386.98,
+   "y1": 127.42,
+   "text": "Nous garantissons les dommages matériels causés aux biens assurés par :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    },
+    {
+     "text": " les dommages matériels causés aux biens assurés par :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 150.81
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 130.56,
+   "x1": 565.43,
+   "y1": 141.25,
+   "text": "• l’incendie, tel que défini à l’article L 122-1 du Code, c’est-à-dire la combustion avec flammes en dehors d’un",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    },
+    {
+     "text": " l’incendie, tel que défini à l’article L 122-1 du Code, c’est-à-dire la combustion avec flammes en dehors d’un",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 91.92
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 142.03,
+   "x1": 143.85,
+   "y1": 152.25,
+   "text": "foyer normal,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "foyer normal,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 155.39,
+   "x1": 565.42,
+   "y1": 166.08,
+   "text": "• l’explosion et l’implosion, c’est-à-dire l’action subite et violente de la pression ou de la dépression de gaz ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    },
+    {
+     "text": " l’explosion et l’implosion, c’est-à-dire l’action subite et violente de la pression ou de la dépression de gaz ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 91.92
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 166.86,
+   "x1": 130.95,
+   "y1": 177.08,
+   "text": "de vapeur,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de vapeur,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 180.22,
+   "x1": 218.46,
+   "y1": 190.91,
+   "text": "• la chute directe de la foudre,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    },
+    {
+     "text": " la chute directe de la foudre,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 91.92
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 194.05,
+   "x1": 345.35,
+   "y1": 204.74,
+   "text": "• les fumées sans incendie dues à un événement accidentel,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    },
+    {
+     "text": " les fumées sans incendie dues à un événement accidentel,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 91.92
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 207.88,
+   "x1": 511.21,
+   "y1": 218.57,
+   "text": "• le choc ou la chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    },
+    {
+     "text": " le choc ou la chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 91.92
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 221.71,
+   "x1": 565.44,
+   "y1": 232.4,
+   "text": "• le choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 91.92
+    },
+    {
+     "text": "le choc d’un véhicule terrestre dont le conducteur n’est ni vous",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.85
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 378.76
+    },
+    {
+     "text": ", ni votre conjoint",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 383.2
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 463.18
+    },
+    {
+     "text": ", ni le cas échéant les",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 467.62
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 233.18,
+   "x1": 565.43,
+   "y1": 243.4,
+   "text": "membres de la société civile immobilière propriétaire des bâtiments assurés, ni les personnes dont vous êtes",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "membres de la société civile immobilière propriétaire des bâtiments assurés, ni les personnes dont vous êtes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 86.36,
+   "y0": 244.18,
+   "x1": 187.88,
+   "y1": 254.4,
+   "text": "civilement responsable.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "civilement responsable.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 86.36
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 264.18,
+   "x1": 379.0,
+   "y1": 274.4,
+   "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 280.85,
+   "x1": 565.44,
+   "y1": 291.07,
+   "text": "• les dommages, autres que ceux d’incendie, explosion ou implosion, provenant d'un vice propre ou d’un défaut",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.25
+    },
+    {
+     "text": "les dommages,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.29
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 145.45
+    },
+    {
+     "text": "autres que ceux d’incendie, explosion ou implosion,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 148.48
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 375.69
+    },
+    {
+     "text": "provenant d'un vice propre ou d’un défaut",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 378.72
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 291.85,
+   "x1": 404.55,
+   "y1": 302.07,
+   "text": "de fabrication des objets assurés, de leur fermentation ou de leur oxydation,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "de fabrication des objets assurés, de leur fermentation ou de leur oxydation,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 305.68,
+   "x1": 565.43,
+   "y1": 315.9,
+   "text": "• les dommages aux installations, appareils électriques et électroniques -et à leur contenu- d'origine interne ou",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.25
+    },
+    {
+     "text": "les dommages aux installations, appareils électriques et électroniques -et à leur contenu- d'origine interne ou",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.59
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 316.68,
+   "x1": 450.23,
+   "y1": 326.93,
+   "text": "résultant de la chute de la foudre (ces dommages peuvent être couverts au titre de l’article 5),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "résultant de la chute de la foudre",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 216.82
+    },
+    {
+     "text": "(ces dommages peuvent être couverts au titre de l’article 5)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 219.6
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 447.45
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 330.54,
+   "x1": 565.42,
+   "y1": 340.76,
+   "text": "• les dommages dus à l’action subite de la chaleur ou au contact direct et immédiat du feu ou d’une substance",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.25
+    },
+    {
+     "text": "les dommages dus à l’action subite de la chaleur ou au contact direct et immédiat du feu ou d’une substance",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.57
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 341.54,
+   "x1": 565.43,
+   "y1": 351.77,
+   "text": "incandescente, sans émission de flammes (sauf souscription, pour certains de ces dommages, du Pack Tranquillité article 33),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "incandescente, sans émission de flammes",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.19
+    },
+    {
+     "text": " (sauf souscription, pour certains de ces dommages, du ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 248.59
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 458.87
+    },
+    {
+     "text": " article 33)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 522.18
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 562.65
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.2,
+   "y0": 355.38,
+   "x1": 440.36,
+   "y1": 365.6,
+   "text": "• les objets jetés ou tombés dans un foyer ainsi que les produits en cours de cuisson,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.2
+    },
+    {
+     "text": " les objets jetés ou tombés dans un foyer ainsi que les produits en cours de cuisson,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.26
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.2,
+   "y0": 369.21,
+   "x1": 565.43,
+   "y1": 379.43,
+   "text": "• les dommages, autres que ceux d’incendie, causés par des explosifs que vous détenez volontairement (autres que",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.2
+    },
+    {
+     "text": " les dommages,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 78.26
+    },
+    {
+     "text": " autres que ceux d’incendie, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 144.9
+    },
+    {
+     "text": "causés par des explosifs que vous détenez volontairement",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 269.32
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 520.17
+    },
+    {
+     "text": "(autres que",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 522.93
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "column": 0,
+   "x0": 72.19,
+   "y0": 380.22,
+   "x1": 192.95,
+   "y1": 390.44,
+   "text": "les feux d'artifice d’amateurs*).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "les feux d'artifice d’amateurs",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 72.19
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 183.23
+    },
+    {
+     "text": ")",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 187.67
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 190.17
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les dommages matériels causés aux biens assurés par :\n• l’incendie, tel que défini à l’article L 122-1 du Code, c’est-à-dire la combustion avec flammes en dehors d’un\nfoyer normal,\n• l’explosion et l’implosion, c’est-à-dire l’action subite et violente de la pression ou de la dépression de gaz ou\nde vapeur,\n• la chute directe de la foudre,\n• les fumées sans incendie dues à un événement accidentel,\n• le choc ou la chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,\n• le choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les\nmembres de la société civile immobilière propriétaire des bâtiments assurés, ni les personnes dont vous êtes\ncivilement responsable.",
+   "pages": [
+    7
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "vous",
+     "terme": "Vous"
+    },
+    {
+     "forme": "conjoint",
+     "terme": "Conjoint"
+    }
+   ]
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions énoncées à l’article 41 :\n• les dommages, autres que ceux d’incendie, explosion ou implosion, provenant d'un vice propre ou d’un défaut\nde fabrication des objets assurés, de leur fermentation ou de leur oxydation,\n• les dommages aux installations, appareils électriques et électroniques -et à leur contenu- d'origine interne ou\nrésultant de la chute de la foudre (ces dommages peuvent être couverts au titre de l’article 5),\n• les dommages dus à l’action subite de la chaleur ou au contact direct et immédiat du feu ou d’une substance\nincandescente, sans émission de flammes (sauf souscription, pour certains de ces dommages, du Pack Tranquillité article 33),\n• les objets jetés ou tombés dans un foyer ainsi que les produits en cours de cuisson,\n• les dommages, autres que ceux d’incendie, causés par des explosifs que vous détenez volontairement (autres que\nles feux d'artifice d’amateurs*).",
+   "pages": [
+    7
+   ],
+   "renvois_articles": [
+    "41",
+    "5",
+    "33"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "feux d'artifice d’amateurs",
+     "terme": "Feux d’artifice d’amateurs"
+    }
+   ]
+  }
+ ],
+ "renvois_articles": [
+  "41",
+  "5",
+  "33"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": [
+  {
+   "forme": "vous",
+   "terme": "Vous"
+  },
+  {
+   "forme": "conjoint",
+   "terme": "Conjoint"
+  },
+  {
+   "forme": "feux d'artifice d’amateurs",
+   "terme": "Feux d’artifice d’amateurs"
+  }
+ ]
+}

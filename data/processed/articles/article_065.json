@@ -1,0 +1,544 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_65",
+ "numero": "65",
+ "titre": "PROTECTION DE LA CLIENTÈLE",
+ "chapitre": {
+  "numero": 13,
+  "titre": "FORMATION - DURÉE - RÉSILIATION - PRESCRIPTION - PROTECTION DE LA CLIENTÈLE"
+ },
+ "page_debut": 53,
+ "page_fin": 54,
+ "pages": [
+  53,
+  54
+ ],
+ "texte": "A - L’AUTORITÉ DE CONTRÔLE\nL’autorité chargée du contrôle de l’assureur est l’Autorité de Contrôle Prudentiel et de Résolution, 61 rue Taitbout -\n75 436 PARIS cedex 09.\nB - RELATIONS CLIENTÈLE ET MÉDIATION\nEn cas de réclamation sur l’application de votre contrat, nous vous conseillons de consulter votre agent d’assurance.\nSi sa réponse ne vous satisfait pas, vous pouvez adresser votre demande au : Service Qualité-Réclamations -\nMutuelle de Poitiers Assurances BP 80000 - 86066 Poitiers Cedex 9, adresse mail : qualite@mutuelledepoitiers.fr.\nSi votre désaccord persiste après notre réponse, vous pouvez, si vous êtes un assuré particulier (c’est-à-dire non\nprofessionnel) saisir le Médiateur de l’Assurance (TSA 50110 - 75441Paris Cedex 9).\nC - LOI INFORMATIQUE ET LIBERTÉS\nLes données personnelles que vous nous avez communiquées (par téléphone, par écrit, par voie électronique…) sont\nnécessaires pour la gestion de votre contrat et sont utilisées dans le cadre de notre relation d’affaires, de notre\ndispositif de lutte anti-fraude.\nElles peuvent également faire l’objet de traitements spécifiques et d’informations aux autorités compétentes dans le\ncadre des dispositions législatives et réglementaires en vigueur, notamment relatives à la lutte contre le blanchiment\net le financement du terrorisme.\nDans le cadre de la gestion de votre contrat (modification, sinistre, résiliation, recouvrement…), elles pourront être\nutilisées par votre agent d’assurance et ses collaborateurs, par le personnel de la Mutuelle de Poitiers, par nos\nmandataires, nos réassureurs, nos partenaires et organismes professionnels.\nVous pouvez à tout moment exercer vos droits d’accès, de communication, de rectification, d’opposition et de\nsuppression de vos données personnelles par courrier adressé au Service Qualité-Réclamations - Mutuelle de\nPoitiers Assurances BP 80000 - 86066 Poitiers Cedex 9.",
+ "lignes": [
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 280.39,
+   "x1": 226.53,
+   "y1": 290.61,
+   "text": "A - L’AUTORITÉ DE CONTRÔLE",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "A - L’AUTORITÉ DE CONTRÔLE",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.4
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 295.22,
+   "x1": 566.61,
+   "y1": 305.44,
+   "text": "L’autorité chargée du contrôle de l’assureur est l’Autorité de Contrôle Prudentiel et de Résolution, 61 rue Taitbout -",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "L’autorité chargée du contrôle de l’assureur est l’Autorité de Contrôle Prudentiel et de Résolution, 61 rue Taitbout -",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 307.22,
+   "x1": 175.18,
+   "y1": 317.44,
+   "text": "75 436 PARIS cedex 09.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "75 436 PARIS cedex 09.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 328.89,
+   "x1": 275.99,
+   "y1": 339.11,
+   "text": "B - RELATIONS CLIENTÈLE ET MÉDIATION",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "B - RELATIONS CLIENTÈLE ET MÉDIATION",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.4
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 343.72,
+   "x1": 566.6,
+   "y1": 353.94,
+   "text": "En cas de réclamation sur l’application de votre contrat, nous vous conseillons de consulter votre agent d’assurance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "En cas de réclamation sur l’application de votre contrat, nous vous conseillons de consulter votre agent d’assurance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 355.72,
+   "x1": 566.59,
+   "y1": 365.94,
+   "text": "Si sa réponse ne vous satisfait pas, vous pouvez adresser votre demande au : Service Qualité-Réclamations -",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si sa réponse ne vous satisfait pas, vous pouvez adresser votre demande au : Service Qualité-Réclamations -",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 367.72,
+   "x1": 556.75,
+   "y1": 377.94,
+   "text": "Mutuelle de Poitiers Assurances BP 80000 - 86066 Poitiers Cedex 9, adresse mail : qualite@mutuelledepoitiers.fr.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Mutuelle de Poitiers Assurances BP 80000 - 86066 Poitiers Cedex 9, adresse mail : qualite@mutuelledepoitiers.fr.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 382.55,
+   "x1": 566.59,
+   "y1": 392.77,
+   "text": "Si votre désaccord persiste après notre réponse, vous pouvez, si vous êtes un assuré particulier (c’est-à-dire non",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si votre désaccord persiste après notre réponse, vous pouvez, si vous êtes un assuré particulier ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "(c’est-à-dire non",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 502.18
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 394.56,
+   "x1": 411.21,
+   "y1": 404.78,
+   "text": "professionnel) saisir le Médiateur de l’Assurance (TSA 50110 - 75441Paris Cedex 9).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "professionnel)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " saisir le Médiateur de l’Assurance ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 125.26
+    },
+    {
+     "text": "(TSA 50110 - 75441Paris Cedex 9)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 275.19
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 408.43
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 85.4,
+   "y0": 416.23,
+   "x1": 252.83,
+   "y1": 426.45,
+   "text": "C - LOI INFORMATIQUE ET LIBERTÉS",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "C - LOI INFORMATIQUE ET LIBERTÉS",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.4
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 431.06,
+   "x1": 566.59,
+   "y1": 441.29,
+   "text": "Les données personnelles que vous nous avez communiquées (par téléphone, par écrit, par voie électronique…) sont",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les données personnelles que vous nous avez communiquées ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "(par téléphone, par écrit, par voie électronique…)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 347.68
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 545.02
+    },
+    {
+     "text": "sont",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 548.8
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 443.07,
+   "x1": 566.58,
+   "y1": 453.29,
+   "text": "nécessaires pour la gestion de votre contrat et sont utilisées dans le cadre de notre relation d’affaires, de notre",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "nécessaires pour la gestion de votre contrat et sont utilisées dans le cadre de notre relation d’affaires, de notre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 455.07,
+   "x1": 196.73,
+   "y1": 465.29,
+   "text": "dispositif de lutte anti-fraude.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "dispositif de lutte anti-fraude.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 469.9,
+   "x1": 566.6,
+   "y1": 480.12,
+   "text": "Elles peuvent également faire l’objet de traitements spécifiques et d’informations aux autorités compétentes dans le",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Elles peuvent également faire l’objet de traitements spécifiques et d’informations aux autorités compétentes dans le",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 481.9,
+   "x1": 566.61,
+   "y1": 492.12,
+   "text": "cadre des dispositions législatives et réglementaires en vigueur, notamment relatives à la lutte contre le blanchiment",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cadre des dispositions législatives et réglementaires en vigueur, notamment relatives à la lutte contre le blanchiment",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 493.9,
+   "x1": 208.49,
+   "y1": 504.12,
+   "text": "et le financement du terrorisme.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et le financement du terrorisme.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 508.73,
+   "x1": 566.59,
+   "y1": 518.96,
+   "text": "Dans le cadre de la gestion de votre contrat (modification, sinistre, résiliation, recouvrement…), elles pourront être",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Dans le cadre de la gestion de votre contrat ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "(modification, sinistre, résiliation, recouvrement…)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 276.37
+    },
+    {
+     "text": ", elles pourront être",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 477.55
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 520.74,
+   "x1": 566.6,
+   "y1": 530.96,
+   "text": "utilisées par votre agent d’assurance et ses collaborateurs, par le personnel de la Mutuelle de Poitiers, par nos",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "utilisées par votre agent d’assurance et ses collaborateurs, par le personnel de la Mutuelle de Poitiers, par nos",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 532.74,
+   "x1": 393.55,
+   "y1": 542.96,
+   "text": "mandataires, nos réassureurs, nos partenaires et organismes professionnels.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "mandataires, nos réassureurs, nos partenaires et organismes professionnels.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 547.57,
+   "x1": 566.59,
+   "y1": 557.79,
+   "text": "Vous pouvez à tout moment exercer vos droits d’accès, de communication, de rectification, d’opposition et de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Vous pouvez à tout moment exercer vos droits d’accès, de communication, de rectification, d’opposition et de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 559.57,
+   "x1": 566.59,
+   "y1": 569.79,
+   "text": "suppression de vos données personnelles par courrier adressé au Service Qualité-Réclamations - Mutuelle de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "suppression de vos données personnelles par courrier adressé au Service Qualité-Réclamations - Mutuelle de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 53,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 571.57,
+   "x1": 309.4,
+   "y1": 581.79,
+   "text": "Poitiers Assurances BP 80000 - 86066 Poitiers Cedex 9.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Poitiers Assurances BP 80000 - 86066 Poitiers Cedex 9.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  }
+ ]
+}

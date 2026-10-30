@@ -1,0 +1,96 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_56",
+ "numero": "56",
+ "titre": "FRAIS DE PROCÈS",
+ "chapitre": {
+  "numero": 11,
+  "titre": "MISE EN ŒUVRE DES GARANTIES"
+ },
+ "page_debut": 48,
+ "page_fin": 48,
+ "pages": [
+  48
+ ],
+ "texte": "Les frais de procès et autres frais de procédure ne viennent pas en déduction du montant de la garantie.\nToutefois, en cas de condamnation supérieure à la limite de garantie fixée aux conditions particulières, ces frais sont\nsupportés par vous et par nous proportionnellement à notre part respective dans la condamnation.",
+ "lignes": [
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 208.44,
+   "x1": 514.34,
+   "y1": 218.66,
+   "text": "Les frais de procès et autres frais de procédure ne viennent pas en déduction du montant de la garantie.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les frais de procès et autres frais de procédure ne viennent pas en déduction du montant de la garantie.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 223.27,
+   "x1": 566.94,
+   "y1": 233.49,
+   "text": "Toutefois, en cas de condamnation supérieure à la limite de garantie fixée aux conditions particulières, ces frais sont",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Toutefois, en cas de condamnation supérieure à la limite de garantie fixée aux conditions particulières, ces frais sont",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  },
+  {
+   "page": 48,
+   "column": 0,
+   "x0": 70.08,
+   "y0": 235.27,
+   "x1": 491.44,
+   "y1": 245.49,
+   "text": "supportés par vous et par nous proportionnellement à notre part respective dans la condamnation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "supportés par vous et par nous proportionnellement à notre part respective dans la condamnation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.08
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "Les frais de procès et autres frais de procédure ne viennent pas en déduction du montant de la garantie.\nToutefois, en cas de condamnation supérieure à la limite de garantie fixée aux conditions particulières, ces frais sont\nsupportés par vous et par nous proportionnellement à notre part respective dans la condamnation.",
+   "pages": [
+    48
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

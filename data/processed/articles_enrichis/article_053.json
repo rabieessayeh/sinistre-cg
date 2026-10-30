@@ -1,0 +1,1333 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_53",
+ "numero": "53",
+ "titre": "MISE EN ŒUVRE DES GARANTIES RESPONSABILITÉ CIVILE ET DÉFENSE CIVILE",
+ "chapitre": {
+  "numero": 11,
+  "titre": "MISE EN ŒUVRE DES GARANTIES"
+ },
+ "page_debut": 46,
+ "page_fin": 47,
+ "pages": [
+  46,
+  47
+ ],
+ "texte": "Application des garanties -voir fiche d’information article 72- :\nLa garantie du contrat en cours de validité est déclenchée par le fait dommageable.\n\u0004 La garantie déclenchée par le fait dommageable vous couvre contre les conséquences pécuniaires des sinistres, dès\nlors que le fait dommageable survient entre la prise d’effet initiale de la garantie et sa date de résiliation ou\nd’expiration, quelle que soit la date des autres éléments constitutifs du sinistre.\n\u0004 Les montants exprimés :\n- par sinistre constituent la limite de notre engagement pour l’ensemble des réclamations relatives au même fait\ndommageable.\n- par année d’assurance constituent la limite de notre engagement pour l’ensemble des sinistres survenus au\ncours d’une même année d’assurance.\n- par sinistre et par année d’assurance constituent une limite unique susceptible d’être absorbée par un premier\nsinistre ou dont le reliquat est seul applicable à des sinistres postérieurs survenus lors de la même année\nd’assurance.\nLes conditions et montants des garanties sont ceux en vigueur à la date de survenance du sinistre.\nLes montants de garantie se réduisent et finalement s’épuisent par tout paiement ou provision, sans reconstitution de\ngarantie pour la période considérée.\nLes montants de garantie inutilisés au titre d’une année d’assurance ne sont plus disponibles pour les années\nsuivantes.\nTransaction : Nous avons seuls le droit, dans la limite de notre garantie, de transiger avec les personnes lésées.\nAucune reconnaissance de responsabilité, aucune transaction intervenant sans notre accord ne nous est opposable.\nN’est pas considéré comme une reconnaissance de responsabilité l’aveu d'un fait matériel.\nProcédure : En cas d’action dirigée contre vous et mettant en cause une responsabilité assurée par le présent contrat,\nles règles suivantes sont applicables, dans la limite de la garantie :\n\u0004 Lorsque nous n’avons pas eu connaissance d’exception de garantie, nous prenons la direction du procès et,\n- devant les juridictions civiles, commerciales ou administratives, choisissons l’avocat et avons le libre exercice\ndes voies de recours,\n- devant les juridictions pénales :\n- par application et dans les limites de l’article 388-1 du Code de Procédure Pénale, avons la faculté\nd’intervenir, même pour la première fois en appel et avons le libre exercice des voies de recours,\n- choisissons l’avocat si vous êtes cité comme civilement responsable et exerçons librement les voies de\nrecours en votre nom,\n- vous donnons, lorsque vous êtes cité comme prévenu, la possibilité d’être défendu par l’avocat que nous\ndésignons pour faire face à l’action civile, mais n’exerçons les voies de recours qu’avec votre accord,\nexception faite du pourvoi en Cassation lorsqu’il est limité aux intérêts civils.\nVous n’encourez aucune sanction du fait de votre immixtion dans la direction du procès si vous aviez intérêt à le faire.\n\u0004 Lorsque nous avons connaissance d’exception(s) de garantie, nous pouvons :\n- prendre la direction du procès, dans les mêmes conditions et avec les mêmes effets que dans le premier cas\nci-dessus.\nNous sommes alors censés renoncer aux exceptions dont nous avions connaissance, si nous n’avons pas fait\nvaloir contre vous l’exception de garantie (art. L 113-17 du Code),\n- nous abstenir de diriger le procès.\nNous ne renonçons alors à aucune exception, même connue, mais pouvons seulement nous associer à la défense\nque vous avez l’obligation d’assumer et de diriger. Les frais ainsi engagés sont :\n- à votre charge si l’exception de garantie est reconnue,\n- à notre charge dans les autres cas.\nInopposabilité des déchéances : Aucune déchéance* motivée par un manquement à vos obligations commis\npostérieurement au sinistre n’est opposable aux personnes lésées ou à leurs ayants droit.\nNous conservons néanmoins la faculté d’exercer contre vous une action en remboursement de toutes les sommes\nque nous aurons payées à votre place.\nLimites de garanties - Dispositions particulières : Les limites de garanties du présent contrat ne peuvent se cumuler\navec celles accordées par tout autre contrat délivré par la Mutuelle de Poitiers Assurances qui se trouverait en\nvigueur lors de la survenance d’un sinistre, sachant que vous ne pouvez en aucun cas bénéficier d’une garantie\nsupérieure à l’engagement le plus élevé de l’un quelconque de ces contrats.",
+ "lignes": [
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 200.78,
+   "x1": 328.16,
+   "y1": 211.0,
+   "text": "Application des garanties -voir fiche d’information article 72- :",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Application des garanties",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.63
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 180.37
+    },
+    {
+     "text": "-voir fiche d’information article 72-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 183.15
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 322.6
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 215.61,
+   "x1": 427.88,
+   "y1": 225.83,
+   "text": "La garantie du contrat en cours de validité est déclenchée par le fait dommageable.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "La garantie du contrat en cours de validité est déclenchée par le fait dommageable.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 230.45,
+   "x1": 566.72,
+   "y1": 240.67,
+   "text": "\u0004 La garantie déclenchée par le fait dommageable vous couvre contre les conséquences pécuniaires des sinistres, dès",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.63
+    },
+    {
+     "text": " La garantie déclenchée par le fait dommageable vous couvre contre les conséquences pécuniaires des sinistres, dès",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 242.45,
+   "x1": 566.72,
+   "y1": 252.67,
+   "text": "lors que le fait dommageable survient entre la prise d’effet initiale de la garantie et sa date de résiliation ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "lors que le fait dommageable survient entre la prise d’effet initiale de la garantie et sa date de résiliation ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 254.45,
+   "x1": 407.89,
+   "y1": 264.67,
+   "text": "d’expiration, quelle que soit la date des autres éléments constitutifs du sinistre.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’expiration, quelle que soit la date des autres éléments constitutifs du sinistre.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 269.28,
+   "x1": 180.77,
+   "y1": 279.5,
+   "text": "\u0004 Les montants exprimés :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.63
+    },
+    {
+     "text": " Les montants exprimés :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 282.7,
+   "x1": 566.71,
+   "y1": 292.92,
+   "text": "- par sinistre constituent la limite de notre engagement pour l’ensemble des réclamations relatives au même fait",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- par sinistre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 138.06
+    },
+    {
+     "text": "constituent la limite de notre engagement pour l’ensemble des réclamations relatives au même fait",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 141.08
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 294.7,
+   "x1": 148.71,
+   "y1": 304.92,
+   "text": "dommageable.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "dommageable.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 308.12,
+   "x1": 566.71,
+   "y1": 318.34,
+   "text": "- par année d’assurance constituent la limite de notre engagement pour l’ensemble des sinistres survenus au",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- par année d’assurance",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 190.66
+    },
+    {
+     "text": "constituent la limite de notre engagement pour l’ensemble des sinistres survenus au",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 194.69
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 320.12,
+   "x1": 249.74,
+   "y1": 330.34,
+   "text": "cours d’une même année d’assurance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cours d’une même année d’assurance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 333.53,
+   "x1": 566.71,
+   "y1": 343.76,
+   "text": "- par sinistre et par année d’assurance constituent une limite unique susceptible d’être absorbée par un premier",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- par sinistre et par année d’assurance",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 248.69
+    },
+    {
+     "text": "constituent une limite unique susceptible d’être absorbée par un premier",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 251.76
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 345.53,
+   "x1": 566.72,
+   "y1": 355.75,
+   "text": "sinistre ou dont le reliquat est seul applicable à des sinistres postérieurs survenus lors de la même année",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "sinistre ou dont le reliquat est seul applicable à des sinistres postérieurs survenus lors de la même année",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 357.53,
+   "x1": 138.04,
+   "y1": 367.75,
+   "text": "d’assurance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’assurance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 370.95,
+   "x1": 489.46,
+   "y1": 381.17,
+   "text": "Les conditions et montants des garanties sont ceux en vigueur à la date de survenance du sinistre.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les conditions et montants des garanties sont ceux en vigueur à la date de survenance du sinistre.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 384.37,
+   "x1": 566.73,
+   "y1": 394.59,
+   "text": "Les montants de garantie se réduisent et finalement s’épuisent par tout paiement ou provision, sans reconstitution de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les montants de garantie se réduisent et finalement s’épuisent par tout paiement ou provision, sans reconstitution de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 396.37,
+   "x1": 226.13,
+   "y1": 406.59,
+   "text": "garantie pour la période considérée.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "garantie pour la période considérée.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 409.79,
+   "x1": 566.73,
+   "y1": 420.01,
+   "text": "Les montants de garantie inutilisés au titre d’une année d’assurance ne sont plus disponibles pour les années",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les montants de garantie inutilisés au titre d’une année d’assurance ne sont plus disponibles pour les années",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 421.79,
+   "x1": 112.46,
+   "y1": 432.01,
+   "text": "suivantes.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "suivantes.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 442.29,
+   "x1": 544.75,
+   "y1": 452.51,
+   "text": "Transaction : Nous avons seuls le droit, dans la limite de notre garantie, de transiger avec les personnes lésées.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Transaction :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.64
+    },
+    {
+     "text": " Nous avons seuls le droit, dans la limite de notre garantie, de transiger avec les personnes lésées.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 126.29
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 455.71,
+   "x1": 566.73,
+   "y1": 465.93,
+   "text": "Aucune reconnaissance de responsabilité, aucune transaction intervenant sans notre accord ne nous est opposable.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Aucune reconnaissance de responsabilité, aucune transaction intervenant sans notre accord ne nous est opposable.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 469.13,
+   "x1": 460.36,
+   "y1": 479.35,
+   "text": "N’est pas considéré comme une reconnaissance de responsabilité l’aveu d'un fait matériel.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "N’est pas considéré comme une reconnaissance de responsabilité l’aveu d'un fait matériel.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 489.63,
+   "x1": 566.73,
+   "y1": 499.85,
+   "text": "Procédure : En cas d’action dirigée contre vous et mettant en cause une responsabilité assurée par le présent contrat,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Procédure :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.64
+    },
+    {
+     "text": " En cas d’action dirigée contre vous et mettant en cause une responsabilité assurée par le présent contrat,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 120.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 501.63,
+   "x1": 354.1,
+   "y1": 511.85,
+   "text": "les règles suivantes sont applicables, dans la limite de la garantie :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "les règles suivantes sont applicables, dans la limite de la garantie :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 516.46,
+   "x1": 538.69,
+   "y1": 526.68,
+   "text": "\u0004 Lorsque nous n’avons pas eu connaissance d’exception de garantie, nous prenons la direction du procès et,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.63
+    },
+    {
+     "text": " Lorsque nous n’avons pas eu connaissance d’exception de garantie, nous prenons la direction du procès et,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 529.88,
+   "x1": 566.72,
+   "y1": 540.1,
+   "text": "- devant les juridictions civiles, commerciales ou administratives, choisissons l’avocat et avons le libre exercice",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- devant les juridictions civiles, commerciales ou administratives, choisissons l’avocat et avons le libre exercice",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 541.88,
+   "x1": 174.65,
+   "y1": 552.1,
+   "text": "des voies de recours,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "des voies de recours,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 555.3,
+   "x1": 226.29,
+   "y1": 565.52,
+   "text": "- devant les juridictions pénales :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- devant les juridictions pénales :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 568.72,
+   "x1": 566.7,
+   "y1": 578.94,
+   "text": "- par application et dans les limites de l’article 388-1 du Code de Procédure Pénale, avons la faculté",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- par application et dans les limites de l’article 388-1 du Code de Procédure Pénale, avons la faculté",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 580.72,
+   "x1": 514.12,
+   "y1": 590.94,
+   "text": "d’intervenir, même pour la première fois en appel et avons le libre exercice des voies de recours,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’intervenir, même pour la première fois en appel et avons le libre exercice des voies de recours,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 594.14,
+   "x1": 566.71,
+   "y1": 604.36,
+   "text": "- choisissons l’avocat si vous êtes cité comme civilement responsable et exerçons librement les voies de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- choisissons l’avocat si vous êtes cité comme civilement responsable et exerçons librement les voies de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 606.14,
+   "x1": 193.26,
+   "y1": 616.36,
+   "text": "recours en votre nom,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "recours en votre nom,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 619.56,
+   "x1": 566.71,
+   "y1": 629.78,
+   "text": "- vous donnons, lorsque vous êtes cité comme prévenu, la possibilité d’être défendu par l’avocat que nous",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- vous donnons, lorsque vous êtes cité comme prévenu, la possibilité d’être défendu par l’avocat que nous",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 631.56,
+   "x1": 566.72,
+   "y1": 641.78,
+   "text": "désignons pour faire face à l’action civile, mais n’exerçons les voies de recours qu’avec votre accord,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "désignons pour faire face à l’action civile, mais n’exerçons les voies de recours qu’avec votre accord,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.97,
+   "y0": 643.56,
+   "x1": 428.76,
+   "y1": 653.78,
+   "text": "exception faite du pourvoi en Cassation lorsqu’il est limité aux intérêts civils.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "exception faite du pourvoi en Cassation lorsqu’il est limité aux intérêts civils.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.97
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.64,
+   "y0": 656.97,
+   "x1": 566.73,
+   "y1": 667.19,
+   "text": "Vous n’encourez aucune sanction du fait de votre immixtion dans la direction du procès si vous aviez intérêt à le faire.",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Vous n’encourez aucune sanction du fait de votre immixtion dans la direction du procès si vous aviez intérêt à le faire.",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 70.64
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 70.63,
+   "y0": 671.8,
+   "x1": 406.79,
+   "y1": 682.02,
+   "text": "\u0004 Lorsque nous avons connaissance d’exception(s) de garantie, nous pouvons :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.63
+    },
+    {
+     "text": " Lorsque nous avons connaissance d’exception(s) de garantie, nous pouvons :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.63
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 685.22,
+   "x1": 566.71,
+   "y1": 695.44,
+   "text": "- prendre la direction du procès, dans les mêmes conditions et avec les mêmes effets que dans le premier cas",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- prendre la direction du procès, dans les mêmes conditions et avec les mêmes effets que dans le premier cas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 697.22,
+   "x1": 126.48,
+   "y1": 707.44,
+   "text": "ci-dessus.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "ci-dessus.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 710.64,
+   "x1": 566.71,
+   "y1": 720.86,
+   "text": "Nous sommes alors censés renoncer aux exceptions dont nous avions connaissance, si nous n’avons pas fait",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous sommes alors censés renoncer aux exceptions dont nous avions connaissance, si nous n’avons pas fait",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.8,
+   "y0": 722.64,
+   "x1": 358.77,
+   "y1": 732.86,
+   "text": "valoir contre vous l’exception de garantie (art. L 113-17 du Code),",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "valoir contre vous l’exception de garantie ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.8
+    },
+    {
+     "text": "(art. L 113-17 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 265.44
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 355.99
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 736.06,
+   "x1": 236.53,
+   "y1": 746.28,
+   "text": "- nous abstenir de diriger le procès.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- nous abstenir de diriger le procès.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 749.48,
+   "x1": 566.71,
+   "y1": 759.7,
+   "text": "Nous ne renonçons alors à aucune exception, même connue, mais pouvons seulement nous associer à la défense",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous ne renonçons alors à aucune exception, même connue, mais pouvons seulement nous associer à la défense",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 84.81,
+   "y0": 761.48,
+   "x1": 423.48,
+   "y1": 771.7,
+   "text": "que vous avez l’obligation d’assumer et de diriger. Les frais ainsi engagés sont :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "que vous avez l’obligation d’assumer et de diriger. Les frais ainsi engagés sont :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.81
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.98,
+   "y0": 774.9,
+   "x1": 336.91,
+   "y1": 785.12,
+   "text": "- à votre charge si l’exception de garantie est reconnue,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- à votre charge si l’exception de garantie est reconnue,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.98
+    }
+   ]
+  },
+  {
+   "page": 46,
+   "column": 0,
+   "x0": 98.98,
+   "y0": 788.32,
+   "x1": 251.62,
+   "y1": 798.54,
+   "text": "- à notre charge dans les autres cas.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- à notre charge dans les autres cas.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 98.98
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 70.86,
+   "x1": 566.36,
+   "y1": 81.08,
+   "text": "Inopposabilité des déchéances : Aucune déchéance* motivée par un manquement à vos obligations commis",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Inopposabilité des déchéances :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 215.9
+    },
+    {
+     "text": "Aucune déchéance",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 220.57
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 305.27
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 309.71
+    },
+    {
+     "text": "motivée par un manquement à vos obligations commis",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 314.75
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 82.86,
+   "x1": 449.37,
+   "y1": 93.08,
+   "text": "postérieurement au sinistre n’est opposable aux personnes lésées ou à leurs ayants droit.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "postérieurement au sinistre n’est opposable aux personnes lésées ou à leurs ayants droit.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 96.28,
+   "x1": 566.36,
+   "y1": 106.5,
+   "text": "Nous conservons néanmoins la faculté d’exercer contre vous une action en remboursement de toutes les sommes",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous conservons néanmoins la faculté d’exercer contre vous une action en remboursement de toutes les sommes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 108.28,
+   "x1": 234.9,
+   "y1": 118.5,
+   "text": "que nous aurons payées à votre place.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "que nous aurons payées à votre place.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 125.95,
+   "x1": 566.36,
+   "y1": 136.17,
+   "text": "Limites de garanties - Dispositions particulières : Les limites de garanties du présent contrat ne peuvent se cumuler",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Limites de garanties - Dispositions particulières :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " Les limites de garanties du présent contrat ne peuvent se cumuler",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 280.76
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 137.95,
+   "x1": 566.37,
+   "y1": 148.17,
+   "text": "avec celles accordées par tout autre contrat délivré par la Mutuelle de Poitiers Assurances qui se trouverait en",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "avec celles accordées par tout autre contrat délivré par la Mutuelle de Poitiers Assurances qui se trouverait en",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 149.95,
+   "x1": 566.37,
+   "y1": 160.17,
+   "text": "vigueur lors de la survenance d’un sinistre, sachant que vous ne pouvez en aucun cas bénéficier d’une garantie",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "vigueur lors de la survenance d’un sinistre, sachant que vous ne pouvez en aucun cas bénéficier d’une garantie",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 161.95,
+   "x1": 399.9,
+   "y1": 172.17,
+   "text": "supérieure à l’engagement le plus élevé de l’un quelconque de ces contrats.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "supérieure à l’engagement le plus élevé de l’un quelconque de ces contrats.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "Application des garanties -voir fiche d’information article 72- :\nLa garantie du contrat en cours de validité est déclenchée par le fait dommageable.\n\u0004 La garantie déclenchée par le fait dommageable vous couvre contre les conséquences pécuniaires des sinistres, dès\nlors que le fait dommageable survient entre la prise d’effet initiale de la garantie et sa date de résiliation ou\nd’expiration, quelle que soit la date des autres éléments constitutifs du sinistre.\n\u0004 Les montants exprimés :\n- par sinistre constituent la limite de notre engagement pour l’ensemble des réclamations relatives au même fait\ndommageable.\n- par année d’assurance constituent la limite de notre engagement pour l’ensemble des sinistres survenus au\ncours d’une même année d’assurance.\n- par sinistre et par année d’assurance constituent une limite unique susceptible d’être absorbée par un premier\nsinistre ou dont le reliquat est seul applicable à des sinistres postérieurs survenus lors de la même année\nd’assurance.\nLes conditions et montants des garanties sont ceux en vigueur à la date de survenance du sinistre.\nLes montants de garantie se réduisent et finalement s’épuisent par tout paiement ou provision, sans reconstitution de\ngarantie pour la période considérée.\nLes montants de garantie inutilisés au titre d’une année d’assurance ne sont plus disponibles pour les années\nsuivantes.\nTransaction : Nous avons seuls le droit, dans la limite de notre garantie, de transiger avec les personnes lésées.\nAucune reconnaissance de responsabilité, aucune transaction intervenant sans notre accord ne nous est opposable.\nN’est pas considéré comme une reconnaissance de responsabilité l’aveu d'un fait matériel.\nProcédure : En cas d’action dirigée contre vous et mettant en cause une responsabilité assurée par le présent contrat,\nles règles suivantes sont applicables, dans la limite de la garantie :\n\u0004 Lorsque nous n’avons pas eu connaissance d’exception de garantie, nous prenons la direction du procès et,\n- devant les juridictions civiles, commerciales ou administratives, choisissons l’avocat et avons le libre exercice\ndes voies de recours,\n- devant les juridictions pénales :",
+   "pages": [
+    46
+   ],
+   "renvois_articles": [
+    "72"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "general",
+   "texte": "- par application et dans les limites de l’article 388-1 du Code de Procédure Pénale, avons la faculté\nd’intervenir, même pour la première fois en appel et avons le libre exercice des voies de recours,\n- choisissons l’avocat si vous êtes cité comme civilement responsable et exerçons librement les voies de\nrecours en votre nom,\n- vous donnons, lorsque vous êtes cité comme prévenu, la possibilité d’être défendu par l’avocat que nous\ndésignons pour faire face à l’action civile, mais n’exerçons les voies de recours qu’avec votre accord,\nexception faite du pourvoi en Cassation lorsqu’il est limité aux intérêts civils.\nVous n’encourez aucune sanction du fait de votre immixtion dans la direction du procès si vous aviez intérêt à le faire.\n\u0004 Lorsque nous avons connaissance d’exception(s) de garantie, nous pouvons :\n- prendre la direction du procès, dans les mêmes conditions et avec les mêmes effets que dans le premier cas\nci-dessus.\nNous sommes alors censés renoncer aux exceptions dont nous avions connaissance, si nous n’avons pas fait\nvaloir contre vous l’exception de garantie (art. L 113-17 du Code),\n- nous abstenir de diriger le procès.\nNous ne renonçons alors à aucune exception, même connue, mais pouvons seulement nous associer à la défense\nque vous avez l’obligation d’assumer et de diriger. Les frais ainsi engagés sont :\n- à votre charge si l’exception de garantie est reconnue,\n- à notre charge dans les autres cas.\nInopposabilité des déchéances : Aucune déchéance* motivée par un manquement à vos obligations commis\npostérieurement au sinistre n’est opposable aux personnes lésées ou à leurs ayants droit.\nNous conservons néanmoins la faculté d’exercer contre vous une action en remboursement de toutes les sommes\nque nous aurons payées à votre place.\nLimites de garanties - Dispositions particulières : Les limites de garanties du présent contrat ne peuvent se cumuler\navec celles accordées par tout autre contrat délivré par la Mutuelle de Poitiers Assurances qui se trouverait en\nvigueur lors de la survenance d’un sinistre, sachant que vous ne pouvez en aucun cas bénéficier d’une garantie\nsupérieure à l’engagement le plus élevé de l’un quelconque de ces contrats.",
+   "pages": [
+    46,
+    47
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "déchéance",
+     "terme": "Déchéance"
+    }
+   ]
+  }
+ ],
+ "renvois_articles": [
+  "72"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": [
+  {
+   "forme": "déchéance",
+   "terme": "Déchéance"
+  }
+ ]
+}

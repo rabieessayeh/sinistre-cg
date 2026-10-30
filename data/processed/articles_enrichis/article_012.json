@@ -1,0 +1,135 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_12",
+ "numero": "12",
+ "titre": "ATTENTATS – ACTES DE TERRORISME",
+ "chapitre": {
+  "numero": 2,
+  "titre": "LES ÉVÉNEMENTS ASSURABLES"
+ },
+ "page_debut": 11,
+ "page_fin": 12,
+ "pages": [
+  11,
+  12
+ ],
+ "texte": "(art. L 126-2 du Code)\nNous garantissons les dommages matériels causés aux biens assurés par un attentat ou un acte de terrorisme tel que\ndéfini par les articles 421-1 et 421-2 du Code pénal, conformément et dans les limites prévues à l’article L 126-2 du\nCode.",
+ "lignes": [
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 256.94,
+   "y0": 765.37,
+   "x1": 342.49,
+   "y1": 774.56,
+   "text": "(art. L 126-2 du Code)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(art. L 126-2 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 256.94
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 779.58,
+   "x1": 565.8,
+   "y1": 789.8,
+   "text": "Nous garantissons les dommages matériels causés aux biens assurés par un attentat ou un acte de terrorisme tel que",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    },
+    {
+     "text": " les dommages matériels causés aux biens assurés par un attentat ou un acte de terrorisme tel que",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 151.06
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 790.58,
+   "x1": 565.79,
+   "y1": 800.8,
+   "text": "défini par les articles 421-1 et 421-2 du Code pénal, conformément et dans les limites prévues à l’article L 126-2 du",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "défini par les articles 421-1 et 421-2 du Code pénal, conformément et dans les limites prévues à l’article L 126-2 du",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 801.58,
+   "x1": 98.26,
+   "y1": 811.8,
+   "text": "Code.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Code.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "(art. L 126-2 du Code)",
+   "pages": [
+    11
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les dommages matériels causés aux biens assurés par un attentat ou un acte de terrorisme tel que\ndéfini par les articles 421-1 et 421-2 du Code pénal, conformément et dans les limites prévues à l’article L 126-2 du\nCode.",
+   "pages": [
+    11
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

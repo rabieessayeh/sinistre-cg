@@ -1,0 +1,333 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_11",
+ "numero": "11",
+ "titre": "CATASTROPHES TECHNOLOGIQUES",
+ "chapitre": {
+  "numero": 2,
+  "titre": "LES ÉVÉNEMENTS ASSURABLES"
+ },
+ "page_debut": 11,
+ "page_fin": 11,
+ "pages": [
+  11
+ ],
+ "texte": "(art. L 128-1 à L 128-4 du Code)\nNous garantissons, conformément aux articles L 128-1 à L 128-4 du Code, les dommages subis par les biens\nassurés, à usage d’habitation ou placés dans des bâtiments d’habitation, résultant de l’état de catastrophe\ntechnologique constaté par une décision de l’autorité administrative.\nOutre les exclusions énoncées à l’article 41, nous ne garantissons pas :\n• le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques\ntechnologiques (art. L 515-15 et suivants du Code de l’Environnement), à l’exception du contenu des bâtiments existant\nantérieurement à la publication de ce plan,\n• le contenu des biens construits en violation de règles administratives en vigueur au moment de leur construction\net tendant à prévenir les dommages causés par une catastrophe technologique.\nRappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne\nsont pas assurables (voir art. 1).\nDes dispositions spéciales en cas de sinistre sont prévues à l’article 55.",
+ "lignes": [
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 259.78,
+   "y0": 593.88,
+   "x1": 384.84,
+   "y1": 603.07,
+   "text": "(art. L 128-1 à L 128-4 du Code)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(art. L 128-1 à L 128-4 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 259.78
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 607.53,
+   "x1": 565.8,
+   "y1": 617.75,
+   "text": "Nous garantissons, conformément aux articles L 128-1 à L 128-4 du Code, les dommages subis par les biens",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 155.69
+    },
+    {
+     "text": "conformément aux articles L 128-1 à L 128-4 du Code, les dommages subis par les biens",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 160.06
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 618.53,
+   "x1": 565.78,
+   "y1": 628.75,
+   "text": "assurés, à usage d’habitation ou placés dans des bâtiments d’habitation, résultant de l’état de catastrophe",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "assurés, à usage d’habitation ou placés dans des bâtiments d’habitation, résultant de l’état de catastrophe",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 629.53,
+   "x1": 367.22,
+   "y1": 639.75,
+   "text": "technologique constaté par une décision de l’autorité administrative.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "technologique constaté par une décision de l’autorité administrative.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 644.53,
+   "x1": 380.05,
+   "y1": 654.75,
+   "text": "Outre les exclusions énoncées à l’article 41, nous ne garantissons pas :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Outre les exclusions énoncées à l’article 41, nous ne garantissons pas :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 656.95,
+   "x1": 565.8,
+   "y1": 667.17,
+   "text": "• le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": "le contenu des bâtiments construits sur un terrain classé inconstructible par un plan de prévention des risques",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.8
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 667.94,
+   "x1": 565.79,
+   "y1": 678.17,
+   "text": "technologiques (art. L 515-15 et suivants du Code de l’Environnement), à l’exception du contenu des bâtiments existant",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "technologiques ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    },
+    {
+     "text": "(art. L 515-15 et suivants du Code de l’Environnement),",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 141.45
+    },
+    {
+     "text": " à l’exception du contenu des bâtiments existant",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 358.76
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 678.94,
+   "x1": 258.32,
+   "y1": 689.16,
+   "text": "antérieurement à la publication de ce plan,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "antérieurement à la publication de ce plan,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 691.36,
+   "x1": 565.8,
+   "y1": 701.58,
+   "text": "• le contenu des biens construits en violation de règles administratives en vigueur au moment de leur construction",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.69
+    },
+    {
+     "text": "le contenu des biens construits en violation de règles administratives en vigueur au moment de leur construction",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.12
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.69,
+   "y0": 702.36,
+   "x1": 416.76,
+   "y1": 712.58,
+   "text": "et tendant à prévenir les dommages causés par une catastrophe technologique.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "et tendant à prévenir les dommages causés par une catastrophe technologique.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.69
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.17,
+   "y0": 714.78,
+   "x1": 567.26,
+   "y1": 725.0,
+   "text": "Rappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Rappel : Les bâtiments construits sur un terrain classé inconstructible ou en violation de règles administratives ne",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.17
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.17,
+   "y0": 725.78,
+   "x1": 212.06,
+   "y1": 736.0,
+   "text": "sont pas assurables (voir art. 1).",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "sont pas assurables (voir art. 1).",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.17
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "column": 0,
+   "x0": 72.17,
+   "y0": 741.61,
+   "x1": 378.18,
+   "y1": 751.83,
+   "text": "Des dispositions spéciales en cas de sinistre sont prévues à l’article 55.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Des dispositions spéciales en cas de sinistre sont prévues à l’article 55.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.17
+    }
+   ]
+  }
+ ]
+}

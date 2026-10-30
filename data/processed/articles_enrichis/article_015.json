@@ -1,0 +1,369 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_15",
+ "numero": "15",
+ "titre": "RECOURS DES LOCATAIRES",
+ "chapitre": {
+  "numero": 3,
+  "titre": "LES RESPONSABILITÉS ASSURABLES"
+ },
+ "page_debut": 14,
+ "page_fin": 14,
+ "pages": [
+  14
+ ],
+ "texte": "(responsabilité du propriétaire vis-à-vis des locataires)\nNous garantissons les conséquences pécuniaires de la responsabilité que vous pouvez encourir en votre qualité de\npropriétaire vis-à-vis de vos locataires ou des autres occupants autorisés, en vertu des articles 1719 et 1721 du Code\nCivil, pour :\n• tous dommages matériels causés à leurs biens mobiliers ou leur perte d’usage à la suite d’un sinistre garanti\nprovenant d’un vice de construction ou d’un défaut d’entretien (y compris les frais de déplacement et relogement exposés\npar les locataires atteints par ce sinistre),\n• tous dommages occasionnés par un sinistre garanti à un ou plusieurs autres occupants et constituant un trouble\nde jouissance.\nNous garantissons également votre responsabilité civile de locataire principal pour les dommages d’incendie,\nexplosions et dégâts des eaux causés aux biens de vos sous-locataires autorisés par le propriétaire bailleur.\nLes dommages corporels causés à un locataire ou occupant autorisé relèvent de l’article 17 ci-après.",
+ "lignes": [
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 226.33,
+   "y0": 658.3,
+   "x1": 433.9,
+   "y1": 667.49,
+   "text": "(responsabilité du propriétaire vis-à-vis des locataires)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(responsabilité du propriétaire vis-à-vis des locataires)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 226.33
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 674.21,
+   "x1": 565.1,
+   "y1": 684.43,
+   "text": "Nous garantissons les conséquences pécuniaires de la responsabilité que vous pouvez encourir en votre qualité de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.43
+    },
+    {
+     "text": " les conséquences pécuniaires de la responsabilité que vous pouvez encourir en votre qualité de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 151.05
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 685.21,
+   "x1": 565.11,
+   "y1": 695.43,
+   "text": "propriétaire vis-à-vis de vos locataires ou des autres occupants autorisés, en vertu des articles 1719 et 1721 du Code",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "propriétaire vis-à-vis de vos locataires ou des autres occupants autorisés, en vertu des articles 1719 et 1721 du Code",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 696.21,
+   "x1": 123.39,
+   "y1": 706.43,
+   "text": "Civil, pour :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Civil, pour :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 710.99,
+   "x1": 565.11,
+   "y1": 721.68,
+   "text": "• tous dommages matériels causés à leurs biens mobiliers ou leur perte d’usage à la suite d’un sinistre garanti",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.99
+    },
+    {
+     "text": "tous dommages matériels causés à leurs biens mobiliers ou leur perte d’usage ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.92
+    },
+    {
+     "text": "à la suite d’un sinistre garanti",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 431.39
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 722.46,
+   "x1": 565.11,
+   "y1": 732.68,
+   "text": "provenant d’un vice de construction ou d’un défaut d’entretien (y compris les frais de déplacement et relogement exposés",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "provenant d’un vice de construction ou d’un défaut d’entretien ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    },
+    {
+     "text": "(y compris les frais de déplacement et relogement exposés",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 342.35
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.44,
+   "y0": 733.46,
+   "x1": 228.76,
+   "y1": 743.68,
+   "text": "par les locataires atteints par ce sinistre),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "par les locataires atteints par ce sinistre)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 72.44
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 225.98
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 748.24,
+   "x1": 565.1,
+   "y1": 758.93,
+   "text": "• tous dommages occasionnés par un sinistre garanti à un ou plusieurs autres occupants et constituant un trouble",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "•",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.99
+    },
+    {
+     "text": "tous dommages occasionnés par un sinistre garanti à un ou plusieurs autres occupants et constituant un trouble",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.15
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 759.71,
+   "x1": 133.57,
+   "y1": 769.93,
+   "text": "de jouissance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de jouissance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 773.54,
+   "x1": 565.11,
+   "y1": 783.77,
+   "text": "Nous garantissons également votre responsabilité civile de locataire principal pour les dommages d’incendie,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons également",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.43
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 202.42
+    },
+    {
+     "text": "votre responsabilité civile de locataire principal pour les dommages d’incendie,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 206.99
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 72.43,
+   "y0": 784.54,
+   "x1": 528.9,
+   "y1": 794.77,
+   "text": "explosions et dégâts des eaux causés aux biens de vos sous-locataires autorisés par le propriétaire bailleur.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "explosions et dégâts des eaux causés aux biens de vos sous-locataires autorisés par le propriétaire bailleur.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.43
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "column": 0,
+   "x0": 71.91,
+   "y0": 798.39,
+   "x1": 505.03,
+   "y1": 808.61,
+   "text": "Les dommages corporels causés à un locataire ou occupant autorisé relèvent de l’article 17 ci-après.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les dommages corporels causés à un locataire ou occupant autorisé relèvent de l’article 17 ci-après.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.91
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "(responsabilité du propriétaire vis-à-vis des locataires)",
+   "pages": [
+    14
+   ],
+   "renvois_articles": [],
+   "renvois_clauses": [],
+   "termes_definis": []
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons les conséquences pécuniaires de la responsabilité que vous pouvez encourir en votre qualité de\npropriétaire vis-à-vis de vos locataires ou des autres occupants autorisés, en vertu des articles 1719 et 1721 du Code\nCivil, pour :\n• tous dommages matériels causés à leurs biens mobiliers ou leur perte d’usage à la suite d’un sinistre garanti\nprovenant d’un vice de construction ou d’un défaut d’entretien (y compris les frais de déplacement et relogement exposés\npar les locataires atteints par ce sinistre),\n• tous dommages occasionnés par un sinistre garanti à un ou plusieurs autres occupants et constituant un trouble\nde jouissance.\nNous garantissons également votre responsabilité civile de locataire principal pour les dommages d’incendie,\nexplosions et dégâts des eaux causés aux biens de vos sous-locataires autorisés par le propriétaire bailleur.\nLes dommages corporels causés à un locataire ou occupant autorisé relèvent de l’article 17 ci-après.",
+   "pages": [
+    14
+   ],
+   "renvois_articles": [
+    "17"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "17"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

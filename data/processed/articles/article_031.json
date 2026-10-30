@@ -1,0 +1,1573 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_31",
+ "numero": "31",
+ "titre": "REMPLACEMENT À NEUF",
+ "chapitre": {
+  "numero": 6,
+  "titre": "LES GARANTIES EN OPTION"
+ },
+ "page_debut": 21,
+ "page_fin": 22,
+ "pages": [
+  21,
+  22
+ ],
+ "texte": "Lorsque vous avez souscrit cette option, vous bénéficiez à la suite d’un sinistre garanti, d’une indemnisation à neuf\nsans application d’un abattement lié à la vétusté, sur les biens assurés visés ci-après:\n\u0003 au titre des BÂTIMENTS : l’habitation, ses annexes* et leurs dépendances* attenantes d’une surface unitaire\nn’excédant pas 50 m², leurs aménagements (selon art. 3),\n\u0003 au titre du MOBILIER : vos meubles meublants*, objets de décoration, votre vaisselle, vos disques, vos livres, vos\nappareils électroménagers, audiovisuels*, etc. se trouvant à l’intérieur de l’habitation, d’une annexe* ou des\ndépendances* assurés.\nL’option Remplacement à Neuf ne s’applique pas sur :\n• les bâtiments des dépendances non attenantes à l’habitation, et/ou à(aux) annexe(s),\n• les bâtiments désaffectés* ou insuffisamment protégés contre l’intrusion ou le séjour de vagabonds,\n• les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement (art. 30),\n• les biens situés à l’extérieur des bâtiments, sauf souscription du Pack Tranquillité (art. 33) pour les systèmes\nd’aérothermie (l’option “Remplacement à neuf” ne joue toutefois pas pour les systèmes d’aérothermie de 7 ans révolus*),\n• les volets, persiennes, antennes, paraboles, stores, leurs éventuels accessoires et motorisation,\n• le linge, les vêtements, les accessoires vestimentaires*,\n• les biens au rebut*,\n• les appareils électroménagers, les appareils électriques et thermiques de bricolage et de jardinage, les appareils\naudiovisuels* et de téléphonie, lorsque ces appareils ont 7 ans révolus* (au-delà, l’indemnité est fixée conformément à\nl’article 52),\n• les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs et les\nchaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur), les chauffe-eau, les pompes fixes de\nrelevage nécessaires à l’alimentation ou à l’évacuation des eaux, situés à l’intérieur des bâtiments assurés, lorsque\nces matériels ont 20 ans révolus* (au-delà, l’indemnité est fixée conformément à l’article 51),\n• les biens dont la valeur n'est pas réduite par leur ancienneté : les biens précieux, les objets d’art*, les meubles anciens.\nL’indemnisation “Remplacement à Neuf” est soumise aux conditions suivantes :\n- les biens étaient en état de fonctionnement au moment du sinistre,\n- les biens sont réparés ou remplacés dans un délai de deux ans à partir de la date du sinistre, et les bâtiments\nreconstruits -sauf impossibilité absolue- dans ce même délai, sur l’emplacement des bâtiments sinistrés, sans apporter\nde modification à leur destination initiale,\n- l’indemnité “Remplacement à Neuf” est réglée sur justification par la production de factures de remplacement.\n- l’âge d’un bien mobilier, d’une installation fixe d’alarme, de climatisation, de ventilation, de chauffage -y compris\nconvecteurs, chaudières et éléments intérieurs ou extérieurs d’aérothermie-, d’un système fixe de filtration de l’eau\n(adoucisseur, osmoseur...), d’un chauffe-eau, d’une pompe fixe de relevage nécessaire à l’alimentation ou à l’évacuation\ndes eaux, est déterminé par la facture d’achat d’origine* ou le certificat de garantie, ou tout autre moyen de preuve\néquivalent.\nPour les biens mobiliers jusqu’à 2 ans révolus* -ramenés à 1 an révolu* pour les appareils audiovisuels* et les appareils de\ntéléphonie*-, lorsque leur valeur de remplacement est inférieure ou égale à leur valeur d’achat d’origine, l’indemnisation\ns’effectue sur la base de cette valeur d’origine sans que la facture de remplacement ne soit à produire.\nSi ces conditions ne sont pas remplies -sauf cas de force majeure- l’indemnité est fixée conformément aux articles 51 et 52.",
+ "lignes": [
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 586.67,
+   "x1": 566.21,
+   "y1": 596.89,
+   "text": "Lorsque vous avez souscrit cette option, vous bénéficiez à la suite d’un sinistre garanti, d’une indemnisation à neuf",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Lorsque vous avez souscrit cette option",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": ", vous bénéficiez à la suite d’un sinistre garanti, d’une indemnisation à neuf",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 242.41
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 597.67,
+   "x1": 435.42,
+   "y1": 607.89,
+   "text": "sans application d’un abattement lié à la vétusté, sur les biens assurés visés ci-après:",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "sans application d’un abattement lié à la vétusté",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": ", sur les biens assurés visés ci-après:",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 280.93
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 612.45,
+   "x1": 566.21,
+   "y1": 623.14,
+   "text": "\u0003 au titre des BÂTIMENTS : l’habitation, ses annexes* et leurs dépendances* attenantes d’une surface unitaire",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 76.43
+    },
+    {
+     "text": "au titre des ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 80.53
+    },
+    {
+     "text": "BÂTIMENTS",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 135.17
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 189.47
+    },
+    {
+     "text": ": l’habitation, ses annexes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 193.68
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 309.61
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 314.05
+    },
+    {
+     "text": "et leurs dépendances",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 318.26
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 412.5
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 416.94
+    },
+    {
+     "text": "attenantes d’une surface unitaire",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 421.14
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 623.92,
+   "x1": 312.97,
+   "y1": 634.14,
+   "text": "n’excédant pas 50 m², leurs aménagements (selon art. 3),",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "n’excédant pas 50 m², leurs aménagements ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(selon art. 3)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 261.85
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 310.19
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 638.7,
+   "x1": 566.2,
+   "y1": 649.39,
+   "text": "\u0003 au titre du MOBILIER : vos meubles meublants*, objets de décoration, votre vaisselle, vos disques, vos livres, vos",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " au titre du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 76.42
+    },
+    {
+     "text": "MOBILIER",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 126.37
+    },
+    {
+     "text": " : vos meubles meublants",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 172.47
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 281.7
+    },
+    {
+     "text": ", objets de décoration, votre vaisselle, vos disques, vos livres, vos",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 286.14
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 650.17,
+   "x1": 566.2,
+   "y1": 660.39,
+   "text": "appareils électroménagers, audiovisuels*, etc. se trouvant à l’intérieur de l’habitation, d’une annexe* ou des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "appareils électroménagers, audiovisuels",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 246.6
+    },
+    {
+     "text": ", etc. se trouvant ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 251.04
+    },
+    {
+     "text": "à l’intérieur",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 334.11
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 387.59
+    },
+    {
+     "text": "de l’habitation, d’une annexe",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 392.71
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 525.94
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 530.38
+    },
+    {
+     "text": "ou des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 535.5
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 661.17,
+   "x1": 168.11,
+   "y1": 671.39,
+   "text": "dépendances* assurés.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "dépendances",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 127.55
+    },
+    {
+     "text": " assurés.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 131.99
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 683.17,
+   "x1": 305.4,
+   "y1": 693.39,
+   "text": "L’option Remplacement à Neuf ne s’applique pas sur :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’option Remplacement à Neuf ne s’applique pas sur :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 699.84,
+   "x1": 447.34,
+   "y1": 710.06,
+   "text": "• les bâtiments des dépendances non attenantes à l’habitation, et/ou à(aux) annexe(s),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " les bâtiments des dépendances non attenantes à l’habitation, et/ou à(aux) annexe(s),",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 713.67,
+   "x1": 511.9,
+   "y1": 723.89,
+   "text": "• les bâtiments désaffectés* ou insuffisamment protégés contre l’intrusion ou le séjour de vagabonds,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " les bâtiments désaffectés",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 187.68
+    },
+    {
+     "text": " ou insuffisamment protégés contre l’intrusion ou le séjour de vagabonds,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 192.12
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 727.5,
+   "x1": 549.62,
+   "y1": 737.73,
+   "text": "• les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement (art. 30),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " les clôtures, leurs équipements intégrés, leurs portails et leurs accessoires, les murs de soutènement ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    },
+    {
+     "text": "(art. 30)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 516.82
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 546.84
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 741.34,
+   "x1": 566.2,
+   "y1": 751.57,
+   "text": "• les biens situés à l’extérieur des bâtiments, sauf souscription du Pack Tranquillité (art. 33) pour les systèmes",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.93
+    },
+    {
+     "text": "les biens situés à l’extérieur des bâtiments,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.33
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 276.51
+    },
+    {
+     "text": "sauf souscription du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 280.91
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 374.69
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 447.7
+    },
+    {
+     "text": "(art. 33)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 452.09
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 483.56
+    },
+    {
+     "text": "pour les systèmes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 487.95
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 752.35,
+   "x1": 552.35,
+   "y1": 762.57,
+   "text": "d’aérothermie (l’option “Remplacement à neuf” ne joue toutefois pas pour les systèmes d’aérothermie de 7 ans révolus*),",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "d’aérothermie ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "(l’option “Remplacement à neuf” ne joue toutefois pas pour les systèmes d’aérothermie de 7 ans révolus",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 133.66
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 542.14
+    },
+    {
+     "text": ")",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 546.58
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 549.57
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 766.18,
+   "x1": 488.38,
+   "y1": 776.4,
+   "text": "• les volets, persiennes, antennes, paraboles, stores, leurs éventuels accessoires et motorisation,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " les volets, persiennes, antennes, paraboles, stores, leurs éventuels accessoires et motorisation,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 780.01,
+   "x1": 317.1,
+   "y1": 790.23,
+   "text": "• le linge, les vêtements, les accessoires vestimentaires*,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " le linge, les vêtements, les accessoires vestimentaires",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 309.88
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 314.32
+    }
+   ]
+  },
+  {
+   "page": 21,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 793.84,
+   "x1": 163.5,
+   "y1": 804.06,
+   "text": "• les biens au rebut*,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " les biens au rebut",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.92
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 156.28
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 160.72
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 70.86,
+   "x1": 566.59,
+   "y1": 81.08,
+   "text": "• les appareils électroménagers, les appareils électriques et thermiques de bricolage et de jardinage, les appareils",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " les appareils électroménagers, les appareils électriques et thermiques de bricolage et de jardinage, les appareils",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.29
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 81.86,
+   "x1": 566.59,
+   "y1": 92.08,
+   "text": "audiovisuels* et de téléphonie, lorsque ces appareils ont 7 ans révolus* (au-delà, l’indemnité est fixée conformément à",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "audiovisuels",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 124.41
+    },
+    {
+     "text": " et de téléphonie, lorsque ces appareils ont 7 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 128.85
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 377.77
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 382.21
+    },
+    {
+     "text": "(au-delà, l’indemnité est fixée conformément à",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 385.18
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.24,
+   "y0": 92.86,
+   "x1": 118.03,
+   "y1": 103.08,
+   "text": "l’article 52),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’article 52)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.24
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 115.25
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 106.69,
+   "x1": 566.6,
+   "y1": 116.91,
+   "text": "• les installations fixes d’alarme, de climatisation, de ventilation, de chauffage -y compris les convecteurs et les",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.29
+    },
+    {
+     "text": "les installations fixes d’alarme, de climatisation, de ventilation, de chauffage ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.65
+    },
+    {
+     "text": "-y compris les convecteurs et les",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 432.12
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 117.69,
+   "x1": 566.6,
+   "y1": 127.91,
+   "text": "chaudières-, les systèmes fixes de filtration de l’eau (adoucisseur, osmoseur), les chauffe-eau, les pompes fixes de",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "chaudières-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 71.23
+    },
+    {
+     "text": ", les systèmes fixes de filtration de l’eau ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 116.53
+    },
+    {
+     "text": "(adoucisseur, osmoseur)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 302.06
+    },
+    {
+     "text": ", les chauffe-eau, les pompes fixes de",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 397.63
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 128.69,
+   "x1": 566.59,
+   "y1": 138.91,
+   "text": "relevage nécessaires à l’alimentation ou à l’évacuation des eaux, situés à l’intérieur des bâtiments assurés, lorsque",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "relevage nécessaires à l’alimentation ou à l’évacuation des eaux, situés à l’intérieur des bâtiments assurés, lorsque",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.24,
+   "y0": 139.69,
+   "x1": 447.62,
+   "y1": 149.91,
+   "text": "ces matériels ont 20 ans révolus* (au-delà, l’indemnité est fixée conformément à l’article 51),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "ces matériels ont 20 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.24
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 210.55
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 214.99
+    },
+    {
+     "text": "(au-delà, l’indemnité est fixée conformément à l’article 51)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 217.76
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 444.84
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 153.52,
+   "x1": 566.59,
+   "y1": 163.75,
+   "text": "• les biens dont la valeur n'est pas réduite par leur ancienneté : les biens précieux, les objets d’art*, les meubles anciens.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "•",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": " les biens dont la valeur n'est pas réduite par leur ancienneté",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.29
+    },
+    {
+     "text": " : les biens précieux, les objets d’art",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 339.61
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 477.88
+    },
+    {
+     "text": ", les meubles anciens.",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 482.32
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 176.36,
+   "x1": 416.54,
+   "y1": 186.58,
+   "text": "L’indemnisation “Remplacement à Neuf” est soumise aux conditions suivantes :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’indemnisation “Remplacement à Neuf” est soumise aux conditions suivantes :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 188.78,
+   "x1": 363.02,
+   "y1": 199.0,
+   "text": "- les biens étaient en état de fonctionnement au moment du sinistre,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les biens étaient en état de fonctionnement au moment du sinistre,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 201.2,
+   "x1": 566.59,
+   "y1": 211.42,
+   "text": "- les biens sont réparés ou remplacés dans un délai de deux ans à partir de la date du sinistre, et les bâtiments",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les biens sont réparés ou remplacés dans un délai de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "deux ans",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 318.63
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 358.1
+    },
+    {
+     "text": "à partir de la date du sinistre, et les bâtiments",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 362.0
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 212.19,
+   "x1": 566.59,
+   "y1": 222.42,
+   "text": "reconstruits -sauf impossibilité absolue- dans ce même délai, sur l’emplacement des bâtiments sinistrés, sans apporter",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "reconstruits ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "-sauf impossibilité absolue-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 123.53
+    },
+    {
+     "text": " dans ce même délai, sur l’emplacement des bâtiments sinistrés, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 229.18
+    },
+    {
+     "text": "sans apporter",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 507.62
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 223.19,
+   "x1": 254.45,
+   "y1": 233.41,
+   "text": "de modification à leur destination initiale,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "de modification à leur destination initiale",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.23
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 251.67
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 235.61,
+   "x1": 556.32,
+   "y1": 245.83,
+   "text": "- l’indemnité “Remplacement à Neuf” est réglée sur justification par la production de factures de remplacement.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- l’indemnité “Remplacement à Neuf” est réglée sur justification par la ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "production de factures de remplacement",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 375.76
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 553.54
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 248.03,
+   "x1": 566.59,
+   "y1": 258.25,
+   "text": "- l’âge d’un bien mobilier, d’une installation fixe d’alarme, de climatisation, de ventilation, de chauffage -y compris",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- l’âge d’un bien mobilier, d’une installation fixe d’alarme, de climatisation, de ventilation, de chauffage ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "-y compris",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 525.29
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.24,
+   "y0": 259.03,
+   "x1": 566.59,
+   "y1": 269.25,
+   "text": "convecteurs, chaudières et éléments intérieurs ou extérieurs d’aérothermie-, d’un système fixe de filtration de l’eau",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "convecteurs, chaudières et éléments intérieurs ou extérieurs d’aérothermie-,",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.24
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 381.01
+    },
+    {
+     "text": "d’un système fixe de filtration de l’eau",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 386.49
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 270.03,
+   "x1": 566.57,
+   "y1": 280.25,
+   "text": "(adoucisseur, osmoseur...), d’un chauffe-eau, d’une pompe fixe de relevage nécessaire à l’alimentation ou à l’évacuation",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(adoucisseur, osmoseur...)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": ", d’un chauffe-eau, d’une pompe fixe de relevage nécessaire à l’alimentation ou à l’évacuation",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 169.26
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 281.03,
+   "x1": 566.6,
+   "y1": 291.25,
+   "text": "des eaux, est déterminé par la facture d’achat d’origine* ou le certificat de garantie, ou tout autre moyen de preuve",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "des eaux, est déterminé par la facture d’achat d’origine",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 308.09
+    },
+    {
+     "text": " ou le certificat de garantie, ou tout autre moyen de preuve",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 312.53
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 292.03,
+   "x1": 118.61,
+   "y1": 302.25,
+   "text": "équivalent.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "équivalent.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 305.86,
+   "x1": 566.59,
+   "y1": 316.08,
+   "text": "Pour les biens mobiliers jusqu’à 2 ans révolus* -ramenés à 1 an révolu* pour les appareils audiovisuels* et les appareils de",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Pour les biens mobiliers jusqu’à 2 ans révolus",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 267.34
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 271.78
+    },
+    {
+     "text": "-ramenés à 1 an révolu",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 274.65
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 363.68
+    },
+    {
+     "text": " pour les appareils audiovisuels",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 368.12
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 489.84
+    },
+    {
+     "text": " et les appareils de",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 494.28
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.23,
+   "y0": 316.86,
+   "x1": 566.56,
+   "y1": 327.08,
+   "text": "téléphonie*-, lorsque leur valeur de remplacement est inférieure ou égale à leur valeur d’achat d’origine, l’indemnisation",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "téléphonie",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 71.23
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 111.19
+    },
+    {
+     "text": "-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 115.51
+    },
+    {
+     "text": ", lorsque leur valeur de remplacement est inférieure ou égale à leur valeur d’achat d’origine, l’indemnisation",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 118.4
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.24,
+   "y0": 327.86,
+   "x1": 508.93,
+   "y1": 338.08,
+   "text": "s’effectue sur la base de cette valeur d’origine sans que la facture de remplacement ne soit à produire.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "s’effectue sur la base de cette valeur d’origine sans que la facture de remplacement ne soit à produire.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.24
+    }
+   ]
+  },
+  {
+   "page": 22,
+   "column": 0,
+   "x0": 71.24,
+   "y0": 341.7,
+   "x1": 566.6,
+   "y1": 351.92,
+   "text": "Si ces conditions ne sont pas remplies -sauf cas de force majeure- l’indemnité est fixée conformément aux articles 51 et 52.",
+   "font": "Optima-Bold",
+   "size": 9.9,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Si ces conditions ne sont pas remplies",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 71.24
+    },
+    {
+     "text": " -sauf cas de force majeure-",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 226.74
+    },
+    {
+     "text": " l’indemnité est fixée conformément aux articles 51 et 52.",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 327.79
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1166 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_61",
+ "numero": "61",
+ "titre": "FORMATION ET PRISE D’EFFET DU CONTRAT",
+ "chapitre": {
+  "numero": 13,
+  "titre": "FORMATION - DURÉE - RÉSILIATION - PRESCRIPTION - PROTECTION DE LA CLIENTÈLE"
+ },
+ "page_debut": 50,
+ "page_fin": 50,
+ "pages": [
+  50
+ ],
+ "texte": "Le contrat est parfait dès sa signature par les parties. Vous devez en acquitter la cotisation dès ce moment.\nIl produit ses effets aux jour et heure indiqués aux conditions particulières à condition que vous ayez effectivement\nréglé la première cotisation. Le règlement au moyen d’un chèque sans provision, même partiellement, ne constitue\npas un paiement valable.\nToutefois, si nous ne recevons pas un exemplaire du contrat signé dans les 10 jours après que nous vous l’avons\nremis ou transmis, la date d’effet du contrat est reportée au lendemain à zéro heure de la réception effective de cet\nexemplaire signé à notre siège ou chez notre représentant.\nLes mêmes dispositions s’appliquent à tout avenant au contrat.\n\u0003 En cas de conclusion à distance à des fins qui n’entrent pas dans le cadre de l’activité commerciale ou\nprofessionnelle du souscripteur personne physique (art. L 112-2-1 du Code), le contrat ne peut recevoir de\ncommencement immédiat d’exécution (prise d’effet de la garantie et exigibilité de la cotisation) qu’avec l’accord formel\ndu souscripteur.\nÀ défaut, le contrat conclu à distance ne prend effet que quatorze jours calendaires révolus après le jour de sa\nconclusion ou de la réception par le souscripteur -si elle est postérieure- des conditions contractuelles et des\ninformations visées par l’article L 112-2-1 III du Code.\nPendant le délai de 14 jours susvisé -le cachet de la poste faisant foi-, le souscripteur peut exercer son droit de\nrenonciation sans avoir à justifier de motif ni à supporter de pénalités, au moyen du modèle de lettre proposé\nci-dessous, à expédier au Siège social de la Société ou à l’adresse de son représentant ayant établi le contrat.\nL’exécution intégrale du contrat par les deux parties à la demande expresse du souscripteur prive ce dernier de son\ndroit de renonciation.\n\u0003 En cas de conclusion à la suite d’un démarchage au domicile, à la résidence ou sur le lieu de travail, même à sa\ndemande, d’un contrat à des fins qui n’entrent pas dans le cadre de l’activité commerciale ou professionnelle du\nsouscripteur personne physique (art. L 112-9 du Code), celui-ci a la faculté d’y renoncer par lettre recommandée avec\ndemande d’avis de réception, selon modèle de lettre proposé ci-dessous, à expédier au Siège social de la Société ou\nà l’adresse de son représentant ayant établi le contrat, pendant le délai de quatorze jours calendaires révolus à\ncompter du jour de sa conclusion, le cachet de la poste faisant foi, sans avoir à justifier de motifs ni à supporter de\npénalités.\nL’exercice du droit de renonciation dans le délai ci-dessus entraîne la résiliation du contrat à compter de la date de\nréception de la lettre recommandée par la Société. Dès lors qu’il a connaissance d’un sinistre mettant en jeu la\ngarantie du contrat, le souscripteur ne peut plus exercer ce droit de renonciation.\nEn cas de renonciation, le souscripteur ne peut être tenu qu’au paiement de la partie de cotisation correspondant à\nla période pendant laquelle le risque a couru, cette période étant calculée jusqu’à la date de la résiliation. La Société\nest tenue de rembourser au souscripteur le solde au plus tard dans les trente jours suivant la date de résiliation.\nAu-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal. Toutefois, l’intégralité de\nla cotisation reste due à la Société si le souscripteur exerce son droit de renonciation alors qu’un sinistre mettant en\njeu la garantie du contrat et dont il n’a pas eu connaissance est intervenu pendant le délai de renonciation.\n\u0003 Modèle de lettre (recommandée avec demande d’avis de réception si démarchage) :\n“J’ai l’honneur de vous faire connaître qu’usant de la faculté prévue par l’article L 112-2-1 du Code des Assurances\n(si conclusion à distance)/article L 112-9 du Code des Assurances (si démarchage), je renonce à donner suite au contrat\nN° ………………………………………………… que j’ai signé le ..........................................................................................................\nFait à ...................................... le ........................................... Signature du souscripteur”",
+ "lignes": [
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 151.62,
+   "x1": 530.45,
+   "y1": 161.84,
+   "text": "Le contrat est parfait dès sa signature par les parties. Vous devez en acquitter la cotisation dès ce moment.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Le contrat est parfait dès sa signature par les parties.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.27
+    },
+    {
+     "text": " Vous devez en acquitter la cotisation dès ce moment.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 299.17
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 165.45,
+   "x1": 566.47,
+   "y1": 175.67,
+   "text": "Il produit ses effets aux jour et heure indiqués aux conditions particulières à condition que vous ayez effectivement",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Il produit ses effets aux jour et heure indiqués aux conditions particulières ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "à condition que vous ayez effectivement",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 390.93
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 176.45,
+   "x1": 566.47,
+   "y1": 186.67,
+   "text": "réglé la première cotisation. Le règlement au moyen d’un chèque sans provision, même partiellement, ne constitue",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "réglé la première cotisation",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.27
+    },
+    {
+     "text": ". Le règlement au moyen d’un chèque sans provision, même partiellement, ne constitue",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 190.1
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 187.45,
+   "x1": 177.85,
+   "y1": 197.67,
+   "text": "pas un paiement valable.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "pas un paiement valable.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 201.28,
+   "x1": 566.47,
+   "y1": 211.5,
+   "text": "Toutefois, si nous ne recevons pas un exemplaire du contrat signé dans les 10 jours après que nous vous l’avons",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Toutefois, si nous ne recevons pas un exemplaire du contrat signé dans les 10 jours après que nous vous l’avons",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 212.28,
+   "x1": 566.47,
+   "y1": 222.5,
+   "text": "remis ou transmis, la date d’effet du contrat est reportée au lendemain à zéro heure de la réception effective de cet",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "remis ou transmis, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "la date d’effet du contrat est reportée au lendemain à zéro heure de la réception effective de cet",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 150.56
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 223.28,
+   "x1": 320.91,
+   "y1": 233.5,
+   "text": "exemplaire signé à notre siège ou chez notre représentant.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "exemplaire signé",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.27
+    },
+    {
+     "text": " à notre siège ou chez notre représentant.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 143.26
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 237.11,
+   "x1": 338.74,
+   "y1": 247.33,
+   "text": "Les mêmes dispositions s’appliquent à tout avenant au contrat.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les mêmes dispositions s’appliquent à tout avenant au contrat.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 251.89,
+   "x1": 566.47,
+   "y1": 262.58,
+   "text": "\u0003 En cas de conclusion à distance à des fins qui n’entrent pas dans le cadre de l’activité commerciale ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 75.83
+    },
+    {
+     "text": "En cas de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.11
+    },
+    {
+     "text": "conclusion à distance",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 131.95
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 230.87
+    },
+    {
+     "text": "à des fins qui n’entrent pas dans le cadre de l’activité commerciale ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 236.15
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.28,
+   "y0": 263.36,
+   "x1": 566.45,
+   "y1": 273.6,
+   "text": "professionnelle du souscripteur personne physique (art. L 112-2-1 du Code), le contrat ne peut recevoir de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "professionnelle du souscripteur personne physique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.28
+    },
+    {
+     "text": "(art. L 112-2-1 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 309.47
+    },
+    {
+     "text": ", le contrat ne peut recevoir de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 415.03
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 274.38,
+   "x1": 566.46,
+   "y1": 284.6,
+   "text": "commencement immédiat d’exécution (prise d’effet de la garantie et exigibilité de la cotisation) qu’avec l’accord formel",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "commencement immédiat d’exécution ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "(prise d’effet de la garantie et exigibilité de la cotisation)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 240.51
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 460.54
+    },
+    {
+     "text": "qu’avec l’accord formel",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 463.76
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 285.38,
+   "x1": 138.45,
+   "y1": 295.6,
+   "text": "du souscripteur.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "du souscripteur.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 299.21,
+   "x1": 566.46,
+   "y1": 309.43,
+   "text": "À défaut, le contrat conclu à distance ne prend effet que quatorze jours calendaires révolus après le jour de sa",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "À défaut, le contrat conclu à distance ne prend effet que quatorze jours calendaires révolus après le jour de sa",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 310.21,
+   "x1": 566.46,
+   "y1": 320.43,
+   "text": "conclusion ou de la réception par le souscripteur -si elle est postérieure- des conditions contractuelles et des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "conclusion ou de la réception par le souscripteur ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "-si elle est postérieure-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 304.2
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 398.14
+    },
+    {
+     "text": "des conditions contractuelles et des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 403.48
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 321.21,
+   "x1": 302.59,
+   "y1": 331.43,
+   "text": "informations visées par l’article L 112-2-1 III du Code.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "informations visées par l’article L 112-2-1 III du Code.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 335.04,
+   "x1": 566.46,
+   "y1": 345.27,
+   "text": "Pendant le délai de 14 jours susvisé -le cachet de la poste faisant foi-, le souscripteur peut exercer son droit de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Pendant le délai de 14 jours susvisé ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "-le cachet de la poste faisant foi-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 239.28
+    },
+    {
+     "text": ", le souscripteur peut exercer son droit de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 374.91
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 346.05,
+   "x1": 566.45,
+   "y1": 356.27,
+   "text": "renonciation sans avoir à justifier de motif ni à supporter de pénalités, au moyen du modèle de lettre proposé",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "renonciation sans avoir à justifier de motif ni à supporter de pénalités, au moyen du modèle de lettre proposé",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 357.05,
+   "x1": 536.45,
+   "y1": 367.27,
+   "text": "ci-dessous, à expédier au Siège social de la Société ou à l’adresse de son représentant ayant établi le contrat.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "ci-dessous, à expédier au Siège social de la Société ou à l’adresse de son représentant ayant établi le contrat.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 370.88,
+   "x1": 566.46,
+   "y1": 381.1,
+   "text": "L’exécution intégrale du contrat par les deux parties à la demande expresse du souscripteur prive ce dernier de son",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "L’exécution intégrale du contrat par les deux parties à la demande expresse du souscripteur prive ce dernier de son",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 381.88,
+   "x1": 163.65,
+   "y1": 392.1,
+   "text": "droit de renonciation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "droit de renonciation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 396.66,
+   "x1": 566.45,
+   "y1": 407.35,
+   "text": "\u0003 En cas de conclusion à la suite d’un démarchage au domicile, à la résidence ou sur le lieu de travail, même à sa",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 75.83
+    },
+    {
+     "text": "En cas de conclusion à la suite d’un ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 78.89
+    },
+    {
+     "text": "démarchage",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 237.91
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 290.83
+    },
+    {
+     "text": "au domicile, à la résidence ou sur le lieu de travail, même à sa",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 293.89
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.26,
+   "y0": 408.13,
+   "x1": 566.45,
+   "y1": 418.35,
+   "text": "demande, d’un contrat à des fins qui n’entrent pas dans le cadre de l’activité commerciale ou professionnelle du",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "demande, d’un contrat à des fins qui n’entrent pas dans le cadre de l’activité commerciale ou professionnelle du",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.26
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.26,
+   "y0": 419.13,
+   "x1": 566.46,
+   "y1": 429.35,
+   "text": "souscripteur personne physique (art. L 112-9 du Code), celui-ci a la faculté d’y renoncer par lettre recommandée avec",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "souscripteur personne physique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.26
+    },
+    {
+     "text": "(art. L 112-9 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 208.69
+    },
+    {
+     "text": ", celui-ci a la faculté d’y renoncer par lettre recommandée avec",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 294.03
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 430.13,
+   "x1": 566.46,
+   "y1": 440.35,
+   "text": "demande d’avis de réception, selon modèle de lettre proposé ci-dessous, à expédier au Siège social de la Société ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "demande d’avis de réception, selon modèle de lettre proposé ci-dessous, à expédier au Siège social de la Société ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 441.13,
+   "x1": 566.47,
+   "y1": 451.35,
+   "text": "à l’adresse de son représentant ayant établi le contrat, pendant le délai de quatorze jours calendaires révolus à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "à l’adresse de son représentant ayant établi le contrat, pendant le délai de quatorze jours calendaires révolus à",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 452.13,
+   "x1": 566.47,
+   "y1": 462.35,
+   "text": "compter du jour de sa conclusion, le cachet de la poste faisant foi, sans avoir à justifier de motifs ni à supporter de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "compter du jour de sa conclusion, le cachet de la poste faisant foi, sans avoir à justifier de motifs ni à supporter de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 463.13,
+   "x1": 111.4,
+   "y1": 473.35,
+   "text": "pénalités.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "pénalités.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 476.96,
+   "x1": 566.46,
+   "y1": 487.18,
+   "text": "L’exercice du droit de renonciation dans le délai ci-dessus entraîne la résiliation du contrat à compter de la date de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "L’exercice du droit de renonciation dans le délai ci-dessus entraîne la résiliation du contrat à compter de la date de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 487.96,
+   "x1": 566.45,
+   "y1": 498.18,
+   "text": "réception de la lettre recommandée par la Société. Dès lors qu’il a connaissance d’un sinistre mettant en jeu la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "réception de la lettre recommandée par la Société. Dès lors qu’il a connaissance d’un sinistre mettant en jeu la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 498.96,
+   "x1": 418.38,
+   "y1": 509.18,
+   "text": "garantie du contrat, le souscripteur ne peut plus exercer ce droit de renonciation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "garantie du contrat, le souscripteur ne peut plus exercer ce droit de renonciation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 512.79,
+   "x1": 566.47,
+   "y1": 523.01,
+   "text": "En cas de renonciation, le souscripteur ne peut être tenu qu’au paiement de la partie de cotisation correspondant à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "En cas de renonciation, le souscripteur ne peut être tenu qu’au paiement de la partie de cotisation correspondant à",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 523.79,
+   "x1": 566.45,
+   "y1": 534.01,
+   "text": "la période pendant laquelle le risque a couru, cette période étant calculée jusqu’à la date de la résiliation. La Société",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la période pendant laquelle le risque a couru, cette période étant calculée jusqu’à la date de la résiliation. La Société",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 534.79,
+   "x1": 566.47,
+   "y1": 545.01,
+   "text": "est tenue de rembourser au souscripteur le solde au plus tard dans les trente jours suivant la date de résiliation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "est tenue de rembourser au souscripteur le solde au plus tard dans les trente jours suivant la date de résiliation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 545.79,
+   "x1": 566.46,
+   "y1": 556.01,
+   "text": "Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal. Toutefois, l’intégralité de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Au-delà de ce délai, les sommes non versées produisent de plein droit intérêt au taux légal. Toutefois, l’intégralité de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 556.79,
+   "x1": 566.46,
+   "y1": 567.01,
+   "text": "la cotisation reste due à la Société si le souscripteur exerce son droit de renonciation alors qu’un sinistre mettant en",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la cotisation reste due à la Société si le souscripteur exerce son droit de renonciation alors qu’un sinistre mettant en",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 567.79,
+   "x1": 529.57,
+   "y1": 578.01,
+   "text": "jeu la garantie du contrat et dont il n’a pas eu connaissance est intervenu pendant le délai de renonciation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "jeu la garantie du contrat et dont il n’a pas eu connaissance est intervenu pendant le délai de renonciation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 582.57,
+   "x1": 412.21,
+   "y1": 593.27,
+   "text": "\u0003 Modèle de lettre (recommandée avec demande d’avis de réception si démarchage) :",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": " Modèle de lettre",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 75.83
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 150.73
+    },
+    {
+     "text": "(recommandée avec demande d’avis de réception si démarchage)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 153.51
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 406.65
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 69.75,
+   "y0": 596.89,
+   "x1": 567.93,
+   "y1": 607.11,
+   "text": "“J’ai l’honneur de vous faire connaître qu’usant de la faculté prévue par l’article L 112-2-1 du Code des Assurances",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "“J’ai l’honneur de vous faire connaître qu’usant de la faculté prévue par l’article L 112-2-1 du Code des Assurances",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 69.75
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 70.27,
+   "y0": 607.89,
+   "x1": 567.93,
+   "y1": 618.11,
+   "text": "(si conclusion à distance)/article L 112-9 du Code des Assurances (si démarchage), je renonce à donner suite au contrat",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(si conclusion à distance)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 70.27
+    },
+    {
+     "text": "/article L 112-9 du Code des Assurances ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 168.17
+    },
+    {
+     "text": "(si démarchage)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 344.75
+    },
+    {
+     "text": ", je renonce à donner suite au contrat",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 404.96
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 69.75,
+   "y0": 618.89,
+   "x1": 401.28,
+   "y1": 629.11,
+   "text": "N° ………………………………………………… que j’ai signé le ..........................................................................................................",
+   "font": "Optima",
+   "size": 5.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "N° ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 69.75
+    },
+    {
+     "text": "…………………………………………………",
+     "font": "Optima",
+     "size": 5.0,
+     "bold": false,
+     "x0": 84.57
+    },
+    {
+     "text": " que j’ai signé le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 179.31
+    },
+    {
+     "text": "..........................................................................................................",
+     "font": "Optima",
+     "size": 5.0,
+     "bold": false,
+     "x0": 252.94
+    }
+   ]
+  },
+  {
+   "page": 50,
+   "column": 0,
+   "x0": 69.75,
+   "y0": 632.72,
+   "x1": 339.38,
+   "y1": 642.94,
+   "text": "Fait à ...................................... le ........................................... Signature du souscripteur”",
+   "font": "Optima",
+   "size": 5.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Fait à ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 69.75
+    },
+    {
+     "text": "......................................",
+     "font": "Optima",
+     "size": 5.0,
+     "bold": false,
+     "x0": 95.58
+    },
+    {
+     "text": " le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 148.14
+    },
+    {
+     "text": "...........................................",
+     "font": "Optima",
+     "size": 5.0,
+     "bold": false,
+     "x0": 161.74
+    },
+    {
+     "text": " Signature du souscripteur”",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 221.25
+    }
+   ]
+  }
+ ]
+}

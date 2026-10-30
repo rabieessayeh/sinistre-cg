@@ -1,0 +1,2117 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_36",
+ "numero": "36",
+ "titre": "PACK ÉNERGIES RENOUVELABLES",
+ "chapitre": {
+  "numero": 6,
+  "titre": "LES GARANTIES EN OPTION"
+ },
+ "page_debut": 26,
+ "page_fin": 27,
+ "pages": [
+  26,
+  27
+ ],
+ "texte": "Lorsque vous avez souscrit cette option, nous garantissons :\nles équipements de production d’énergie à usage domestique, fixés à l’extérieur des bâtiments assurés ou posés au\nsol, jusqu’à leurs 20 ans révolus* :\n- panneaux solaires* thermiques destinés à la production d’eau chaude ou au chauffage du logement,\n- installation de géothermie, y compris puits canadien -ou provençal- géothermique aéraulique ou hydraulique,\n- éolienne domestique dont la hauteur n’excède pas 12 mètres,\nPour une hauteur supérieure à 12 mètres, la clause VE2 est à souscrire.\n-installations photovoltaïques dont la surface globale n’excède pas 100 m².\nPour une superficie supérieure à 100 m², la clause SO2 est à souscrire.\nendommagés par les seuls événements suivants tels que définis au Chapitre 2 :\n- chute de la foudre, y compris les dommages causés par la chute d’un arbre abattu par la foudre,\n- incendie, explosion,\n- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,\n- choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les\nmembres de la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes\ncivilement responsable,\n- dommages d’ordre électrique (court-circuit, surtension) sur les moteurs et matériels électriques ou électroniques\njusqu’à leurs 10 ans révolus*,\n- bris accidentel des vitres* des panneaux solaires*,\n- action directe du vent dû aux tempêtes, ouragans, cyclones (art. L122-7 du Code) ou choc d’un corps renversé\nou projeté par le vent,\n- choc des grêlons,\n- catastrophe naturelle,\n- attentat, acte de terrorisme,\n- vol ou tentative de vol -avec bris des éléments de fixation ou d’un dispositif de sécurité, ou leur démontage ou leur\neffraction-, vandalisme.\nS Les éléments extérieurs des aérothermes -pompes à chaleur- sont à garantir au titre du Pack Tranquillité lorsque leur\nusage est mixte (chauffage/climatisation du logement et chauffage de la piscine) ou par le Pack Piscine Détente s’ils ne\nservent qu’à la piscine.\nS Les éléments de ces installations d’énergie qui se trouvent à l’intérieur de l’habitation ou d’une dépendance* sont\ngarantis au titre des aménagements des bâtiments assurés (selon art. 3).\nNous ne garantissons pas, outre les exclusions prévues à l’article 41 :\n• les éléments extérieurs des aérothermes ou pompes à chaleur (sauf souscription du Pack Tranquillité -art. 33- ou du\nPack Piscine Détente -art. 35-),\n• les rayures, ébréchures, écaillements des panneaux solaires*,\n• les dommages causés par l’explosion de dynamite ou explosifs analogues que vous détenez (hormis les feux\nd’artifice d’amateurs*),\n• les dommages causés par les mers et océans, par les inondations sauf mise en œuvre de la garantie Catastrophe\nNaturelle,\n• la perte de fluide caloporteur et les frais de recherche de fuite y afférents,\n• les dommages résultant d’un défaut d’entretien et de réparations des installations qui vous incombent si vous n’y\navez pas remédié dans un délai de trente jours après en avoir eu connaissance.\n“” Les dommages causés par le gel ne sont pas garantis ; nous vous invitons à mettre en œuvre tous les moyens de\nprévention dont vous disposez.\nModalités d’indemnisation :\nLes dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.\nL’option Remplacement à neuf (art. 31) si elle est souscrite, ne s’applique pas au Pack Énergies Renouvelables.\nNous garantissons également :\n- la perte financière que vous subissez en cas de non revente de l’électricité pendant la période de non fonctionnement\nde votre installation de production garantie au titre du présent Pack, endommagée suite à un sinistre garanti.\nNotre indemnité ne peut excéder le plafond fixé aux Conditions particulières.\nLa perte financière correspondant à une interruption de production de 3 jours reste toujours à votre charge, et\nce quelle que soit la durée totale de l’interruption.\n- votre responsabilité civile qui peut être engagée en raison des dommages corporels, matériels et immatériels\nconsécutifs causés aux tiers, survenant du fait ou à l’occasion du fonctionnement de votre installation de\nproduction d’électricité assurée, raccordée au réseau public de distribution.\nSont considérés comme tiers, outre les personnes visées à l’article 69 :\n- les agents et préposés d’EDF auquel vous vendez l’excédent de votre production d’électricité,\n- EDF dont le réseau est raccordé à votre installation d’énergie, pour les dommages matériels et immatériels\nconsécutifs qu’il subirait, notre engagement maximal pour lesdits dommages ne pouvant excéder 1 500 000\neuros non indexés par sinistre, la limite globale de 8 000 000 euros non indexés prévue aux Conditions\nparticulières étant inchangée.",
+ "lignes": [
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 238.97,
+   "x1": 330.13,
+   "y1": 249.19,
+   "text": "Lorsque vous avez souscrit cette option, nous garantissons :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Lorsque vous avez souscrit cette option,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " nous garantissons :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 245.39
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 252.8,
+   "x1": 566.36,
+   "y1": 263.02,
+   "text": "les équipements de production d’énergie à usage domestique, fixés à l’extérieur des bâtiments assurés ou posés au",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "les équipements de production d’énergie",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " à usage domestique, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 248.6
+    },
+    {
+     "text": "fixés à l’extérieur",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 342.02
+    },
+    {
+     "text": " des bâtiments assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 417.32
+    },
+    {
+     "text": "ou posés",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 515.19
+    },
+    {
+     "text": " au",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 553.01
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 263.8,
+   "x1": 219.1,
+   "y1": 274.02,
+   "text": "sol, jusqu’à leurs 20 ans révolus* :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "sol, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "jusqu’à leurs 20 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 88.66
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 209.1
+    },
+    {
+     "text": " :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 213.54
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 277.63,
+   "x1": 520.97,
+   "y1": 287.85,
+   "text": "- panneaux solaires* thermiques destinés à la production d’eau chaude ou au chauffage du logement,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- panneaux solaires",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 168.4
+    },
+    {
+     "text": " thermiques destinés à la production d’eau chaude ou au chauffage du logement,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 172.84
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 291.46,
+   "x1": 556.94,
+   "y1": 301.69,
+   "text": "- installation de géothermie, y compris puits canadien -ou provençal- géothermique aéraulique ou hydraulique,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- installation de géothermie, y compris puits canadien ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": "-ou provençal-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 319.02
+    },
+    {
+     "text": " géothermique aéraulique ou hydraulique,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 375.82
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 305.3,
+   "x1": 358.79,
+   "y1": 315.52,
+   "text": "- éolienne domestique dont la hauteur n’excède pas 12 mètres,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- éolienne domestique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": "dont la hauteur n’excède pas 12 mètres",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 183.97
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 356.01
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 84.57,
+   "y0": 319.89,
+   "x1": 360.04,
+   "y1": 329.09,
+   "text": "Pour une hauteur supérieure à 12 mètres, la clause VE2 est à souscrire.",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Pour une hauteur supérieure à 12 mètres, la clause ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 84.57
+    },
+    {
+     "text": "VE2",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 283.7
+    },
+    {
+     "text": " est à souscrire.",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 298.74
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 85.04,
+   "y0": 333.97,
+   "x1": 408.47,
+   "y1": 344.19,
+   "text": "-installations photovoltaïques dont la surface globale n’excède pas 100 m².",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "-installations photovoltaïques ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.04
+    },
+    {
+     "text": "dont la surface globale n’excède pas 100 m²",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 213.7
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 405.69
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 84.57,
+   "y0": 347.14,
+   "x1": 359.54,
+   "y1": 356.34,
+   "text": "Pour une superficie supérieure à 100 m², la clause SO2 est à souscrire.",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Pour une superficie supérieure à 100 m², la clause ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 84.57
+    },
+    {
+     "text": "SO2",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 281.24
+    },
+    {
+     "text": " est à souscrire.",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 298.24
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 361.73,
+   "x1": 409.52,
+   "y1": 371.95,
+   "text": "endommagés par les seuls événements suivants tels que définis au Chapitre 2 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "endommagés par les seuls événements suivants",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": " tels que définis au Chapitre 2 :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 275.56
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 375.56,
+   "x1": 517.34,
+   "y1": 385.78,
+   "text": "- chute de la foudre, y compris les dommages causés par la chute d’un arbre abattu par la foudre,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- chute de la foudre, y compris les dommages causés par la chute d’un arbre abattu par la foudre,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 389.39,
+   "x1": 192.6,
+   "y1": 399.61,
+   "text": "- incendie, explosion,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- incendie, explosion,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 403.22,
+   "x1": 500.72,
+   "y1": 413.44,
+   "text": "- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 417.05,
+   "x1": 566.37,
+   "y1": 427.27,
+   "text": "- choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- choc d’un véhicule terrestre dont le conducteur n’est ni vous",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 378.8
+    },
+    {
+     "text": ", ni votre conjoint",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 383.24
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 463.55
+    },
+    {
+     "text": ", ni le cas échéant les",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 467.99
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 428.05,
+   "x1": 566.37,
+   "y1": 438.27,
+   "text": "membres de la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "membres de la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 439.05,
+   "x1": 200.74,
+   "y1": 449.27,
+   "text": "civilement responsable,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "civilement responsable,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 452.88,
+   "x1": 566.36,
+   "y1": 463.12,
+   "text": "- dommages d’ordre électrique (court-circuit, surtension) sur les moteurs et matériels électriques ou électroniques",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- dommages d’ordre électrique ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    },
+    {
+     "text": "(court-circuit, surtension)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 231.82
+    },
+    {
+     "text": " sur les moteurs et matériels électriques ou électroniques",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 327.73
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 466.73,
+   "x1": 226.88,
+   "y1": 476.95,
+   "text": "jusqu’à leurs 10 ans révolus*,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "jusqu’à leurs 10 ans révolus",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 99.22
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 219.66
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 224.1
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 480.56,
+   "x1": 319.84,
+   "y1": 490.78,
+   "text": "- bris accidentel des vitres* des panneaux solaires*,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- bris accidentel des vitres",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 210.92
+    },
+    {
+     "text": " des panneaux solaires",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 215.36
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 312.62
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 317.06
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 494.39,
+   "x1": 566.37,
+   "y1": 504.62,
+   "text": "- action directe du vent dû aux tempêtes, ouragans, cyclones (art. L122-7 du Code) ou choc d’un corps renversé",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.22
+    },
+    {
+     "text": "action directe du vent dû aux tempêtes, ouragans, cyclones ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 105.63
+    },
+    {
+     "text": "(art. L122-7 du Code)",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 360.56
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 442.74
+    },
+    {
+     "text": "ou choc d’un corps renversé",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 445.77
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.22,
+   "y0": 505.4,
+   "x1": 192.24,
+   "y1": 515.62,
+   "text": "ou projeté par le vent,",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "ou projeté par le vent,",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 99.22
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 519.24,
+   "x1": 180.17,
+   "y1": 529.46,
+   "text": "- choc des grêlons,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- choc des grêlons,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 533.07,
+   "x1": 198.13,
+   "y1": 543.29,
+   "text": "- catastrophe naturelle,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- catastrophe naturelle,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 546.9,
+   "x1": 222.57,
+   "y1": 557.12,
+   "text": "- attentat, acte de terrorisme,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- attentat, acte de terrorisme,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 560.73,
+   "x1": 566.36,
+   "y1": 570.95,
+   "text": "- vol ou tentative de vol -avec bris des éléments de fixation ou d’un dispositif de sécurité, ou leur démontage ou leur",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- vol ou tentative de vol ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 99.21
+    },
+    {
+     "text": "-avec bris des éléments de fixation ou d’un dispositif de sécurité, ou leur démontage ou leur",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 204.3
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 99.21,
+   "y0": 573.16,
+   "x1": 197.12,
+   "y1": 583.38,
+   "text": "effraction-, vandalisme.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "effraction-",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 99.21
+    },
+    {
+     "text": ", vandalisme.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 140.12
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 586.99,
+   "x1": 566.36,
+   "y1": 597.21,
+   "text": "S Les éléments extérieurs des aérothermes -pompes à chaleur- sont à garantir au titre du Pack Tranquillité lorsque leur",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "S",
+     "font": "Wingdings-Regular",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " Les éléments extérieurs des aérothermes ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 76.07
+    },
+    {
+     "text": "-pompes à chaleur-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 253.74
+    },
+    {
+     "text": " sont à garantir au titre du ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 328.05
+    },
+    {
+     "text": "Pack Tranquillité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 441.14
+    },
+    {
+     "text": " lorsque leur",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 512.51
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 597.99,
+   "x1": 566.36,
+   "y1": 608.21,
+   "text": "usage est mixte (chauffage/climatisation du logement et chauffage de la piscine) ou par le Pack Piscine Détente s’ils ne",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "usage est mixte ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "(chauffage/climatisation du logement et chauffage de la piscine)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 141.57
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 392.8
+    },
+    {
+     "text": "ou par le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 396.37
+    },
+    {
+     "text": "Pack Piscine Détente",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 439.86
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 532.55
+    },
+    {
+     "text": "s’ils ne",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 536.11
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 608.99,
+   "x1": 169.67,
+   "y1": 619.21,
+   "text": "servent qu’à la piscine.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "servent qu’à la piscine.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 622.83,
+   "x1": 566.36,
+   "y1": 633.05,
+   "text": "S Les éléments de ces installations d’énergie qui se trouvent à l’intérieur de l’habitation ou d’une dépendance* sont",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "S",
+     "font": "Wingdings-Regular",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " Les éléments de ces installations d’énergie qui se trouvent à l’intérieur de l’habitation ou d’une dépendance",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 76.07
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 541.34
+    },
+    {
+     "text": " sont",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 545.78
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 633.83,
+   "x1": 369.95,
+   "y1": 644.05,
+   "text": "garantis au titre des aménagements des bâtiments assurés (selon art. 3).",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "garantis au titre des aménagements des bâtiments assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(selon art. 3)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 319.14
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 367.17
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 657.83,
+   "x1": 371.01,
+   "y1": 668.05,
+   "text": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 671.66,
+   "x1": 566.36,
+   "y1": 681.88,
+   "text": "• les éléments extérieurs des aérothermes ou pompes à chaleur (sauf souscription du Pack Tranquillité -art. 33- ou du",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "les éléments extérieurs des aérothermes ou pompes à chaleur",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.36
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 352.96
+    },
+    {
+     "text": "(sauf souscription du ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 356.38
+    },
+    {
+     "text": "Pack Tranquillité ",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 440.68
+    },
+    {
+     "text": "-art. 33-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 508.59
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 540.18
+    },
+    {
+     "text": "ou du",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 543.26
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 682.66,
+   "x1": 191.66,
+   "y1": 692.88,
+   "text": "Pack Piscine Détente -art. 35-),",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Pack Piscine Détente ",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": "-art. 35-)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 155.38
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 188.88
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 696.49,
+   "x1": 344.27,
+   "y1": 706.71,
+   "text": "• les rayures, ébréchures, écaillements des panneaux solaires*,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "les rayures, ébréchures, écaillements des panneaux solaires",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.71
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 337.05
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 341.49
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 710.32,
+   "x1": 566.36,
+   "y1": 720.54,
+   "text": "• les dommages causés par l’explosion de dynamite ou explosifs analogues que vous détenez (hormis les feux",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "les dommages causés par l’explosion de dynamite ou explosifs analogues que vous détenez",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 81.48
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 497.62
+    },
+    {
+     "text": "(hormis les feux",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 502.16
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 721.33,
+   "x1": 159.61,
+   "y1": 731.55,
+   "text": "d’artifice d’amateurs*),",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’artifice d’amateurs",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 149.89
+    },
+    {
+     "text": ")",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 154.33
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 156.83
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 735.16,
+   "x1": 566.37,
+   "y1": 745.38,
+   "text": "• les dommages causés par les mers et océans, par les inondations sauf mise en œuvre de la garantie Catastrophe",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "les dommages causés par les mers et océans, par les inondations ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.97
+    },
+    {
+     "text": "sauf mise en œuvre de la garantie Catastrophe",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 365.71
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 746.16,
+   "x1": 113.66,
+   "y1": 756.38,
+   "text": "Naturelle,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Naturelle,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 759.99,
+   "x1": 401.15,
+   "y1": 770.21,
+   "text": "• la perte de fluide caloporteur et les frais de recherche de fuite y afférents,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "la perte de fluide caloporteur et les frais de recherche de fuite y afférents,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.71
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 773.82,
+   "x1": 566.36,
+   "y1": 784.04,
+   "text": "• les dommages résultant d’un défaut d’entretien et de réparations des installations qui vous incombent si vous n’y",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "• ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "les dommages résultant d’un défaut d’entretien et de réparations des installations qui vous incombent",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.46
+    },
+    {
+     "text": " si vous n’y",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 518.93
+    }
+   ]
+  },
+  {
+   "page": 26,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 784.82,
+   "x1": 410.09,
+   "y1": 795.04,
+   "text": "avez pas remédié dans un délai de trente jours après en avoir eu connaissance.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "avez pas remédié dans un délai de trente jours après en avoir eu connaissance.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 68.93,
+   "y0": 75.37,
+   "x1": 567.44,
+   "y1": 86.06,
+   "text": "“” Les dommages causés par le gel ne sont pas garantis ; nous vous invitons à mettre en œuvre tous les moyens de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "“",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 68.93
+    },
+    {
+     "text": "",
+     "font": "Wingdings-Regular",
+     "size": 10.0,
+     "bold": false,
+     "x0": 73.93
+    },
+    {
+     "text": "”",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 82.87
+    },
+    {
+     "text": " Les dommages causés par le gel ne sont pas garantis",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 87.87
+    },
+    {
+     "text": " ; nous vous invitons à mettre en œuvre tous les moyens de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 315.44
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 68.93,
+   "y0": 86.84,
+   "x1": 202.59,
+   "y1": 97.06,
+   "text": "prévention dont vous disposez.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "prévention dont vous disposez.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 68.93
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 71.35,
+   "y0": 104.87,
+   "x1": 192.51,
+   "y1": 115.09,
+   "text": "Modalités d’indemnisation :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Modalités d’indemnisation :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.35
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 71.35,
+   "y0": 115.87,
+   "x1": 492.06,
+   "y1": 126.09,
+   "text": "Les dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.35
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 71.35,
+   "y0": 129.7,
+   "x1": 547.21,
+   "y1": 139.93,
+   "text": "L’option Remplacement à neuf (art. 31) si elle est souscrite, ne s’applique pas au Pack Énergies Renouvelables.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’option Remplacement à neuf ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.35
+    },
+    {
+     "text": "(art. 31)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 206.95
+    },
+    {
+     "text": " si elle est souscrite, ne s’applique pas au ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 238.95
+    },
+    {
+     "text": "Pack Énergies Renouvelables",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 420.14
+    },
+    {
+     "text": ".",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 544.43
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 71.35,
+   "y0": 145.71,
+   "x1": 203.31,
+   "y1": 155.93,
+   "text": "Nous garantissons également :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous garantissons également :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.35
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 159.54,
+   "x1": 566.58,
+   "y1": 169.76,
+   "text": "- la perte financière que vous subissez en cas de non revente de l’électricité pendant la période de non fonctionnement",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 85.52
+    },
+    {
+     "text": "la perte financière",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 90.87
+    },
+    {
+     "text": " que vous subissez en cas de non revente de l’électricité pendant la période de non fonctionnement",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 165.87
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 170.54,
+   "x1": 531.65,
+   "y1": 180.76,
+   "text": "de votre installation de production garantie au titre du présent Pack, endommagée suite à un sinistre garanti.",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de votre installation de production garantie au titre du présent Pack, endommagée suite à un ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 85.52
+    },
+    {
+     "text": "sinistre garanti",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 467.74
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 528.93
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 184.38,
+   "x1": 418.44,
+   "y1": 194.6,
+   "text": "Notre indemnité ne peut excéder le plafond fixé aux Conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Notre indemnité ne peut excéder le plafond fixé aux Conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 201.05,
+   "x1": 566.61,
+   "y1": 211.27,
+   "text": "La perte financière correspondant à une interruption de production de 3 jours reste toujours à votre charge, et",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "La perte financière correspondant à une interruption de production de 3 jours reste toujours à votre charge, et",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 212.05,
+   "x1": 305.61,
+   "y1": 222.27,
+   "text": "ce quelle que soit la durée totale de l’interruption.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "ce quelle que soit la durée totale de l’interruption.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 234.38,
+   "x1": 566.59,
+   "y1": 244.61,
+   "text": "- votre responsabilité civile qui peut être engagée en raison des dommages corporels, matériels et immatériels",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    },
+    {
+     "text": "votre responsabilité civile",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 92.18
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 205.0
+    },
+    {
+     "text": "qui peut être engagée en raison des dommages corporels, matériels et immatériels",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 208.33
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 245.38,
+   "x1": 566.6,
+   "y1": 255.6,
+   "text": "consécutifs causés aux tiers, survenant du fait ou à l’occasion du fonctionnement de votre installation de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "consécutifs causés aux tiers, survenant du fait ou à l’occasion du fonctionnement de votre installation de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 256.38,
+   "x1": 410.53,
+   "y1": 266.6,
+   "text": "production d’électricité assurée, raccordée au réseau public de distribution.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "production d’électricité assurée, raccordée au réseau public de distribution.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 270.21,
+   "x1": 389.51,
+   "y1": 280.43,
+   "text": "Sont considérés comme tiers, outre les personnes visées à l’article 69 :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Sont considérés comme tiers",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.52
+    },
+    {
+     "text": ", outre les personnes visées à l’article 69 :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 210.55
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 284.04,
+   "x1": 492.98,
+   "y1": 294.26,
+   "text": "- les agents et préposés d’EDF auquel vous vendez l’excédent de votre production d’électricité,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- les agents et préposés d’EDF auquel vous vendez l’excédent de votre production d’électricité,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 297.87,
+   "x1": 566.59,
+   "y1": 308.09,
+   "text": "- EDF dont le réseau est raccordé à votre installation d’énergie, pour les dommages matériels et immatériels",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- EDF",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 110.64
+    },
+    {
+     "text": "dont le réseau est raccordé à votre installation d’énergie, pour les dommages matériels et immatériels",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 114.64
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 308.87,
+   "x1": 566.61,
+   "y1": 319.09,
+   "text": "consécutifs qu’il subirait, notre engagement maximal pour lesdits dommages ne pouvant excéder 1 500 000",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "consécutifs qu’il subirait, notre engagement maximal pour lesdits dommages ne pouvant excéder 1 500 000",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 319.87,
+   "x1": 566.6,
+   "y1": 330.09,
+   "text": "euros non indexés par sinistre, la limite globale de 8 000 000 euros non indexés prévue aux Conditions",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "euros non indexés par sinistre, la limite globale de 8 000 000 euros non indexés prévue aux Conditions",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "column": 0,
+   "x0": 85.52,
+   "y0": 330.87,
+   "x1": 212.05,
+   "y1": 341.09,
+   "text": "particulières étant inchangée.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "particulières étant inchangée.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 85.52
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "garantie",
+   "texte": "Lorsque vous avez souscrit cette option, nous garantissons :\nles équipements de production d’énergie à usage domestique, fixés à l’extérieur des bâtiments assurés ou posés au\nsol, jusqu’à leurs 20 ans révolus* :\n- panneaux solaires* thermiques destinés à la production d’eau chaude ou au chauffage du logement,\n- installation de géothermie, y compris puits canadien -ou provençal- géothermique aéraulique ou hydraulique,\n- éolienne domestique dont la hauteur n’excède pas 12 mètres,\nPour une hauteur supérieure à 12 mètres, la clause VE2 est à souscrire.\n-installations photovoltaïques dont la surface globale n’excède pas 100 m².\nPour une superficie supérieure à 100 m², la clause SO2 est à souscrire.\nendommagés par les seuls événements suivants tels que définis au Chapitre 2 :\n- chute de la foudre, y compris les dommages causés par la chute d’un arbre abattu par la foudre,\n- incendie, explosion,\n- choc ou chute de tout ou partie d’appareil aérien ou spatial ou d’objets tombant de celui-ci,\n- choc d’un véhicule terrestre dont le conducteur n’est ni vous*, ni votre conjoint*, ni le cas échéant les\nmembres de la société civile immobilière propriétaire des bâtiments assurés, ni une personne dont vous êtes\ncivilement responsable,\n- dommages d’ordre électrique (court-circuit, surtension) sur les moteurs et matériels électriques ou électroniques\njusqu’à leurs 10 ans révolus*,\n- bris accidentel des vitres* des panneaux solaires*,\n- action directe du vent dû aux tempêtes, ouragans, cyclones (art. L122-7 du Code) ou choc d’un corps renversé\nou projeté par le vent,\n- choc des grêlons,\n- catastrophe naturelle,\n- attentat, acte de terrorisme,\n- vol ou tentative de vol -avec bris des éléments de fixation ou d’un dispositif de sécurité, ou leur démontage ou leur\neffraction-, vandalisme.\nS Les éléments extérieurs des aérothermes -pompes à chaleur- sont à garantir au titre du Pack Tranquillité lorsque leur\nusage est mixte (chauffage/climatisation du logement et chauffage de la piscine) ou par le Pack Piscine Détente s’ils ne\nservent qu’à la piscine.\nS Les éléments de ces installations d’énergie qui se trouvent à l’intérieur de l’habitation ou d’une dépendance* sont\ngarantis au titre des aménagements des bâtiments assurés (selon art. 3).",
+   "pages": [
+    26
+   ],
+   "renvois_articles": [
+    "3"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "révolus",
+     "terme": "Année révolue"
+    },
+    {
+     "forme": "panneaux solaires",
+     "terme": "Panneau solaire"
+    },
+    {
+     "forme": "vous",
+     "terme": "Vous"
+    },
+    {
+     "forme": "conjoint",
+     "terme": "Conjoint"
+    },
+    {
+     "forme": "vitres",
+     "terme": "Vitre"
+    },
+    {
+     "forme": "dépendance",
+     "terme": "Dépendance"
+    }
+   ]
+  },
+  {
+   "type": "exclusion",
+   "texte": "Nous ne garantissons pas, outre les exclusions prévues à l’article 41 :\n• les éléments extérieurs des aérothermes ou pompes à chaleur (sauf souscription du Pack Tranquillité -art. 33- ou du\nPack Piscine Détente -art. 35-),\n• les rayures, ébréchures, écaillements des panneaux solaires*,\n• les dommages causés par l’explosion de dynamite ou explosifs analogues que vous détenez (hormis les feux\nd’artifice d’amateurs*),\n• les dommages causés par les mers et océans, par les inondations sauf mise en œuvre de la garantie Catastrophe\nNaturelle,\n• la perte de fluide caloporteur et les frais de recherche de fuite y afférents,\n• les dommages résultant d’un défaut d’entretien et de réparations des installations qui vous incombent si vous n’y\navez pas remédié dans un délai de trente jours après en avoir eu connaissance.\n“” Les dommages causés par le gel ne sont pas garantis ; nous vous invitons à mettre en œuvre tous les moyens de\nprévention dont vous disposez.\nModalités d’indemnisation :\nLes dommages sont estimés et l’indemnité est fixée conformément aux dispositions de l’article 51.\nL’option Remplacement à neuf (art. 31) si elle est souscrite, ne s’applique pas au Pack Énergies Renouvelables.",
+   "pages": [
+    26,
+    27
+   ],
+   "renvois_articles": [
+    "41",
+    "33",
+    "35",
+    "51",
+    "31"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": [
+    {
+     "forme": "panneaux solaires",
+     "terme": "Panneau solaire"
+    },
+    {
+     "forme": "feux d’artifice d’amateurs",
+     "terme": "Feux d’artifice d’amateurs"
+    }
+   ]
+  },
+  {
+   "type": "garantie",
+   "texte": "Nous garantissons également :\n- la perte financière que vous subissez en cas de non revente de l’électricité pendant la période de non fonctionnement\nde votre installation de production garantie au titre du présent Pack, endommagée suite à un sinistre garanti.\nNotre indemnité ne peut excéder le plafond fixé aux Conditions particulières.\nLa perte financière correspondant à une interruption de production de 3 jours reste toujours à votre charge, et\nce quelle que soit la durée totale de l’interruption.\n- votre responsabilité civile qui peut être engagée en raison des dommages corporels, matériels et immatériels\nconsécutifs causés aux tiers, survenant du fait ou à l’occasion du fonctionnement de votre installation de\nproduction d’électricité assurée, raccordée au réseau public de distribution.\nSont considérés comme tiers, outre les personnes visées à l’article 69 :\n- les agents et préposés d’EDF auquel vous vendez l’excédent de votre production d’électricité,\n- EDF dont le réseau est raccordé à votre installation d’énergie, pour les dommages matériels et immatériels\nconsécutifs qu’il subirait, notre engagement maximal pour lesdits dommages ne pouvant excéder 1 500 000\neuros non indexés par sinistre, la limite globale de 8 000 000 euros non indexés prévue aux Conditions\nparticulières étant inchangée.",
+   "pages": [
+    27
+   ],
+   "renvois_articles": [
+    "69"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "3",
+  "41",
+  "33",
+  "35",
+  "51",
+  "31",
+  "69"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": [
+  {
+   "forme": "révolus",
+   "terme": "Année révolue"
+  },
+  {
+   "forme": "panneaux solaires",
+   "terme": "Panneau solaire"
+  },
+  {
+   "forme": "vous",
+   "terme": "Vous"
+  },
+  {
+   "forme": "conjoint",
+   "terme": "Conjoint"
+  },
+  {
+   "forme": "vitres",
+   "terme": "Vitre"
+  },
+  {
+   "forme": "dépendance",
+   "terme": "Dépendance"
+  },
+  {
+   "forme": "feux d’artifice d’amateurs",
+   "terme": "Feux d’artifice d’amateurs"
+  }
+ ]
+}

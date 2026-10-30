@@ -1,0 +1,156 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_21",
+ "numero": "21",
+ "titre": "FRAIS DE DÉBLAIS ET DÉMOLITION",
+ "chapitre": {
+  "numero": 4,
+  "titre": "LES GARANTIES COMPLÉMENTAIRES"
+ },
+ "page_debut": 16,
+ "page_fin": 16,
+ "pages": [
+  16
+ ],
+ "texte": "Sont inclus dans l’estimation des biens assurés (selon chapitre 11), les frais justifiés et réellement engagés de\ndémolition, de déblais et d’enlèvement des décombres à la suite d’un sinistre garanti et dans le cadre des mesures\npréparatoires rendues nécessaires pour la remise en état des biens sinistrés, à l’exclusion des frais de décontamination\nqui peuvent être indemnisés au titre de l’article 22.",
+ "lignes": [
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 451.07,
+   "x1": 565.75,
+   "y1": 461.29,
+   "text": "Sont inclus dans l’estimation des biens assurés (selon chapitre 11), les frais justifiés et réellement engagés de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Sont inclus dans l’estimation des biens assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "(selon chapitre 11)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 290.5
+    },
+    {
+     "text": ", les frais justifiés et réellement engagés de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 366.72
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 462.57,
+   "x1": 565.76,
+   "y1": 472.79,
+   "text": "démolition, de déblais et d’enlèvement des décombres à la suite d’un sinistre garanti et dans le cadre des mesures",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "démolition, de déblais et d’enlèvement des décombres à la suite d’un ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "sinistre garanti",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 374.91
+    },
+    {
+     "text": " et dans le cadre des mesures",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 439.12
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 474.07,
+   "x1": 565.77,
+   "y1": 484.29,
+   "text": "préparatoires rendues nécessaires pour la remise en état des biens sinistrés, à l’exclusion des frais de décontamination",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "préparatoires rendues nécessaires pour la remise en état des biens sinistrés, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    },
+    {
+     "text": "à l’exclusion des frais de décontamination",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 387.58
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 485.57,
+   "x1": 290.74,
+   "y1": 495.79,
+   "text": "qui peuvent être indemnisés au titre de l’article 22.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "qui peuvent être indemnisés au titre de l’article 22.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "Sont inclus dans l’estimation des biens assurés (selon chapitre 11), les frais justifiés et réellement engagés de\ndémolition, de déblais et d’enlèvement des décombres à la suite d’un sinistre garanti et dans le cadre des mesures\npréparatoires rendues nécessaires pour la remise en état des biens sinistrés, à l’exclusion des frais de décontamination\nqui peuvent être indemnisés au titre de l’article 22.",
+   "pages": [
+    16
+   ],
+   "renvois_articles": [
+    "22"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "22"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

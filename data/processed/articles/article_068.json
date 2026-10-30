@@ -1,0 +1,348 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_68",
+ "numero": "68",
+ "titre": "INDEXATION DES GARANTIES, DES FRANCHISES ET COTISATIONS",
+ "chapitre": {
+  "numero": 14,
+  "titre": "COTISATIONS - INDEXATION"
+ },
+ "page_debut": 54,
+ "page_fin": 55,
+ "pages": [
+  54,
+  55
+ ],
+ "texte": "Le montant des garanties (sauf Assistance -chapitre 8- et Protection Juridique -chapitre 9- et sauf mention contraire prévue\naux tableaux de garanties des conditions particulières ou des présentes conditions générales), le maximum de cotisation et\nles franchises (exception faite des franchises concernant les catastrophes naturelles qui sont fixées par arrêté) varient en\nfonction de l’évolution de l’indice du prix de la construction dans la région parisienne publié par la Fédération\nFrançaise du Bâtiment et des activités annexes (ou par l’organisme qui lui serait substitué). Leur montant initial est\nmodifié, à chaque échéance, proportionnellement à la variation constatée entre la valeur de cet indice retenue lors\nde la souscription du contrat et indiquée aux conditions particulières (dite “indice de souscription”), et la valeur du\nmême indice indiquée sur l’avis d’échéance (dite “indice d'échéance”).\nSi l’indice n’était pas publié dans les quatre mois suivant la publication de l’indice précédent, il serait remplacé par\nun indice établi dans le plus bref délai par un expert désigné par le Président du Tribunal de Grande Instance de Paris\nà notre requête et à nos frais.\nDÉFINITIONS – CLAUSES - TEXTES",
+ "lignes": [
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 615.59,
+   "x1": 566.37,
+   "y1": 625.81,
+   "text": "Le montant des garanties (sauf Assistance -chapitre 8- et Protection Juridique -chapitre 9- et sauf mention contraire prévue",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Le montant des garanties ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(sauf Assistance -chapitre 8- et Protection Juridique -chapitre 9- et sauf mention contraire prévue",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 181.62
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 626.59,
+   "x1": 566.35,
+   "y1": 636.81,
+   "text": "aux tableaux de garanties des conditions particulières ou des présentes conditions générales), le maximum de cotisation et",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "aux tableaux de garanties des conditions particulières ou des présentes conditions générales)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": ", le maximum de cotisation et",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 437.13
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 637.59,
+   "x1": 566.36,
+   "y1": 647.81,
+   "text": "les franchises (exception faite des franchises concernant les catastrophes naturelles qui sont fixées par arrêté) varient en",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "les franchises ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(exception faite des franchises concernant les catastrophes naturelles qui sont fixées par arrêté)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 133.97
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 517.64
+    },
+    {
+     "text": "varient en",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 522.11
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 648.59,
+   "x1": 566.34,
+   "y1": 658.81,
+   "text": "fonction de l’évolution de l’indice du prix de la construction dans la région parisienne publié par la Fédération",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "fonction de l’évolution de l’indice du prix de la construction dans la région parisienne publié par la Fédération",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 659.59,
+   "x1": 566.36,
+   "y1": 669.81,
+   "text": "Française du Bâtiment et des activités annexes (ou par l’organisme qui lui serait substitué). Leur montant initial est",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Française du Bâtiment et des activités annexes ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "(ou par l’organisme qui lui serait substitué)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 282.8
+    },
+    {
+     "text": ". Leur montant initial est",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 455.65
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 670.59,
+   "x1": 566.36,
+   "y1": 680.81,
+   "text": "modifié, à chaque échéance, proportionnellement à la variation constatée entre la valeur de cet indice retenue lors",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "modifié, à chaque échéance, proportionnellement à la variation constatée entre la valeur de cet indice retenue lors",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 681.59,
+   "x1": 566.35,
+   "y1": 691.81,
+   "text": "de la souscription du contrat et indiquée aux conditions particulières (dite “indice de souscription”), et la valeur du",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de la souscription du contrat et indiquée aux conditions particulières ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(dite “indice de souscription”)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 377.95
+    },
+    {
+     "text": ", et la valeur du",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 495.86
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 692.59,
+   "x1": 366.33,
+   "y1": 702.81,
+   "text": "même indice indiquée sur l’avis d’échéance (dite “indice d'échéance”).",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "même indice indiquée sur l’avis d’échéance ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(dite “indice d'échéance”)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 262.68
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 363.55
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 706.42,
+   "x1": 566.37,
+   "y1": 716.64,
+   "text": "Si l’indice n’était pas publié dans les quatre mois suivant la publication de l’indice précédent, il serait remplacé par",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Si l’indice n’était pas publié dans les quatre mois suivant la publication de l’indice précédent, il serait remplacé par",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 717.42,
+   "x1": 566.36,
+   "y1": 727.64,
+   "text": "un indice établi dans le plus bref délai par un expert désigné par le Président du Tribunal de Grande Instance de Paris",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "un indice établi dans le plus bref délai par un expert désigné par le Président du Tribunal de Grande Instance de Paris",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 54,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 728.42,
+   "x1": 195.24,
+   "y1": 738.64,
+   "text": "à notre requête et à nos frais.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "à notre requête et à nos frais.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 55,
+   "column": null,
+   "x0": 165.11,
+   "y0": 71.19,
+   "x1": 472.41,
+   "y1": 91.63,
+   "text": "DÉFINITIONS – CLAUSES - TEXTES",
+   "font": "Optima-Bold",
+   "size": 20.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "DÉFINITIONS – CLAUSES - TEXTES",
+     "font": "Optima-Bold",
+     "size": 20.0,
+     "bold": true,
+     "x0": 165.11
+    }
+   ]
+  }
+ ]
+}

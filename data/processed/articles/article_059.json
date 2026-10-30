@@ -1,0 +1,725 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_59",
+ "numero": "59",
+ "titre": "VOS OBLIGATIONS",
+ "chapitre": {
+  "numero": 12,
+  "titre": "DÉCLARATION DU RISQUE"
+ },
+ "page_debut": 49,
+ "page_fin": 49,
+ "pages": [
+  49
+ ],
+ "texte": "(art. L 113-2 du Code)\n\u0003 À la souscription du contrat, vous devez répondre exactement aux questions que nous vous posons et qui nous\npermettent d’apprécier le risque.\n\u0003 En cours de contrat, vous devez :\n- déclarer toutes les circonstances nouvelles qui aggravent les risques ou en créent de nouveaux et rendent, de ce\nfait, inexactes ou caduques les déclarations mentionnées aux conditions particulières. La déclaration de circonstances\nnouvelles doit être effectuée dans les 15 jours à partir du moment où vous en avez eu connaissance ;\n- indiquer le transfert de propriété des biens assurés (vente, donation, succession) et les noms et adresses des nouveaux\npropriétaires.\n\u0003 À la souscription ou en cours de contrat, vous devez donner les noms et adresses des autres assureurs lorsque\nplusieurs assurances couvrent les mêmes risques (art. L 121-4 du Code).\n\u0003 Dans tous les cas, la déclaration est notifiée par lettre recommandée adressée au Siège de la Société ou à son\nreprésentant.\n\u0003 Les conséquences d’une déclaration inexacte ou incomplète :\n1- Toute réticence, fausse déclaration intentionnelle, omission ou inexactitude dans la déclaration du risque, même\nsi elle est sans influence sur le sinistre, entraîne l’application des sanctions prévues par le Code :\n- nullité du contrat en cas de mauvaise foi (art. L 113-8 du Code),\n- réduction des indemnités, lorsque la mauvaise foi n’est pas établie (art. L 113-9 du Code).\n2- Le non respect du délai de quinze jours pour déclarer les circonstances nouvelles aggravantes nous permet, sauf\ncas fortuit ou de force majeure, de vous opposer une déchéance, si ce retard nous cause un préjudice (art. L 113-2\ndu Code).\n3- Toute souscription frauduleuse de plusieurs assurances pour couvrir un même risque pour les biens assurés\nentraîne une nullité du contrat et nous permet de réclamer des dommages et intérêts (art. L 121-4 du Code).",
+ "lignes": [
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 177.43,
+   "y0": 184.63,
+   "x1": 262.97,
+   "y1": 193.83,
+   "text": "(art. L 113-2 du Code)",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "(art. L 113-2 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 177.43
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 202.91,
+   "x1": 566.5,
+   "y1": 213.6,
+   "text": "\u0003 À la souscription du contrat, vous devez répondre exactement aux questions que nous vous posons et qui nous",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": "À la souscription du contrat,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.68
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 205.74
+    },
+    {
+     "text": "vous devez répondre exactement aux questions que nous vous posons et qui nous",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 208.99
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 214.38,
+   "x1": 210.91,
+   "y1": 224.6,
+   "text": "permettent d’apprécier le risque.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "permettent d’apprécier le risque.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 232.0,
+   "x1": 223.11,
+   "y1": 242.69,
+   "text": "\u0003 En cours de contrat, vous devez :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " En cours de contrat,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": " vous devez :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 166.72
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 246.3,
+   "x1": 566.51,
+   "y1": 256.52,
+   "text": "- déclarer toutes les circonstances nouvelles qui aggravent les risques ou en créent de nouveaux et rendent, de ce",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- déclarer toutes les circonstances nouvelles qui aggravent les risques ou en créent de nouveaux et rendent, de ce",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 257.3,
+   "x1": 566.55,
+   "y1": 267.52,
+   "text": "fait, inexactes ou caduques les déclarations mentionnées aux conditions particulières. La déclaration de circonstances",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "fait, inexactes ou caduques les déclarations mentionnées aux conditions particulières. La déclaration de circonstances",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 268.3,
+   "x1": 504.22,
+   "y1": 278.52,
+   "text": "nouvelles doit être effectuée dans les 15 jours à partir du moment où vous en avez eu connaissance ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "nouvelles doit être effectuée dans les 15 jours à partir du moment où vous en avez eu connaissance ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 282.13,
+   "x1": 566.5,
+   "y1": 292.35,
+   "text": "- indiquer le transfert de propriété des biens assurés (vente, donation, succession) et les noms et adresses des nouveaux",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- indiquer le transfert de propriété des biens assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(vente, donation, succession)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 293.54
+    },
+    {
+     "text": " et les noms et adresses des nouveaux",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 405.25
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 293.13,
+   "x1": 127.54,
+   "y1": 303.35,
+   "text": "propriétaires.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "propriétaires.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 310.75,
+   "x1": 566.49,
+   "y1": 321.44,
+   "text": "\u0003 À la souscription ou en cours de contrat, vous devez donner les noms et adresses des autres assureurs lorsque",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.42
+    },
+    {
+     "text": "À la souscription ou en cours de contrat,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.93
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 262.58
+    },
+    {
+     "text": "vous devez donner les noms et adresses des autres assureurs lorsque",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 266.09
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 322.22,
+   "x1": 370.24,
+   "y1": 332.44,
+   "text": "plusieurs assurances couvrent les mêmes risques (art. L 121-4 du Code).",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "plusieurs assurances couvrent les mêmes risques ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "(art. L 121-4 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 281.91
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 367.46
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 339.84,
+   "x1": 566.5,
+   "y1": 350.53,
+   "text": "\u0003 Dans tous les cas, la déclaration est notifiée par lettre recommandée adressée au Siège de la Société ou à son",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": "Dans tous les cas, ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 80.0
+    },
+    {
+     "text": "la déclaration est notifiée par",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 163.2
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 291.29
+    },
+    {
+     "text": "lettre recommandée ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 294.86
+    },
+    {
+     "text": "adressée au Siège de la Société ou à son",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 387.32
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 351.31,
+   "x1": 126.43,
+   "y1": 361.53,
+   "text": "représentant.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "représentant.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 368.93,
+   "x1": 346.1,
+   "y1": 379.62,
+   "text": "\u0003 Les conséquences d’une déclaration inexacte ou incomplète :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " Les conséquences d’une déclaration inexacte ou incomplète :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.42
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 389.9,
+   "x1": 566.49,
+   "y1": 400.12,
+   "text": "1- Toute réticence, fausse déclaration intentionnelle, omission ou inexactitude dans la déclaration du risque, même",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "1- Toute réticence, fausse déclaration intentionnelle, omission ou inexactitude dans la déclaration du risque, même",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 401.9,
+   "x1": 490.43,
+   "y1": 412.12,
+   "text": "si elle est sans influence sur le sinistre, entraîne l’application des sanctions prévues par le Code :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "si elle est sans influence sur le sinistre, entraîne l’application des sanctions prévues par le Code :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 415.73,
+   "x1": 346.63,
+   "y1": 425.95,
+   "text": "- nullité du contrat en cas de mauvaise foi (art. L 113-8 du Code),",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- nullité du contrat en cas de mauvaise foi ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": "(art. L 113-8 du Code)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 256.31
+    },
+    {
+     "text": ",",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 343.85
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 429.56,
+   "x1": 458.64,
+   "y1": 439.79,
+   "text": "- réduction des indemnités, lorsque la mauvaise foi n’est pas établie (art. L 113-9 du Code).",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- réduction des indemnités, lorsque la mauvaise foi n’est pas établie ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": "(art. L 113-9 du Code)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 368.32
+    },
+    {
+     "text": ".",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 455.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 445.82,
+   "x1": 566.51,
+   "y1": 456.04,
+   "text": "2- Le non respect du délai de quinze jours pour déclarer les circonstances nouvelles aggravantes nous permet, sauf",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "2- Le non respect du délai de quinze jours pour déclarer les circonstances nouvelles aggravantes nous permet, ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": "sauf",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 549.28
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 457.82,
+   "x1": 566.5,
+   "y1": 468.04,
+   "text": "cas fortuit ou de force majeure, de vous opposer une déchéance, si ce retard nous cause un préjudice (art. L 113-2",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "cas fortuit ou de force majeure,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 206.48
+    },
+    {
+     "text": "de vous opposer une déchéance, si ce retard nous cause un préjudice ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 209.51
+    },
+    {
+     "text": "(art. L 113-2",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 517.03
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 469.82,
+   "x1": 109.66,
+   "y1": 480.04,
+   "text": "du Code).",
+   "font": "Optima-Bold",
+   "size": 9.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "du Code)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 70.87
+    },
+    {
+     "text": ".",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 106.88
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 486.07,
+   "x1": 566.49,
+   "y1": 496.29,
+   "text": "3- Toute souscription frauduleuse de plusieurs assurances pour couvrir un même risque pour les biens assurés",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "3- Toute souscription frauduleuse de plusieurs assurances pour couvrir un même risque pour les biens assurés",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 498.07,
+   "x1": 534.01,
+   "y1": 508.29,
+   "text": "entraîne une nullité du contrat et nous permet de réclamer des dommages et intérêts (art. L 121-4 du Code).",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "entraîne une nullité du contrat et nous permet de réclamer des dommages et intérêts ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.86
+    },
+    {
+     "text": "(art. L 121-4 du Code)",
+     "font": "Optima-Bold",
+     "size": 9.0,
+     "bold": true,
+     "x0": 443.7
+    },
+    {
+     "text": ".",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 531.23
+    }
+   ]
+  }
+ ]
+}

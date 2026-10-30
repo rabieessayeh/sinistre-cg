@@ -1,0 +1,460 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_60",
+ "numero": "60",
+ "titre": "LES CONSÉQUENCES D’UNE MODIFICATION DU RISQUE",
+ "chapitre": {
+  "numero": 12,
+  "titre": "DÉCLARATION DU RISQUE"
+ },
+ "page_debut": 49,
+ "page_fin": 50,
+ "pages": [
+  49,
+  50
+ ],
+ "texte": "\u0003 S’il s’agit d’une aggravation du risque (art. L 113-4 du Code), nous pouvons vous proposer une augmentation de la\ncotisation, ou le remplacement de votre contrat par un autre mieux adapté à vos besoins ou encore la résiliation de\nvotre contrat.\n- Si nous vous proposons une augmentation de la cotisation et que dans un délai de 30 jours vous n’y donnez pas\nsuite ou la refusez, nous pouvons résilier le contrat.\n- Si nous résilions le contrat, la résiliation prend effet 10 jours après sa notification.\n\u0003 S’il s’agit d’une diminution du risque (art. L 113-4 du Code), vous pouvez obtenir une diminution de la cotisation.\nA défaut, vous pouvez résilier le contrat. La résiliation prend effet 30 jours après sa notification.\n\u0003 S’il s’agit d’un transfert de propriété,\n- l’assurance continue de plein droit au profit du nouveau propriétaire. Il en est de même pour vos héritiers en cas\nde décès. (art. L 121-10 du Code).\n- Seul le nouveau propriétaire est tenu au paiement des cotisations à échoir à partir du moment où nous avons été\ninformés du transfert.\nNous pouvons opter pour la résiliation du contrat dans les trois mois à partir du jour où le nouvel acquéreur ou\nhéritier des biens a demandé le transfert du contrat à son nom. Le nouveau propriétaire des biens peut aussi résilier\nle contrat. (voir art. 63A).",
+ "lignes": [
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 554.45,
+   "x1": 566.5,
+   "y1": 565.15,
+   "text": "\u0003 S’il s’agit d’une aggravation du risque (art. L 113-4 du Code), nous pouvons vous proposer une augmentation de la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " S’il s’agit d’une aggravation du risque",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 242.92
+    },
+    {
+     "text": "(art. L 113-4 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 245.87
+    },
+    {
+     "text": ", nous pouvons vous proposer une augmentation de la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 332.03
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 566.43,
+   "x1": 566.51,
+   "y1": 576.65,
+   "text": "cotisation, ou le remplacement de votre contrat par un autre mieux adapté à vos besoins ou encore la résiliation de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cotisation, ou le remplacement de votre contrat par un autre mieux adapté à vos besoins ou encore la résiliation de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 577.93,
+   "x1": 127.81,
+   "y1": 588.15,
+   "text": "votre contrat.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "votre contrat.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 592.26,
+   "x1": 566.49,
+   "y1": 602.48,
+   "text": "- Si nous vous proposons une augmentation de la cotisation et que dans un délai de 30 jours vous n’y donnez pas",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Si nous vous proposons une augmentation de la cotisation et que dans un délai de 30 jours vous n’y donnez pas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 603.76,
+   "x1": 291.78,
+   "y1": 613.98,
+   "text": "suite ou la refusez, nous pouvons résilier le contrat.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "suite ou la refusez, nous pouvons résilier le contrat.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 618.09,
+   "x1": 426.47,
+   "y1": 628.31,
+   "text": "- Si nous résilions le contrat, la résiliation prend effet 10 jours après sa notification.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Si nous résilions le contrat, la résiliation prend effet 10 jours après sa notification.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 636.21,
+   "x1": 566.5,
+   "y1": 646.9,
+   "text": "\u0003 S’il s’agit d’une diminution du risque (art. L 113-4 du Code), vous pouvez obtenir une diminution de la cotisation.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": "S’il s’agit d’une diminution du risque",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.52
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 241.14
+    },
+    {
+     "text": "(art. L 113-4 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 244.22
+    },
+    {
+     "text": ", vous pouvez obtenir une diminution de la cotisation.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 330.87
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 648.18,
+   "x1": 480.62,
+   "y1": 658.4,
+   "text": "A défaut, vous pouvez résilier le contrat. La résiliation prend effet 30 jours après sa notification.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "A défaut, vous pouvez résilier le contrat. La résiliation prend effet 30 jours après sa notification.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 666.3,
+   "x1": 239.15,
+   "y1": 676.99,
+   "text": "\u0003 S’il s’agit d’un transfert de propriété,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": " S’il s’agit d’un transfert de propriété,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.42
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 681.1,
+   "x1": 566.5,
+   "y1": 691.32,
+   "text": "- l’assurance continue de plein droit au profit du nouveau propriétaire. Il en est de même pour vos héritiers en cas",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "l’assurance continue de plein droit au profit du nouveau propriétaire.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 77.04
+    },
+    {
+     "text": " Il en est de même pour vos héritiers en cas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 379.82
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 692.6,
+   "x1": 207.54,
+   "y1": 702.82,
+   "text": "de décès. (art. L 121-10 du Code).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de décès. ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "(art. L 121-10 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 114.22
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 204.76
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 706.93,
+   "x1": 566.5,
+   "y1": 717.15,
+   "text": "- Seul le nouveau propriétaire est tenu au paiement des cotisations à échoir à partir du moment où nous avons été",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- Seul le nouveau propriétaire est tenu au paiement des cotisations à échoir à partir du moment où nous avons été",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 718.43,
+   "x1": 161.88,
+   "y1": 728.65,
+   "text": "informés du transfert.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "informés du transfert.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 732.76,
+   "x1": 566.51,
+   "y1": 742.98,
+   "text": "Nous pouvons opter pour la résiliation du contrat dans les trois mois à partir du jour où le nouvel acquéreur ou",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous pouvons opter pour la résiliation du contrat dans les trois mois à partir du jour où le nouvel acquéreur ou",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 744.26,
+   "x1": 566.5,
+   "y1": 754.48,
+   "text": "héritier des biens a demandé le transfert du contrat à son nom. Le nouveau propriétaire des biens peut aussi résilier",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "héritier des biens a demandé le transfert du contrat à son nom. Le nouveau propriétaire des biens peut aussi résilier",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 49,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 755.76,
+   "x1": 172.74,
+   "y1": 765.98,
+   "text": "le contrat. (voir art. 63A).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "le contrat. ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    },
+    {
+     "text": "(voir art. 63A).",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 116.87
+    }
+   ]
+  }
+ ]
+}

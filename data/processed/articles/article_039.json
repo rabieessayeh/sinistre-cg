@@ -1,0 +1,719 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_39",
+ "numero": "39",
+ "titre": "PACK GENDARME RÉSERVISTE / CSTAGN",
+ "chapitre": {
+  "numero": 6,
+  "titre": "LES GARANTIES EN OPTION"
+ },
+ "page_debut": 28,
+ "page_fin": 29,
+ "pages": [
+  28,
+  29
+ ],
+ "texte": "1- Nous garantissons, dans la limite des frais réels restés à votre charge :\n\u0004 les dommages subis par votre paquetage* en tous lieux à la suite d’un des événements définis au Chapitre 2, y\ncompris son vol par agression ;\n\u0004 le dommages subis par votre armement de service* :\n- en tout lieux, à la suite d’un des événements définis au Chapitre 2 à l’exclusion du vol et du vandalisme,\n- dans l’enceinte de la caserne, s’il s’agit d’un vol - y compris par agression - ou d’un acte de vandalisme.\n2- Nous garantissons également, lorsque vous êtes membre du Corps de Soutien Technique et Administratif de la\nGendarmerie Nationale (CSTAGN), les conséquences pécuniaires de votre responsabilité civile en raison des dommages\ncausés aux tiers par votre arme de service dans l’enceinte de la caserne, en dehors de vos périodes de service.\n3- Si vous avez souscrit la garantie Protection Juridique, du présent contrat, nous intervenons non seulement pour\nles litiges pris en charge au titre du Chapitre 9 selon votre choix d’option, mais aussi lorsque vous êtes confrontés à\nun litige :\n- dans le cadre de votre activité de réserviste opérationnel de la Gendarmerie nationale ou de CSTAGN au\ncours de l’exécution de votre service, notamment lorsque vous effectuez des tâches de police administrative,\njudiciaire ou militaire, ainsi que lorsque vous prêtez votre concours aux autorités et services publics, sur\nréquisition de ceux-ci ;\n- au titre de votre protection pénale, lorsque vous êtes poursuivi pour contravention ou délit devant une\njuridiction répressive, notamment dans le cadre d’infractions militaires relevant de la compétence des\njuridictions de droit commun (art. 697-1 du Code de Procédure Pénale).\nEn matière pénale, nous n’intervenons pas à votre profit, lorsque vous êtes poursuivi pour crime ou délit\nimpliquant la volonté de causer un dommage.\nLieu d’assurance - Exclusions",
+ "lignes": [
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.47,
+   "y0": 521.03,
+   "x1": 380.34,
+   "y1": 531.25,
+   "text": "1- Nous garantissons, dans la limite des frais réels restés à votre charge :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "1- Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.47
+    },
+    {
+     "text": ", dans la limite des frais réels restés à votre charge :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 160.76
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 84.65,
+   "y0": 537.28,
+   "x1": 566.66,
+   "y1": 547.5,
+   "text": "\u0004 les dommages subis par votre paquetage* en tous lieux à la suite d’un des événements définis au Chapitre 2, y",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 84.65
+    },
+    {
+     "text": " les dommages subis par ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 88.65
+    },
+    {
+     "text": "votre paquetage*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 196.41
+    },
+    {
+     "text": " en tous lieux ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 271.11
+    },
+    {
+     "text": "à la suite d’un des événements définis au Chapitre 2, y",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 332.21
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 84.65,
+   "y0": 549.28,
+   "x1": 217.85,
+   "y1": 559.5,
+   "text": "compris son vol par agression ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "compris son vol par agression ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 84.65
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 84.65,
+   "y0": 565.54,
+   "x1": 317.78,
+   "y1": 575.76,
+   "text": "\u0004 le dommages subis par votre armement de service* :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 84.65
+    },
+    {
+     "text": " le dommages subis par votre ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 88.65
+    },
+    {
+     "text": "armement de service*",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 216.84
+    },
+    {
+     "text": " :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 312.22
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.48,
+   "y0": 578.81,
+   "x1": 566.65,
+   "y1": 589.03,
+   "text": "- en tout lieux, à la suite d’un des événements définis au Chapitre 2 à l’exclusion du vol et du vandalisme,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.48
+    },
+    {
+     "text": "en tout lieux",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 112.75
+    },
+    {
+     "text": ", à la suite d’un des événements définis au Chapitre 2 ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 168.1
+    },
+    {
+     "text": "à l’exclusion du vol et du vandalisme",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 402.24
+    },
+    {
+     "text": ",",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 563.87
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 106.48,
+   "y0": 592.07,
+   "x1": 549.95,
+   "y1": 602.3,
+   "text": "- dans l’enceinte de la caserne, s’il s’agit d’un vol - y compris par agression - ou d’un acte de vandalisme.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- dans ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 106.48
+    },
+    {
+     "text": "l’enceinte de la caserne",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 135.38
+    },
+    {
+     "text": ", s’il s’agit d’un vol - ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 238.19
+    },
+    {
+     "text": "y compris par agression",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 328.06
+    },
+    {
+     "text": " - ou d’un acte de vandalisme.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 419.58
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 611.57,
+   "x1": 566.66,
+   "y1": 621.79,
+   "text": "2- Nous garantissons également, lorsque vous êtes membre du Corps de Soutien Technique et Administratif de la",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "2-",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 70.48
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 79.04
+    },
+    {
+     "text": "Nous garantissons également",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 83.84
+    },
+    {
+     "text": ", lorsque vous êtes membre du Corps de Soutien Technique et Administratif de la",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 208.46
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 622.57,
+   "x1": 566.66,
+   "y1": 632.79,
+   "text": "Gendarmerie Nationale (CSTAGN), les conséquences pécuniaires de votre responsabilité civile en raison des dommages",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Gendarmerie Nationale (",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 70.48
+    },
+    {
+     "text": "CSTAGN",
+     "font": "Optima",
+     "size": 8.91,
+     "bold": false,
+     "x0": 173.9
+    },
+    {
+     "text": "), les conséquences pécuniaires de votre responsabilité civile en raison des dommages",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 206.86
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 633.57,
+   "x1": 519.43,
+   "y1": 643.79,
+   "text": "causés aux tiers par votre arme de service dans l’enceinte de la caserne, en dehors de vos périodes de service.",
+   "font": "Optima",
+   "size": 9.9,
+   "bold": false,
+   "spans": [
+    {
+     "text": "causés aux tiers par votre ",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 70.48
+    },
+    {
+     "text": "arme de service",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 175.26
+    },
+    {
+     "text": " dans l’enceinte de la caserne,",
+     "font": "Optima-Bold",
+     "size": 9.9,
+     "bold": true,
+     "x0": 240.54
+    },
+    {
+     "text": " en dehors de vos périodes de service.",
+     "font": "Optima",
+     "size": 9.9,
+     "bold": false,
+     "x0": 364.52
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 653.08,
+   "x1": 566.67,
+   "y1": 663.3,
+   "text": "3- Si vous avez souscrit la garantie Protection Juridique, du présent contrat, nous intervenons non seulement pour",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "3-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.48
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 79.37
+    },
+    {
+     "text": "Si vous avez souscrit la garantie",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 82.44
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 221.98
+    },
+    {
+     "text": "Protection Juridique",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 225.05
+    },
+    {
+     "text": ", du présent contrat, nous intervenons non seulement pour",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 313.35
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 664.08,
+   "x1": 566.66,
+   "y1": 674.3,
+   "text": "les litiges pris en charge au titre du Chapitre 9 selon votre choix d’option, mais aussi lorsque vous êtes confrontés à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "les litiges pris en charge au titre du Chapitre 9 selon votre choix d’option, mais aussi lorsque vous êtes confrontés à",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.48
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 675.08,
+   "x1": 111.06,
+   "y1": 685.3,
+   "text": "un litige :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "un litige :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.48
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 688.35,
+   "x1": 566.66,
+   "y1": 698.57,
+   "text": "- dans le cadre de votre activité de réserviste opérationnel de la Gendarmerie nationale ou de CSTAGN au",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- dans le cadre de votre ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    },
+    {
+     "text": "activité de réserviste opérationnel de la Gendarmerie nationale ou de CSTAGN",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 203.1
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 552.75
+    },
+    {
+     "text": "au",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 556.1
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 699.35,
+   "x1": 566.66,
+   "y1": 709.57,
+   "text": "cours de l’exécution de votre service, notamment lorsque vous effectuez des tâches de police administrative,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cours de l’exécution de votre service, notamment lorsque vous effectuez des tâches de police administrative,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 710.35,
+   "x1": 566.66,
+   "y1": 720.57,
+   "text": "judiciaire ou militaire, ainsi que lorsque vous prêtez votre concours aux autorités et services publics, sur",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "judiciaire ou militaire, ainsi que lorsque vous prêtez votre concours aux autorités et services publics, sur",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 721.35,
+   "x1": 194.92,
+   "y1": 731.57,
+   "text": "réquisition de ceux-ci ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "réquisition de ceux-ci ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 734.62,
+   "x1": 566.67,
+   "y1": 744.84,
+   "text": "- au titre de votre protection pénale, lorsque vous êtes poursuivi pour contravention ou délit devant une",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- au titre de votre protection pénale, lorsque vous êtes poursuivi pour contravention ou délit devant une",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 745.62,
+   "x1": 566.65,
+   "y1": 755.84,
+   "text": "juridiction répressive, notamment dans le cadre d’infractions militaires relevant de la compétence des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "juridiction répressive, notamment dans le cadre d’infractions militaires relevant de la compétence des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 95.99,
+   "y0": 756.61,
+   "x1": 388.23,
+   "y1": 766.84,
+   "text": "juridictions de droit commun (art. 697-1 du Code de Procédure Pénale).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "juridictions de droit commun ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 95.99
+    },
+    {
+     "text": "(art. 697-1 du Code de Procédure Pénale)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 224.38
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 385.45
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 778.95,
+   "x1": 566.67,
+   "y1": 789.17,
+   "text": "En matière pénale, nous n’intervenons pas à votre profit, lorsque vous êtes poursuivi pour crime ou délit",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "En matière pénale, nous n’intervenons pas à votre profit, lorsque vous êtes poursuivi pour crime ou délit",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.48
+    }
+   ]
+  },
+  {
+   "page": 28,
+   "column": 0,
+   "x0": 70.48,
+   "y0": 789.95,
+   "x1": 270.37,
+   "y1": 800.17,
+   "text": "impliquant la volonté de causer un dommage.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "impliquant la volonté de causer un dommage.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.48
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "column": 0,
+   "x0": 414.1,
+   "y0": 35.0,
+   "x1": 567.06,
+   "y1": 47.27,
+   "text": "Lieu d’assurance - Exclusions",
+   "font": "Optima",
+   "size": 12.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Lieu d’assurance - Exclusions",
+     "font": "Optima",
+     "size": 12.0,
+     "bold": false,
+     "x0": 414.1
+    }
+   ]
+  }
+ ]
+}

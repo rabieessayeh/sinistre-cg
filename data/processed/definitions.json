@@ -1,0 +1,334 @@
+{
+ "Accessoires vestimentaires": {
+  "definition": "Chapeau, gants, écharpe, foulard, ceinture, chaussures,\nà l’exclusion des sacs, valises et autres articles de bagagerie.",
+  "page": 55
+ },
+ "Accident": {
+  "definition": "Tout événement qui est à la fois :\n- soudain et imprévu,\n- extérieur à la victime et à la chose endommagée,\n- la cause de dommages corporels ou matériels.",
+  "page": 55
+ },
+ "Agression": {
+  "definition": "Assassinat, meurtre, tentative d’assassinat ou de meurtre,\nviolence ou menace dûment établie sur une personne.",
+  "page": 55
+ },
+ "Animal domestique": {
+  "definition": "Les animaux de compagnie suivants dont la détention est\nlégalement permise : chiens autres que ceux visés à l’article\nL 211-12 et suiv. du Code rural -sauf souscription de la clause\nDOG pour les chiens de 2ème catégorie-, chats, lapins et autres\npetits rongeurs, oiseaux et poissons, à l’exclusion des N.A.C.\n(nouveaux animaux de compagnie) d’espèce non domestique.\nLes animaux de basse cour, les bovins, ovins, caprins,\nporcins et équidés, les abeilles sont également assimilés\nà des animaux domestiques dès lors que leur élevage est\nlimité aux seuls besoins privés de l’Assuré (consommation\nfamiliale ou loisirs) et que leur valeur et celle de leur\napprovisionnement (aliments, litière, fourrage) n’excèdent\npas 15 fois l’indice.",
+  "page": 55
+ },
+ "Année d’assurance": {
+  "definition": "Période de douze mois consécutifs s’écoulant entre\nchaque échéance principale annuelle.\nLa première année d’assurance commence à la date\nd’effet du contrat et prend fin à la date de la première\néchéance principale.\nLa dernière année d’assurance est comprise entre la\ndernière échéance principale et la date d’expiration ou\nde résiliation du contrat.",
+  "page": 55
+ },
+ "Année révolue": {
+  "definition": "une année est révolue lorsqu’une période de 12 mois\nplus un jour s’est écoulée. (ex. un bien acheté neuf le\n01/01/2014 a un an révolu le 02/01/2015).",
+  "page": 55
+ },
+ "Annexe": {
+  "definition": "Bâtiment distinct de l’habitation, aménagé (avec peintures\nou revêtements de murs, de sol, ou plafond, avec chauffage\néventuel), situé sur le terrain de l’habitation assurée,\n- servant de logement complémentaire, à usage exclusif\net à titre gratuit de l’occupant autorisé de l’habitation,\nde sa famille ou de ses amis.\nUne location saisonnière de l’annexe est admise si le Pack\nlocation saisonnière est souscrit ;\nou\n- comportant une installation privée de détente telle que\nspa, jacuzzi sauna, hammam, piscine, salle de fitness ou\nsalle de projection vidéo, cinéma, ou salle de musique.",
+  "page": 55
+ },
+ "Appareils à effet d’eau": {
+  "definition": "Appareils ménagers ou sanitaires, reliés au circuit de\ndistribution et d’évacuation des eaux, tels que baignoire,\nlavabo, spa, jacuzzi, hammam, évier, lave-linge,\nlave-vaisselle, radiateur…",
+  "page": 55
+ },
+ "Assuré": {
+  "definition": "Bénéficiaire des garanties accordées\nPeuvent être bénéficiaires des garanties : le souscripteur\ndu contrat ou la personne désignée comme bénéficiaire\naux Conditions particulières, son conjoint*, leurs enfants\nfiscalement à charge, toute personne autorisée résidant\nhabituellement dans les bâtiments assurés, à titre gratuit\n-sauf les préposés-.\nCette définition est modulée ou remplacée par les\ndispositions spécifiques prévues aux articles suivants :\n\u0004 l’article 13 pour la garantie Responsabilité civile Vie Privée,\n\u0004 l’article 29 pour la garantie Assurance scolaire,\n\u0004 l’article 42 pour la garantie Assistance,\n\u0004 l’article 48 pour la garantie Protection Juridique.\nEn cas de société civile immobilière, ont la qualité\nd’assuré la société propriétaire des bâtiments assurés et,\nen outre, pour les garanties de responsabilité du fait de\nl’immeuble, les porteurs de parts pris ensemble ou\nindividuellement.",
+  "page": 55
+ },
+ "Atteintes à l’environnement": {
+  "definition": "- Émission, dispersion, rejet ou dépôt de toute substance\nsolide, liquide ou gazeuse diffusée par l’atmosphère, le\nsol ou les eaux,\n- Production d’odeurs, bruits, vibrations, variations de\ntempérature, ondes, radiations, rayonnements, excédant\nla mesure des obligations ordinaires de voisinage.",
+  "page": 55
+ },
+ "Atteintes à l’environnement accidentelles": {
+  "definition": "Atteintes à l’environnement (telles que définies ci-dessus)\nqui résultent d’un événement soudain et imprévu et qui\nne se réalisent pas de façon lente, graduelle ou progressive.",
+  "page": 55
+ },
+ "Audiovisuels (appareils) – Multimédia": {
+  "definition": "tels que :\n\u0004 Téléviseur, vidéoprojecteur, lecteur ou enregistreur\nDVD, Blue-ray, CD et assimilés, home cinéma -y compris\nbarre de son, ampli, enceintes, caisson de basses-, système\nhifi, lecteur multimédia, cadre photo numérique, appareil\nphoto et camescope,\n\u0004 Ordinateur portable ou fixe -y compris ses accessoires :\nsouris, clavier, webcam, haut-parleurs -, imprimante, scanner,\ntablette tactile, console de jeux, modem et box\nmultifonction, à l’exclusion des appareils de téléphonie.",
+  "page": 55
+ },
+ "Canalisation enterrée": {
+  "definition": "Canalisation dont l’accès nécessite des travaux de\nterrassement.",
+  "page": 55
+ },
+ "Conjoint": {
+  "definition": "Époux non séparé de corps ou de fait, ou concubin au\nsens de l’article 515-8 du Code Civil, ou partenaire lié\npar un pacte civil de solidarité.",
+  "page": 55
+ },
+ "Cotisation": {
+  "definition": "Somme que le Sociétaire doit payer en contrepartie des\ngaranties accordées par le contrat.",
+  "page": 55
+ },
+ "Déchéance": {
+  "definition": "Sanction qui prive l’Assuré du bénéfice des garanties en\ncas de non respect de certaines de ses obligations après\nla survenance d’un sinistre.",
+  "page": 55
+ },
+ "Dépendance": {
+  "definition": "Tout local non aménagé c’est-à-dire dont les murs, sol et\nplafond ne comportent pas de revêtement hormis badigeon de\nchaux, sol carrelé ou peint -peinture anti poussière notamment-,\nà usage privé autre qu’habitation, situé au lieu du risque.\nToutefois dans une maison individuelle, si ce local non\naménagé est situé en dessous ou au-dessus de pièces\nd’habitation, il n’est pas à déclarer comme dépendance\net bénéficie des garanties accordées sur l’habitation.\nPar contre si le logement assuré est situé dans un\nimmeuble collectif à occupants multiples, les caves,\ngreniers, boxes ou emplacements de parking, à usage\nprivatif dudit logement, sont à déclarer comme\ndépendance.\nUn mobile home*, une caravane à poste fixe ne peuvent\nêtre considérés comme une dépendance.\nUne dépendance de moins de 50 m² ou un emplacement\nde parking, situé dans un rayon de 15 km de l’habitation\nassurée, quelles que soient sa nature de construction et\nde couverture et sa situation par rapport à des risques\naggravants, bénéficie des garanties Dépendances du\nprésent contrat.",
+  "page": 55
+ },
+ "Désaffecté (bâtiment)": {
+  "definition": "Bâtiment qui a perdu sa destination d’origine, qui ne\nremplit plus le service, le rôle qui lui était attribué.\nBâtiment vide de tout contenu et inoccupé, inutilisé,\ndepuis plus de 36 mois consécutifs.",
+  "page": 56
+ },
+ "Dommage corporel": {
+  "definition": "Toute atteinte à l’intégrité physique d’une personne.",
+  "page": 56
+ },
+ "Dommage immatériel": {
+  "definition": "Tout préjudice pécuniaire entraîné directement par la\nsurvenance de dommages matériels ou corporels garantis\net résultant :\n- de la privation de jouissance d’un droit ;\n- de l’interruption d’un service rendu par une personne,\nun bien meuble ou immeuble ;\n- de la perte d’un bénéfice.",
+  "page": 56
+ },
+ "Dommage matériel": {
+  "definition": "Toute atteinte à la structure ou à la substance des choses\nainsi qu’à l’intégrité physique des animaux.",
+  "page": 56
+ },
+ "Échéance": {
+  "definition": "Date à laquelle la cotisation est exigible.\nL’échéance principale détermine le point de départ de\nchaque période annuelle d’assurance.\nL’échéance secondaire marque le départ de l’exigibilité\nd’une fraction de la cotisation annuelle.",
+  "page": 56
+ },
+ "Effraction": {
+  "definition": "Bris ou forcement vérifiable par traces, d’un bien ou\nd’un local dont toutes les issues sont verrouillées.\nA défaut de traces, il est convenu qu'il n’y a pas effraction.",
+  "page": 56
+ },
+ "Embellissements": {
+  "definition": "Il s’agit (liste limitative) :\n- des placards et de leurs aménagements,\n- des peintures et vernis des murs et plafonds,\n- des revêtements de boiserie,\n- des revêtements collés de sols, murs et plafonds à\nl’exception des carrelages et parquets,\n- des miroirs fixés aux murs,\n- des éléments de cuisine, de salle de bains et de salle\nd’eau, fixés au sol, mur ou plafond à l’exclusion de\nl’électroménager et des appareils électriques ou\nélectroniques.",
+  "page": 56
+ },
+ "Employé de maison": {
+  "definition": "Personne, préposée du Sociétaire, effectuant à son service\ndes tâches ménagères (ménage, repassage, cuisine, et par\nassimilation, jardinage, bricolage, ainsi que toutes prestations\nentrant dans le cadre de la loi SAP “Services à la personne”\ndéfinies à l’article L 7231-1 et suiv. du Code du travail).",
+  "page": 56
+ },
+ "Événement": {
+  "definition": "Tout fait dommageable qui porte atteinte à un bien, une\npersonne ou un droit.",
+  "page": 56
+ },
+ "Facture d’achat d’origine": {
+  "definition": "Facture émanant d’un professionnel lors de l’achat initial\ndu bien assuré ; si l’Assuré a bénéficié d’un rabais, d’une\nremise ou d’un prix promotionnel, le prix du bien hors\nrabais, remise ou promotion est à retenir pour\nl’indemnisation des dommages (art. 52).\nSi l’original de cette facture ne peut être produit, un\nduplicata fourni par ce professionnel est valable.\nSi l’Assuré ne peut produire ni l’original de la facture ni\nun duplicata, une estimation du prix d’achat d’origine\ndu bien pourra être effectuée en référence au prix pratiqué\ndans le commerce pour un bien identique (consultation\nde catalogues, de sites internet…) à condition toutefois que\nl’ancienneté du bien puisse être prouvée par tout autre\nmoyen.",
+  "page": 56
+ },
+ "Fait dommageable": {
+  "definition": "Fait constituant la cause génératrice d’un dommage\ncausé à un tiers ; un ensemble de faits dommageables\nayant la même cause technique est assimilé à un fait\ndommageable unique.",
+  "page": 56
+ },
+ "Feux d’artifice d’amateurs": {
+  "definition": "Artifices de divertissement relevant des catégories 1 et 2\nvisées par le Décret 2010-455 du 4 mai 2010 modifié\npar le Décret 2012-508 du 17 avril 2012.",
+  "page": 56
+ },
+ "Fonds, titres et valeurs": {
+  "definition": "Espèces monnayées, billets de banque, chèques, mandats\npostaux et autres titres négociables, et plus généralement,\ntout document représentatif d’une valeur monétaire ou\nd’un mode de paiement (cartes bancaires, chèques restaurant,\nchèques voyage, chèques vacances, chèques loisirs, titres ou\ncartes d’abonnement de transport, timbres poste non oblitérés,\ntimbres fiscaux) ainsi que les pièces et lingots de métaux\nprécieux.",
+  "page": 56
+ },
+ "France continentale": {
+  "definition": "France métropolitaine à l’exception de la Corse.",
+  "page": 56
+ },
+ "Franchise": {
+  "definition": "Somme qui, en cas de sinistre et sans renoncer à\nl’application des limites de garanties, reste à la charge\nde l’Assuré.",
+  "page": 56
+ },
+ "Indemnité": {
+  "definition": "Versement effectué par la Société, à l’Assuré ou à un tiers,\npar suite d’un sinistre garanti, en exécution du contrat.",
+  "page": 56
+ },
+ "Indice": {
+  "definition": "Valeur destinée à actualiser les garanties, les cotisations\net les franchises. L’indice applicable au présent contrat\nest celui du coût de la construction dans la Région\nParisienne publié par la Fédération Française du Bâtiment\n(FFB) -voir art. 68-.",
+  "page": 56
+ },
+ "Inoccupation": {
+  "definition": "Période, durant laquelle les bâtiments d’habitation assurés\nne sont pas habités.\nLes bâtiments sont réputés inhabités lorsque ni vous*, ni\nun membre de votre famille, ni un de vos employés de\nmaison ou gardiens, ni une personne autorisée par vous,\nn’y demeurez pendant la nuit.\nLes périodes d’inhabitation de 3 jours consécutifs ne sont\npas prises en compte dans le calcul de l’inoccupation, et\nles périodes d’habitation de 3 jours au plus n’interrompent\npas l’inoccupation.",
+  "page": 56
+ },
+ "Irréparable (bien)": {
+  "definition": "La notion de bien irréparable s’apprécie tant d’un point\nde vue technique que d’un point de vue économique.\nElle doit être justifiée par une attestation établie par un\nprofessionnel qualifié.\nLorsque les pièces, les composants ou le savoir-faire\nnécessaires pour effectuer la remise en état du bien ne\nsont plus disponibles, le bien est considéré comme\ntechniquement irréparable.\nLorsque le montant des réparations est supérieur de plus\nde 20% à la valeur vénale* du bien au jour du sinistre,\nou à sa valeur de remplacement* au jour du sinistre, le\nbien est considéré comme économiquement irréparable.",
+  "page": 56
+ },
+ "Matériaux de construction “innovants”": {
+  "definition": "Matériaux bio-sourcés issus de la biomasse d’origine\nvégétale ou animale, tels que bois, paille, mortier et\nbéton de chanvre, lin…, panneaux de particules ou\nfibres végétales, utilisés dans la construction du bâtiment\net non pas seulement pour son isolation.\nN’est pas considérée comme “matériau innovant” la\nterre quelle que soit la technique utilisée : pisé, bauge,\nadobe, torchis…",
+  "page": 57
+ },
+ "Meuble meublant": {
+  "definition": "Mobilier garnissant le logement : chaises, tables, armoires,\ncommodes, buffets, lits, fauteuils, canapés, bibliothèque,\nbureau… à l’exclusion de tout objet de décoration,\nd’ornement.",
+  "page": 57
+ },
+ "Mobile home": {
+  "definition": "Habitation légère de loisirs ou résidence mobile de loisirs\nau sens des articles R 111-31 et R 111-33 du Code de\nl’Urbanisme, destinée à une occupation temporaire ou\nsaisonnière à usage de loisir dans les conditions définies\npar le Code précité.\nLes caravanes, qu’elles conservent ou non leur mobilité,\nne sont pas considérées comme des mobile homes au\nsens du présent contrat et doivent être garanties par un\ncontrat spécifique caravane.\nLes cabanes dans les arbres ne sont pas considérées\ncomme des mobile homes.",
+  "page": 57
+ },
+ "Multimédia (appareils)": {
+  "definition": "voir Audiovisuels",
+  "page": 57
+ },
+ "Nullité": {
+  "definition": "Sanction qui prive l’Assuré de tout droit à garantie\npuisque le contrat est réputé n’avoir  jamais existé. Les\ncotisations restent acquises à la Société à titre de\ndommages et intérêts.",
+  "page": 57
+ },
+ "Objets d’art": {
+  "definition": "Tableaux, peintures, dessins, gravures, lithographies,\ntapisseries, sculptures, ivoires, statuettes, céramiques,\nvases, luminaires.",
+  "page": 57
+ },
+ "Objets de valeur": {
+  "definition": "voir art. 2-1-B",
+  "page": 57
+ },
+ "Objets/Biens précieux": {
+  "definition": "voir art. 2-1-C",
+  "page": 57
+ },
+ "Panneau solaire": {
+  "definition": "Dispositif destiné à récupérer une partie de l’énergie du\nrayonnement solaire pour la convertir en une forme\nd’énergie (électrique ou thermique) utilisable par l’homme :\n\u0004 les panneaux solaires thermiques (ou capteurs solaires)\nconvertissent la lumière en chaleur, récupérée et utilisée\nsous forme d’eau chaude ;\n\u0004 les panneaux solaires photovoltaïques (ou modules\nphotovoltaïques ou films photovoltaïques) convertissent la\nlumière en électricité.",
+  "page": 57
+ },
+ "Paquetage": {
+  "definition": "Ensemble des objets et des effets d’équipement d’un\ngendarme et assimilé, en dotation.",
+  "page": 57
+ },
+ "Particularité architecturale": {
+  "definition": "Maison troglodyte, moulin à vent ou à eau, bâtiment\ncomportant des tourelles, clochetons, cheminées\nmonumentales, des sculptures sur façades ou autres\nmurs, des plafonds à caissons, des boiseries sculptées,\ndes murs de plus de 50 cm d’épaisseur, des façades ou\ndes toitures végétalisées...",
+  "page": 57
+ },
+ "Pièce principale": {
+  "definition": "Toute pièce d’habitation ou aménagée comme telle, supérieure\nà 7 m² quelle que soit la hauteur sous plafond -y compris\nmezzanine-, autre que les pièces de service (tels que cuisines\nde moins de 15 m², salles d’eau, cabinets d’aisance, buanderies,\ndébarras, séchoirs) et les dégagements (couloir, entrée).\n\u0004 Pour une pièce comportant une cuisine ouverte sur la\nsalle à manger/salon (dite “cuisine américaine”), il convient\nde tenir compte de la surface totale de la pièce.\n\u0004 Pour toute pièce principale supérieure à 40 m², il\nconvient de décompter autant de pièces qu’il y a de\ntranches de 40 m² (ex : 100 m² = 3 pièces).\n\u0004 Impacte également l’appréciation du risque et le calcul\nde la cotisation en découlant, la présence :\n• d’une véranda de plus de 7 m² au sol,\n• d’une (ou d’) annexe(s) servant de logement\ncomplémentaire ou d’espace de détente,\n• d’un spa, d’un jacuzzi, d’un hammam, d’un sauna\ndans une salle de bains,\n• d’une piscine intérieure dans une pièce principale\nou une véranda ou une annexe,\n• d’un bureau à usage professionnel.",
+  "page": 57
+ },
+ "Préavis": {
+  "definition": "Délai qui doit s’écouler entre la notification de la\nrésiliation du contrat et la prise d’effet de celle-ci.",
+  "page": 57
+ },
+ "Prescription": {
+  "definition": "Période au-delà de laquelle aucune réclamation n’est\nplus recevable.\nVoir article 64",
+  "page": 57
+ },
+ "Prix du marché": {
+  "definition": "Prix résultant de la confrontation de l’offre et de la\ndemande pour un produit déterminé.",
+  "page": 57
+ },
+ "Qualité": {
+  "definition": "La qualité en laquelle souscrit l’Assuré vis-à-vis des biens\ngarantis ou des bâtiments renfermant les biens garantis :\n\u0004 occupant : l’Assuré occupe tout ou partie des bâtiments\ngarantis ou renfermant les biens garantis ;\n\u0004 non occupant : l’Assuré n’occupe pas les bâtiments garantis.",
+  "page": 57
+ },
+ "Rebut (biens au rebut)": {
+  "definition": "Biens n’ayant plus de valeur marchande.",
+  "page": 57
+ },
+ "Règles de l’Art": {
+  "definition": "Règles de construction définies par les règlements en\nvigueur, documents techniques unifiés, recommandations\nprofessionnelles ou normes établies par les organismes\ncompétents à caractère officiel.",
+  "page": 57
+ },
+ "Renonciation à recours": {
+  "definition": "Abandon de la possibilité d’exercer un recours.",
+  "page": 57
+ },
+ "Réparable (bien)": {
+  "definition": "Lorsqu’un bien n’est ni techniquement ni économiquement\nirréparable* (voir définition ci-avant), il est considéré comme\nréparable.",
+  "page": 57
+ },
+ "Résidence principale": {
+  "definition": "Lieu habituel et effectif d’habitation de l’Assuré qui, le\nplus souvent, est son domicile (au sens des art. 102 et\nsuivants du Code Civil).",
+  "page": 57
+ },
+ "Résidence secondaire": {
+  "definition": "Habitation dont l’Assuré a la jouissance, autre que sa\nrésidence principale.",
+  "page": 58
+ },
+ "Résiliation": {
+  "definition": "Cessation des effets du contrat.",
+  "page": 58
+ },
+ "Serrure de sûreté": {
+  "definition": "Serrure certifiée A2P.",
+  "page": 58
+ },
+ "Services à la personne (“loi SAP”)": {
+  "definition": "Au sens du Titre III du livre II de la partie VII du Code du\nTravail (art. L 7231-1 et suiv.).",
+  "page": 58
+ },
+ "Sinistre": {
+  "definition": "Toutes les conséquences d’un même événement causant\ndes dommages pouvant entraîner l’application des\ngaranties du contrat.",
+  "page": 58
+ },
+ "Sinistre total pour un bâtiment": {
+  "definition": "Un bâtiment est considéré comme totalement sinistré\nlorsque les parties restantes, autres que les fondations,\nne peuvent plus être utilisées pour la réfection. En cas de\nlitige, il sera admis que tel sera le cas lorsque le coût de\nla réfection est supérieur à 70 % de la valeur de\nreconstruction du bâtiment, vétusté* déduite.",
+  "page": 58
+ },
+ "Sociétaire": {
+  "definition": "Le souscripteur du contrat, ou la personne désignée sous\nce nom aux Conditions particulières ou toute personne\nqui lui serait substituée pour l’exécution du contrat.",
+  "page": 58
+ },
+ "Société": {
+  "definition": "Votre Assureur (désigné également par “NOUS”)\nMutuelle de Poitiers Assurances,\nBP 80000 - 86066 Poitiers Cedex 9\nSociété d’assurance mutuelle à cotisations variables.\nEntreprise privée régie par le Code des Assurances.",
+  "page": 58
+ },
+ "Stage d’études": {
+  "definition": "Période d’études pendant laquelle l’Assuré exerce une\nactivité temporaire dans une entreprise en vue de sa\nformation et faisant l’objet d’une convention de stage à\nl’exclusion des stages effectués dans le cadre d’un\ncontrat de travail tels que les contrats d’apprentissage\nou les contrats d’alternance.",
+  "page": 58
+ },
+ "Subrogation": {
+  "definition": "Substitution dans un rapport juridique d’une personne à\nune autre. Dans la limite des indemnités qu’elle a réglées,\nla Société est substituée à l’Assuré dans ses droits à\npoursuivre la personne responsable des dommages assurés.",
+  "page": 58
+ },
+ "Surcoût architectural": {
+  "definition": "Coût nécessaire à la remise en état de bâtiments assurés\ndans leur apparence originale -voir clause 25 art. 70-",
+  "page": 58
+ },
+ "Surface au sol": {
+  "definition": "Dans le calcul de la surface au sol, il convient de ne pas\ntenir compte de l’épaisseur des murs.\nIl est toléré une erreur de 10 % maximum.",
+  "page": 58
+ },
+ "Suspension de garantie": {
+  "definition": "Cessation provisoire des garanties du contrat.",
+  "page": 58
+ },
+ "Téléphonie (appareils de)": {
+  "definition": "Téléphone fixe ou mobile, téléphone portable, smartphone,\nphablette.",
+  "page": 58
+ },
+ "Tentative de Vol": {
+  "definition": "Commencement d’exécution d’un vol, caractérisé par\nun faisceau d’indices suffisamment précis et concordants,\nrendant vraisemblable l’intention des voleurs et constitués\nnotamment de traces matérielles.",
+  "page": 58
+ },
+ "Tiers": {
+  "definition": "Toute personne autre que l’Assuré, ses préposés et associés\ndans l’exercice de leurs fonctions et, lorsque l’Assuré est\nune personne morale, autre que le président, les\nadministrateurs, directeurs et gérants de la société assurée.",
+  "page": 58
+ },
+ "Valeur de reconstruction": {
+  "definition": "Coût, au jour du sinistre, des matériaux et de la main\nd’œuvre nécessaires à la reconstruction (ou la réparation)\ndu bâtiment selon les techniques actuelles, sans tenir\ncompte d’un quelconque caractère historique ou\nartistique, de particularités architecturales*, ni en cas\nde sinistre total*, de la présence de murs d’une épaisseur\nsupérieure à 50 cm (sauf souscription de la clause 25\n-surcoût architectural-).",
+  "page": 58
+ },
+ "Valeur de remplacement": {
+  "definition": "Valeur d’un bien neuf, de nature, qualités et performances\ncomparables, établie selon les prix du commerce au\njour du sinistre.\nPour les appareils audio visuels* et de téléphonie*, c’est\nle prix dans le commerce d’un matériel de nature et\nqualités comparables même si le service rendu est\nsupérieur du fait de l’évolution technologique.\nPour les meubles et objets dont la valeur n’est pas réduite\npar leur ancienneté -autres que objets de valeur et biens\nprécieux-, c’est le prix pratiqué par des professionnels\nqualifiés (antiquaires, commissaires priseurs…).",
+  "page": 58
+ },
+ "Valeur vénale": {
+  "definition": "Valeur de vente d’un bâtiment, au jour du sinistre,\naugmentée des frais de déblais et de démolition et\ndiminuée de la valeur du terrain nu.\nPrix du marché* auquel un bien mobilier peut être vendu\nau jour du sinistre.",
+  "page": 58
+ },
+ "Vandalisme": {
+  "definition": "Dommage matériel causé sans autre mobile que celui\nde détériorer ou de détruire, autre que ceux visés par les\narticles 421-1 et 421-2 du Code Pénal.",
+  "page": 58
+ },
+ "Véranda": {
+  "definition": "Pièce attenant à l’habitation dont le toit est entièrement\nvitré (produits verriers traditionnels ou produits plastiques\nsimilaires) et ayant au moins une paroi vitrée donnant\nvers l’extérieur.",
+  "page": 58
+ },
+ "Vétusté": {
+  "definition": "Dépréciation d’un bien résultant du temps, de l’usage et\nde son état d’entretien.\nPour les bâtiments, elle est appréciée par corps de métier :\nmaçonnerie, plâtrerie, charpente, menuiserie, peinture,\nélectricité… Elle est exprimée en pourcentage du coût de\nreconstruction de chaque élément.\nPour les biens mobiliers, elle est exprimée en pourcentage\nde leur valeur de remplacement*.",
+  "page": 58
+ },
+ "Violence": {
+  "definition": "Usage ou menace réelle de l’usage de la force contre le\ngré de l’Assuré ou d’une personne de son entourage\ndans le but de nuire.",
+  "page": 58
+ },
+ "Vitre": {
+  "definition": "Élément en produit verrier ou en matière plastique\ntranslucide (par exemple : polycarbonate).",
+  "page": 58
+ },
+ "Vol": {
+  "definition": "Soustraction frauduleuse de la chose d’autrui (art. 311-1\ndu Code Pénal).\nNe sont pas considérés comme vol, l’escroquerie (art. 313-1\ndu Code Pénal) et l’abus de confiance (art. 314-1 dudit Code).",
+  "page": 58
+ },
+ "Vous": {
+  "definition": "Le souscripteur du contrat et/ou l’Assuré*",
+  "page": 58
+ }
+}

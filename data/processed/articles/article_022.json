@@ -1,0 +1,1363 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_22",
+ "numero": "22",
+ "titre": "FRAIS ANNEXES",
+ "chapitre": {
+  "numero": 4,
+  "titre": "LES GARANTIES COMPLÉMENTAIRES"
+ },
+ "page_debut": 16,
+ "page_fin": 17,
+ "pages": [
+  16,
+  17
+ ],
+ "texte": "Nous garantissons, sauf en cas de catastrophes naturelles ou technologiques articles 10 et 11, dans les limites\nprévues aux conditions particulières :\n\u0003 les honoraires d’expert et les frais de devis que vous avez engagés à la suite d’un sinistre garanti. L’indemnité\nservant d’assiette au calcul de la sous limite “honoraires d’expert” s’entend hors “Frais Annexes” tels que visés au\nprésent article 22 et hors honoraires de l’architecte reconstructeur ;\n\u0003 les frais de déplacement, relogement et entrepôt de tous objets mobiliers dans le cas où ce déplacement est\nindispensable pour effectuer au bâtiment les réparations nécessitées par un sinistre garanti ;\n\u0003 le remboursement de la cotisation “Dommages Ouvrage”, assurance obligatoire instituée par les articles L 242-1\net L 242-2 du Code afférente à des travaux de bâtiments rendus nécessaires par la survenance d’un sinistre garanti,\nsur justification du paiement de ladite cotisation ;\n\u0003 les frais de décontamination, c’est-à-dire les frais de destruction ou de neutralisation avant mise en décharge des\nbiens assurés contaminés par une substance toxique à la suite d'un sinistre garanti autre qu’un attentat au sens de\nl’article L 126-2 du Code, imposée par la législation ou la réglementation, ainsi qu’aux frais de transport,\néventuellement jusqu’aux lieux désignés par les Pouvoirs Publics pour l’accomplissement de ce traitement ou pour\nune mise en décharge ;\nLes frais de décontamination consécutifs à un attentat au sens de l’article L 126-2 du Code sont compris dans\nl’estimation des biens assurés -voir chapitre 11-.\n\u0003 les frais exposés à la suite des mesures conservatoires imposées par décision administrative après un sinistre\ngaranti ;\n\u0003 les frais de mise en conformité, c’est-à-dire les frais nécessités par une mise en conformité avec la législation et la\nréglementation en matière de construction en cas de reconstruction ou de réparation des bâtiments assurés à la suite\nd’un sinistre garanti.\nLes Garanties complémentaires\nCes frais ne sont pas dus :\n- si vous aviez été, préalablement au sinistre, mis en demeure par les autorités compétentes d’exécuter lesdits\ntravaux de mise en conformité,\n- si une disposition réglementaire ou législative vous imposait d’exécuter les travaux de mise en conformité\ndans un délai donné, indépendamment de tout sinistre,\n- si vous étiez dispensé d’exécuter lesdits travaux de mise en conformité, au bénéfice d’une dérogation\naccordée par les autorités compétentes et non reconduite après le sinistre, alors que les textes légaux ou\nréglementaires sont restés inchangés ;\n\u0003 les honoraires de décorateurs, de bureaux d’études, de contrôle technique et d’ingénierie, dont l’intervention\nserait nécessaire, à dire d’expert, à la reconstruction ou à la réparation des biens sinistrés ;\n\u0003 les pertes financières sur les aménagements que vous avez réalisés en tant que locataire ou occupant, lorsque\nces aménagements deviennent la propriété du bailleur dès lors que, par le fait d’un sinistre garanti, il y a résiliation\nde plein droit du bail ou cessation de l’occupation ou, en cas de continuation du bail ou de l’occupation, refus du\npropriétaire de reconstituer les aménagements tels qu’ils existaient au moment du sinistre ;\n\u0003 les pertes indirectes, c’est-à-dire, sur justificatifs, le remboursement des frais et pertes que vous avez supportés à\nla suite d’un sinistre garanti.\nCette garantie ne s’applique pas aux biens indemnisés en Valeur à neuf ou en Remplacement à neuf (art. 31), elle ne\ncompense pas une exclusion, une franchise ou une éventuelle absence ou insuffisance de garantie.\nEn cas de catastrophes technologiques (art. 11) est garanti le remboursement total des frais de pompage, désinfection,\ndécontamination et nettoyage rendus nécessaires à l’habitabilité du logement assuré ainsi que les frais relatifs à la\ncotisation dommages-ouvrage en cas de reconstruction.",
+ "lignes": [
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 531.09,
+   "x1": 565.77,
+   "y1": 541.31,
+   "text": "Nous garantissons, sauf en cas de catastrophes naturelles ou technologiques articles 10 et 11, dans les limites",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Nous garantissons",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.88
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 151.76
+    },
+    {
+     "text": "sauf en cas de catastrophes naturelles ou technologiques",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 158.58
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 414.11
+    },
+    {
+     "text": "articles 10 et 11, dans les limites",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 418.15
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 542.59,
+   "x1": 232.5,
+   "y1": 552.81,
+   "text": "prévues aux conditions particulières :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "prévues aux conditions particulières :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 556.45,
+   "x1": 565.77,
+   "y1": 567.14,
+   "text": "\u0003 les honoraires d’expert et les frais de devis que vous avez engagés à la suite d’un sinistre garanti. L’indemnité",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.44
+    },
+    {
+     "text": "les ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.09
+    },
+    {
+     "text": "honoraires d’expert",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 96.41
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 182.33
+    },
+    {
+     "text": "et les frais de devis que vous avez engagés à la suite d’un sinistre garanti. ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 185.98
+    },
+    {
+     "text": "L’indemnité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 515.01
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 568.42,
+   "x1": 565.79,
+   "y1": 578.64,
+   "text": "servant d’assiette au calcul de la sous limite “honoraires d’expert” s’entend hors “Frais Annexes” tels que visés au",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "servant d’assiette au calcul de la sous limite “honoraires d’expert” s’entend hors “Frais Annexes” tels que visés au",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.88
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 579.92,
+   "x1": 368.24,
+   "y1": 590.14,
+   "text": "présent article 22 et hors honoraires de l’architecte reconstructeur ;",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "présent article 22 et hors honoraires de l’architecte reconstructeur ;",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.88
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 593.78,
+   "x1": 565.76,
+   "y1": 604.47,
+   "text": "\u0003 les frais de déplacement, relogement et entrepôt de tous objets mobiliers dans le cas où ce déplacement est",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.44
+    },
+    {
+     "text": "les frais de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.37
+    },
+    {
+     "text": "déplacement",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 133.06
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 189.18
+    },
+    {
+     "text": "relogement et entrepôt",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 195.89
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 298.52
+    },
+    {
+     "text": "de tous objets mobiliers dans le cas où ce déplacement est",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 302.46
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 605.75,
+   "x1": 464.01,
+   "y1": 615.97,
+   "text": "indispensable pour effectuer au bâtiment les réparations nécessitées par un sinistre garanti ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "indispensable pour effectuer au bâtiment les réparations nécessitées par un sinistre garanti ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 619.61,
+   "x1": 565.76,
+   "y1": 630.3,
+   "text": "\u0003 le remboursement de la cotisation “Dommages Ouvrage”, assurance obligatoire instituée par les articles L 242-1",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    },
+    {
+     "text": " le ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.44
+    },
+    {
+     "text": "remboursement de la cotisation “Dommages Ouvrage”",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 90.68
+    },
+    {
+     "text": ", assurance obligatoire instituée par les articles L 242-1",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 330.07
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 631.58,
+   "x1": 565.77,
+   "y1": 641.8,
+   "text": "et L 242-2 du Code afférente à des travaux de bâtiments rendus nécessaires par la survenance d’un sinistre garanti,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et L 242-2 du Code afférente à des travaux de bâtiments rendus nécessaires par la survenance d’un sinistre garanti,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 643.08,
+   "x1": 284.21,
+   "y1": 653.3,
+   "text": "sur justification du paiement de ladite cotisation ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "sur justification du paiement de ladite cotisation ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.88,
+   "y0": 656.94,
+   "x1": 565.76,
+   "y1": 667.63,
+   "text": "\u0003 les frais de décontamination, c’est-à-dire les frais de destruction ou de neutralisation avant mise en décharge des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.88
+    },
+    {
+     "text": " les ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.44
+    },
+    {
+     "text": "frais de décontamination",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 94.81
+    },
+    {
+     "text": ", c’est-à-dire les frais de destruction ou de neutralisation avant mise en décharge des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 203.4
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 668.91,
+   "x1": 565.76,
+   "y1": 679.13,
+   "text": "biens assurés contaminés par une substance toxique à la suite d'un sinistre garanti autre qu’un attentat au sens de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "biens assurés contaminés par une substance toxique à la suite d'un sinistre garanti ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "autre qu’un attentat au sens de",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 429.74
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 680.41,
+   "x1": 565.76,
+   "y1": 690.63,
+   "text": "l’article L 126-2 du Code, imposée par la législation ou la réglementation, ainsi qu’aux frais de transport,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’article L 126-2 du Code",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 71.87
+    },
+    {
+     "text": ", imposée par la législation ou la réglementation, ainsi qu’aux frais de transport,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 191.51
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 691.91,
+   "x1": 565.76,
+   "y1": 702.13,
+   "text": "éventuellement jusqu’aux lieux désignés par les Pouvoirs Publics pour l’accomplissement de ce traitement ou pour",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "éventuellement jusqu’aux lieux désignés par les Pouvoirs Publics pour l’accomplissement de ce traitement ou pour",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 703.41,
+   "x1": 171.72,
+   "y1": 713.63,
+   "text": "une mise en décharge ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "une mise en décharge ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 716.33,
+   "x1": 565.76,
+   "y1": 726.55,
+   "text": "Les frais de décontamination consécutifs à un attentat au sens de l’article L 126-2 du Code sont compris dans",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les frais de décontamination consécutifs à un attentat au sens de l’article L 126-2 du Code sont compris dans",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 727.83,
+   "x1": 270.78,
+   "y1": 738.06,
+   "text": "l’estimation des biens assurés -voir chapitre 11-.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "l’estimation des biens assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": "-voir chapitre 11-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 200.81
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 268.0
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 741.7,
+   "x1": 565.76,
+   "y1": 752.39,
+   "text": "\u0003 les frais exposés à la suite des mesures conservatoires imposées par décision administrative après un sinistre",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.43
+    },
+    {
+     "text": "les frais exposés à la suite des ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.53
+    },
+    {
+     "text": "mesures conservatoires",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 220.67
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 323.02
+    },
+    {
+     "text": "imposées par décision administrative après un sinistre",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 327.1
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 753.67,
+   "x1": 106.76,
+   "y1": 763.89,
+   "text": "garanti ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "garanti ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 767.53,
+   "x1": 565.76,
+   "y1": 778.22,
+   "text": "\u0003 les frais de mise en conformité, c’est-à-dire les frais nécessités par une mise en conformité avec la législation et la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    },
+    {
+     "text": " les frais de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.43
+    },
+    {
+     "text": "mise en conformité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 127.91
+    },
+    {
+     "text": ", c’est-à-dire les frais nécessités par une mise en conformité avec la législation et la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 211.93
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 779.5,
+   "x1": 565.76,
+   "y1": 789.72,
+   "text": "réglementation en matière de construction en cas de reconstruction ou de réparation des bâtiments assurés à la suite",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "réglementation en matière de construction en cas de reconstruction ou de réparation des bâtiments assurés à la suite",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 71.87,
+   "y0": 791.0,
+   "x1": 159.01,
+   "y1": 801.22,
+   "text": "d’un sinistre garanti.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "d’un sinistre garanti.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 71.87
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 399.72,
+   "y0": 35.0,
+   "x1": 563.32,
+   "y1": 47.27,
+   "text": "Les Garanties complémentaires",
+   "font": "Optima",
+   "size": 12.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les Garanties complémentaires",
+     "font": "Optima",
+     "size": 12.0,
+     "bold": false,
+     "x0": 399.72
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 73.1,
+   "x1": 184.14,
+   "y1": 83.32,
+   "text": "Ces frais ne sont pas dus :",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Ces frais ne sont pas dus :",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 87.43,
+   "x1": 565.49,
+   "y1": 97.65,
+   "text": "- si vous aviez été, préalablement au sinistre, mis en demeure par les autorités compétentes d’exécuter lesdits",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- si vous aviez été, préalablement au sinistre, mis en demeure par les autorités compétentes d’exécuter lesdits",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 98.93,
+   "x1": 221.76,
+   "y1": 109.15,
+   "text": "travaux de mise en conformité,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "travaux de mise en conformité,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 113.26,
+   "x1": 565.49,
+   "y1": 123.48,
+   "text": "- si une disposition réglementaire ou législative vous imposait d’exécuter les travaux de mise en conformité",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- si une disposition réglementaire ou législative vous imposait d’exécuter les travaux de mise en conformité",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 124.76,
+   "x1": 326.5,
+   "y1": 134.98,
+   "text": "dans un délai donné, indépendamment de tout sinistre,",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "dans un délai donné, indépendamment de tout sinistre,",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 139.09,
+   "x1": 565.49,
+   "y1": 149.31,
+   "text": "- si vous étiez dispensé d’exécuter lesdits travaux de mise en conformité, au bénéfice d’une dérogation",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "- si vous étiez dispensé d’exécuter lesdits travaux de mise en conformité, au bénéfice d’une dérogation",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 150.59,
+   "x1": 565.48,
+   "y1": 160.81,
+   "text": "accordée par les autorités compétentes et non reconduite après le sinistre, alors que les textes légaux ou",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "accordée par les autorités compétentes et non reconduite après le sinistre, alors que les textes légaux ou",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 86.52,
+   "y0": 162.09,
+   "x1": 251.2,
+   "y1": 172.31,
+   "text": "réglementaires sont restés inchangés ;",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "réglementaires sont restés inchangés ;",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 86.52
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 178.79,
+   "x1": 565.48,
+   "y1": 189.48,
+   "text": "\u0003 les honoraires de décorateurs, de bureaux d’études, de contrôle technique et d’ingénierie, dont l’intervention",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.91
+    },
+    {
+     "text": "les honoraires de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.55
+    },
+    {
+     "text": "décorateurs",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 160.15
+    },
+    {
+     "text": ", de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 211.53
+    },
+    {
+     "text": "bureaux d’études",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 232.15
+    },
+    {
+     "text": ", de ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 307.92
+    },
+    {
+     "text": "contrôle technique",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 328.54
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 412.09
+    },
+    {
+     "text": "et d’",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 415.72
+    },
+    {
+     "text": "ingénierie",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 435.48
+    },
+    {
+     "text": ", dont l’intervention",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 478.83
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 190.76,
+   "x1": 459.47,
+   "y1": 200.98,
+   "text": "serait nécessaire, à dire d’expert, à la reconstruction ou à la réparation des biens sinistrés ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "serait nécessaire, à dire d’expert, à la reconstruction ou à la réparation des biens sinistrés ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 204.62,
+   "x1": 565.47,
+   "y1": 215.31,
+   "text": "\u0003 les pertes financières sur les aménagements que vous avez réalisés en tant que locataire ou occupant, lorsque",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.91
+    },
+    {
+     "text": "les ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 81.18
+    },
+    {
+     "text": "pertes financières sur les aménagements",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 96.12
+    },
+    {
+     "text": " ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 273.38
+    },
+    {
+     "text": "que vous avez réalisés en tant que locataire ou occupant",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 276.65
+    },
+    {
+     "text": ", lorsque",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 527.73
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 216.59,
+   "x1": 565.47,
+   "y1": 226.81,
+   "text": "ces aménagements deviennent la propriété du bailleur dès lors que, par le fait d’un sinistre garanti, il y a résiliation",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "ces aménagements deviennent la propriété du bailleur dès lors que, par le fait d’un sinistre garanti, il y a résiliation",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.34
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 228.09,
+   "x1": 565.48,
+   "y1": 238.31,
+   "text": "de plein droit du bail ou cessation de l’occupation ou, en cas de continuation du bail ou de l’occupation, refus du",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "de plein droit du bail ou cessation de l’occupation ou, en cas de continuation du bail ou de l’occupation, refus du",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.34
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 239.59,
+   "x1": 461.36,
+   "y1": 249.81,
+   "text": "propriétaire de reconstituer les aménagements tels qu’ils existaient au moment du sinistre ;",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "propriétaire de reconstituer les aménagements tels qu’ils existaient au moment du sinistre ;",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.34
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 253.45,
+   "x1": 565.47,
+   "y1": 264.14,
+   "text": "\u0003 les pertes indirectes, c’est-à-dire, sur justificatifs, le remboursement des frais et pertes que vous avez supportés à",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0003",
+     "font": "EuropeanPi-Three",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.34
+    },
+    {
+     "text": " les ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.9
+    },
+    {
+     "text": "pertes indirectes",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 95.45
+    },
+    {
+     "text": ", c’est-à-dire, sur justificatifs, le remboursement des frais et pertes que vous avez supportés à",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 167.72
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 265.42,
+   "x1": 192.83,
+   "y1": 275.64,
+   "text": "la suite d’un sinistre garanti.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la suite d’un sinistre garanti.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.34
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 279.75,
+   "x1": 565.47,
+   "y1": 290.0,
+   "text": "Cette garantie ne s’applique pas aux biens indemnisés en Valeur à neuf ou en Remplacement à neuf (art. 31), elle ne",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Cette garantie ne s’applique pas aux biens indemnisés en Valeur à neuf ou en Remplacement à neuf ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.34
+    },
+    {
+     "text": "(art. 31)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 501.95
+    },
+    {
+     "text": ", ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 531.67
+    },
+    {
+     "text": "elle ne",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 536.9
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 291.28,
+   "x1": 500.39,
+   "y1": 301.5,
+   "text": "compense pas une exclusion, une franchise ou une éventuelle absence ou insuffisance de garantie.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "compense pas une exclusion, une franchise ou une éventuelle absence ou insuffisance de garantie.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.34
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.34,
+   "y0": 305.61,
+   "x1": 565.48,
+   "y1": 315.83,
+   "text": "En cas de catastrophes technologiques (art. 11) est garanti le remboursement total des frais de pompage, désinfection,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "En cas de catastrophes technologiques",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.34
+    },
+    {
+     "text": " (art. 11)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 236.63
+    },
+    {
+     "text": " est garanti le remboursement total des frais de pompage, désinfection,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 268.4
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 317.11,
+   "x1": 565.48,
+   "y1": 327.33,
+   "text": "décontamination et nettoyage rendus nécessaires à l’habitabilité du logement assuré ainsi que les frais relatifs à la",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "décontamination et nettoyage rendus nécessaires à l’habitabilité du logement assuré ainsi que les frais relatifs à la",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  },
+  {
+   "page": 17,
+   "column": 0,
+   "x0": 72.35,
+   "y0": 328.61,
+   "x1": 311.75,
+   "y1": 338.83,
+   "text": "cotisation dommages-ouvrage en cas de reconstruction.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "cotisation dommages-ouvrage en cas de reconstruction.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.35
+    }
+   ]
+  }
+ ]
+}

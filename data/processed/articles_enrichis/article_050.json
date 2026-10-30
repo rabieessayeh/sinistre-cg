@@ -1,0 +1,659 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_50",
+ "numero": "50",
+ "titre": "FIXATION DES DOMMAGES - EXPERTISE - SAUVETAGE",
+ "chapitre": {
+  "numero": 11,
+  "titre": "MISE EN ŒUVRE DES GARANTIES"
+ },
+ "page_debut": 43,
+ "page_fin": 43,
+ "pages": [
+  43
+ ],
+ "texte": "1- LE PRINCIPE\nLes dommages sont estimés en fonction des prix en vigueur au jour du sinistre.\nLe montant des dommages est fixé à l’amiable de gré à gré entre vous et nous.\n2- L’EXPERTISE\n\u0004 En cas de complexité technique dans l’appréciation des dommages, nous pouvons missionner un expert. En cas de\ndivergence avec nous sur le montant total de l’indemnité, vous avez la possibilité de vous faire assister par un expert,\net ce, préalablement à tout recours aux tribunaux.\n\u0004 A défaut d’accord entre les deux experts, ceux-ci s’adjoignent un troisième expert et tous trois opèrent en commun\net à la majorité des voix.\n\u0004 Faute par l’un d’entre nous de nommer un expert ou par les deux experts de s’entendre sur le choix du troisième,\nla désignation est effectuée par le Président du Tribunal de Grande Instance du lieu du sinistre sur simple requête\nsignée par vous et par nous ou seulement par l’un des deux si l’autre a été convoqué par lettre recommandée.\n\u0004 Chacun paie les frais et honoraires de son expert et, s’il y a lieu, la moitié de ceux du troisième et des frais de sa\nnomination (les frais vous incombant peuvent, selon la formule souscrite, être pris en charge au titre de l’article 22).\n3- LE SAUVETAGE\nVous ne pouvez faire aucun délaissement des objets assurés (art. L121-14 du Code). Le sauvetage endommagé,\ncomme le sauvetage intact, reste votre propriété, même en cas de contestation sur sa valeur.\n4- MONTANT DE L’INDEMNITÉ\nL’indemnité est égale au montant des dommages estimé comme indiqué ci-après aux articles 51 et 52, réduite le cas\néchéant de :\n- la taxe à la valeur ajoutée lorsque vous la récupérez,\n- la réduction proportionnelle d’indemnité prévue à l’article 59,\n- la franchise prévue aux Conditions particulières.\nL’indemnité due ne peut en aucun cas excéder les plafonds de garantie prévu aux Conditions particulières.",
+ "lignes": [
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 76.43,
+   "y0": 211.2,
+   "x1": 144.22,
+   "y1": 221.42,
+   "text": "1- LE PRINCIPE",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "1-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": " LE PRINCIPE",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.32
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 223.62,
+   "x1": 408.78,
+   "y1": 233.84,
+   "text": "Les dommages sont estimés en fonction des prix en vigueur au jour du sinistre.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les dommages sont estimés en fonction des prix en vigueur au jour du sinistre.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 236.04,
+   "x1": 406.35,
+   "y1": 246.26,
+   "text": "Le montant des dommages est fixé à l’amiable de gré à gré entre vous et nous.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Le montant des dommages est fixé ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "à l’amiable",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 221.47
+    },
+    {
+     "text": " de gré à gré entre vous et nous.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 269.26
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 76.43,
+   "y0": 254.04,
+   "x1": 141.45,
+   "y1": 264.26,
+   "text": "2- L’EXPERTISE",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "2-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": " L’EXPERTISE",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.32
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 267.87,
+   "x1": 566.36,
+   "y1": 278.09,
+   "text": "\u0004 En cas de complexité technique dans l’appréciation des dommages, nous pouvons missionner un expert. En cas de",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " En cas de complexité technique dans l’appréciation des dommages, nous pouvons missionner un expert. En cas de",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 278.87,
+   "x1": 566.36,
+   "y1": 289.09,
+   "text": "divergence avec nous sur le montant total de l’indemnité, vous avez la possibilité de vous faire assister par un expert,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "divergence avec nous sur le montant total de l’indemnité, vous avez la possibilité de vous faire assister par un expert,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 289.87,
+   "x1": 285.39,
+   "y1": 300.09,
+   "text": "et ce, préalablement à tout recours aux tribunaux.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et ce, préalablement à tout recours aux tribunaux.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 303.71,
+   "x1": 566.35,
+   "y1": 313.93,
+   "text": "\u0004 A défaut d’accord entre les deux experts, ceux-ci s’adjoignent un troisième expert et tous trois opèrent en commun",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " A défaut d’accord entre les deux experts, ceux-ci s’adjoignent un troisième expert et tous trois opèrent en commun",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 314.71,
+   "x1": 176.28,
+   "y1": 324.93,
+   "text": "et à la majorité des voix.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "et à la majorité des voix.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 328.54,
+   "x1": 566.35,
+   "y1": 338.76,
+   "text": "\u0004 Faute par l’un d’entre nous de nommer un expert ou par les deux experts de s’entendre sur le choix du troisième,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " Faute par l’un d’entre nous de nommer un expert ou par les deux experts de s’entendre sur le choix du troisième,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 339.54,
+   "x1": 566.36,
+   "y1": 349.76,
+   "text": "la désignation est effectuée par le Président du Tribunal de Grande Instance du lieu du sinistre sur simple requête",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "la désignation est effectuée par le Président du Tribunal de Grande Instance du lieu du sinistre sur simple requête",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.86,
+   "y0": 350.54,
+   "x1": 542.22,
+   "y1": 360.76,
+   "text": "signée par vous et par nous ou seulement par l’un des deux si l’autre a été convoqué par lettre recommandée.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "signée par vous et par nous ou seulement par l’un des deux si l’autre a été convoqué par lettre recommandée.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.86
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 364.38,
+   "x1": 566.36,
+   "y1": 374.6,
+   "text": "\u0004 Chacun paie les frais et honoraires de son expert et, s’il y a lieu, la moitié de ceux du troisième et des frais de sa",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "\u0004",
+     "font": "EuropeanPi-Three",
+     "size": 8.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 74.87
+    },
+    {
+     "text": "Chacun paie les frais et honoraires de son expert et, s’il y a lieu, la moitié de ceux du troisième et des frais de sa",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 77.96
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 375.38,
+   "x1": 523.23,
+   "y1": 385.6,
+   "text": "nomination (les frais vous incombant peuvent, selon la formule souscrite, être pris en charge au titre de l’article 22).",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "nomination ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(les frais vous incombant peuvent, selon la formule souscrite, être pris en charge au titre de l’article 22).",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 123.12
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 76.43,
+   "y0": 393.38,
+   "x1": 155.51,
+   "y1": 403.6,
+   "text": "3- LE SAUVETAGE",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "3-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": " LE SAUVETAGE",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.32
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 407.21,
+   "x1": 566.36,
+   "y1": 417.43,
+   "text": "Vous ne pouvez faire aucun délaissement des objets assurés (art. L121-14 du Code). Le sauvetage endommagé,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Vous ne pouvez faire aucun délaissement des objets assurés ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "(art. L121-14 du Code)",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 348.06
+    },
+    {
+     "text": ". Le sauvetage endommagé,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 441.27
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 418.21,
+   "x1": 469.32,
+   "y1": 428.43,
+   "text": "comme le sauvetage intact, reste votre propriété, même en cas de contestation sur sa valeur.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "comme le sauvetage intact, reste votre propriété, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    },
+    {
+     "text": "même en cas de contestation sur sa valeur",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 282.29
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 466.54
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 76.43,
+   "y0": 436.21,
+   "x1": 217.77,
+   "y1": 446.43,
+   "text": "4- MONTANT DE L’INDEMNITÉ",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "4-",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 76.43
+    },
+    {
+     "text": " MONTANT DE L’INDEMNITÉ",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 85.32
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 450.04,
+   "x1": 566.36,
+   "y1": 460.26,
+   "text": "L’indemnité est égale au montant des dommages estimé comme indiqué ci-après aux articles 51 et 52, réduite le cas",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "L’indemnité est égale au montant des dommages estimé comme indiqué ci-après aux articles 51 et 52, réduite le cas",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 461.04,
+   "x1": 123.49,
+   "y1": 471.26,
+   "text": "échéant de :",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "échéant de :",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 70.87
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 79.37,
+   "y0": 473.46,
+   "x1": 314.58,
+   "y1": 483.68,
+   "text": "- la taxe à la valeur ajoutée lorsque vous la récupérez,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- la taxe à la valeur ajoutée lorsque vous la récupérez, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 79.37
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 79.37,
+   "y0": 485.88,
+   "x1": 352.82,
+   "y1": 496.1,
+   "text": "- la réduction proportionnelle d’indemnité prévue à l’article 59,",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- la réduction proportionnelle d’indemnité prévue à l’article 59,",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 79.37
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 79.37,
+   "y0": 498.3,
+   "x1": 293.04,
+   "y1": 508.52,
+   "text": "- la franchise prévue aux Conditions particulières.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "- la franchise prévue aux Conditions particulières.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 79.37
+    }
+   ]
+  },
+  {
+   "page": 43,
+   "column": 0,
+   "x0": 70.87,
+   "y0": 512.13,
+   "x1": 534.41,
+   "y1": 522.35,
+   "text": "L’indemnité due ne peut en aucun cas excéder les plafonds de garantie prévu aux Conditions particulières.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "L’indemnité due ne peut en aucun cas excéder les plafonds de garantie prévu aux Conditions particulières.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 70.87
+    }
+   ]
+  }
+ ],
+ "sous_parties": [
+  {
+   "type": "general",
+   "texte": "1- LE PRINCIPE\nLes dommages sont estimés en fonction des prix en vigueur au jour du sinistre.\nLe montant des dommages est fixé à l’amiable de gré à gré entre vous et nous.\n2- L’EXPERTISE\n\u0004 En cas de complexité technique dans l’appréciation des dommages, nous pouvons missionner un expert. En cas de\ndivergence avec nous sur le montant total de l’indemnité, vous avez la possibilité de vous faire assister par un expert,\net ce, préalablement à tout recours aux tribunaux.\n\u0004 A défaut d’accord entre les deux experts, ceux-ci s’adjoignent un troisième expert et tous trois opèrent en commun\net à la majorité des voix.\n\u0004 Faute par l’un d’entre nous de nommer un expert ou par les deux experts de s’entendre sur le choix du troisième,\nla désignation est effectuée par le Président du Tribunal de Grande Instance du lieu du sinistre sur simple requête\nsignée par vous et par nous ou seulement par l’un des deux si l’autre a été convoqué par lettre recommandée.\n\u0004 Chacun paie les frais et honoraires de son expert et, s’il y a lieu, la moitié de ceux du troisième et des frais de sa\nnomination (les frais vous incombant peuvent, selon la formule souscrite, être pris en charge au titre de l’article 22).\n3- LE SAUVETAGE\nVous ne pouvez faire aucun délaissement des objets assurés (art. L121-14 du Code). Le sauvetage endommagé,\ncomme le sauvetage intact, reste votre propriété, même en cas de contestation sur sa valeur.\n4- MONTANT DE L’INDEMNITÉ\nL’indemnité est égale au montant des dommages estimé comme indiqué ci-après aux articles 51 et 52, réduite le cas\néchéant de :\n- la taxe à la valeur ajoutée lorsque vous la récupérez,\n- la réduction proportionnelle d’indemnité prévue à l’article 59,\n- la franchise prévue aux Conditions particulières.\nL’indemnité due ne peut en aucun cas excéder les plafonds de garantie prévu aux Conditions particulières.",
+   "pages": [
+    43
+   ],
+   "renvois_articles": [
+    "22",
+    "51",
+    "52",
+    "59"
+   ],
+   "renvois_clauses": [],
+   "termes_definis": []
+  }
+ ],
+ "renvois_articles": [
+  "22",
+  "51",
+  "52",
+  "59"
+ ],
+ "renvois_clauses": [],
+ "termes_definis": []
+}

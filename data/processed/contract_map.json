@@ -1,0 +1,510 @@
+{
+ "article 1": {
+  "titre": "LES BÂTIMENTS",
+  "resume": "Couverture des bâtiments, habitation et dépendances ≤50 m² dans 15 km (dépendances >50 m² nécessitent contrat Dépendance), parties privatives si copro non garanti ; exclusions : terrains, arbres, constructions illégales, abris non ancrés, clôtures, piscines,"
+ },
+ "article 2": {
+  "titre": "LE MOBILIER",
+  "resume": "Couvre mobilier et objets privés (courants, de valeur, précieux) et biens professionnels jusqu’à 2,5‑15× indice, exclut biens confiés onéreux, locataires, collections spécifiques, fonds, installations extérieures et abris non ancrés, sauf extensions/Pack"
+ },
+ "article 3": {
+  "titre": "LES AMÉNAGEMENTS DES BÂTIMENTS",
+  "resume": "Couvre équipements fixes internes, embellissements, installations de chauffage, climatisation, alarmes, etc.; exclut pompes à chaleur extérieures sauf souscription Pack Tranquillité ou Pack Piscine Détente; indemnisation article 51, responsabilité locataire article 14"
+ },
+ "article 4": {
+  "titre": "INCENDIE, EXPLOSION, CHOC DE VÉHICULES ET ASSIMILÉS",
+  "resume": "Couvre dommages matériels aux biens assurés par incendie (flammes hors foyer), explosion/implosion, choc véhicule non conduit par assuré ou tiers; exclut défauts, dommages, chaleur sans flamme, objets jetés ou cuisson, explosifs détenus (sauf feux d’artifice"
+ },
+ "article 5": {
+  "titre": "DOMMAGES D’ORDRE ÉLECTRIQUE",
+  "resume": "Couvre dommages aux installations électriques immobilières et aux appareils électriques/electroniques ≤10 ans, suite à foudre, surtension, incendie, explosion, etc., sous condition d’assurance des biens ; exclut fusibles, lampes, équipements extérieurs non souscrits, contenus et fichiers"
+ },
+ "article 6": {
+  "titre": "BRIS DE VITRES ET ASSIMILÉS",
+  "resume": "Couvre bris vitres, miroirs, meubles, cheminées, enseignes et frais pose/dépose, remplace cadres endommagés; exclut travaux pose, objets déposés, rayures, écrans sans D43, sanitaires sans Pack Tranquillité; indemnisation sur facture, vétusté sauf option Remplacement à neuf"
+ },
+ "article 7": {
+  "titre": "VOL ET VANDALISME À L’INTÉRIEUR DES BÂTIMENTS",
+  "resume": "Couvre détériorations, vols, tentatives et vandalisme sur bâtiments et biens, frais de remplacement documents et serrures, sous condition de mesures de prévention (fermeture, alarmes) et inoccupation prolongée; exclut négligence, zones non clos, objets hors dépendances"
+ },
+ "article 8": {
+  "titre": "DÉGATS DES EAUX - GEL",
+  "resume": "Couverture des dommages matériels d’eau (fuites, débordements, gel interne, infiltrations) et frais de recherche, sous condition de réparations et mesures respectées ; exclusions inondations, humidité non liée, défaut de réparation >30 j, frais de dégorgement,"
+ },
+ "article 9": {
+  "titre": "ÉVÉNEMENTS CLIMATIQUES",
+  "resume": "Couverture des dommages matériels directs dus au vent, grêle, neige, avalanche et infiltration d’eau post‑destruction (72 h), sous condition d’attestation météo d’intensité exceptionnelle ; exclusions défauts préexistants, entretien, cloisons non conformes, chantiers, tours <2 m,"
+ },
+ "article 10": {
+  "titre": "CATASTROPHES NATURELLES",
+  "resume": "Couvre dommages matériels directs causés par intensité anormale d’un agent naturel ou affaissement, sous condition d’arrêté officiel publié, franchise appliquée, avance possible pour mesures urgentes; exclut mines, biens sur terrain inconstructible ou construits illégalement."
+ },
+ "article 11": {
+  "titre": "CATASTROPHES TECHNOLOGIQUES",
+  "resume": "Couvre dommages aux biens d’habitation suite à catastrophe technologique déclarée, sous réserve article 41 ; exclut contenus bâtiments sur terrain inconstructible ou construits en violation des règles, sauf préexistants."
+ },
+ "article 12": {
+  "titre": "ATTENTATS – ACTES DE TERRORISME",
+  "resume": "Couvre dommages matériels aux biens assurés causés par attentat ou acte terroriste, selon définitions pénales, sous limites de l’article L 126‑2 du Code."
+ },
+ "article 13": {
+  "titre": "RESPONSABILITÉ CIVILE VIE PRIVÉE",
+  "resume": "Couvre responsabilité civile privée du souscripteur, conjoint, enfants, résidents contre dommages tiers (corporels, matériels, immat.) lors d’activités privées, exclut préposés assurés ailleurs, propriétaires, sports exclus, responsabilité professionnelle ; garantie soumise à l’absence de franchise d’une"
+ },
+ "article 14": {
+  "titre": "RISQUES LOCATIFS",
+  "resume": "Couvre responsabilité locative du locataire envers le propriétaire pour dommages matériels aux biens loués, perte de loyers, perte d’usage, trouble de jouissance, condition sinistre garanti."
+ },
+ "article 15": {
+  "titre": "RECOURS DES LOCATAIRES",
+  "resume": "Couvre responsabilité du propriétaire envers locataires pour dommages matériels, perte d’usage, frais de relogement, trouble de jouissance, et responsabilité du locataire pour incendie, explosion, dégâts des eaux, sous réserve du sinistre garanti; exclut dommages corporels"
+ },
+ "article 16": {
+  "titre": "RECOURS DES VOISINS ET DES TIERS",
+  "resume": "Couvre responsabilité civile envers voisins et tiers pour dommages matériels/immatériels découlant d’un sinistre du chapitre 2 sur les biens assurés, conformément articles 1382‑1384 Code civil."
+ },
+ "article 17": {
+  "titre": "RESPONSABILITÉ CIVILE PROPRIÉTAIRE D’IMMEUBLE",
+  "resume": "Garantie responsabilité civile propriétaire pour dommages corporels, matériels aux tiers découlant de la propriété, garde, usage, entretien, neige, environnement et terrains bâtis ≤1 ha/15 km, sous condition d’absence de défauts connus non réparés 30 jours,"
+ },
+ "article 18": {
+  "titre": "DÉFENSE CIVILE DES INTÉRÊTS DE L’ASSURÉ",
+  "resume": "Couverture défense civile assurée aux frais de l’assureur en cas de mise en cause pour responsabilité civile garantie, partielle ou totale, sous condition d’application article 53, exclut intérêts purement personnels."
+ },
+ "article 19": {
+  "titre": "INSOLVABILITÉ DES TIERS",
+  "resume": "Garantie valable sur formules CONFORT, CONFORT PLUS, SÉRÉNITÉ PLUS et propriétaire non occupant ; substitution du débiteur insolvent prouvée par huissier, si dommages hors champ FGAO/FGTI."
+ },
+ "article 20": {
+  "titre": "MESURES DE SAUVETAGE",
+  "resume": "Couvre frais de recharge extincteurs sans franchise, frais de protection (bâchage, clôture) avec accord, dommages matériels causés par secours lors d’un sinistre ou d’une assistance à personne en danger."
+ },
+ "article 21": {
+  "titre": "FRAIS DE DÉBLAIS ET DÉMOLITION",
+  "resume": "Frais justifiés et réellement engagés de démolition, déblais et enlèvement des décombres après sinistre garanti et mesures préparatoires, excluant décontamination remboursée à l’article 22, condition : justification et dépense réelle."
+ },
+ "article 22": {
+  "titre": "FRAIS ANNEXES",
+  "resume": "Couvre honoraires expert, frais déplacement, relogement, entreposage, cotisation Dommages‑Ouvrage, décontamination hors attentat, mesures conservatoires et mise en conformité après sinistre garanti, exclut pré‑mise en demeure, décorateur, pertes locatives, pertes indirectes, biens en valeur à neuf."
+ },
+ "article 23": {
+  "titre": "PERTE D’USAGE",
+  "resume": "Couverture perte d’usage suite sinistre garanti (hors catastrophes naturelles/technologiques) : prise en charge loyer locataire, frais relogement propriétaire dans limite valeur locative, moitié valeur si relogement gratuit, selon durée expert, même pour évacuation administrative voisine"
+ },
+ "article 24": {
+  "titre": "PERTE DE LOYERS",
+  "resume": "Couverture perte de loyers propriétaire non occupant après sinistre garanti (hors catastrophes naturelles/technologiques) ; indemnité calculée sur durée de remise en état, plafonnée aux conditions particulières, exclut locations meublées temporaires, voir Pack Location"
+ },
+ "article 25": {
+  "titre": "RISQUES LOCATIFS OCCASIONNELS",
+  "resume": "Couvre responsabilité civile pécuniaire pour fêtes privées (≤4 jours) et séjours temporaires (≤90 jours) envers propriétaire, voisins et tiers, uniquement si le dommage provient d’un sinistre du Chapitre 2, excluant monuments historiques, tentes >100 m²,"
+ },
+ "article 26": {
+  "titre": "GARANTIE SUR LE MOBILIER HORS DOMICILE",
+  "resume": "Couverture du mobilier hors domicile pendant séjour ≤90 jours ou stage ≤6 mois, voyage ou dépôt tiers, uniquement pour sinistre garanti Chapitre 2 ; vol agressif couvert sauf objets précieux, fonds, documents, clés non visées"
+ },
+ "article 27": {
+  "titre": "FRAIS DE SECOURS / SAUVETAGE",
+  "resume": "Frais de recherche et de secours couverts jusqu’au centre de soins le plus proche, engagés par services publics ou privés, lors d’activités de loisirs, si aucune autre garantie similaire n’est souscrite, franchise du contrat."
+ },
+ "article 28": {
+  "titre": "GARANTIE SIMULTANÉE EN CAS DE DÉMÉNAGEMENT",
+  "resume": "Garanties maintenues identiques à l'ancienne et à la nouvelle adresse en France continentale pendant 30 jours dès le début du bail ou de la mise à disposition, sinon non couvertes."
+ },
+ "article 29": {
+  "titre": "ASSURANCE SCOLAIRE",
+  "resume": "Couverture accidents corporels scolaires et trajet domicile‑école pour enfants assurés : capital décès ou AIPP, frais médicaux, sous condition d’accident sur activité ou trajet défini ; exclut sports extrêmes, véhicules motorisés, ivresse, suicide, préexistants, accidents"
+ },
+ "article 30": {
+  "titre": "DOMMAGES AUX CLÔTURES, PORTAILS ET MURS DE SOUTENEMENT",
+  "resume": "Garantie des clôtures, portails, murs de soutènement et accessoires contre les risques du Chapitre 2, sous option souscrite ; exclut explosifs détenus, mer, inondation hors catastrophe, défaut de réparation non corrigé 30 jours, plafond de"
+ },
+ "article 31": {
+  "titre": "REMPLACEMENT À NEUF",
+  "resume": "Option Remplacement à Neuf indemnise à neuf bâtiments (habitation, annexes ≤50 m²) et mobilier fonctionnel, sous condition de réparation/reconstruction dans deux ans, excluant dépendances non attenantes, biens >7 ans, installations >20 ans, linge, objets précieux."
+ },
+ "article 32": {
+  "titre": "PACK JEUNE",
+  "resume": "Couverture Pack Jeune : appareils électroménagers ≤10 ans, audiovisuels ≤5 ans, dommages par foudre, surtension, incendie interne; exclut hors bâtiment, foudre directe, fusibles, contenu, reconstruction fichiers; plafond selon article 52 et conditions particulières."
+ },
+ "article 33": {
+  "titre": "PACK TRANQUILLITÉ",
+  "resume": "Pack Tranquillité couvre bris chauffage (<20 ans, entretien), sanitaires, dommages thermiques, contenu congélateur (<10 ans, coup courant grève), vandalisme (plainte 24 h), surconsommation eau (preuve), extérieurs aérothermie (risques définis) sous condition d’âge, entretien, prévention; exclut"
+ },
+ "article 34": {
+  "titre": "PACK JARDIN PLEIN AIR",
+  "resume": "Couverture du Pack Jardin Plein Air, sous souscription, assure biens extérieurs (clôtures, terrasses, mobilier, arbres) contre risques (incendie, foudre, vent, etc.) ; exclut tentes, végétaux morts, serres non ancrées, panneaux solaires, piscines, inondations, défaut d’entretien,"
+ },
+ "article 35": {
+  "titre": "PACK PISCINE DÉTENTE",
+  "resume": "Couverture du Pack Piscine Détente sur piscines rigides enterrées ou hors‑sol, structures, accessoires et protections, contre les sinistres listés, sous condition de souscription ; exclut entretien, dommages esthétiques, défauts de réparation, gel, etc."
+ },
+ "article 36": {
+  "titre": "PACK ÉNERGIES RENOUVELABLES",
+  "resume": "Couvre équipements extérieurs renouvelables (solaire thermique, géothermie, éolienne ≤12 m, PV ≤100 m²) jusqu’à 20 ans contre sinistres listés, exclut rayures, gel, défaut d’entretien, limites de surface/hauteur, sous condition souscription du Pack Énergies Renouvelables."
+ },
+ "article 37": {
+  "titre": "PACK LOCATION MEUBLÉE",
+  "resume": "Pack Location meublée couvre mobilier bailleur contre incendie, dégâts électriques, bris de vitres, vol/vandalisme (si protections conformes après 30 jours inoccupé), responsabilité civile, perte de loyers (hors catastrophes); exclut biens locataires, verre, précieux, vols locataires"
+ },
+ "article 38": {
+  "titre": "PACK LOCATION SAISONNIÈRE",
+  "resume": "Couvre responsabilité civile bailleur et perte financière locative après sinistre (hors catastrophes naturelles/technologiques), plafonnée 3 mois (résidence principale) ou 6 mois (secondaire), calculée sur revenu moyen, exclut échange de logement, subrogation renoncée sauf assurance locataire."
+ },
+ "article 39": {
+  "titre": "PACK GENDARME RÉSERVISTE / CSTAGN",
+  "resume": "Couvre dommages paquetage et arme service selon Chapitre 2 (vol arme exclu hors caserne, vandalisme exclu hors caserne), responsabilité civile CSTAGN en caserne hors service, protection juridique réserviste, sous limites frais réels, exclut crimes intentionnels"
+ },
+ "article 40": {
+  "titre": "ÉTENDUE TERRITORIALE DES GARANTIES",
+  "resume": "Garanties mondiales responsabilité civile et défense ; jusqu’à 90 jours location, mobilier, extensions ; UE/Andorre etc. secours, accidents enfants, biens stage ≤6 mois ; France terrorisme et autres, sauf assistance ; événements climatiques, naturels, technologiques"
+ },
+ "article 41": {
+  "titre": "EXCLUSIONS COMMUNES A TOUS LES RISQUES",
+  "resume": "Exclut dommages intentionnels, connus à la souscription, guerre, séismes, inondations, nucléaire, moisissures, véhicules assurés, aéronautique, énergie, environnement, pertes informatiques, construction, obligations contractuelles, sanctions, garantie d’un autre assureur, sauf garanties spécifiques ou absence de couverture concurrente"
+ },
+ "article 42": {
+  "titre": "CONVENTION D’ASSISTANCE",
+  "resume": "Assistance 24/7 pour logement et déplacements >50 km, sous réserve d’appel préalable et obtention d’un numéro de dossier ; garantie non cumulable avec autre contrat Mutuelle, confidentialité assurée."
+ },
+ "article 42A": {
+  "titre": "ASSISTANCE AUX ASSURÉS EN DÉPLACEMENT",
+  "resume": "Assistance mondiale >50 km, rapatriement, transport, médecin sur place, recherche médicaments, remboursement frais médicaux à l’étranger ≤30 000 € (franchise 50 €) pour assuré social, notification sous 3 jours; exclut frais France, affections bénignes, préexistantes,"
+ },
+ "article 42B": {
+  "titre": "ASSISTANCE DANS VOTRE LOGEMENT ASSURÉ",
+  "resume": "Assistance habitation France, services sous 72 h avec notification et accord dossier ; remboursement sur justificatif dans limites, exclut travaux prestataires, frais conservatoires, une seule intervention serrurier/an, conditions d’éligibilité."
+ },
+ "article 42C": {
+  "titre": "ASSISTANCE PSYCHOLOGIQUE",
+  "resume": "Assistance psychologique pour traumatisme lié à responsabilité civile, agression/terrorisme ou sinistre rendant l’habitation inhabitable, en France métropolitaine, avec appel, consultation (45 min) et suivi (52 €), deux événements/an, exclut antécédents >6 mois, suivi psychiatrique existant,"
+ },
+ "article 42D": {
+  "titre": "EXCLUSIONS PROPRES A L’ASSISTANCE",
+  "resume": "Exclut secours locaux, séjours >90 j hors UE/DOM, dommages compétition, actes intentionnels, fraude (nullité), frais secours, restauration, transport, interruption due à guerre, terrorisme, grève, catastrophe, force majeure ou épidémies ; couverture uniquement si aucune exclusion"
+ },
+ "article 43": {
+  "titre": "INFORMATION JURIDIQUE",
+  "resume": "Mise à disposition d’un service juridique pour questions documentaires sur la vie privée, accessible par téléphone 8h‑20h du L‑S, email, site 24h/24, via Espace Perso, lettres‑type téléchargeables."
+ },
+ "article 44": {
+  "titre": "DÉFENSE PÉNALE ET RECOURS SUITE A ACCIDENT",
+  "resume": "Couverture défense pénale sans dommages tiers ou déjà indemnisés RC, et recours civil privé contre non‑assurés pour accidents, agressions, voisinage, consommation, santé ou litiges administratifs, sous condition d’indemnisation inexistante ailleurs."
+ },
+ "article 45": {
+  "titre": "PROTECTION JURIDIQUE VIE PRIVÉE",
+  "resume": "Option protection juridique activée, prise en charge des litiges privés non exclus : résidence assurée (hors travaux de construction/renovation), travaux d’entretien, employeur‑domestique, location saisonnière locataire, petit bateau ≤6 m/50 CV, activité bénévole association."
+ },
+ "article 46": {
+  "titre": "EXCLUSIONS COMMUNES AUX ARTICLES 44 ET 45",
+  "resume": "Exclusions communes aux articles 44‑45 : aucune garantie si l’événement est antérieur/postérieur, connu avant/après, prescrit, ou relève de responsabilité civile assurée, crime, guerre, activité professionnelle, employeur non déclaré, biens non assurés, travaux permis, véhicules/aéronefs, etc."
+ },
+ "article 47": {
+  "titre": "INDEMNISATION ET SUBROGATION au titre des articles 44 et 45",
+  "resume": "Couverture des honoraires et frais d’avocat jusqu’à 7 600 € par litige (1 000 € expertise) et 15 500 € annuel, excluant amendes, frais non garantis ; assuré paie le surplus, assureur subrogé."
+ },
+ "article 48": {
+  "titre": "DISPOSITIONS COMMUNES AUX ARTICLES 44 À 47",
+  "resume": "Couverture juridique des litiges résidant UE et pays listés, sous condition de déclaration écrite préalable avant toute action, obtention d’accord préalable pour frais/honoraires, sinon déchéance et non‑prise en charge."
+ },
+ "article 49": {
+  "titre": "DÉCLARATION DU SINISTRE - SANCTIONS",
+  "resume": "Obligation de déclarer tout sinistre dans les délais (2‑10‑5 jours selon type), fournir justificatifs et mesures conservatoires ; défaut entraîne déchéance, indemnité proportionnelle et perte de garantie pour déclarations inexactes."
+ },
+ "article 50": {
+  "titre": "FIXATION DES DOMMAGES - EXPERTISE - SAUVETAGE",
+  "resume": "Domages évalués aux prix du jour, fixés à l’amiable; expertise obligatoire en cas de complexité, tiers expert en cas de désaccord, frais partagés; indemnité = dommages moins TVA, franchise, réduction, plafonnée."
+ },
+ "article 51": {
+  "titre": "ÉVALUATION ET INDEMNISATION DES DOMMAGES AUX BÂTIMENTS",
+  "resume": "Indemnisation à valeur à neuf, vétusté max 25 % sauf option Remplacement à Neuf, condition reconstruction dans les 2 ans même lieu (ou 1 an sur terrain tiers), sinon valeur vénale ou matériaux récupération."
+ },
+ "article 52": {
+  "titre": "ÉVALUATION ET INDEMNISATION DES DOMMAGES AU MOBILIER",
+  "resume": "Indemnisation mobiliers : réparables sur factures, irréparables selon valeur de remplacement moins vétusté (max 80 %), 15 % complément excluant linge/objets précieux, franchise appliquée, option Remplacement à neuf supprime vétusté, hors catastrophes technologiques."
+ },
+ "article 53": {
+  "titre": "MISE EN ŒUVRE DES GARANTIES RESPONSABILITÉ CIVILE ET DÉFENSE CIVILE",
+  "resume": "Garantie responsabilité civile activée par fait dommageable entre prise d’effet et résiliation, plafonnée par sinistre/année, réduite par paiements, assureur dirige défense sauf exception connue, aucune reconnaissance responsabilité."
+ },
+ "article 54": {
+  "titre": "MISE EN ŒUVRE DE LA GARANTIE ASSURANCE SCOLAIRE (ACCIDENTS CORPORELS À L’ÉCOLE)",
+  "resume": "Couverture accidents corporels à l’école, sous condition de soumission aux contrôles médicaux ; expertise conjointe désignation médecins, frais partagés, offre provisionnelle dès droit acquis, définitive sous quatre mois consolidation"
+ },
+ "article 55": {
+  "titre": "PAIEMENT DE L’INDEMNITÉ",
+  "resume": "Indemnité versée sous 30 jours après justification, sauf catastrophes naturelles/technologiques (3 mois) ou vol (30 jours après justificatifs) ; usage obligatoire pour remise en état, obligations de notification et restitution."
+ },
+ "article 56": {
+  "titre": "FRAIS DE PROCÈS",
+  "resume": "Frais de procès non déduits de la garantie; si condamnation dépasse limite contractuelle, frais partagés proportionnellement entre assuré et assureur selon leurs parts respectives."
+ },
+ "article 57": {
+  "titre": "SUBROGATION",
+  "resume": "Subrogation jusqu’à indemnité versée, assurateur reprend droits contre tiers responsables ; garantie copropriété subrogée lors paiement ; si subrogation impossible, garantie cesse ; exclut accidents corporels article 29."
+ },
+ "article 58": {
+  "titre": "RENONCIATION À RECOURS",
+  "resume": "Renonciation à tout recours (sauf malveillance) contre occupants habituels, clients, occupants temporaires et tiers non assurés, sauf cotisation supplémentaire ou assurance du responsable ; subrogation garantie catastrophes technologiques, sous condition déclarations."
+ },
+ "article 59": {
+  "titre": "VOS OBLIGATIONS",
+  "resume": "Obligation de déclarer exactitude initiale, nouvelles aggravations sous 15 jours, transfert de propriété, autres assureurs, par lettre recommandée ; défaut entraîne nullité, réduction indemnité ou déchéance, sanctions frauduleuses."
+ },
+ "article 60": {
+  "titre": "LES CONSÉQUENCES D’UNE MODIFICATION DU RISQUE",
+  "resume": "Aggravation du risque → hausse, remplacement ou résiliation; refus d’augmentation sous 30 j = résiliation 10 j après avis. Diminution → baisse ou résiliation 30 j après avis. Transfert → assurance continue, nouveau propriétaire paie,"
+ },
+ "article 61": {
+  "titre": "FORMATION ET PRISE D’EFFET DU CONTRAT",
+  "resume": "Contrat parfait à la signature, effet dès paiement première cotisation et réception exemplaire signé ; sinon report 10 jours, 14‑jours de rétractation distance/démarchage, paiement proportionnel, remboursement sous 30 jours."
+ },
+ "article 62": {
+  "titre": "DURÉE DU CONTRAT - SUSPENSION",
+  "resume": "Durée soit indéfinie avec résiliation annuelle, soit déterminée et s’éteint automatiquement à la date/heure indiquée; suspension en cas de réquisition (art. L160‑6/7) ou de non‑paiement (art. 67)."
+ },
+ "article 63": {
+  "titre": "RÉSILIATION DU CONTRAT",
+  "resume": "Résiliation possible par assuré ou assureur selon cas (échéance annuelle, un an, changement de risque, non‑paiement, sinistre, transfert), notification conforme L113‑14, préavis 1‑2 mois, effet selon délai indiqué."
+ },
+ "article 64": {
+  "titre": "PRESCRIPTION",
+  "resume": "Prescription de deux ans à compter de l'événement, suspendue en cas de fraude, omission ou connaissance tardive, prolongée à dix ans pour accidents corporels, interrompue par reconnaissance, action judiciaire, expertise ou lettre recommandée"
+ },
+ "article 65": {
+  "titre": "PROTECTION DE LA CLIENTÈLE",
+  "resume": "Contrôle par l’ACPR, réclamation d’abord à l’agent puis au Service Qualité, médiation possible pour particuliers, données personnelles exploitées pour gestion, anti‑fraude et obligations légales, droits d’accès/opposition exercés par écrit"
+ },
+ "article 66": {
+  "titre": "MAXIMUM DE COTISATION",
+  "resume": "Maximum de cotisation fixé par l’article R322‑71, partagé entre cotisation normale (33‑66 % du max) et fractions supplémentaires décidées par le CA, non dépassable, hors frais accessoires, taxes et droit d’adhésion"
+ },
+ "article 67": {
+  "titre": "PAIEMENT DE LA COTISATION",
+  "resume": "Paiement de la cotisation, frais et taxes, déduction des ristournes, échéances fixées; défaut sous 10 jours → mise en demeure, suspension garantie 30 jours, résiliation 10 jours après, paiement restant dû, aucune réactivation."
+ },
+ "article 68": {
+  "titre": "INDEXATION DES GARANTIES, DES FRANCHISES ET COTISATIONS",
+  "resume": "Indexation des garanties, franchises et cotisations (hors assistance, protection juridique, mentions spécifiques) selon l’indice construction parisien ; révision proportionnelle à la variation indice souscription‑échéance, sinon indice expert à nos frais."
+ },
+ "article 69": {
+  "titre": "LEXIQUE DES PRINCIPAUX TERMES DU CONTRAT",
+  "resume": "Définit termes clés (accessoires vest., accident, agression, animal domestique, année d’assurance, annexe, appareils à effet d’eau, assuré, atteintes environnement) ; condition principale : définitions modulées ou remplacées par articles spécifiques."
+ },
+ "article 71": {
+  "titre": "LES PRINCIPAUX TEXTES LÉGISLATIFS OU RÉGLEMENTAIRES",
+  "resume": "Couvre obligations contractuelles, responsabilité civile, communications électroniques (consentement requis), garanties bailleur (logement décent, entretien, indemnisation vices) ; condition principale : preuve de faute ou de cas fortuit pour exonération"
+ },
+ "article 72": {
+  "titre": "FICHE D’INFORMATION RELATIVE AU FONCTIONNEMENT DES GARANTIES RESPONSABILITÉ CIVILE DANS LE TEMPS",
+  "resume": "Couvre responsabilité civile privée et professionnelle, déclenchée par fait dommageable ou réclamation selon contrat ; garantie valable du jour d’effet jusqu’à résiliation, puis période subséquente ≥5 ans, excluant connaissance préalable du fait."
+ },
+ "clause 1": {
+  "titre": "Renonciation au recours contre les occupants",
+  "resume": "Renonciation au recours contre locataires/occupants pour dommages garantis, sauf si occupant assuré ; alors subrogation autorisée dans la limite de son assurance."
+ },
+ "clause 2": {
+  "titre": "Renonciation au recours contre le propriétaire",
+  "resume": "Renonciation du locataire à tout recours contre le propriétaire pour dommages garantis, sauf si le propriétaire est assuré ; alors recours possible dans la limite de ladite assurance."
+ },
+ "clause 3": {
+  "titre": "Exclusion des risques locatifs",
+  "resume": "Exclusion des risques locatifs, responsabilité locative exonérée par propriétaire/assureur; assurance locative exclue à la demande, sauf garantie « Locations occasionnelles » art. 25."
+ },
+ "clause 5": {
+  "titre": "Immeuble assuré par ailleurs",
+  "resume": "Couvre uniquement les risques non assurés par l’autre police, limité à votre quote‑part de propriété (divise ou indivise) ; exclut tout risque déjà couvert par l’assurance de l’immeuble."
+ },
+ "clause 6": {
+  "titre": "Exclusion du mobilier",
+  "resume": "Exclusion du mobilier : sur demande, toutes garanties relatives aux biens mobiliers (art. 2) sont exclues du contrat."
+ },
+ "clause 7": {
+  "titre": "Locataire en meublé",
+  "resume": "Couvre le mobilier du logement meublé et les objets loués si le locataire est responsable du sinistre ; exclut les biens assurés par le propriétaire avec renonciation de recours."
+ },
+ "clause 9": {
+  "titre": "Bâtiment en cours de construction",
+  "resume": "Construction en cours : garanties limitées aux risques incendie‑explosion, tempête, catastrophes, attentats sur ouvrage et matériaux, recours voisins, responsabilité civile, défense, sauvetage, frais annexes; climatiques dès clôture, effet à occupation, sous défaut constructeur et montants"
+ },
+ "clause 9A": {
+  "titre": "Bris de glaces et vol dans bâtiment en construction",
+  "resume": "Couverture bris de glaces, vol/vandalisme sur biens mobiliers (hors objets de valeur) et détériorations immobilières, valable jusqu’à occupation effective ou prochaine échéance principale, sous condition de protections conformes clause 15."
+ },
+ "clause 10": {
+  "titre": "Assurance souscrite conjointement par l’usufruitier et le nu-propriétaire",
+  "resume": "Sinistre pendant usufruit → indemnité versée selon art.55, sans recours contre usufruitier ni nu‑propriétaire."
+ },
+ "clause 11": {
+  "titre": "Usufruitier agissant sans le nu-propriétaire",
+  "resume": "Assurance couvre l’ensemble des bâtiments, profite au nu‑propriétaire ; usufruitier seul paie les primes, indemnisation selon art. 55, résiliation automatique si l’usufruit cesse sans sinistre garanti."
+ },
+ "clause 12": {
+  "titre": "Nu-propriétaire agissant sans le concours de l’usufruitier",
+  "resume": "Assurance couvre totalité du bâtiment, profite à l’usufruitier ; seul le nu‑propriétaire paie les primes, indemnisation selon art.55, l’assurance persiste après extinction usufruit, restant à son profit."
+ },
+ "clause 13": {
+  "titre": "Agricole connexe",
+  "resume": "Couverture réservée aux assurés exerçant exclusivement ou majoritairement une activité agricole ou connexe définie à l’art. L 311‑1 du Code Rural ; toute autre profession exclue."
+ },
+ "clause 14": {
+  "titre": "Garantie vol mobilier dans un risque inoccupé plus de 60 jours par an",
+  "resume": "Vol/vandalisme mobilier couvert pendant inoccupation >60 jours/an, excluant biens précieux et objets de valeur non meubles, sous condition de protections conformes clauses 15/16/16A et absence de dépendances non protégées."
+ },
+ "clause 14A": {
+  "titre": "Vol dans un risque inoccupé plus de 60 jours et moins de 200 jours par an",
+  "resume": "Vol/Vandalisme couvert sur biens mobiliers (hors biens précieux, objets de valeur non meubles) pendant inoccupation 60‑200 jours, si bâtiment protégé conforme clauses 15/16/16A, sans dépendances non protégées, résidence à <100 m d’habitation occupée."
+ },
+ "clause 15": {
+  "titre": "Moyens de protection mécanique",
+  "resume": "Obligation : portes bois/métal/PVC sur châssis adéquat, deux verrous dont un de sûreté ou triple point ; vitrages protégés par volets, rideaux, grilles ou barreaux ≤120 mm, sauf verre anti‑effraction P6B‑P8B EN356."
+ },
+ "clause 16": {
+  "titre": "Système d’alarme agréé par la Société",
+  "resume": "Couverture conditionnée à l’alarme agréée, abonnement télésurveillance ou entretien, activation en absence, interdiction de laisser clés/codes, interdiction de déplomber le contrôleur, déclaration arrêt >48 h."
+ },
+ "clause 16A": {
+  "titre": "Télésurveillance agréée par la Société",
+  "resume": "Couverture conditionnée à télésurveillance agréée, respect des consignes d’usage et de maintenance, déclaration d’arrêt >48 h, sinon suspension de la garantie."
+ },
+ "clause 22B": {
+  "titre": "Usage professionnel",
+  "resume": "Couvre biens professionnels déclarés, plafond 15 × indice par sinistre; exclut activités professionnelles couvertes par garanties RC (arts 13‑17‑25) – souscription assurance spécifique obligatoire."
+ },
+ "clause 22C": {
+  "titre": "Location de pièce(s) à un tiers dans votre résidence",
+  "resume": "Couvre responsabilité civile du bailleur pour dommages corporels, matériels, immatériels aux locataires, liés aux biens loués, sous location meublée d’une à deux pièces 9‑12 mois renouvelable; exclut biens du locataire et sa responsabilité."
+ },
+ "clause 25": {
+  "titre": "Surcoût architectural",
+  "resume": "Couvre surcoût architectural pour restitution apparence originale (sculptures, tourelles, cheminées, etc.) ; indemnité versée au fur et à mesure, condition principale : travaux réalisés dans les 24 mois suivant sinistre, sinon aucune indemnité"
+ },
+ "clause 25V": {
+  "titre": "Façades ou toitures végétalisées",
+  "resume": "Couvre coût remise en état façades et toitures végétalisées, dérogation partielle valeur reconstruction, sous réserve limites fixées aux Conditions particulières du contrat."
+ },
+ "clause 29A": {
+  "titre": "Chambres d’hôtes",
+  "resume": "Couvre responsabilité civile loueur (dommages corporels, matériels, immatériels, intoxication) et dépositaire (vol/dommages biens hôtes, plafonds 30× indice, 8× véhicules), exclut objets précieux, perte de revenus jusqu’à 12 mois si activité >12 mois, hors catastrophes."
+ },
+ "clause 29B": {
+  "titre": "Table d’hôtes",
+  "resume": "Couvre responsabilité civile envers hôtes – dommages corporels, matériels, immatériels, intoxication alimentaire – et dépôt de biens jusqu’à 30× indice (8× véhicules), exclut objets de valeur, fonds, titres, renonciation recours article 58."
+ },
+ "clause 33": {
+  "titre": "Retenue d’eau",
+  "resume": "Couvre responsabilité civile tiers pour débordement, effondrement ou défaillance d’une retenue ≤10 ha/15 m, entretenue régulièrement, et dommages accidentels aux structures (15× indice); exclut infiltrations, glissements, activités récréatives, défaut d’entretien, vice de construction."
+ },
+ "clause 40": {
+  "titre": "Collection de timbres-poste, monnaies, médailles et manuscrits",
+  "resume": "Couverture collection timbres, monnaies, médailles, manuscrits à concurrence valeur indiquée CP, sous réserve d’inventaire à jour fourni, indemnité selon cours public, plafonnée 60 % catalogue philatélie, exclut dépréciation par détérioration."
+ },
+ "clause 60F": {
+  "titre": "Assurance pour compte commun",
+  "resume": "Assurance en compte commun, renonciation réciproque du recours du propriétaire et de l’assureur subrogé, valable lorsque le locataire agit pour son compte et celui du propriétaire, bail prévoyant la renonciation."
+ },
+ "clause 69": {
+  "titre": "Assurance pour compte commun",
+  "resume": "Assure le risque locatif du locataire non exonéré et du propriétaire, souscription conjointe pour compte commun, condition principale : le locataire ne doit pas être exonéré du risque."
+ },
+ "clause 106": {
+  "titre": "Responsabilité civile Propriétaire de terrains non bâtis",
+  "resume": "Garantie Responsabilité Civile Propriétaire d’Immeubles s’applique aux terrains non bâtis déclarés aux Conditions particulières, exclut tout autre bien, condition principale : déclaration expresse du terrain."
+ },
+ "clause 108": {
+  "titre": "Responsabilité civile Garde d’enfants à Titre Onéreux",
+  "resume": "Couverture RC Vie Privée pour garde à titre onéreux au domicile parental, selon arrêté 26/12/2011, incluant dommages corporels aux enfants ; exclut RC de l’assistant maternel/familial."
+ },
+ "clause 141": {
+  "titre": "Responsabilité de l’Assuré accueilli au domicile d'un particulier",
+  "resume": "Extension responsabilité du sociétaire hébergé chez un particulier agréé, couvre dommages corporels/materiales aux tiers (y compris l’accueillant) excluant immatériels, plafonds 760 k€/450 k€, franchise ≤150€, cesse à fin d’accueil"
+ },
+ "clause 142": {
+  "titre": "Responsabilité de l’accueillant et de l’accueilli",
+  "resume": "Extension de responsabilité civile du sociétaire hébergeant personnes âgées ou handicapées, couvrant dommages corporels et matériels causés par le foyer ou les accueillis, excluant dommages immatériels et actes médicaux non qualifiés, condition d’agrément officiel"
+ },
+ "clause 158": {
+  "titre": "Télésurveillance Sécuritas Direct ou installation conforme à la règle APSAD R31",
+  "resume": "Exonération de franchise vol/vandalisme si bâtiment équipé télésurveillance Sécuritas Direct ou installation APSAD R31 ; sinon interruption >48 h entraîne application de la franchise vol prévue."
+ },
+ "clause 230": {
+  "titre": "Exclusion du vol vandalisme sur le mobilier",
+  "resume": "Exclusion du vol vandalisme sur le mobilier, garantie non applicable ; détériorations immobilières en cas de vol vandalisme maintenues selon article 7."
+ },
+ "clause 345": {
+  "titre": "Habitation d’un exploitant agricole",
+  "resume": "Couverture habitation située sur exploitation agricole, distincte des bâtiments professionnels ; condition principale : déclaration explicite de séparation entre logement et structures professionnelles."
+ },
+ "clause CM": {
+  "titre": "Construction modulaire",
+  "resume": "Construction modulaire définie comme modules préfabriqués assemblés sur site, assimilée à un bâtiment ; l’option Remplacement à neuf, si souscrite, est exclue pour ce type de construction."
+ },
+ "clause COL": {
+  "titre": "Colocation",
+  "resume": "Colocation autorisée par le propriétaire, sinon garantie nulle ; vous et colocataires assurés, sans recours mutuel, franchise complémentaire si autre assurance, prime payée par vous, indemnité collective ou exclusive selon option."
+ },
+ "clause DAF": {
+  "titre": "Détecteur avertisseur autonome de fumée",
+  "resume": "Obligation DAF EN 14604, un par niveau/80 m² ; franchise incendie supprimée si télésurveillance agréée active, sinon franchise dommages appliquée après interruption >48 h ou dysfonctionnement."
+ },
+ "clause DEP": {
+  "titre": "Particulier dépositaire de caravanes, bateaux et autres matériels",
+  "resume": "Garantie RC Vie Privée étendue au dépositaire de caravanes, bateaux, matériels : couvre tiers dommages corporels/matériels (accident, incendie, explosion, eau) non assurés auto, et déposant dommages matériels (vol, vandalisme) par dérogation partielle à l’exclusion."
+ },
+ "clause DOG": {
+  "titre": "Chiens dangereux",
+  "resume": "Couverture responsabilité civile pécuniaire pour chien 2e catégorie niveau 1‑2, vacciné, attestation d’aptitude, uniquement si permis de détention municipal en vigueur au sinistre; famille comptée comme tiers."
+ },
+ "clause D43": {
+  "titre": "Détériorations accidentelles et vol des appareils audiovisuels* en tous lieux",
+  "resume": "Couverture détériorations accidentelles et vol d’audiovisuels (1,5× indice, 5 ans) et téléphonie (0,5× indice, 2 ans) partout, franchise 0,18× indice, plainte obligatoire, max 2 sinistres/an, exclusions propriétaires, dommages esthétiques, pertes, vol nuit véhicule non sécurisé"
+ },
+ "clause D90": {
+  "titre": "Détériorations accidentelles et vol des instruments de musique en tous lieux",
+  "resume": "Couverture détériorations accidentelles et vol instruments partout, 1,5× valeur instrument, 5× valeur sinistre, franchise 0,18×, max 2 sinistres/an, dépôt plainte requis; exclusions juke‑boxes, électroniques, dommages esthétiques, électriques, accessoires, vice, perte, fraude, climat, vols non sécurisés"
+ },
+ "clause ESR": {
+  "titre": "Réserviste opérationnel de la Gendarmerie Nationale",
+  "resume": "Couvre garanties Pack Gendarme Réserviste art. 39, sous condition d’informer assureur de non‑renouvellement, radiation ou résiliation du contrat de réserve, entraînant révision tarifaire."
+ },
+ "clause HLL": {
+  "titre": "Mobile home*",
+  "resume": "Couverture du mobile‑home en France, incluant intérieur, aménagements attenants, mobilier, biens précieux et confiés ; exclut installations non autorisées, abris non attachés, objets de valeur, biens professionnels, eaux de ruissellement, obligations de débroussaillage conditionnent garantie."
+ },
+ "clause L03": {
+  "titre": "Détériorations accidentelles et vol de votre matériel de sport en tous lieux",
+  "resume": "Couverture détériorations accidentelles et vol du matériel sport <10 ans, usage privé, anti‑vol exigé, plainte déposée, franchise 0,18 × valeur, 1,5 × item, 5 × sinistre, 2 sinistres/an ; exclut armes, bateaux, véhicules, dommages esthétiques,"
+ },
+ "clause M": {
+  "titre": "Mobilier entreposé",
+  "resume": "Garantie du mobilier entreposé dans le bâtiment tiers indiqué, à concurrence des limites prévues, ainsi responsabilité d’occupant jusqu’à 5 000 × indice par sinistre; exclut objets de valeur, biens précieux, vol dans bâtiment inoccupé non"
+ },
+ "clause NOV": {
+  "titre": "Construction avec des matériaux innovants*",
+  "resume": "Couvre bâtiments assurés dont ≥80 % construits avec matériaux innovants, permis obtenu, et chaque niveau logement équipé d’au moins un DAAF NF conforme EN14604 ; sinon exclusion de garantie."
+ },
+ "clause PARC": {
+  "titre": "Responsabilité civile Parc",
+  "resume": "Responsabilité civile propriétaire d’immeuble étendue aux dommages corporels, matériels, immatériels causés aux tiers par le parc et ses aménagements, pour parc de 5 à 15 ha, lieu déclaré."
+ },
+ "clause PV": {
+  "titre": "Installations photovoltaïques non garanties par le présent contrat",
+  "resume": "Panneaux photovoltaïques d’une surface supérieure à 100 m² exclus de garantie, non assurés par le contrat, condition de déclaration du souscripteur."
+ },
+ "clause RPR": {
+  "titre": "Risque supplémentaire",
+  "resume": "Couvre tarif préférentiel pour sociétaire déjà assuré multirisque habitation ; condition principale : révision tarifaire si risques annexes résiliés ou cessent d’exister."
+ },
+ "clause SVO": {
+  "titre": "Exclusion des garanties Vol Vandalisme des biens assurés",
+  "resume": "Exclusion garantie Vol vandalisme, y compris détériorations immobilières, non accordée au titre du présent contrat, conformément art. 70, art. 7 A et B."
+ },
+ "clause TOT": {
+  "titre": "Dommages aux monuments funéraires",
+  "resume": "Couverture des monuments funéraires scellés en France métropolitaine, limite 10× indice, franchise 0,18× indice, pour foudre, feu, explosion, aérien, vent, grêle, catastrophe, terrorisme, vandalisme avec plainte ; exclut vols, décor non scellé, rayures, cercueils, urnes"
+ },
+ "clause TRO": {
+  "titre": "Local troglodyte ou troglodytique",
+  "resume": "Indemnisation locaux troglodytes plafonnée valeur vénale expert au sinistre, exclut valeur à neuf et remplacement à neuf; aménagements et mobilier couverts selon art.51‑52."
+ }
+}

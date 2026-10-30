@@ -1,0 +1,187 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_18",
+ "numero": "18",
+ "titre": "DÉFENSE CIVILE DES INTÉRÊTS DE L’ASSURÉ",
+ "chapitre": {
+  "numero": 3,
+  "titre": "LES RESPONSABILITÉS ASSURABLES"
+ },
+ "page_debut": 15,
+ "page_fin": 16,
+ "pages": [
+  15,
+  16
+ ],
+ "texte": "Nous assumons à nos frais votre défense ou votre représentation lorsque vous êtes mis en cause dans toute procédure\nconcernant une responsabilité civile garantie, en totalité ou en partie.\nLes conditions de mise en œuvre de ces prestations sont précisées à l’article 53.\nLa présente garantie ne peut être mise en œuvre lorsque seuls vos intérêts sont en jeu -voir Chapitre 9 _ Protection des\ndroits de l’Assuré-.\nLes Garanties complémentaires",
+ "lignes": [
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 747.64,
+   "x1": 565.93,
+   "y1": 757.86,
+   "text": "Nous assumons à nos frais votre défense ou votre représentation lorsque vous êtes mis en cause dans toute procédure",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous assumons à nos frais votre défense ou votre représentation lorsque vous êtes mis en cause dans toute procédure",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 58.57
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 758.64,
+   "x1": 356.73,
+   "y1": 768.86,
+   "text": "concernant une responsabilité civile garantie, en totalité ou en partie.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "concernant une responsabilité civile garantie, en totalité ou en partie.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 58.57
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 771.06,
+   "x1": 401.48,
+   "y1": 781.28,
+   "text": "Les conditions de mise en œuvre de ces prestations sont précisées à l’article 53.",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les conditions de mise en œuvre de ces prestations sont précisées à l’article 53.",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 58.57
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 781.23,
+   "x1": 565.94,
+   "y1": 793.7,
+   "text": "La présente garantie ne peut être mise en œuvre lorsque seuls vos intérêts sont en jeu -voir Chapitre 9 _ Protection des",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "La présente garantie ne peut être mise en œuvre lorsque seuls vos intérêts sont en jeu",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 58.57
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 436.02
+    },
+    {
+     "text": "-voir Chapitre 9 ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 439.12
+    },
+    {
+     "text": "_",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 503.34
+    },
+    {
+     "text": " ",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 507.84
+    },
+    {
+     "text": "Protection des",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 510.63
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "column": 0,
+   "x0": 58.57,
+   "y0": 794.47,
+   "x1": 130.87,
+   "y1": 804.69,
+   "text": "droits de l’Assuré-.",
+   "font": "Optima",
+   "size": 9.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "droits de l’Assuré-",
+     "font": "Optima",
+     "size": 9.0,
+     "bold": false,
+     "x0": 58.57
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 128.09
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "column": 0,
+   "x0": 29.39,
+   "y0": 35.0,
+   "x1": 192.99,
+   "y1": 47.27,
+   "text": "Les Garanties complémentaires",
+   "font": "Optima",
+   "size": 12.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Les Garanties complémentaires",
+     "font": "Optima",
+     "size": 12.0,
+     "bold": false,
+     "x0": 29.39
+    }
+   ]
+  }
+ ]
+}

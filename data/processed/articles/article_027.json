@@ -1,0 +1,137 @@
+{
+ "source": "conditions-generales-assurance-habitation-mutuelles-de-poitiers.pdf",
+ "id": "article_27",
+ "numero": "27",
+ "titre": "FRAIS DE SECOURS / SAUVETAGE",
+ "chapitre": {
+  "numero": 5,
+  "titre": "LES GARANTIES HORS DOMICILE"
+ },
+ "page_debut": 19,
+ "page_fin": 19,
+ "pages": [
+  19
+ ],
+ "texte": "Nous garantissons les frais de recherche et de secours jusqu’au centre de soins le plus proche, engagés par des\nservices publics ou privés, en vue de vous secourir lors de toute activité de loisirs, si le remboursement de ces frais\nvous incombe.\nNotre garantie s’applique en cas d’absence ou d’insuffisance de toute autre garantie “Frais de recherche et de\nsecours” souscrite par ailleurs, celle-ci constituant la franchise du présent contrat.",
+ "lignes": [
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 99.31,
+   "x1": 565.49,
+   "y1": 109.53,
+   "text": "Nous garantissons les frais de recherche et de secours jusqu’au centre de soins le plus proche, engagés par des",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "Nous garantissons les frais de recherche et de secours jusqu’au centre de soins le plus proche, engagés par des",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.04
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 110.81,
+   "x1": 565.48,
+   "y1": 121.03,
+   "text": "services publics ou privés, en vue de vous secourir lors de toute activité de loisirs, si le remboursement de ces frais",
+   "font": "Optima",
+   "size": 10.0,
+   "bold": false,
+   "spans": [
+    {
+     "text": "services publics ou privés, en vue de vous secourir lors de toute activité de loisirs, ",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 72.04
+    },
+    {
+     "text": "si le remboursement de ces frais",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 425.64
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 122.31,
+   "x1": 135.22,
+   "y1": 132.53,
+   "text": "vous incombe.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "vous incombe",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.04
+    },
+    {
+     "text": ".",
+     "font": "Optima",
+     "size": 10.0,
+     "bold": false,
+     "x0": 132.44
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 136.64,
+   "x1": 565.49,
+   "y1": 146.86,
+   "text": "Notre garantie s’applique en cas d’absence ou d’insuffisance de toute autre garantie “Frais de recherche et de",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "Notre garantie s’applique en cas d’absence ou d’insuffisance de toute autre garantie “Frais de recherche et de",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.04
+    }
+   ]
+  },
+  {
+   "page": 19,
+   "column": 0,
+   "x0": 72.04,
+   "y0": 148.14,
+   "x1": 430.7,
+   "y1": 158.36,
+   "text": "secours” souscrite par ailleurs, celle-ci constituant la franchise du présent contrat.",
+   "font": "Optima-Bold",
+   "size": 10.0,
+   "bold": true,
+   "spans": [
+    {
+     "text": "secours” souscrite par ailleurs, celle-ci constituant la franchise du présent contrat.",
+     "font": "Optima-Bold",
+     "size": 10.0,
+     "bold": true,
+     "x0": 72.04
+    }
+   ]
+  }
+ ]
+}
